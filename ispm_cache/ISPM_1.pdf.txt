@@ -1,0 +1,586 @@
+                                                                                                                  ISPM 1
+1
+INTERNATIONAL STANDARD FOR PHYTOSANITARY MEASURES
+
+
+
+
+                                                                                                                  ENG
+
+
+
+
+                                                       Phytosanitary principles
+                                                    for the protection of plants
+                                                          and the application of
+                                                     phytosanitary measures in
+                                                             international trade
+
+
+
+
+                                                                             Produced by the Secretariat of the
+                                                              International Plant Protection Convention (IPPC)
+ This page is intentionally left blank
+                        INTERNATIONAL STANDARDS FOR
+                           PHYTOSANITARY MEASURES
+
+
+
+
+                   ISPM 1
+
+Phytosanitary principles for the protection of
+ plants and the application of phytosanitary
+       measures in international trade
+
+
+
+
+                                    Produced by the Secretariat of the
+                             International Plant Protection Convention
+                                      Adopted 2006; published 2016
+
+
+
+
+                                                         © FAO 2006
+ FAO encourages the use, reproduction and dissemination of material in this
+information product. Except where otherwise indicated, material may be copied,
+downloaded and printed for private study, research and teaching purposes, or for
+use in non-commercial products or services, provided that appropriate
+acknowledgement of FAO as the source and copyright holder is given and that
+FAO’s endorsement of users’ views, products or services is not implied in any
+way.
+When this ISPM is reproduced, it should be mentioned that current adopted
+versions of ISPMs are available for download on www.ippc.int.
+All requests for translation and adaptation rights, and for resale and other
+commercial use rights should be made via www.fao.org/contact-us/licence-
+request or addressed to copyright@fao.org.
+FAO    information    products are             available on    the  FAO    website
+(www.fao.org/publications) and can             be purchased   through publications-
+sales@fao.org.
+The designations The designations employed and the presentation of material in
+this information product do not imply the expression of any opinion whatsoever on
+the part of the Food and Agriculture Organization of the United Nations (FAO)
+concerning the legal or development status of any country, territory, city or area or
+of its authorities, or concerning the delimitation of its frontiers or boundaries. The
+mention of specific companies or products of manufacturers, whether or not these
+have been patented, does not imply that these have been endorsed or
+recommended by FAO in preference to others of a similar nature that are not
+mentioned. The views expressed in this information product are those of the
+author(s) and do not necessarily reflect the views or policies of FAO.
+
+
+
+
+Publication history
+This is not an official part of the standard
+1989-09 TC-RPPOs added topic Plant quarantine principles (1989-001)
+1990-07 EWG developed draft text
+1991-05 TC-RPPOs revised draft text and approved for member consultation
+   (MC)
+1991 Sent for MC
+1992-05 TC-RPPOs revised draft text and requested harmonization with GATT
+   Uruguay Round
+1993-05 TC-RPPOs revised draft text for adoption
+1993-11 27th FAO Conference adopted standard
+ISPM 1. 1993. Principles of plant quarantine as related to international trade.
+   Rome, IPPC, FAO.
+
+1998-05 CEPM introduced revised text developed by IPPC secretariat (1998-001)
+1998-11 ICPM-1 endorsed topic revision of ISPM 1
+2001-05 ISC-3 approved Specification 2 Revision of ISPM 1
+2002-04 ICPM-4 noted high priority topic
+2003-05 SC-7 revised Specification 2
+2004-02 EWG revised standard
+2004-04 SC revised standard and returned to EWG
+2004-10 EWG revised standard
+2005-04 SC revised standard and approved for MC
+2005-06 Sent for MC
+2005-11 SC revised standard for adoption
+2006-04 CPM-1 adopted revised standard
+ISPM 1. 2006. Phytosanitary principles for the protection of plants and the
+   application of phytosanitary measures in international trade. Rome, IPPC,
+   FAO.
+
+2015-03 CPM-10 noted ink amendments in relation to “phytosanitary status”.
+2015-06 IPPC Secretariat incorporated ink amendments and reformatted
+   standards following revoking of standards procedure from CPM-10 (2015).
+Publication history last modified: 2015-12.
+ Phytosanitary principles for the protection of plants and
+the application of phytosanitary measures in international trade                                                                                    ISPM 1
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................4
+
+INTRODUCTION ....................................................................................................................................4
+Scope ........................................................................................................................................................4
+References ................................................................................................................................................4
+Definitions ................................................................................................................................................4
+Outline of Requirements ..........................................................................................................................4
+
+BACKGROUND ......................................................................................................................................5
+
+PRINCIPLES ...........................................................................................................................................5
+1.     Basic Principles ................................................................................................................................5
+       1.1      Sovereignty .......................................................................................................................5
+       1.2      Necessity ...........................................................................................................................6
+       1.3      Managed risk .....................................................................................................................6
+       1.4      Minimal impact .................................................................................................................6
+       1.5      Transparency .....................................................................................................................6
+       1.6      Harmonization ...................................................................................................................6
+       1.7      Non-discrimination ...........................................................................................................7
+       1.8      Technical justification .......................................................................................................7
+       1.9      Cooperation .......................................................................................................................7
+       1.10     Equivalence of phytosanitary measures ............................................................................7
+       1.11     Modification ......................................................................................................................7
+2.     Operational Principles ......................................................................................................................7
+       2.1      Pest risk analysis ...............................................................................................................8
+       2.2      Pest listing .........................................................................................................................8
+       2.3      Recognition of pest free areas and areas of low pest prevalence ......................................8
+       2.4      Official control for regulated pests....................................................................................8
+       2.5      Systems approach ..............................................................................................................8
+       2.6      Surveillance .......................................................................................................................8
+       2.7      Pest reporting ....................................................................................................................9
+       2.8      Phytosanitary certification.................................................................................................9
+       2.9      Phytosanitary integrity and security of consignments .......................................................9
+       2.10     Prompt action ....................................................................................................................9
+       2.11     Emergency measures .........................................................................................................9
+       2.12     Provision of an NPPO .....................................................................................................10
+       2.13     Dispute settlement ...........................................................................................................10
+       2.14     Avoidance of undue delays .............................................................................................10
+       2.15     Notification of non-compliance ......................................................................................10
+       2.16     Information exchange......................................................................................................10
+       2.17     Technical assistance ........................................................................................................11
+
+
+International Plant Protection Convention                                                                                                        ISPM 1-3
+                                                       Phytosanitary principles for the protection of plants and
+ISPM 1                                         the application of phytosanitary measures in international trade
+
+
+Adoption
+This standard was first adopted by the Twenty-seventh Session of the FAO Conference in November
+1993 as Principles of plant quarantine as related to international trade. The first revision was adopted
+by the First Session of the Commission on Phytosanitary Measures in April 2006 as the present
+standard.
+
+
+INTRODUCTION
+
+Scope
+This standard describes phytosanitary principles for the protection of plants that are embodied in the
+International Plant Protection Convention (IPPC) and elaborated in its International Standards for
+Phytosanitary Measures. It covers principles related to the protection of plants, including cultivated
+and non-cultivated/unmanaged plants, wild flora and aquatic plants, those regarding the application of
+phytosanitary measures to the international movement of people, commodities and conveyances, as
+well as those inherent in the objectives of the IPPC. The standard does not alter the IPPC, extend
+existing obligations, or interpret any other agreement or body of law.
+
+
+References
+The present standard refers to International Standards for Phytosanitary Measures (ISPMs). ISPMs are
+available on the International Phytosanitary Portal (IPP) at https://www.ippc.int/core-
+activities/standards-setting/ispms.
+IPPC. 1997. International Plant Protection Convention. Rome, IPPC, FAO.
+WTO. 1994. Agreement on the Application of Sanitary and Phytosanitary Measures. Geneva, World
+     Trade Organization.
+
+Definitions
+Definitions of phytosanitary terms used in the present standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+
+Outline of Requirements
+This standard describes the following basic principles under the IPPC: sovereignty, necessity,
+managed risk, minimal impact, transparency, harmonization, non-discrimination, technical
+justification, cooperation, equivalence of phytosanitary measures and modification. This standard also
+describes the operational principles under the IPPC, which are related to the establishment,
+implementation and monitoring of phytosanitary measures, and to the administration of official
+phytosanitary systems. The operational principles are: pest risk analysis, pest listing, recognition of
+pest free areas and areas of low pest prevalence, official control for regulated pests, systems approach,
+surveillance, pest reporting, phytosanitary certification, phytosanitary integrity and security of
+consignments, prompt action, emergency measures, provision of a national plant protection
+organization (NPPO), dispute settlement, avoidance of undue delays, notification of non-compliance,
+information exchange and technical assistance.
+
+
+
+
+ISPM 1-4                                                         International Plant Protection Convention
+ Phytosanitary principles for the protection of plants and
+the application of phytosanitary measures in international trade                                                    ISPM 1
+
+
+
+
+BACKGROUND
+The original version of ISPM 1 (Principles of plant quarantine as related to international trade) was
+adopted as a reference standard by the Twenty-seventh Session of the FAO Conference in 1993. It was
+developed at the time the Agreement on the Application of Sanitary and Phytosanitary Measures of the
+World Trade Organization (SPS Agreement) was being negotiated. It helped to clarify some of the
+elements of the SPS Agreement which were under discussion at that time. The SPS Agreement was
+adopted in April 1994, and experience has been gained since then on its practical application in
+relation to phytosanitary measures.
+The current IPPC was adopted by the FAO Conference in 1997. It includes many changes to the 1979
+version of the Convention. The revision of the IPPC in 1997 has meant that ISPM 1 required revision.
+In addition to the SPS Agreement, other international conventions exist which also directly or
+indirectly deal with the protection of plants.
+This standard aims to aid in the understanding of the IPPC and provides guidance on the fundamental
+elements in phytosanitary systems. The principles described below reflect key elements of the IPPC.
+In some cases, additional guidance on these elements is provided. The standard should be interpreted
+in accordance with the full text of the IPPC. Quotations from the IPPC are indicated in quotation
+marks or indented format.
+
+
+PRINCIPLES
+These principles are related to the rights and obligations of contracting parties to the IPPC. They
+should be considered collectively, in accordance with the full text of the IPPC, and not interpreted
+individually.
+
+
+1.     Basic Principles
+
+1.1    Sovereignty
+Contracting parties have sovereign authority, in accordance with applicable international agreements,
+to prescribe and adopt phytosanitary measures to protect plant health within their territories and to
+determine their appropriate level of protection for plant health.
+In relation to phytosanitary measures, the IPPC provides that:
+          With the aim of preventing the introduction and/or spread of regulated pests into their territories,
+          contracting parties shall have sovereign authority to regulate, in accordance with applicable
+          international agreements, the entry of plants and plant products and other regulated articles and, to
+          this end, may:
+          (a)     prescribe and adopt phytosanitary measures concerning the importation of plants, plant
+                  products and other regulated articles, including, for example, inspection, prohibition on
+                  importation, and treatment;
+          (b)     refuse entry or detain, or require treatment, destruction or removal from the territory of the
+                  contracting party, of plants, plant products and other regulated articles or consignments
+                  thereof that do not comply with the phytosanitary measures prescribed or adopted under
+                  subparagraph (a);
+          (c)     prohibit or restrict the movement of regulated pests into their territories;
+          (d)     prohibit or restrict the movement of biological control agents and other organisms of
+                  phytosanitary concern claimed to be beneficial into their territories. [Article VII.1]
+
+In exercising this authority, and “in order to minimize interference with international trade, ...”
+(Article VII.2) each contracting party undertakes to act in conformity with the provisions of Article
+VII.2 of the IPPC.
+
+International Plant Protection Convention                                                                          ISPM 1-5
+                                                        Phytosanitary principles for the protection of plants and
+ISPM 1                                          the application of phytosanitary measures in international trade
+
+
+1.2   Necessity
+Contracting parties may apply phytosanitary measures only where such measures are necessary to
+prevent the introduction and/or spread of quarantine pests, or to limit the economic impact of regulated
+non-quarantine pests. In this regard, the IPPC provides that: “Contracting parties shall not, under their
+phytosanitary legislation, take any of the measures specified in ... unless such measures are made
+necessary by phytosanitary considerations ...” (Article VII.2(a)). Article VI.1(b) states that
+“Contracting parties may require phytosanitary measures for quarantine pests and regulated non-
+quarantine pests, provided that such measures are …limited to what is necessary to protect plant
+health…”. Article VI.2 states that “Contracting parties shall not require phytosanitary measures for
+non-regulated pests.”
+
+1.3   Managed risk
+Contracting parties should apply phytosanitary measures based on a policy of managed risk,
+recognizing that risk of the spread and introduction of pests always exists when importing plants, plant
+products and other regulated articles. Contracting parties “shall institute only phytosanitary measures
+that are ... consistent with the pest risk involved ...” (Article VII.2(g)).
+
+1.4   Minimal impact
+Contracting parties should apply phytosanitary measures with minimal impact. In this regard, the IPPC
+provides that they “shall institute only phytosanitary measures that ... represent the least restrictive
+measures available, and result in the minimum impediment to the international movement of people,
+commodities and conveyances.” (Article VII.2(g)).
+
+1.5   Transparency
+Contracting parties shall make relevant information available to other contracting parties as set forth in
+the IPPC. In this regard, the IPPC states that, for example:
+-     “Contracting parties shall, immediately upon their adoption, publish and transmit phytosanitary
+      requirements, restrictions and prohibitions to any contracting party or parties that they believe
+      may be directly affected by such measures.” (Article VII.2(b))
+-     “Contracting parties shall, on request, make available to any contracting party the rationale for
+      phytosanitary requirements, restrictions and prohibitions.” (Article VII.2(c))
+-     “The contracting parties shall ... cooperate in the exchange of information on plant pests, ...”
+      (Article VIII.1 and 1(a)).
+-     “Contracting parties shall, to the best of their ability, establish and update lists of regulated pest
+      … and make such lists available …” (Article VII.2(i)).
+-     “Contracting parties shall, to the best of their ability … develop and maintain adequate
+      information on pests status …. This information shall be made available …” (Article VII.2(j)).
+
+1.6   Harmonization
+Contracting parties should cooperate in the development of harmonized standards for phytosanitary
+measures. In this regard, the IPPC provides that “The contracting parties agree to cooperate in the
+development of international standards ...” (Article X.1). Contracting parties should “take into
+account, as appropriate, international standards when undertaking activities related to this
+Convention.” (Article X.4) “The contracting parties shall encourage any state or member organization
+of FAO, not a party to this convention … to apply phytosanitary measures consistent with the
+provisions of this Convention and any international standards adopted hereunder.” (Article XVIII)
+
+
+
+
+ISPM 1-6                                                          International Plant Protection Convention
+ Phytosanitary principles for the protection of plants and
+the application of phytosanitary measures in international trade                                   ISPM 1
+
+
+1.7    Non-discrimination
+Contracting parties should, in accordance with the IPPC, apply phytosanitary measures without
+discrimination between contracting parties if contracting parties can demonstrate that the status of the
+relevant pest is the same and that they apply identical or equivalent phytosanitary measures.
+Contracting parties should also apply phytosanitary measures without discrimination between
+comparable domestic and international phytosanitary situations.
+In these regards, the IPPC provides that:
+-      phytosanitary measures “should not be applied in such a way as to constitute either a means of
+       arbitrary or unjustified discrimination or a disguised restriction, particularly on international
+       trade” (Preamble)
+-      contracting parties may require phytosanitary measures, provided that such measures are “no
+       more stringent than measures applied to the same pests, if present within the territory of the
+       importing contracting party” (Article VI.1(a)).
+
+1.8    Technical justification
+Contracting parties shall technically justify phytosanitary measures “on the basis of conclusions
+reached by using an appropriate pest risk analysis or, where applicable, another comparable
+examination and evaluation of available scientific information.” (Article II.1) In this regard, the IPPC
+provides that “Contracting parties shall not, under their phytosanitary legislation, take any of the
+measures specified in paragraph 1 of this Article [VII] unless such measures ... are technically
+justified.” (Article VII.2(a)) Article VI.1(b) also refers to technical justification. Phytosanitary
+measures which conform to ISPMs are deemed to be technically justified.
+
+1.9    Cooperation
+Contracting parties should cooperate with one another to achieve the objectives of the IPPC. In
+particular, they “shall cooperate with one another to the fullest practicable extent in achieving the aims
+of [the] Convention ...” (Article VIII). Contracting parties should also actively participate in bodies
+established under the IPPC.
+
+1.10 Equivalence of phytosanitary measures
+Importing contracting parties should recognize alternative phytosanitary measures proposed by
+exporting contracting parties as equivalent when those measures are demonstrated to achieve the
+appropriate level of protection determined by the importing contracting party.
+       Relevant ISPM: ISPM 24 (Guidelines for the determination and recognition of equivalence of
+       phytosanitary measures).
+
+1.11 Modification
+Modifications of phytosanitary measures should be determined on the basis of a new or updated pest
+risk analysis or relevant scientific information. Contracting parties should not arbitrarily modify
+phytosanitary measures. “Contracting parties shall, as conditions change, and as new facts become
+available, ensure that phytosanitary measures are promptly modified or removed if found to be
+unnecessary.” (Article VII.2(h))
+
+
+2.     Operational Principles
+Operational IPPC principles are related to the establishment, implementation and monitoring of
+phytosanitary measures, and to the administration of official phytosanitary systems.
+
+
+International Plant Protection Convention                                                        ISPM 1-7
+                                                        Phytosanitary principles for the protection of plants and
+ISPM 1                                          the application of phytosanitary measures in international trade
+
+
+2.1   Pest risk analysis
+NPPOs should, when performing pest risk analysis, base it on biological or other scientific and
+economic evidence, following the relevant ISPMs. In doing this, threats to biodiversity resulting from
+effects on plants should also be taken into account.
+      Relevant Articles in the IPPC: Preamble, Articles II, IV.2(f) and VII.2(g).
+      Relevant ISPMs: ISPM 2 (Framework for pest risk analysis), ISPM 5 (including Supplement 2
+      (Guidelines on the understanding of “potential economic importance” and related terms
+      including reference to environmental considerations)), ISPM 11 (Pest risk analysis for
+      quarantine pests) and ISPM 21 (Pest risk analysis for regulated non-quarantine pests).
+
+2.2   Pest listing
+Contracting parties “shall, to the best of their ability, establish and update lists of regulated pests ...”
+(Article VII.2(i)).
+      Relevant Articles in the IPPC: VII.2(i).
+      Relevant ISPMs: ISPM 19 (Guidelines on lists of regulated pests).
+
+2.3   Recognition of pest free areas and areas of low pest prevalence
+Contracting parties should ensure that their phytosanitary measures concerning consignments moving
+into their territories take into account the status of areas, as designated by the NPPOs of the exporting
+countries. These may be areas where a regulated pest does not occur or occurs with low prevalence or
+they may be pest free production sites or pest free places of production.
+      Relevant Articles in the IPPC: II.
+      Relevant ISPMs: ISPM 4 (Requirements for the establishment of pest free areas), ISPM 8
+      (Determination of pest status in an area), ISPM 10 (Requirements for the establishment of pest
+      free places of production and pest free production sites) and ISPM 22 (Requirements for the
+      establishment of areas of low pest prevalence).
+
+2.4   Official control for regulated pests
+When a pest which is present in a country is regulated as a quarantine pest or regulated non-quarantine
+pest, the contracting party should ensure that the pest is being officially controlled.
+      Relevant ISPM: ISPM 5 (including Supplement 1 (Guidelines on the interpretation and
+      application of the concepts of “official control” and “not widely distributed”)).
+
+2.5   Systems approach
+Integrated measures for pest risk management, applied in a defined manner, may provide an
+alternative to single measures to meet the appropriate level of phytosanitary protection of an importing
+contracting party.
+      Relevant ISPM: ISPM 14 (The use of integrated measures in a systems approach for pest risk
+      management).
+
+2.6   Surveillance
+Contracting parties should collect and record data on pest occurrence and absence to support
+phytosanitary certification and the technical justification of their phytosanitary measures. In this
+regard, the IPPC also provides, “Contracting parties shall, to the best of their ability, conduct
+surveillance for pests and develop and maintain adequate information on pest status in order to support
+
+
+ISPM 1-8                                                          International Plant Protection Convention
+ Phytosanitary principles for the protection of plants and
+the application of phytosanitary measures in international trade                                   ISPM 1
+
+categorization of pests, and for the development of appropriate phytosanitary measures.”
+(ArticleVII.2(j))
+       Relevant Articles in the IPPC: IV.2(b), IV.2(e) and VII.2(j).
+       Relevant ISPMs: ISPM 6 (Guidelines for surveillance) and ISPM 8.
+
+2.7    Pest reporting
+Contracting parties “shall cooperate ... to the fullest practicable extent in ... the reporting of the
+occurrence, outbreak or spread of pests that may be of immediate or potential danger ...” to other
+contracting parties (Article VIII.1(a)). In this respect, they should follow the procedures established in
+ISPM 17 (Pest reporting) and other relevant procedures.
+       Relevant Article in the IPPC: VIII.1(a).
+       Relevant ISPM: ISPM 17.
+
+2.8    Phytosanitary certification
+Contracting parties should exercise due diligence in operating an export certification system and
+ensuring the accuracy of the information and additional declarations contained in phytosanitary
+certificates. “Each contracting party shall make arrangements for phytosanitary certification …”
+(Article V).
+       Relevant Articles in the IPPC: IV.2(a) and V.
+       Relevant ISPMs: ISPM 7 (Phytosanitary certification system) and ISPM 12 (Phytosanitary
+       certificates).
+
+2.9    Phytosanitary integrity and security of consignments
+In order to maintain the integrity of consignments after certification, contracting parties, through their
+NPPO, shall “ensure through appropriate procedures that the phytosanitary security of consignments
+after certification regarding composition, substitution and reinfestation is maintained prior to export”
+(Article IV.2(g)).
+       Relevant Articles in the IPPC: IV.2(g) and V.
+       Relevant ISPMs: ISPM 7 and ISPM 12.
+
+2.10 Prompt action
+Contracting parties should ensure that inspection or other phytosanitary procedures required at import
+“shall take place as promptly as possible with due regard to ... perishability” of the regulated article
+(Article VII.2(e)).
+       Relevant Article in the IPPC: VII.2(e).
+
+2.11 Emergency measures
+Contracting parties may adopt and/or implement emergency actions, including emergency measures,
+when a new or unexpected phytosanitary risk is identified1. Emergency measures should be temporary
+in their application. The continuance of the measures should be evaluated by pest risk analysis or other
+comparable examination as soon as possible, to ensure that the continuance of the measure is
+technically justified.
+
+
+1
+  The term emergency actions in Article VII.6 of the IPPC is interpreted to include emergency measures as
+defined in ISPM 5.
+
+International Plant Protection Convention                                                        ISPM 1-9
+                                                            Phytosanitary principles for the protection of plants and
+ISPM 1                                              the application of phytosanitary measures in international trade
+
+         Relevant Article in the IPPC: VII.6.
+         Relevant ISPM: ISPM 13 (Guidelines for the notification of non-compliance and emergency
+         action).
+
+2.12 Provision of an NPPO
+“Each contracting party shall make provision, to the best of its ability, for an official national plant
+protection organization with the main responsibilities set out in [Article IV.1].” (Article IV.1).
+         Relevant Article in the IPPC: IV.
+
+2.13 Dispute settlement
+Contracting parties should be open to consultation regarding their phytosanitary measures, when
+requested by other contracting parties. If there is a dispute regarding the interpretation or application
+of the IPPC or its ISPMs, or if a contracting party considers that an action by another contracting party
+is in conflict with the obligations of the IPPC or guidance provided in its ISPMs, “the contracting
+parties concerned shall consult among themselves as soon as possible with a view to resolving the
+dispute.” (Article XIII.1) If the dispute cannot be resolved in this way, then the provisions of Article
+XIII relating to the settlement of disputes or other means of dispute settlement may be applied2.
+         Relevant Article in the IPPC: XIII.
+
+2.14 Avoidance of undue delays
+When a contracting party requests another contracting party to establish, modify or remove
+phytosanitary measures, when conditions have changed or new facts have become available, this
+request should be considered without undue delay. Associated procedures, which include, but are not
+limited to, pest risk analysis, recognition of pest free areas or recognition of equivalence, should also
+be performed promptly.
+         Relevant Article in the IPPC: VII.2(h).
+         Relevant ISPM: ISPM 24.
+
+2.15 Notification of non-compliance
+Importing contracting parties “shall, as soon as possible, inform the exporting contracting party
+concerned … of significant instances of non-compliance with phytosanitary certification.” (Article
+VII.2(f))
+         Relevant Article in the IPPC: VII.2(f).
+         Relevant ISPM: ISPM 13.
+
+2.16 Information exchange
+Contracting parties shall, as appropriate, provide information specified in the IPPC, as follows:
+-     official contact points (Article VIII.2)
+-     description of the NPPO and organizational arrangements of plant protection (Article IV.4)
+-     phytosanitary requirements, restrictions and prohibitions (Article VII.2(b)) (including specified
+      points of entry (Article VII.2(d)) and their rationale (Article VII.2(c))
+-     list of regulated pests (Article VII.2(i))
+-     pest reporting, including occurrence, outbreak and spread of pests (Articles IV.2(b) and
+      VIII.1(a))
+
+2
+    A non-binding dispute settlement procedure has been developed by the IPPC for use by the contracting parties.
+
+ISPM 1-10                                                             International Plant Protection Convention
+ Phytosanitary principles for the protection of plants and
+the application of phytosanitary measures in international trade                                 ISPM 1
+
+-      emergency actions (Article VII.6) and non-compliance (Article VII.2(f))
+-      pest status (Article VII.2(j))
+-      technical and biological information necessary for pest risk analysis (to the extent practicable)
+       (Article VIII.1(c)).
+
+2.17 Technical assistance
+Contracting parties “agree to promote the provision of technical assistance to contracting parties,
+especially those that are developing contracting parties, … with the objective of facilitating the
+implementation of this Convention.” (Article XX)
+       Relevant Article in the IPPC: XX.
+
+
+
+
+International Plant Protection Convention                                                     ISPM 1-11
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+cultivated and wild plants by preventing the introduction and
+spread of pests. International travel and trade are greater than
+ever before. As people and commodities move around the
+world, organisms that present risks to plants travel with them.
+
+Organization
+++ There are over 180 contracting parties to the IPPC.
+
+++ Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+++ Nine regional plant protection organizations (RPPOs) work
+
+   to facilitate the implementation of the IPPC in countries.
+++ IPPC liaises with relevant international organizations to
+
+   help build regional and national capacities.
+++ The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+International Plant Protection Convention (IPPC)
+Viale delle Terme di Caracalla, 00153 Rome, Italy
+Tel: +39 06 5705 4812 - Fax: +39 06 5705 4819
+Email: ippc@fao.org - Web: www.ippc.int
+

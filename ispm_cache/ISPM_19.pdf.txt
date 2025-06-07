@@ -1,0 +1,380 @@
+                                                                                                               ISPM 19
+INTERNATIONAL STANDARD FOR PHYTOSANITARY MEASURES 19
+
+
+
+
+                                                                                                                ENG
+
+
+
+
+                                                       Guidelines on lists of
+                                                            regulated pests
+
+
+
+
+                                                                          Produced by the Secretariat of the
+                                                           International Plant Protection Convention (IPPC)
+ This page is intentionally left blank
+                    INTERNATIONAL STANDARDS FOR
+                       PHYTOSANITARY MEASURES
+
+
+
+
+              ISPM 19
+
+Guidelines on lists of regulated pests
+
+
+
+
+                                Produced by the Secretariat of the
+                         International Plant Protection Convention
+                                  Adopted 2003; published 2016
+
+
+
+
+                                                     © FAO 2003
+ FAO encourages the use, reproduction and dissemination of material in this
+information product. Except where otherwise indicated, material may be copied,
+downloaded and printed for private study, research and teaching purposes, or for
+use in non-commercial products or services, provided that appropriate
+acknowledgement of FAO as the source and copyright holder is given and that
+FAO’s endorsement of users’ views, products or services is not implied in any
+way.
+When this ISPM is reproduced, it should be mentioned that current adopted
+versions of ISPMs are available for download on www.ippc.int.
+All requests for translation and adaptation rights, and for resale and other
+commercial use rights should be made via www.fao.org/contact-us/licence-
+request or addressed to copyright@fao.org.
+FAO    information    products are             available on    the  FAO    website
+(www.fao.org/publications) and can             be purchased   through publications-
+sales@fao.org.
+The designations The designations employed and the presentation of material in
+this information product do not imply the expression of any opinion whatsoever on
+the part of the Food and Agriculture Organization of the United Nations (FAO)
+concerning the legal or development status of any country, territory, city or area or
+of its authorities, or concerning the delimitation of its frontiers or boundaries. The
+mention of specific companies or products of manufacturers, whether or not these
+have been patented, does not imply that these have been endorsed or
+recommended by FAO in preference to others of a similar nature that are not
+mentioned. The views expressed in this information product are those of the
+author(s) and do not necessarily reflect the views or policies of FAO.
+
+
+
+
+Publication history
+This is not an official part of the standard
+1994-05 TC-RPPOs added topic Pest list for quarantine pest (1994-005)
+1995-09 TC-RPPOs noted high priority topic
+1997-09 TC-RPPOs noted high priority topic Preparation of regulated pest lists
+1998-05 CEPM-5 noted topic Guidelines for the preparation of regulated pests
+   lists
+1999-10 ICPM-2 added topic Regulated pest lists
+2000-01 EWG developed draft text
+2000-05 ISC revised draft text and approved for MC
+2000-06 Sent for MC
+2002-11 SC revised draft text for adoption
+2003-04 ICPM-5 adopted standard
+ISPM 19. 2003. Guidelines on lists of regulated pests. Rome, IPPC, FAO.
+
+
+2015-06 IPPC Secretariat incorporated ink amendments and reformatted
+   standards following revoking of standards procedure from CPM-10 (2015).
+Publication history last modified: 2015-12.
+ Guidelines on lists of regulated pests                                                                                                            ISPM 19
+
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................4
+
+INTRODUCTION ....................................................................................................................................4
+Scope ........................................................................................................................................................4
+References ................................................................................................................................................4
+Definitions ................................................................................................................................................4
+Outline of Requirements ..........................................................................................................................4
+
+REQUIREMENTS ...................................................................................................................................5
+1.     Basis for Lists of Regulated Pests ....................................................................................................5
+2.     Purpose of Lists of Regulated Pests..................................................................................................5
+3.     Preparation of Lists of Regulated Pests ............................................................................................6
+4.     Information on Listed Pests ..............................................................................................................6
+       4.1      Required information ........................................................................................................6
+       4.2      Supplementary information ...............................................................................................6
+       4.3      NPPO responsibilities .......................................................................................................6
+5.     Maintenance of Lists of Regulated Pests ..........................................................................................6
+6.     Availability of Lists of Regulated Pests ...........................................................................................7
+       6.1       Official availability ...........................................................................................................7
+       6.2       Requests for lists of regulated pests ..................................................................................7
+       6.3       Format and language .........................................................................................................8
+
+
+
+
+International Plant Protection Convention                                                                                                       ISPM 19-3
+ ISPM 19                                                               Guidelines on lists of regulated pests
+
+
+
+
+Adoption
+This standard was adopted by the Fifth Session of the Interim Commission on Phytosanitary Measures
+in April 2003.
+
+
+INTRODUCTION
+
+Scope
+This standard describes the procedures to prepare, maintain and make available lists of regulated pests.
+
+
+References
+The present standard refers to International Standards for Phytosanitary Measures (ISPMs). ISPMs are
+available on the International Phytosanitary Portal (IPP) at https://www.ippc.int/core-
+activities/standards-setting/ispms.
+IPPC. 1997. International Plant Protection Convention. Rome, IPPC, FAO.
+
+Definitions
+Definitions of phytosanitary terms used in the present standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+
+Outline of Requirements
+The International Plant Protection Convention (IPPC) requires contracting parties to the best of their
+abilities to establish, update and make available lists of regulated pests.
+Lists of regulated pests are established by an importing contracting party to specify all currently
+regulated pests for which phytosanitary measures may be taken. Specific lists of regulated pests by
+commodity are a subset of these lists. Specific lists are provided on request to the national plant
+protection organizations (NPPOs) of exporting contracting parties as the means to specify the
+regulated pests for the certification of particular commodities.
+Quarantine pests, including those subject to provisional or emergency measures, and regulated non-
+quarantine pests should be listed. Required information associated with the listing includes the pest’s
+scientific name, the pest category and commodities or other articles that are regulated for the pest.
+Supplementary information may be provided such as synonyms and references to data sheets and
+pertinent legislation. Updating of the lists is required when pests are added or deleted or when required
+information or supplementary information changes.
+Lists should be made available to the IPPC Secretariat, to regional plant protection organizations
+(RPPOs) of which the contracting party is a member and, on request, to other contracting parties. This
+may be done electronically and should be in an FAO language. Requests should be as specific as
+possible.
+
+
+
+
+ISPM 19-4                                                      International Plant Protection Convention
+ Guidelines on lists of regulated pests                                                                                     ISPM 19
+
+
+
+
+REQUIREMENTS
+
+1.     Basis for Lists of Regulated Pests
+Article VII.2(i) of the IPPC (1997) states:
+          Contracting parties shall, to the best of their ability, establish and update lists of regulated pests, using
+          scientific names, and make such lists available to the Secretary, to regional plant protection
+          organizations of which they are members and, on request, to other contracting parties.
+
+Therefore, contracting parties to the IPPC have the explicit obligation to prepare and make available,
+to the best of their abilities, lists of regulated pests. This is closely associated with other provisions of
+Article VII regarding the provision of phytosanitary requirements, restrictions and prohibitions
+(VII.2(b)) and the provision of the rationale for phytosanitary requirements (VII.2(c)).
+In addition, the certifying statement of the model phytosanitary certificate annexed to the Convention
+implies that lists of regulated pests are necessary by referring to:
+-     quarantine pests specified by the importing contracting party
+-     phytosanitary requirements of the importing contracting party, including those for regulated
+      non-quarantine pests.
+The availability of lists of regulated pests assists exporting contracting parties to issue phytosanitary
+certificates correctly. In instances where a list of regulated pests is not supplied by the importing
+contracting party, the exporting contracting party can only certify for pests it believes to be of
+phytosanitary concern (see ISPM 12 (Phytosanitary certificates) in relation to certifying statements).
+The justification for regulating pests corresponds to the provisions of the IPPC requiring that:
+-     pests meet the defining criteria for quarantine or regulated non-quarantine pests to be regulated
+      (Article II.1, “regulated pest”)
+-     only regulated pests are eligible for phytosanitary measures, (Article VI.2)
+-     phytosanitary measures are technically justified (Article VI.1(b))
+-     pest risk analysis (PRA) provides the basis for technical justification (Article II.1, “technically
+      justified”).
+
+
+2.     Purpose of Lists of Regulated Pests
+The importing contracting party establishes and updates lists of regulated pests in order to assist it in
+preventing the introduction and/or spread of pests and to facilitate safe trade by enhancing
+transparency. These lists identify those pests that have been determined by the contracting party to be
+quarantine pests or regulated non-quarantine pests.
+A specific list of regulated pests, which should be a subset of those lists, may be provided by the
+importing contracting party to the exporting contracting party as the means to make known to the
+exporting contracting party those pests for which inspection, testing or other specific procedures are
+required for particular imported commodities, including phytosanitary certification.
+Lists of regulated pests may also be useful as the basis for harmonization of phytosanitary measures
+where several contracting parties with similar and shared phytosanitary concerns agree on pests that
+should be regulated by a group of countries or a region. This may be done through regional plant
+protection organizations (RPPOs).
+In developing lists of regulated pests, some contracting parties identify non-regulated pests. There is
+no obligation for listing such pests. Contracting parties shall not require phytosanitary measures for
+
+
+
+International Plant Protection Convention                                                                                 ISPM 19-5
+ ISPM 19                                                                  Guidelines on lists of regulated pests
+
+
+
+non-regulated pests (Article VI.2 of the IPPC). The provision, however, of this information may be
+useful, for example for facilitating inspection.
+
+
+3.    Preparation of Lists of Regulated Pests
+Lists of regulated pests are established and maintained by the importing contracting party. The pests to
+be listed are those that have been determined by the NPPO to require phytosanitary measures:
+-      quarantine pests, including pests which are the subject of provisional or emergency measures; or
+-      regulated non-quarantine pests.
+A list of regulated pests may include pests for which measures are required only in certain
+circumstances.
+
+
+4.    Information on Listed Pests
+
+4.1   Required information
+The required information to be associated with listed pests includes:
+      Name of pest. The scientific name of the pest is used for listing purposes, at the taxonomic level
+      which has been justified by PRA (see also ISPM 11 (Pest risk analysis for quarantine pests)).
+      The scientific name should include the authority (where appropriate) and be complemented by a
+      common term for the relevant taxonomic group (e.g. insect, mollusc, virus, fungus, nematode).
+      Categories of regulated pests. These are quarantine pest, not present; quarantine pest, present
+      but not widely distributed and under official control; or regulated non-quarantine pest. Pest lists
+      may be organized using these categories.
+      Association with regulated article(s). The host commodities or other articles that are specified
+      as regulated for the listed pest(s).
+Where codes are used for any of the above, the contracting party responsible for the list should also
+make available appropriate information for its proper understanding and use.
+
+4.2   Supplementary information
+Information that may be provided where appropriate includes:
+-     synonyms
+-     reference to pertinent legislation, regulations, or requirements
+-     reference to a pest data sheet or PRA
+-     reference to provisional or emergency measures.
+
+4.3   NPPO responsibilities
+The NPPO is responsible for procedures to establish lists of regulated pests and to produce specific
+lists of regulated pests. Information used for necessary PRA and subsequent listing may come from
+various sources within or outside the NPPO including other agencies of the contracting party, other
+NPPOs (in particular where the NPPO of the exporting contracting party requests specific lists for
+certification purposes), RPPOs, scientific academia, scientific researchers and other sources.
+
+
+5.    Maintenance of Lists of Regulated Pests
+The contracting party is responsible for the maintenance of pest lists. This involves updating lists and
+appropriate record-keeping.
+
+
+
+ISPM 19-6                                                       International Plant Protection Convention
+ Guidelines on lists of regulated pests                                                          ISPM 19
+
+
+
+Lists of regulated pests require updating when pests are added or deleted, or the category of listed
+pests changes, or when information is added or changed for listed pests. The following are some of the
+more common reasons for updating these lists:
+-      changes to prohibitions, restrictions or requirements
+-      change in pest status (see ISPM 8 (Determination of pest status in an area))
+-      result of a new or revised PRA
+-      change in taxonomy.
+The updating of pest lists should be done as soon as the need for modifications is identified. Formal
+changes in legal instruments, where appropriate, should be adopted as quickly as possible.
+It is desirable for NPPOs to keep appropriate records of changes in pest lists over time (e.g. rationale
+for change, date of change) for reference and to facilitate response to inquiries that may be related to
+disputes.
+
+
+6.     Availability of Lists of Regulated Pests
+Lists may be included in legislation, regulations, requirements or administrative decisions. Contracting
+parties should create operational mechanisms for establishing, maintaining and making available lists
+in a responsive manner.
+The IPPC makes provision for the official availability of lists and languages to be used.
+
+6.1    Official availability
+The IPPC requires that contracting parties make lists of regulated pests available to the IPPC
+Secretariat and RPPOs of which they are members. They are further obliged to provide such lists to
+other contracting parties upon request (Article VII.2(i) of the IPPC).
+Lists of regulated pests should be made available officially to the IPPC Secretariat. This may be done
+in written or electronic form, including the Internet.
+The means for making pest lists available to RPPOs is decided within each organization.
+
+6.2    Requests for lists of regulated pests
+NPPOs may request lists of regulated pests or specific lists of regulated pests from other NPPOs. In
+general, requests should be as specific as possible to the pests, commodities and circumstances of
+concern to the contracting party.
+Requests may be for:
+-    clarification of the regulatory status for particular pests
+-    specification of quarantine pests for certification purposes
+-    obtaining regulated pest lists for particular commodities
+-    information concerning regulated pests not associated with any particular commodity
+-    updating previously provided pest list(s).
+Pest lists should be provided by NPPOs in a timely manner, with highest priority given to requests for
+lists necessary for phytosanitary certification or to facilitate the movement of commodities in trade.
+Copies of regulations may be provided where pest lists included in these regulations are considered
+adequate.
+Both requests and responses for pest lists should be through official contact points. Pest lists may be
+provided by the IPPC Secretariat when available, but such provision is unofficial.
+
+
+International Plant Protection Convention                                                     ISPM 19-7
+ ISPM 19                                                              Guidelines on lists of regulated pests
+
+
+
+6.3   Format and language
+Lists of regulated pests made available to the IPPC Secretariat, and in response to requests from
+contracting parties, should be provided in one of the five official languages of FAO (required under
+Article XIX.3(c) of the IPPC).
+Pest lists may be provided electronically or by access to an appropriately structured Internet website
+where contracting parties have indicated this is possible and the corresponding organizations have the
+capability for such access and have indicated willingness to use this form of transmission.
+
+
+
+
+ISPM 19-8                                                     International Plant Protection Convention
+ This page is intentionally left blank
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+cultivated and wild plants by preventing the introduction and
+spread of pests. International travel and trade are greater than
+ever before. As people and commodities move around the
+world, organisms that present risks to plants travel with them.
+
+Organization
+++ There are over 180 contracting parties to the IPPC.
+
+++ Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+++ Nine regional plant protection organizations (RPPOs) work
+
+   to facilitate the implementation of the IPPC in countries.
+++ IPPC liaises with relevant international organizations to
+
+   help build regional and national capacities.
+++ The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+International Plant Protection Convention (IPPC)
+Viale delle Terme di Caracalla, 00153 Rome, Italy
+Tel: +39 06 5705 4812 - Fax: +39 06 5705 4819
+Email: ippc@fao.org - Web: www.ippc.int
+

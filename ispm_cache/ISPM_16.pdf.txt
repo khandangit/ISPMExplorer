@@ -1,0 +1,504 @@
+                                                                                                                          ISPM 16
+INTERNATIONAL STANDARD FOR PHYTOSANITARY MEASURES 16
+
+
+
+
+                                                                                                                           ENG
+
+
+
+
+                                                       Regulated non-quarantine pests:
+                                                               concept and application
+
+
+
+
+                                                                                     Produced by the Secretariat of the
+                                                                      International Plant Protection Convention (IPPC)
+ This page is intentionally left blank
+                 INTERNATIONAL STANDARDS FOR
+                    PHYTOSANITARY MEASURES
+
+
+
+
+           ISPM 16
+
+Regulated non-quarantine pests:
+   concept and application
+
+
+
+
+                            Produced by the Secretariat of the
+                     International Plant Protection Convention
+                              Adopted 2002; published 2021
+
+
+
+
+                                                 © FAO 2002
+ FAO encourages the use, reproduction and dissemination of material in this
+information product. Except where otherwise indicated, material may be copied,
+downloaded and printed for private study, research and teaching purposes, or for
+use in non-commercial products or services, provided that appropriate
+acknowledgement of FAO as the source and copyright holder is given and that
+FAO’s endorsement of users’ views, products or services is not implied in any
+way.
+When this ISPM is reproduced, it should be mentioned that current adopted
+versions of ISPMs are available for download on www.ippc.int.
+All requests for translation and adaptation rights, and for resale and other
+commercial use rights should be made via www.fao.org/contact-us/licence-
+request or addressed to copyright@fao.org.
+FAO    information    products are              available on    the   FAO   website
+(www.fao.org/publications) and can              be purchased   through publications-
+sales@fao.org.
+The designations The designations employed and the presentation of material in
+this information product do not imply the expression of any opinion whatsoever on
+the part of the Food and Agriculture Organization of the United Nations (FAO)
+concerning the legal or development status of any country, territory, city or area or
+of its authorities, or concerning the delimitation of its frontiers or boundaries. The
+mention of specific companies or products of manufacturers, whether or not these
+have been patented, does not imply that these have been endorsed or
+recommended by FAO in preference to others of a similar nature that are not
+mentioned. The views expressed in this information product are those of the
+author(s) and do not necessarily reflect the views or policies of FAO.
+
+
+
+
+Publication history
+This is not an official part of the standard.
+1996-09 TC-RPPOs added topic Regulated non-quarantine pests (1996-002).
+1998-10 EWG developed draft text.
+1999-10 ICPM-2 added topic Regulated non-quarantine pests.
+2000-04 ICPM-3 noted as high priority topic.
+2001-05 ISC-3 approved Specification 6 Pest risk analysis for regulated non-
+   quarantine pests.
+2001-05 ISC-3 revised draft text and approved for MC.
+2001-06 Sent for MC.
+2001-11 ISC-4 revised draft text for adoption.
+2002-03 ICPM-4 adopted standard.
+ISPM 16. 2002. Regulated non-quarantine pests: concept and application. Rome,
+   IPPC, FAO.
+
+2013-08 IPPC Secretariat applied ink amendments as noted by CPM-8 (2013).
+2015-06 IPPC Secretariat incorporated ink amendments and reformatted
+   standards following revoking of standards procedure from CPM-10 (2015).
+2021-04 IPPC Secretariat applied ink amendments as noted by CPM-15 (2021).
+
+Publication history last updated: 2021-05
+ Regulated non-quarantine pests: concept and application                                                                                           ISPM 16
+
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................4
+
+INTRODUCTION ....................................................................................................................................4
+Scope ........................................................................................................................................................4
+References ................................................................................................................................................4
+Definitions ................................................................................................................................................4
+Outline of Requirements ..........................................................................................................................4
+
+GENERAL REQUIREMENTS ...............................................................................................................5
+1.     Background .......................................................................................................................................5
+2.     Provisions of the IPPC Regarding Regulated Non-Quarantine Pests ...............................................5
+3.     Comparison between RNQPs and Other Pests .................................................................................6
+       3.1     Comparison with quarantine pests ....................................................................................6
+       3.1.1   Pest status ..........................................................................................................................6
+       3.1.2   Pathway .............................................................................................................................6
+       3.1.3   Economic impacts .............................................................................................................6
+       3.1.4   Official control ..................................................................................................................6
+       3.2     Comparison with non-regulated pests ...............................................................................6
+4.     Criteria that Define RNQPs ..............................................................................................................7
+       4.1        “Plants for planting” ..........................................................................................................7
+       4.2        “Intended use” ...................................................................................................................7
+       4.3        “Those plants” ...................................................................................................................7
+       4.4        “Economically unacceptable impact” ...............................................................................7
+       4.5        “Regulated” .......................................................................................................................8
+5.     Relevant Principles and Obligations .................................................................................................8
+       5.1      Technical justification .......................................................................................................8
+       5.2      Pest risk assessment ..........................................................................................................8
+       5.3      Managed risk, minimal impact and equivalence ...............................................................8
+       5.4      Non-discrimination ...........................................................................................................8
+       5.5      Transparency .....................................................................................................................8
+6.     Application .......................................................................................................................................9
+       6.1      Host-pest interaction .........................................................................................................9
+       6.2      Certification programmes ..................................................................................................9
+       6.3      Tolerance levels ................................................................................................................9
+       6.4      Non-compliance ................................................................................................................9
+
+
+
+
+International Plant Protection Convention                                                                                                       ISPM 16-3
+ ISPM 16                                           Regulated non-quarantine pests: concept and application
+
+
+
+Adoption
+This standard was adopted by the Fourth Session of the Interim Commission on Phytosanitary
+Measures in March 2002.
+
+INTRODUCTION
+
+Scope
+This standard describes the concept of regulated non-quarantine pests and identifies their
+characteristics. It describes the application of the concept in practice and the relevant elements for
+regulatory systems.
+
+References
+The present standard refers to International Standards for Phytosanitary Measures (ISPMs). ISPMs are
+available on the International Phytosanitary Portal (IPP) at https://www.ippc.int/core-
+activities/standards-setting/ispms.
+IPPC. 1997. International Plant Protection Convention. Rome, IPPC, FAO.
+
+Definitions
+Definitions of phytosanitary terms used in the present standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+Outline of Requirements
+Pests that are not quarantine pests may be subject to phytosanitary measures because their presence in
+plants for planting results in economically unacceptable impacts. They are defined in the IPPC as
+regulated non-quarantine pests (RNQPs). Several provisions of the IPPC deal with RNQPs.
+The distinction between RNQPs and quarantine pests, both of which are regulated pests, can be
+described in terms of the pest status, pathway, commodity, economic impacts and type of official
+control. In accordance with Article VI.2 of the IPPC, “Contracting parties shall not require
+phytosanitary measures for non-regulated pests.”
+The application of the concept of RNQPs follows the principles of technical justification, pest risk
+analysis (PRA), managed risk, minimal impact, equivalence, non-discrimination, and transparency.
+Each element of the definition of RNQPs has a specific meaning, and as a consequence, host-pest
+interactions, non-phytosanitary certification programmes that contain elements suitable for
+phytosanitary certification, tolerance levels, and non-compliance actions all need to be considered
+when defining the requirements for the application of phytosanitary measures for RNQPs.
+
+
+
+
+ISPM 16-4                                                     International Plant Protection Convention
+ Regulated non-quarantine pests: concept and application                                                                    ISPM 16
+
+
+
+
+GENERAL REQUIREMENTS
+
+1.    Background
+Certain pests that are not quarantine pests are subject to phytosanitary measures because their presence
+in plants for planting results in economically unacceptable impacts associated with the intended use of
+the plants. Such pests are known as regulated non-quarantine pests (RNQPs) and are present and often
+widespread in the importing country. Where official control is applied to plants for planting produced
+within countries to protect them from such pests, then the same or equivalent phytosanitary measures
+may be applied to those pests on imported plants for planting of the same species for the same
+intended use.
+
+2.    Provisions of the IPPC Regarding Regulated Non-Quarantine Pests
+In addition to definitions found in Article II, as well as other references to regulated pests in the IPPC,
+the following provisions of the IPPC are relevant to regulated non-quarantine pests.
+Article VII.1
+          With the aim of preventing the introduction and/or spread of regulated pests into their territories,
+          contracting parties shall have sovereign authority to regulate, in accordance with applicable
+          international agreements, the entry of plants and plant products and other regulated articles and, to
+          this end, may:
+          (a) prescribe and adopt phytosanitary measures…
+          (b) refuse entry or detain, or require treatment, destruction or removal …
+          (c) prohibit or restrict the movement of regulated pests …
+
+Article VI.1
+          Contracting parties may require phytosanitary measures for quarantine pests and regulated non-
+          quarantine pests, provided that such measures are:
+          (a) no more stringent than measures applied to the same pests, if present within the territory of the
+               importing contacting party; and
+          (b) limited to what is necessary to protect plant health and/or safeguard the intended use and can be
+               technically justified by the contracting party concerned.
+
+Article VI.2
+          Contracting parties shall not require phytosanitary measures for non-regulated pests.
+
+Article IV.3
+          Each contracting party shall make provision, to the best of its ability, for the following:
+          (a) the distribution of information within the territory of the contracting party regarding regulated
+               pests and the means of their prevention and control ...
+
+Article VII.2(i)
+          Contracting parties shall, to the best of their ability, establish and update lists of regulated pests, using
+          scientific names, and make such lists available to the Secretary (of the Commission on Phytosanitary
+          Measures), to regional plant protection organizations of which they are members and, on request, to
+          other contracting parties.
+
+ANNEX:
+Text of the model phytosanitary certificate:
+          This is to certify that the plants, plant products or other regulated articles described herein have been
+          inspected and/or tested according to appropriate official procedures and are considered to be free from
+          the quarantine pests specified by the importing contracting party and to conform with the current
+          phytosanitary requirements of the importing contracting party, including those for regulated non-
+          quarantine pests.
+
+          They are deemed to be practically free from other pests.*
+
+
+
+International Plant Protection Convention                                                                                 ISPM 16-5
+ ISPM 16                                                        Regulated non-quarantine pests: concept and application
+
+
+            *Optional clause
+
+3.     Comparison between RNQPs and Other Pests
+3.1    Comparison with quarantine pests
+Quarantine pests and RNQPs can be compared on the basis of four elements of their defining criteria:
+pest status in the importing country, pathway/commodity, economic impacts associated with the pest,
+and the application of official control.
+The table below provides a summary of the distinctions.
+Comparison of quarantine pests and regulated non-quarantine pests
+
+Defining criteria              Quarantine pest                               RNQP
+Pest status                    Absent or of limited distribution             Present and may be widely distributed
+Pathway                        Phytosanitary measures for any pathway        Phytosanitary measures only on plants for
+                                                                             planting
+Economic impact                Impact is predicted                           Impact is known
+Official control               Under official control if present with the    Under official control with respect to the
+                               aim of eradication or containment             specified plants for planting with the aim
+                                                                             of suppression
+
+
+3.1.1 Pest status
+In the case of quarantine pests, phytosanitary measures focus on reducing the likelihood of
+introduction, or if the pest is present, reducing the likelihood of spread. This means that, in the case of
+a quarantine pest, the pest is absent or is being prevented from spreading to new areas and is being
+officially controlled where it occurs. In the case of an RNQP, the likelihood of introduction is not
+relevant as a criterion, because the pest is present and quite possibly widespread.
+
+3.1.2 Pathway
+Phytosanitary regulations and procedures may be applied for quarantine pests associated with any host
+or pathway. For RNQPs, the only pathway that may be regulated is plants for planting of a specified
+host for a particular intended use.
+
+3.1.3 Economic impacts
+The main difference between the definitions of a quarantine pest and an RNQP with respect to
+economic impact is the distinction between potential economic importance for quarantine pests and
+known economically unacceptable impacts for regulated non-quarantine pests. Since the RNQP is
+present in the country, detailed first-hand information should be available about its impact, which is
+therefore known rather than predicted as for quarantine pests that are not yet present in that country.
+Furthermore, the potential economic importance associated with quarantine pests may include
+consideration of factors such as market access into other countries and environmental effects that are
+not relevant for RNQPs, because the pests are established.
+
+3.1.4 Official control
+All regulated pests are subject to official control. If present in an area, quarantine pests are subject to
+official control, in the form of phytosanitary measures for their eradication or containment. RNQPs are
+subject to official control in the form of phytosanitary measures for their suppression in the specified
+plants for planting.
+
+3.2    Comparison with non-regulated pests
+Some pests, which are neither quarantine pests nor RNQPs, may cause unacceptable impacts (i.e.
+damage) of a non-phytosanitary nature (e.g. commercial or food safety). Measures applied to plants
+
+ISPM 16-6                                                                   International Plant Protection Convention
+ Regulated non-quarantine pests: concept and application                                         ISPM 16
+
+
+
+damaged in this way are not phytosanitary measures. In accordance with Article VI.2 of the IPPC,
+“Contracting parties shall not require phytosanitary measures for non-regulated pests.”
+
+4.    Criteria that Define RNQPs
+The definition of RNQPs provides criteria to distinguish this category of pests from quarantine pests.
+Further understanding of certain words in the definition is important for the proper interpretation and
+application of the concept.
+
+4.1   “Plants for planting”
+The concept of RNQPs is specifically limited in application to “plants for planting”. Plants are defined
+as “living plants and parts thereof, including seeds”. Therefore, “plants for planting” includes seeds,
+bulbs and tubers, and various kinds of vegetative propagating material, which may be whole plants or
+parts of plants (such as cuttings).
+Since “plants for planting” includes “plants intended to remain planted”, potted plants (including
+bonsai) are included. Pest risks associated with plants that are intended to remain planted may be less
+than for plants intended for multiplication.
+
+4.2   “Intended use”
+The “intended use” of plants for planting may be:
+-     growing for direct production of other commodities (e.g. fruits, cut flowers, wood, grain)
+-     to remain planted (e.g. ornamentals)
+-     increasing the number of the same plants for planting (e.g. tubers, cuttings, seeds).
+Pest risk of varies with different pests, commodities, and intended use. Distinctions may be made
+between commercial use (involving a sale or intention to sell), and non-commercial use (not involving
+a sale and limited to a low number of plants for planting for private use), where such a distinction is
+technically justified.
+
+4.3   “Those plants”
+“Those plants” refers to the specific plants (species, varieties etc.) for planting, either imported or
+domestically produced for the intended use, that are regulated by the importing country with respect to
+RNQPs.
+
+4.4   “Economically unacceptable impact”
+The definition for a regulated non-quarantine pest refers to an “economically unacceptable impact”.
+This means that losses are measured in terms of economic impacts, and judged to be acceptable or
+unacceptable.
+For quarantine pests, economic impacts include effects on market access as well as those impacts that
+may be less easily quantified in direct economic terms, such as certain effects on the environment as
+related to plant health. Because RNQPs are already present, there are not new or additional impacts
+related to market access or environmental health. Therefore these impacts are not considered relevant
+factors in determining economic impacts for RNQPs.
+Relevant factors in determining economically unacceptable impacts include:
+-     reduction of quantity of marketable yield (e.g. reduction in yield)
+-     reduction of quality (e.g. reduced sugar content in grapes for wine, downgrading of marketed
+      product)
+-     extra costs of pest control (e.g. roguing, pesticide application)
+-     extra costs of harvesting and grading (e.g. culling)
+-     costs of replanting (e.g. due to loss of longevity of plants)
+
+International Plant Protection Convention                                                     ISPM 16-7
+ ISPM 16                                               Regulated non-quarantine pests: concept and application
+
+
+
+-     loss due to the necessity of growing substitute crops (e.g. due to need to plant lower yielding
+      resistant varieties of the same crop or different crops).
+In particular cases, pest effects on other host plants at the place of production may be considered
+relevant factors.
+
+4.5   “Regulated”
+“Regulated” in the definition of RNQP refers to official control. An official control programme for
+RNQPs can be applied on a national, subnational, or local area basis (see ISPM 5 Supplement 1
+(Guidelines on the interpretation and application of the concepts of “official control” and “not widely
+distributed”)).
+
+5.    Relevant Principles and Obligations
+The application of the concept of RNQPs follows in particular the principles and obligations of
+technical justification, pest risk analysis, managed risk, minimal impact, equivalence,
+non-discrimination and transparency (see ISPM 1 (Phytosanitary principles for the protection of
+plants and the application of phytosanitary measures in international trade)).
+
+5.1   Technical justification
+Phytosanitary measures covering RNQPs should be technically justified as required by the IPPC. The
+categorization of a pest as an RNQP and any restrictions placed on the import of the plant species with
+which it is associated should be justified by pest risk analysis (see ISPM 2 (Framework for pest risk
+analysis) and ISPM 21 (Pest risk analysis for regulated non-quarantine pests)).
+
+5.2   Pest risk assessment
+Pest risk assessment for RNQPs is not the same as pest risk assessment performed for a potential
+quarantine pest because it is not necessary to evaluate the probability of establishment, nor the long-
+term economic impact of an RNQP. It is, however, necessary to demonstrate that plants for planting
+are a pathway for the pest, and the plants for planting are the main source of infestation that result in
+economically unacceptable impacts.
+
+5.3   Managed risk, minimal impact and equivalence
+Pest risk management for RNQPs requires a decision regarding whether the economic impact
+determined through pest risk assessment is acceptable or not. Decisions regarding the strength of the
+measures to be used for risk management should be in accordance with the principles of non-
+discrimination, managed risk and minimal impact, and should allow for the acceptance of equivalent
+measures where appropriate.
+
+5.4   Non-discrimination
+Phytosanitary measures for RNQPs should respect the principle of non-discrimination both between
+countries and between domestic and imported consignments. A pest can only qualify as an RNQP if
+there is official control within the territory of the contracting party requiring that no plants for planting
+with the same intended use (of the same or similar species of host plants), irrespective of their origin,
+be sold or planted if containing the pest, or containing the pest above a specified tolerance level. A
+pest on an imported consignment can only be regulated as an RNQP if the plants are to be sold or
+planted within the territory of the importing country, or within that part of its territory, where the
+official control for the pest applies.
+
+5.5   Transparency
+National regulations and requirements for RNQPs, including details of official control programmes
+should be published and transmitted to any contracting party that may be directly affected (Article
+VII.2(b)). The technical justification for categorizing a pest as an RNQP and the justification for the
+
+
+ISPM 16-8                                                         International Plant Protection Convention
+ Regulated non-quarantine pests: concept and application                                         ISPM 16
+
+
+
+strength of the measures applied for RNQPs should be made available by the importing contracting
+party upon request of another contracting party (Article VII.2(c)).
+
+6.       Application
+When an NPPO wants to designate certain pests as RNQPs, the NPPO needs to consider the elements
+described above. In addition, some specific issues, such as host-pest interactions, and the existence of
+certification programmes (e.g. seed certification) for plants for planting may be considered.
+
+6.1      Host-pest interaction
+RNQPs should be defined in relation to a specified host or hosts because the same pest might not be
+regulated as an RNQP on other hosts. For example, a virus may cause economically unacceptable
+impact in one species of plants for planting, but not in another. Distinctions should be made regarding
+the specified taxonomic level of the host plants for the application of phytosanitary requirements for
+RNQPs where information available on host-pest interaction supports such distinctions (e.g. varietal
+resistance or susceptibility, pest virulence).
+
+6.2      Certification programmes
+Programmes for the certification1 of plants for planting (sometimes known as “certification schemes”)
+frequently include specific requirements for pests, in addition to non-phytosanitary elements such as
+requirements for varietal purity, colour, size of the product, etc. The pests concerned may be RNQPs if
+this can be technically justified and if the certification programme is mandatory, and thus can be
+considered to be official control, i.e. established or recognized by the national government or NPPO
+under appropriate legislative authority. In general, the pests for which certification programmes are
+intended are those which cause economically unacceptable impact for the crop concerned and are
+mainly transmitted in plants for planting, thereby qualifying as RNQPs. However, not all pests
+mentioned in certification programmes are necessarily RNQPs. Some existing programmes may
+include tolerance levels for pests or pest damage whose technical justification has not been
+demonstrated.
+
+6.3      Tolerance levels
+The application of the concept of RNQPs requires acceptance and establishment of appropriate
+tolerance levels for RNQP in official control programmes and corresponding phytosanitary import
+requirements. The tolerance level depends on the technical justification and follows in particular the
+principles of managed risk, non-discrimination, and minimal impact. In some cases, if technically
+justified, this tolerance level may be zero, based on specified sampling and testing procedures.
+
+6.4      Non-compliance
+Phytosanitary action taken for non-compliance with phytosanitary import requirements for RNQPs
+should be in accordance with the principles of non-discrimination and minimal impact.
+Options include:
+-     downgrading (change commodity or intended use)
+-     treatment
+-     redirection for another purpose (e.g. processing)
+-     redirection to origin or another country
+-     destruction.
+
+
+
+
+1
+    This certification is not to be confused with phytosanitary certification.
+
+International Plant Protection Convention                                                     ISPM 16-9
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+global plant resources and facilitate safe trade.
+The IPPC vision is that all countries have the capacity to
+implement harmonized measures to prevent pest introductions
+and spread, and minimize the impacts of pests on food
+security, trade, economic growth, and the environment.
+
+Organization
+◆ There are over 180 IPPC contracting parties.
+◆ Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+◆ 10 regional plant protection organizations (RPPOs) have
+
+   been established to coordinate NPPOs in various regions
+   of the world.
+◆ IPPC liaises with relevant international organizations to
+
+   help build regional and national capacities.
+◆ The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+International Plant Production Convention Secretariat
+ippc@fao.org | www.ippc.int
+
+Food and Agriculture Organization of the United Nations
+Rome, Italy
+

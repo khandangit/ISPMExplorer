@@ -1,0 +1,691 @@
+International Standard for Phytosanitary Measures    6
+
+
+
+
+                       Surveillance
+                                           eng
+                                                    ISPM 6
+ This page is intentionally left blank
+       INTERNATIONAL STANDARDS FOR
+          PHYTOSANITARY MEASURES
+
+
+
+
+  ISPM 6
+Surveillance
+
+
+
+
+                      Produced by the Secretariat of the
+               International Plant Protection Convention
+                        Adopted 2018; published 2018
+
+
+                                           © FAO 2018
+ The designations employed and the presentation of material in this
+information product do not imply the expression of any opinion whatsoever
+on the part of the Food and Agriculture Organization of the United Nations
+(FAO) concerning the legal or development status of any country, territory,
+city or area or of its authorities, or concerning the delimitation of its frontiers
+or boundaries. The mention of specific companies or products of
+manufacturers, whether or not these have been patented, does not imply
+that these have been endorsed or recommended by FAO in preference to
+others of a similar nature that are not mentioned.
+
+The views expressed in this information product are those of the author(s)
+and do not necessarily reflect the views or policies of FAO.
+
+© FAO, 2018
+
+FAO encourages the use, reproduction and dissemination of material in this
+information product. Except where otherwise indicated, material may be
+copied, downloaded and printed for private study, research and teaching
+purposes, or for use in non-commercial products or services, provided that
+appropriate acknowledgement of FAO as the source and copyright holder
+is given and that FAO’s endorsement of users’ views, products or services
+is not implied in any way.
+
+All requests for translation and adaptation rights, and for resale and other
+commercial use rights should be made via www.fao.org/contact-us/licence-
+request or addressed to copyright@fao.org.
+
+FAO information products are available on the FAO website (www.fao.org/
+publications) and can be purchased through publications-sales@fao.org.
+
+When this ISPM is reproduced, it should be mentioned that current adopted
+versions of ISPMs are available for download on www.ippc.int.
+
+
+
+
+Publication history
+This is not an official part of the standard
+1994-05 CEPM-1 added topic               Standards       for   pest          2016-05 SC revised        and   approved     draft   for   first
+   surveillance (1994-001).                                                     consultation.
+1994 Expert working group (EWG), facilitated by United                       2016-07 First consultation.
+   States Department of Agriculture (USDA), developed                        2017-05 SC-7 revised and approved draft for second
+   draft text.                                                                  consultation.
+1995-05 CEPM-2 revised draft text and approved for                           2017-07 Second consultation.
+   consultation.
+                                                                             2017-10 Steward revised draft based on consultation
+1995 Sent for consultation.                                                     comments.
+1996-05 CEPM-3 revised draft text for adoption.                              2017-11 SC revised in meeting and approved draft for
+1997-11 29th FAO Conference adopted the standard.                               adoption by CPM.
+ISPM 6. 1997. Guidelines for surveillance. Rome, IPPC,                       2018-04 CPM-13 adopted the standard.
+   FAO.                                                                      ISPM 6. 2018. Surveillance. Rome, IPPC, FAO.
+
+2010-03 CPM-5 added topic Revision                  of     ISPM 6            2015-06 IPPC Secretariat incorporated ink amendments
+   (Guidelines for surveillance) (2009-004).                                    and reformatted standards following revoking of
+2014-05 SC revised and approved Specification 61.                               standards procedure from CPM-10 (2015).
+2015-09 EWG started revision of ISPM (meeting).
+2015-11 EWG finalized draft ISPM (virtual meeting).                          Publication history last updated: 2018-05.
+ Surveillance                                                                                                                                        ISPM 6
+
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................4
+
+Introduction ..............................................................................................................................................4
+Scope ........................................................................................................................................................4
+References ................................................................................................................................................4
+Definitions ................................................................................................................................................4
+Outline of Requirements ..........................................................................................................................4
+
+BACKGROUND ......................................................................................................................................4
+
+IMPACTS ON BIODIVERSITY AND THE ENVIRONMENT ............................................................5
+
+REQUIREMENTS ...................................................................................................................................5
+1.     Components of a National Surveillance System...............................................................................5
+2.     Designing Surveillance Programmes ................................................................................................6
+       2.1      General surveillance ..........................................................................................................7
+       2.1.1    Approaches to general surveillance...................................................................................7
+       2.1.2    Elements of general surveillance.......................................................................................8
+       2.2      Specific surveillance .........................................................................................................8
+       2.2.1    Purpose ..............................................................................................................................9
+       2.2.2    Scope .................................................................................................................................9
+       2.2.3    Target ................................................................................................................................9
+       2.2.4    Timing ...............................................................................................................................9
+       2.2.5    Area or site selection .........................................................................................................9
+       2.2.6    Statistical design..............................................................................................................10
+       2.2.7    Data collection ................................................................................................................10
+       2.2.8    Biosecurity and sanitation ...............................................................................................10
+       2.2.9    Samples ...........................................................................................................................10
+3.     Supporting Infrastructure ................................................................................................................10
+       3.1      Phytosanitary legislation and policies .............................................................................10
+       3.2      Prioritization....................................................................................................................11
+       3.3      Planning...........................................................................................................................11
+       3.4      Resources ........................................................................................................................11
+       3.5      Documentation ................................................................................................................12
+       3.6      Training ...........................................................................................................................12
+       3.7      Auditing...........................................................................................................................12
+       3.8      Communication and stakeholder engagement .................................................................12
+       3.9      Pest diagnostics ...............................................................................................................12
+       3.10     Information management systems ...................................................................................13
+4.     Pest Records ...................................................................................................................................13
+5.     Analysis and Reporting ..................................................................................................................14
+6.     Transparency ..................................................................................................................................14
+
+International Plant Protection Convention                                                                                                        ISPM 6-3
+ ISPM 6                                                                                           Surveillance
+
+
+
+Adoption
+This standard was adopted by the Thirteenth Session of the Commission on Phytosanitary Measures in
+April 2018.
+
+INTRODUCTION
+
+Scope
+This standard describes the requirements for surveillance, including the components of a national
+surveillance system.
+
+References
+The present standard refers to ISPMs. ISPMs are available on the International Phytosanitary Portal
+(IPP) at https://www.ippc.int/core-activities/standards-setting/ispms.
+
+Definitions
+Definitions of phytosanitary terms used in this standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+Outline of Requirements
+Surveillance is one of the core activities of national plant protection organizations (NPPOs). It provides
+NPPOs with a technical basis for many phytosanitary measures; for example, phytosanitary import
+requirements, pest free areas, pest reporting and eradication, and pest status in an area.
+National surveillance systems relate to both general surveillance and specific surveillance. A national
+surveillance system comprises surveillance programmes and the infrastructure required to implement
+them. Surveillance protocols describe the methodology of surveillance, whether general or specific.
+Supporting elements to consider for a national surveillance system include phytosanitary legislation and
+policies, prioritization, planning, resources, documentation, training, auditing, communication and
+stakeholder engagement, pest diagnostics, information management systems and pest reporting.
+
+BACKGROUND
+Surveillance is essential in plant protection. Article IV of the IPPC prescribes general provisions for the
+organizational arrangements for national plant protection and specifically states that the responsibilities
+of an official national plant protection organization shall include “the surveillance of growing plants,
+including both areas under cultivation (inter alia fields, plantations, nurseries, gardens, greenhouses and
+laboratories) and wild flora, and of plants and plant products in storage or in transportation, particularly
+with the object of reporting the occurrence, outbreak and spread of pests, and of controlling those pests,
+including the reporting referred to under Article VIII paragraph 1(a)”. According to the same article the
+“designation, maintenance and surveillance of pest free areas and areas of low pest prevalence” are a
+responsibility of NPPOs. In addition, Article VII.2(j) specifies that “contracting parties shall, to the best
+of their ability, conduct surveillance for pests and develop and maintain adequate information on pest
+status”.
+Surveillance underpins several activities, including:
+-     the early detection of pests new to an area
+-     the compilation of host pest lists, commodity pest lists and pest distribution records (e.g. to
+      support pest risk analysis and phytosanitary certification)
+-     the establishment and maintenance of pest free areas, pest free places of production, pest free
+      production sites or areas of low pest prevalence
+-     the determination of pest status in an area
+
+ISPM 6-4                                                          International Plant Protection Convention
+ Surveillance                                                                                       ISPM 6
+
+
+
+-     pest reporting to other countries
+-     measuring changes in the characteristics of a pest population or pest incidence (e.g. for areas of
+      low pest prevalence or for research)
+-     delimiting a pest population in an area
+-     eradication and pest management.
+
+IMPACTS ON BIODIVERSITY AND THE ENVIRONMENT
+This standard may contribute to the protection of biodiversity and the environment by helping countries
+develop systems to provide reliable and well-structured information on the presence, absence or
+distribution of pests in an area and information about hosts or commodities as pathways. These pests
+could include organisms relevant to biodiversity (e.g. invasive alien species).
+
+REQUIREMENTS
+
+1.    Components of a National Surveillance System
+A national surveillance system should be an integral part of a country’s plant health system.
+A national surveillance system may be structured into programmes (e.g. for specific pest species or
+groups of pests) and should include the supporting infrastructure required to implement them (Figure 1
+and section 3).
+Surveillance programmes may include the following types of surveillance:
+-     General surveillance: a process whereby information on pests of concern in an area is gathered
+      from various sources. Sources may include national or local government bodies, research
+      institutions, universities, museums, scientific societies (including those of independent
+      specialists), producers, consultants, the general public, scientific and trade journals, unpublished
+      data, and the websites of other NPPOs or international organizations (e.g. the IPPC, regional plant
+      protection organizations, the Convention on Biological Diversity).
+-     Specific surveillance: a process whereby information on pests of concern in an area is obtained
+      by the NPPO over a defined period. NPPOs actively gather specific pest-related data. Specific
+      surveillance includes surveys that are conducted to determine the characteristics of a pest
+      population or to determine which species are present or absent in an area.
+NPPOs should develop surveillance protocols describing how to conduct general and specific
+surveillance.
+Elements to be considered when an NPPO develops a national surveillance system are illustrated in
+Figure 1.
+
+
+
+
+International Plant Protection Convention                                                        ISPM 6-5
+ ISPM 6                                                                                           Surveillance
+
+
+
+
+Figure 1. A model national surveillance system, comprising surveillance programmes (general and specific) and
+supporting infrastructure.
+
+2.    Designing Surveillance Programmes
+Surveillance programmes should, as appropriate, be long term and regular with well-developed
+methodology, so that results may be compared and analysed. Surveillance programmes may include
+elements of general and specific surveillance (Figure 1). The methodology of surveillance should be
+described in surveillance protocols. The protocols developed by NPPOs should aim to achieve the
+purpose of the surveillance programme.
+Surveillance protocols should provide clear instructions for carrying out a surveillance activity in a
+consistent manner that can be used by various operational personnel at different locations. Methods used
+in the surveillance protocols may be distinguished by, for example, the means by which data are
+collected, where the surveillance is carried out, the aim of the surveillance or whether the methods are
+focused on the pest, host or pathway.
+Surveillance methods should be based on international or regional guidelines where they exist or be
+developed by the NPPO. Surveillance managers and officers should be aware of current methodologies
+associated with specific groups of pests and should ensure that the methods are used appropriately to
+deliver reliable surveillance outcomes.
+
+
+
+
+ISPM 6-6                                                          International Plant Protection Convention
+ Surveillance                                                                                        ISPM 6
+
+
+
+NPPOs may need to develop or adopt new methods for new or emerging pests. In all cases, surveillance
+methods should be based on relevant scientific, geographical and statistical information, and be
+operationally feasible.
+
+2.1   General surveillance
+2.1.1 Approaches to general surveillance
+NPPOs may use a range of approaches to general surveillance with varying degrees of involvement by
+the NPPO – from reports received by the NPPO to increasingly structured and targeted programmes run
+entirely by the NPPO. Examples of general surveillance approaches are listed below:
+-      receipt of reports from the general public (i.e. initiated by the public)
+-      scanning of sources of pest information
+-      general encouragement of public reporting through official channels (e.g. via a free call phone
+       number in response to publicity about plant health or educating on the advantages of reporting
+       pests)
+-      encouragement of public reporting on specific pests – this is useful where the target species is
+       known and public awareness is already high (e.g. through the use of public awareness materials)
+       and during known periods of high pest incidence (e.g. breeding seasons)
+-      encouragement of reporting by groups involved with specific crops (e.g. producers, community
+       groups)
+-      involvement of specific groups in plant health activities organized by the NPPO to obtain
+       surveillance data (e.g. scientific societies, plant health clinics, agricultural extension services)
+-      cooperation with other governmental services (e.g. forestry or environmental services)
+-      cooperation with institutions that carry out research
+-      general surveillance carried out by NPPO staff.
+NPPOs should take into account the following factors when developing approaches to general
+surveillance:
+-     costs and resource requirements are usually lower with less involvement of the NPPO
+-     good results are more readily achieved for easily noticed and recognizable pests (e.g. beetles and
+      caterpillars) or symptoms
+-     detection of hidden pests (e.g. wood-boring beetles, or pathogens that are symptomless in some
+      hosts) is usually less effective
+-     surveillance may not need to be restricted to a defined period
+-     the proportion of useful reports received is usually lower for less-structured or less-targeted
+      programmes
+-     the usefulness of the information (e.g. pest diagnosis, monitoring methodologies) may depend on
+      how current it is
+-     systems may be needed to manage large numbers of reports from general surveillance, in order to
+      identify those which are relevant
+-     the validity of the data may need to be verified
+-     increasing the sensitivity and specificity of a general surveillance programme may result in higher
+      costs.
+When conducting general surveillance, NPPOs should evaluate the reliability of the information, which
+depends on the source of the information (e.g. reports from the general public versus entomologists).
+Guidance on evaluating the reliability of a pest record is provided in ISPM 8 (Determination of pest
+status in an area).
+
+
+
+
+International Plant Protection Convention                                                         ISPM 6-7
+ ISPM 6                                                                                     Surveillance
+
+
+
+2.1.2 Elements of general surveillance
+NPPOs should recognize that general surveillance can be an effective supplement to specific
+surveillance. For example, general surveillance can provide the context for undertaking specific
+surveillance to accurately determine the pest status in an area or site. The NPPO may also decide that
+the result of general surveillance is sufficient to determine the pest status.
+The elements of general surveillance may include:
+-     mechanisms to facilitate reporting:
+            legislative obligations (for the general public, growers or specific agencies)
+            cooperative agreements (between NPPOs and, for example, stakeholders or scientific
+             societies)
+            the use of contact personnel to enhance communication channels to and from NPPOs
+            public education and awareness raising initiatives
+-     tools for collecting reports from the public:
+           publicly accessible free call phone numbers
+           systems for free delivery of samples
+           smartphone and mobile device applications (apps)
+           social media channels and email
+-     systems or processes to enhance the quality of reporting:
+           a filtering process at the point of initial contact
+           the ability to send and receive images for initial identification
+           publicity material to allow submitters to self-filter (e.g. leaflets and websites with pest
+            information and photos)
+           training for submitters
+-     means to consolidate, analyse and communicate the information gathered:
+           integrated national, regional or global databases and alert systems for emerging pests
+           spatial modelling tools embedded in web-based systems (e.g. geographical information
+            systems)
+           mathematical and simulation models of data collected (e.g. Bayesian networks).
+NPPOs may encourage reporting by ensuring timely feedback (e.g. identification of specimens
+submitted) to those providing reports.
+
+2.2   Specific surveillance
+Three types of surveys may be utilized by NPPOs depending on the objectives of the specific
+surveillance programme:
+-     detection survey: conducted in an area to determine if pests are present (or absent)
+-     delimiting survey: conducted to establish the boundaries of an area considered to be infested by
+      or free from a pest
+-     monitoring survey: ongoing survey to verify the characteristics of a pest population.
+These surveys may be developed for pests in relation to one or more areas, sites, hosts, pathways or
+commodities and should include the collection of pest presence and absence records.
+The result of every observation or sample taken should be recorded, including when the pest was not
+found. Data on pest absence collected during surveys can be used by NPPOs to support a country’s pest
+status and pest free areas, as well as its trade and market access.
+
+
+
+ISPM 6-8                                                      International Plant Protection Convention
+ Surveillance                                                                                       ISPM 6
+
+
+
+The most important factor for the validity of pest absence data is the design of the specific surveillance
+programme. Elements that should be considered in the design of specific surveillance programmes are
+presented in sections 2.2.1 to 2.2.9.
+
+2.2.1 Purpose
+The purpose of the surveillance should include background on the phytosanitary objectives and the
+reasons why the information is required (e.g. early detection, assurance for a pest free area, pest free
+production site or area of low pest prevalence, commodity pest list).
+
+2.2.2 Scope
+The scope describes the extent of the area to be covered by the surveillance, both geographically and in
+terms of the production system (whole or parts) or uncultivated area.
+
+2.2.3 Target
+The target of the surveillance should be described. The target may be a single or multiple pests, hosts,
+pathways or commodities, or a combination of any of these.
+
+2.2.4 Timing
+Timing may include the start and end of the survey and the frequency of visits by field personnel. These
+may be determined by, for example, the life cycle of the pest, the phenology of the pest’s hosts or the
+scheduling of pest management programmes.
+
+2.2.5 Area or site selection
+Area or site selection may be determined by:
+-     any previously reported presence, distribution and resulting pest status of the pest
+-     the previously reported absence of a pest
+-     the undetermined pest status of an area
+-     the biology of the pest
+-     the suitability of the climate and other ecological conditions in the area for the pest
+-     the geographical distribution of host plants and production areas
+-     the degree of isolation of an area
+-     pest management programmes (at commercial and non-commercial sites)
+-     the points of consolidation, handling or storage of the harvested commodity
+-     proximity to:
+             points of entry (for pathways, including people)
+             sites where imported commodities are marketed, stored, processed or used as planting
+              material
+              tourist activities.
+To achieve effective use of resources, surveillance for absent or recently intercepted pests (e.g. in a
+consignment) may best be concentrated on those places that are at higher risk of the primary spread of
+the pest.
+If the objective of surveillance is to delimit an outbreak, the area selection should be focused on the
+immediate surroundings of the known infested area and to sites of the same habitat type that, according
+to exercises of trace-forward and trace-back, may also have become infested. Surveillance that is focused
+on specific areas or sites within a larger area may be complemented by random sampling of sites in the
+whole area. For surveillance of pests that are widely distributed, a more systematic selection of sites
+over the whole area to be surveyed is more appropriate.
+
+
+
+International Plant Protection Convention                                                        ISPM 6-9
+ ISPM 6                                                                                          Surveillance
+
+
+
+2.2.6 Statistical design
+NPPOs should define the population units (in the statistical sense) to be surveyed; that is, the population
+as a collection of similar units of concern. Defining the statistical population may be based on pest
+biology, a pathway or an entity upon which phytosanitary measures may be applied. The population unit
+may be of various types, for example:
+-     a geographical unit, comprising the area covered with a trapping grid
+-     a field planted with a host crop
+-     an individual host plant in an unmanaged or uncultivated area
+-     a storage facility.
+It is often not feasible to survey all units of an entire population. Therefore, NPPOs may decide to
+perform the surveillance on a sample taken from the population. The five most common sampling
+methods, which may be applied alone or in combination, are:
+-      simple random sampling
+-      systematic sampling
+-      stratified sampling
+-      cluster sampling
+-      targeted sampling.
+Statistical sampling methods described in ISPM 31 (Methodologies for sampling of consignments) or
+other appropriate methods should be used as appropriate. They are often used when the data captured
+are of a binary nature (presence/absence). The statistical analysis of the data should be based on an
+appropriate method and may require expert advice.
+NPPOs are encouraged to state the level of confidence and the minimum level of detection of the pest
+survey.
+
+2.2.7 Data collection
+NPPOs should determine the data elements to be captured during surveillance and how these data will
+be transferred to the information management system (e.g. by the use of forms and electronic devices).
+
+2.2.8 Biosecurity and sanitation
+When developing surveillance protocols, NPPOs should consider procedures to ensure that spread of
+pests is not facilitated during a survey.
+NPPO officers, or other personnel authorized to undertake surveillance, should follow any biosecurity
+procedures that are in place at facilities, places of production or sites being surveyed.
+
+2.2.9 Samples
+The surveillance protocol should include a description of when and how samples are to be taken,
+collected, handled and prepared in order to ensure specimen integrity and preservation and timely
+delivery to the laboratory for diagnostic processing. Each sample should be given a unique identifier
+code (e.g. label, number or bar code) to enable tracking and follow-up from the point of collection in
+the field, through the stages of processing and identification, to storage in a formal reference collection,
+if applicable.
+
+3.    Supporting Infrastructure
+3.1   Phytosanitary legislation and policies
+A national surveillance system should be supported by phytosanitary legislation and policies that ensure
+that authority, responsibilities and financial resources are assigned to the appropriate administrative
+levels.
+
+ISPM 6-10                                                        International Plant Protection Convention
+ Surveillance                                                                                         ISPM 6
+
+
+
+Contracting parties should include the following provisions in their phytosanitary legislation or in
+official procedures:
+-      the legal power, process and protection for NPPO officers or other authorized personnel to
+       undertake surveillance activities, including entering premises or land to inspect plants, plant
+       products or other articles that may be capable of harbouring pests, or to collect samples for testing
+-      the establishment and maintenance of facilities for diagnostics or appropriate access to up-to-date
+       diagnostic services to ensure that pests are properly identified
+-      mandatory domestic reporting (e.g. by research institutions, diagnostic laboratories, non-
+       governmental organizations, industry, growers, local government or scientific groups) to the
+       NPPO on detection or suspected presence of:
+              targeted pests
+              pests new to an area, host or pathway.
+Surveillance policies should cover responsibilities related to administration, finance and governance
+within the NPPO, including funding for surveillance activities, procedures for surveillance deliverables
+and training and qualification of personnel.
+
+3.2   Prioritization
+Priorities for surveillance may vary from country to country depending on the needs for surveillance
+information.
+Factors to consider when prioritizing surveillance programmes may include:
+-     impact of pests on crops and biodiversity
+-     existing national, bilateral, regional or international phytosanitary obligations and arrangements
+-     implementation of pest management programmes
+-     emerging pests at the local, national, regional or international level and potential benefits of their
+      early detection
+-     whether surveillance is cost-effective
+-     the availability of the resources and methods required to implement a surveillance programme
+-     the quality and reliability of the expected surveillance results, given the required resource
+      expenditure
+-     national lists of priority pests prepared using pest risk ranking methods or similar analytical
+      techniques
+-     trade and market access
+-     food security
+-     findings of a pest in a consignment originating from an area where the pest was not known to be
+      present (e.g. notification from trading partner or detection during export certification).
+
+3.3   Planning
+Once priorities for surveillance have been established, NPPOs should develop plans for the
+implementation of surveillance programmes, taking into account phytosanitary legislation and policies.
+
+3.4   Resources
+Surveillance should be adequately resourced with appropriate human, financial and physical resources.
+Diagnostic services resources are an essential part of a national surveillance system.
+Human resources may include personnel in administration, operations, technical functions, management
+and logistics. NPPOs should ensure that personnel are appropriately trained and qualified.
+Financial resources may be required for surveillance logistics and staff travel (e.g. transport costs,
+accommodation and meals), equipment purchase and maintenance, staff training, specimen processing
+
+International Plant Protection Convention                                                        ISPM 6-11
+ ISPM 6                                                                                       Surveillance
+
+
+
+and diagnosis, maintenance of an information management system, facility maintenance and emergency
+response expenses for unplanned surveillance activities.
+Physical resources may include field equipment (including personal protective equipment), vehicles,
+appropriate storage facilities and consumables used for carrying out surveys and monitoring, reference
+materials and other documentation, computers, georeferencing devices and other equipment for data
+input and storage, software for information management systems, staff uniforms (or valid identification)
+and materials for raising public awareness.
+
+3.5   Documentation
+NPPOs should develop administrative procedures for maintaining official documentation, undertaking
+surveillance (including technical instructions in the form of surveillance protocols), and managing or
+having access to specimen collections. Documentation is essential for promoting consistency, improving
+interpretation and reliability of results, and facilitating audit and verification of activities under a
+national surveillance system.
+
+3.6   Training
+Training, assessment and regular review of personnel involved in surveillance activities are integral
+components of a national surveillance system. NPPOs should develop and implement procedures to
+ensure that the competencies of staff are maintained.
+Personnel involved in surveillance activities should be adequately trained in plant health and related
+fields (including relevant pests, their biology, hosts and symptoms of infestation) and data management.
+Personnel should also be trained in biosecurity, sampling methods, handling of samples, preservation
+and transportation of samples for identification, and record keeping associated with samples.
+Training materials should be developed and updated regularly to ensure that the competencies of
+personnel are developed and maintained. Training and reference materials should be readily available
+to all personnel involved in surveillance activities.
+
+3.7   Auditing
+NPPOs should conduct regular audits of their general and specific surveillance, including activities
+conducted by authorized entities, to ensure that activities are carried out in accordance with relevant
+surveillance protocols.
+
+3.8   Communication and stakeholder engagement
+NPPOs are encouraged to engage through effective and timely communication with stakeholders and
+relevant experts on the design, planning, implementation and review of national surveillance systems,
+as well as on priorities for surveillance and on expected outcomes. Arrangements may include:
+-     internal communication within the NPPO (e.g. meetings, briefings, newsletters)
+-     external communication by the NPPO (e.g. official reporting, industry notices)
+-     formal stakeholder engagement (e.g. forums, newsletters, awareness raising and training
+      initiatives)
+-     formal and informal national surveillance networks that develop and implement surveillance
+      programmes, and their channels to communicate information to and from the NPPO.
+
+3.9   Pest diagnostics
+Diagnostic services are fundamental to the success of a national surveillance system. NPPOs should
+ensure that appropriate diagnostic services are accessible. Some diagnostic protocols are available as
+annexes to ISPM 27 (Diagnostic protocols for regulated pests).
+Characteristics of the diagnostic services include the following:
+-    they have expertise in disciplines relevant to pest (and host) identification
+
+ISPM 6-12                                                       International Plant Protection Convention
+ Surveillance                                                                                        ISPM 6
+
+
+
+-     they have adequate facilities and equipment
+-     they have access to specialists for verification where necessary
+-     they have facilities for record keeping
+-     they have facilities for processing and storing of reference specimens
+-     they use standard operating procedures, where appropriate and available.
+
+3.10 Information management systems
+Information management systems should be used as a repository or centralized database for all results
+obtained.
+Information management systems should be designed for the collection, consolidation, management,
+validation and reporting of surveillance data and information for analysis, including records of presence
+and absence of pests.
+It is critical that surveillance data and information are collected in a uniform manner to ensure their
+integrity from collection to reporting. NPPOs should develop and implement minimum data sets, for use
+across all surveillance programmes in accordance with section 4 of this standard. These data sets should
+form the basis of a surveillance information management system. Information management systems
+should ensure traceability of samples taken during surveillance activities. Data verification procedures
+should also be an integral element of information management systems.
+Information management systems should allow easy retrieval of data and information to meet national
+and international surveillance-related reporting requirements.
+
+4.    Pest Records
+NPPOs should determine how long pest records are required to be retained, taking into account that they
+may be needed to support declarations of pest status. For example, fruit fly absence pest records may be
+needed to support pest free areas for fruit flies in accordance with ISPM 26 (Establishment of pest free
+areas for fruit flies (Tephritidae)). Reference to the survey methodology used should be included in the
+pest records.
+Pest records from specific surveillance should include, as a minimum, the following information:
+-      scientific name and taxonomic position of the pest
+-      scientific name and taxonomic position of the host
+-      locality (e.g. location code, address, geographical coordinates)
+-      date of survey and name of surveyor
+-      identification date, method of identification and name of identifier.
+When relevant and available, the above information should be included in pest records from general
+surveillance.
+Pest records should also include, to the extent possible, the following information, especially if the
+presence of a quarantine pest is suspected:
+-     codes for pest and host scientific names (e.g. EPPO codes)
+-     verification date, method of verification and name of verifier
+-     references (e.g. diagnostic protocol used)
+-     phytosanitary measures taken.
+Additional information may be useful; for example, the nature of the pest and host relationship, pest
+incidence, the growth stage and the origin of the host plant affected, whether the host plant is grown
+only in greenhouses in the area, the plant part affected or the means of sample collection (e.g. attractant
+trap, soil sample, sweep net).
+
+
+International Plant Protection Convention                                                       ISPM 6-13
+ ISPM 6                                                                                     Surveillance
+
+
+
+The NPPO should act as the national repository for pest records.
+
+5.    Analysis and Reporting
+Tools such as spatial mapping (geographical information system), modelling and statistical analysis
+software can be used to manage surveillance data and to facilitate their presentation and reporting.
+The information to be reported will depend on the type of surveillance conducted. In all cases, reports
+should provide data on the target (pest, host, pathway or commodity of concern), the area covered, the
+number of observations or samples taken, the results obtained and, if appropriate, the statistical
+reliability.
+The means by which data are consolidated, analysed and reported may also be used to predict the
+probable behaviour of pests or vectors, including the probability of establishment and spread, in order
+to support decision-making on pest management and further surveillance.
+
+6.    Transparency
+NPPOs should, on request, provide information on methods used to conduct surveillance and on pest
+status and distribution.
+
+
+
+
+ISPM 6-14                                                     International Plant Protection Convention
+ This page is intentionally left blank
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+cultivated and wild plants by preventing the introduction and
+spread of pests. International travel and trade are greater than
+ever before. As people and commodities move around the
+world, organisms that present risks to plants travel with them.
+
+Organization
+RR There are over 180 contracting parties to the IPPC.
+
+RR Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+RR Nine regional plant protection organizations (RPPOs) work
+
+   to facilitate the implementation of the IPPC in countries.
+RR IPPC liaises with relevant international organizations to
+
+   help build regional and national capacities.
+RR The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+Food and Agriculture Organization of the United Nations
+IPPC Secretariat
+Viale delle Terme di Caracalla, 00153 Rome, Italy
+Tel: +39 06 5705 4812
+Email: ippc@fao.org | Web: www.ippc.int
+

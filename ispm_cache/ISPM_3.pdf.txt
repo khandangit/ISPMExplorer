@@ -1,0 +1,678 @@
+                                                                                    ISPM 3
+3
+International Standard for Phytosanitary Measures
+
+
+
+
+                                                                                    eng
+
+
+
+
+                                                      Guidelines for the export,
+                                                          shipment, import and
+                                                    release of biological control
+                                                    agents and other beneficial
+                                                                      organisms
+ This page is intentionally left blank
+                         INTERNATIONAL STANDARDS FOR
+                            PHYTOSANITARY MEASURES
+
+
+
+
+                    ISPM 3
+
+Guidelines for the export, shipment, import and
+   release of biological control agents and
+          other beneficial organisms
+
+
+
+
+                                    Produced by the Secretariat of the
+                             International Plant Protection Convention
+                                      Adopted 2005; published 2017
+
+
+
+
+                                                         © FAO 2005
+ The designations employed and the presentation of material in this information
+product do not imply the expression of any opinion whatsoever on the part of the
+Food and Agriculture Organization of the United Nations (FAO) concerning the legal
+or development status of any country, territory, city or area or of its authorities, or
+concerning the delimitation of its frontiers or boundaries. The mention of specific
+companies or products of manufacturers, whether or not these have been patented,
+does not imply that these have been endorsed or recommended by FAO in
+preference to others of a similar nature that are not mentioned.
+
+The views expressed in this information product are those of the author(s) and do
+not necessarily reflect the views or policies of FAO.
+
+© FAO, 2017
+
+FAO encourages the use, reproduction and dissemination of material in this
+information product. Except where otherwise indicated, material may be copied,
+downloaded and printed for private study, research and teaching purposes, or for
+use in non-commercial products or services, provided that appropriate
+acknowledgement of FAO as the source and copyright holder is given and that
+FAO’s endorsement of users’ views, products or services is not implied in any way.
+
+All requests for translation and adaptation rights, and for resale and other
+commercial use rights should be made via www.fao.org/contact-us/licence-request
+or addressed to copyright@fao.org.
+
+FAO information products are available on the FAO website
+(www.fao.org/publications) and can be purchased through publications-
+sales@fao.org.
+
+When this ISPM is reproduced, it should be mentioned that current adopted versions
+of ISPMs are available for download on www.ippc.int.
+
+
+
+
+Publication history
+This is not an official part of the standard
+1991-09 EWG developed draft text.                                      2003 CAB review submitted (Bio control news and
+1992-05 TC-RPPOs added topic Code of conduct for the                      Information 2003 vol. 24).
+   import and release of biological control agents (1992-              2004-04 SC revised standard and approved for MC.
+   001).                                                               2004-06 Sent for MC.
+1992-05 TC-RPPOs revised draft text and approved for MC.               2004-11 SC revised standard for adoption.
+1993 Sent for MC.                                                      2005-04 ICPM-7 adopted revised standard.
+1994-05 CEPM-1 revised draft text and requested draft                  ISPM 3. 2005. Guidelines for the export, shipment, import
+   completion.                                                            and release of biological control agents and other
+1995-05 CEPM-2 revised draft text for adoption.                           beneficial organisms. Rome, IPPC, FAO.
+1995-11 28th FAO Conference adopted standard.                          2010-07 IPPC Secretariat applied ink amendments as noted
+ISPM 3. 1995. Code of conduct for the import and release                  by CPM-5 (2010).
+   of exotic biological control agents. Rome, IPPC, FAO.               2015-06 IPPC Secretariat incorporated ink amendments
+2000-05 ISC-1 added topic Revision of ISPM 3 (2000-001).                  and reformatted standards following revoking of
+                                                                          standards procedure from CPM-10 (2015).
+2001-05 ISC-3 approved Specification 4 Revision of
+   ISPM 3.                                                             2017-04 CPM noted ink amendments in relation to
+2002-04 ICPM-4 added topic.                                               “quarantine facility” to replace with the Glossary term
+                                                                          “quarantine station”. The IPPC Secretariat incorporated
+2002-12 EWG revised standard.                                             the ink amendments.
+2003-04 ICPM-5 noted high priority topic.                              Publication history last updated: 2017-04
+2003-05 SC-7 revised standard and requested CAB
+   (Caribbean and Latin American Regional Centre) expert
+   review.
+ Guidelines for the export, shipment, import and
+release of biological control agents and other beneficial organisms                                                                                 ISPM 3
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................4
+
+INTRODUCTION ....................................................................................................................................4
+Scope ........................................................................................................................................................4
+References ................................................................................................................................................4
+Definitions ................................................................................................................................................4
+Outline of Requirements ..........................................................................................................................4
+
+BACKGROUND ......................................................................................................................................6
+
+REQUIREMENTS ...................................................................................................................................7
+1. Designation of Responsible Authority and Description of General Responsibilities .......................7
+   1.1        Contracting parties ............................................................................................................7
+   1.2        General responsibilities .....................................................................................................7
+2. Pest Risk Analysis ............................................................................................................................8
+3. Responsibilities of Contracting Parties prior to Import ....................................................................8
+   3.1        Responsibilities of the importing contracting party ..........................................................8
+   3.2        Responsibilities of the NPPO of an exporting country ...................................................10
+4. Documentary Responsibilities of Importer prior to Import ............................................................10
+   4.1        Documentary requirements related to the target organism..............................................10
+   4.2        Documentary requirements related to the biological control agent or other beneficial
+              organism ..........................................................................................................................11
+   4.3        Documentary requirements related to potential hazards and contingency plans.............11
+   4.4        Documentary requirements related to research in quarantine .........................................11
+5. Responsibilities of Exporter ...........................................................................................................12
+   5.1        Specific responsibilities regarding organisms intended for inundative release...............12
+6. Responsibilities of the NPPO or Other Responsible Authority of the Importing Contracting Party
+   upon Import ....................................................................................................................................12
+   6.1        Inspection ........................................................................................................................12
+   6.2        Quarantine .......................................................................................................................12
+   6.3        Release ............................................................................................................................12
+7. Responsibilities of the NPPO or Other Responsible Authority before, upon and following
+   Release ............................................................................................................................................12
+   7.1        Release ............................................................................................................................12
+   7.2        Documentation ................................................................................................................13
+   7.3        Monitoring and evaluation ..............................................................................................13
+   7.4        Contingency plans ...........................................................................................................13
+   7.5        Communication ...............................................................................................................13
+   7.6        Reporting .........................................................................................................................13
+
+
+
+
+International Plant Protection Convention                                                                                                        ISPM 3-3
+                                                                    Guidelines for the export, shipment, import and
+ISPM 3                                         release of biological control agents and other beneficial organisms
+
+
+Adoption
+This standard was first adopted by the Twenty-eighth Session of the FAO Conference in November
+1995 as Code of conduct for the import and release of exotic biological control agents. The first revision
+was adopted by the Seventh Session of the Interim Commission on Phytosanitary Measures in April
+2005 as the present standard.
+
+INTRODUCTION
+
+Scope
+This standard 1 provides guidelines for risk management related to the export, shipment, import and
+release of biological control agents and other beneficial organisms. It lists the related responsibilities of
+contracting parties to the IPPC, national plant protection organizations (NPPOs) or other responsible
+authorities, importers and exporters (as described in the standard). The standard addresses biological
+control agents capable of self-replication (including parasitoids, predators, parasites, nematodes,
+phytophagous organisms, and pathogens such as fungi, bacteria and viruses), as well as sterile insects
+and other beneficial organisms (such as mycorrhizae and pollinators), and includes those packaged or
+formulated as commercial products. Provisions are also included for import for research in quarantine
+stations of non-indigenous biological control agents and other beneficial organisms.
+The scope of this standard does not include living modified organisms, issues related to registration of
+biopesticides, or microbial agents intended for vertebrate pest control.
+
+References
+The present standard refers to International Standards for Phytosanitary Measures (ISPMs). ISPMs are
+available on the International Phytosanitary Portal (IPP) at https://www.ippc.int/core-
+activities/standards-setting/ispms.
+CBD. 1992. Convention on Biological Diversity. Montreal, CBD.
+IPPC. 1997. International Plant Protection Convention. Rome, IPPC, FAO.
+
+Definitions
+Definitions of phytosanitary terms used in the present standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+Outline of Requirements
+This standard is intended to facilitate the safe export, shipment, import and release of biological control
+agents and other beneficial organisms. Responsibilities relating to this are held by contracting parties,
+NPPOs or other responsible authorities, and by importers and exporters.
+Contracting parties, or their designated authorities, should consider and implement appropriate
+phytosanitary measures related to the export, shipment, import and release of biological control agents
+and other beneficial organisms and, when necessary, issue related import permits.
+As described in this standard, NPPOs or other responsible authorities should:
+-     carry out pest risk analysis of biological control agents and other beneficial organisms prior to
+      import or prior to release
+
+
+
+1
+ Nothing in this standard shall affect the rights or obligations of contracting parties under other international
+agreements. Provisions of other international agreements may be applicable, for example the Convention on
+Biological Diversity (CBD).
+
+ISPM 3-4                                                            International Plant Protection Convention
+ Guidelines for the export, shipment, import and
+release of biological control agents and other beneficial organisms                              ISPM 3
+
+-      ensure, when certifying exports, that the phytosanitary import requirements of importing
+       contracting parties are complied with
+-      obtain, provide and assess documentation as appropriate, relevant to the export, shipment, import
+       or release of biological control agents and other beneficial organisms
+-      ensure that biological control agents and other beneficial organisms are taken either directly to
+       designated quarantine stations or mass-rearing facilities or, if appropriate, passed directly for
+       release into the environment
+-      encourage monitoring of release of biological control agents or beneficial organisms in order to
+       assess impact on target and non target organisms.
+Responsibilities of, and recommendations for, exporters include ensuring that consignments of
+biological control agents and other beneficial organisms comply with phytosanitary import requirements
+of importing countries and relevant international agreements, packaging consignments securely, and
+providing appropriate documentation relating to biological control agents or other beneficial organisms.
+Responsibilities of, and recommendations for, importers include providing appropriate documentation
+relating to the target pest(s) and biological control agent or other beneficial organisms to the NPPO or
+other responsible authority of the importing country.
+
+
+
+
+International Plant Protection Convention                                                      ISPM 3-5
+                                                                          Guidelines for the export, shipment, import and
+ISPM 3                                               release of biological control agents and other beneficial organisms
+
+
+BACKGROUND
+The International Plant Protection Convention (IPPC) is based on securing common and effective action
+to prevent the spread and introduction of pests of plants and plant products, and the promotion of
+appropriate measures for their control (Article I of the IPPC). In this context, the provisions of the IPPC
+extend to any organism capable of harbouring or spreading plant pests, particularly where international
+transportation is involved (Article I of the IPPC).
+The IPPC contains the following provision in relation to the regulation of biological control agents and
+other beneficial organisms. Article VII.1 states:
+           With the aim of preventing the introduction and/or spread of regulated pests into their territories,
+           contracting parties shall have sovereign authority to regulate, in accordance with applicable
+           international agreements, the entry of plants and plant products and other regulated articles and, to this
+           end, may: ...
+           (c) prohibit or restrict the movement of regulated pests into their territories;
+           (d) prohibit or restrict the movement of biological control agents and other organisms of
+                 phytosanitary concern claimed to be beneficial into their territories.
+
+Section 4.1 of ISPM 20 (Guidelines for a phytosanitary import regulatory system) contains a reference
+to the regulation of biological control agents; it states:
+           Imported commodities that may be regulated include articles that may be infested or contaminated with
+           regulated pests. ... The following are examples of regulated articles: ...
+           -       pests and biological control agents.
+
+This revision of ISPM 3 provides guidelines related to phytosanitary measures, as well as recommended
+guidelines for safe usage of biological control agents and other beneficial organisms. In some cases, the
+scope of these guidelines may be deemed to extend beyond the scope and provisions of the IPPC as
+described above. For example, although the primary context of this standard relates to phytosanitary
+concerns, “safe” usage as mentioned in the standard is intended to be interpreted in a broader sense, i.e.
+minimizing other non-phytosanitary negative effects. Phytosanitary concerns may include the possibility
+that newly introduced biological control agents may primarily affect other non-target organisms, but
+thereby result in harmful effects on plant species, or plant health in habitats or ecosystems. However, it
+is not intended that any aspects of this standard alter in any way the scope or obligations of the IPPC or
+its ISPMs.
+The structure of this revised standard broadly follows the same structure as the original ISPM 3 (Code
+of conduct for the import and release of exotic biological control agents), and its content is based
+primarily on risk management relating to the use of biological control agents and other beneficial
+organisms. It is recognized that the existing standards on pest risk analysis (ISPM 2 (Framework for
+pest risk analysis) and ISPM 11 (Pest risk analysis for quarantine pests)) provide the appropriate
+fundamental processes for carrying out pest risk assessments for biological control agents and other
+beneficial organisms. In particular, ISPM 11 includes provisions for pest risk assessment in relation to
+environmental risks, and this aspect covers environmental concerns related to the use of biological
+control agents.
+The IPPC takes into account internationally approved principles governing the protection of the
+environment (Preamble). Its purpose includes promoting appropriate phytosanitary measures
+(Article I.1). When carrying out pest risk analysis in accordance with this and other appropriate ISPMs,
+and in developing and applying related phytosanitary measures, contracting parties should also consider
+the potential for broader environmental impacts resulting from releasing biological control agents and
+other beneficial organisms 2 (for example, impacts on non-target invertebrates).
+Most of this standard is based on the premise that a biological control agent or other beneficial organism
+may be a potential pest itself, and in this sense Article VII.1(c) of the IPPC applies because contracting
+
+2
+  Available expertise, instruments and work in international fora with competence in the area of risks to the
+environment should be taken into account as appropriate.
+
+ISPM 3-6                                                                      International Plant Protection Convention
+ Guidelines for the export, shipment, import and
+release of biological control agents and other beneficial organisms                                  ISPM 3
+
+parties may prohibit or restrict the movement of regulated pests into their territories. In some situations,
+biological control agents and other beneficial organisms may act as a carrier or pathway for plant pests,
+hyperparasitoids, hyperparasites and entomopathogens. In this sense, biological control agents and other
+beneficial organisms may be considered to be regulated articles as described in Article VII.1 of the IPPC
+and ISPM 20.
+Purpose of the standard
+The objectives of the standard are to:
+-     facilitate the safe export, shipment, import and release of biological control agents and other
+      beneficial organisms by providing guidelines for all public and private bodies involved,
+      particularly through the development of national legislation where it does not exist
+-     describe the need for cooperation between importing and exporting countries so that:
+      .       benefits to be derived from using biological control agents or other beneficial organisms
+              are achieved with minimal adverse effects
+      .       practices which ensure efficient and safe use while minimizing environmental risks due to
+              improper handling or use are promoted.
+Guidelines in support of these objectives are described that:
+-    encourage responsible trade practices
+-    assist countries to design regulations to address the safe handling, assessment and use of
+     biological control agents and other beneficial organisms
+-    provide risk management recommendations for the safe export, shipment, import and release of
+     biological control agents and other beneficial organisms
+-    promote the safe use of biological control agents and other beneficial organisms.
+
+REQUIREMENTS
+
+1.     Designation of Responsible Authority and Description of General Responsibilities
+1.1    Contracting parties
+Contracting parties should designate an authority with appropriate competencies (usually their NPPO)
+to be responsible for export certification and to regulate the import or release of biological control agents
+and other beneficial organisms, subject to relevant phytosanitary measures and procedures.
+Contracting parties should have provisions for implementing appropriate phytosanitary measures for the
+export, shipment, import or release of biological control agents and other beneficial organisms.
+
+1.2    General responsibilities
+The NPPO or other responsible authority should establish procedures for the implementation of this
+standard, including for the assessment of relevant documentation specified in section 4.
+The NPPO or other responsible authority should:
+-    carry out pest risk analysis prior to import or release of biological control agents and other
+     beneficial organisms
+-    ensure, when certifying exports, that the regulations of importing countries are complied with
+-    provide and assess documentation as appropriate, relevant to the export, shipment, import or
+     release of biological control agents and other beneficial organisms
+-    ensure that biological control agents and other beneficial organisms are taken either directly to
+     designated quarantine stations or, if appropriate, passed to mass rearing facilities or directly for
+     release into the environment
+-    ensure that importers and, where appropriate, exporters meet their responsibilities
+
+International Plant Protection Convention                                                          ISPM 3-7
+                                                                  Guidelines for the export, shipment, import and
+ISPM 3                                       release of biological control agents and other beneficial organisms
+
+-     consider possible impacts on the environment, such as impacts on non-target invertebrates.
+The NPPO or other responsible authority should maintain communication and, where appropriate,
+coordinate with relevant parties including other NPPOs or relevant authorities on:
+-     characteristics of biological control agent and other beneficial organisms
+-     assessment of risks including environmental risks
+-     labelling, packaging and storage during shipment
+-     dispatch and handling procedures
+-     distribution and trade
+-     release
+-     evaluation of performance
+-     information exchange
+-     occurrence of unexpected and/or harmful incidents, including remedial action taken.
+
+2.    Pest Risk Analysis
+The NPPO of the importing country should determine whether an organism is required to be subjected
+to pest risk analysis (PRA). The NPPO or other responsible authority may also be responsible for
+ensuring that other national legislative requirements are met; however, these may not be IPPC
+obligations.
+Pest risk assessment should be conducted in accordance with ISPM 2 and/or Stage 2 of ISPM 11 as
+appropriate, taking into account uncertainties, and potential environmental consequences, as provided
+for in those standards. In addition to conducting pest risk assessment, contracting parties should also
+consider possible impacts on the environment, such as impacts on non-target invertebrates.
+Most contracting parties require PRA to be completed prior to import and technical justification, as
+described in ISPM 20, such as through PRA, is required to determine if pests should be regulated and
+the strength of phytosanitary measures to be taken against them. Where applicable, if pest risk
+assessment of the proposed organism has not been undertaken or completed prior to import, it should be
+completed prior to release (see section 7). However, it is recognized that biological control agents and
+other beneficial organisms may need to be imported for research and evaluation in secure facilities prior
+to release. ISPM 20 also states that contracting parties may make special provision for the import of
+biological control agents and other beneficial organisms for scientific research, and that such imports
+may be authorized subject to the provision of adequate safeguards. The NPPO should be prepared for
+such imports with the expectation that, where necessary, a full PRA in accordance with ISPM 11 will
+be completed prior to release. When non-phytosanitary risks are identified, these may need to be referred
+to other appropriate authorities for possible action.
+It may be important that further scientific investigations are carried out in the exporting country prior to
+importing the biological control agents or other beneficial organisms in order to verify the accuracy and
+reliability of the risk assessment. Among other options, and where appropriate, NPPOs or other
+responsible authorities may consider possibilities for such scientific investigations, in cooperation with
+the authorities of the exporting country and in accordance with relevant procedures and regulations.
+
+3.    Responsibilities of Contracting Parties prior to Import
+3.1   Responsibilities of the importing contracting party
+The importing contracting party or its NPPO or other responsible authority should:
+3.1.1 Promote awareness of, and compliance with this standard and introduce necessary phytosanitary
+      measures to regulate the import, shipment or release of biological control agents and other
+      beneficial organisms in its country, and make provision for effective enforcement.
+
+
+ISPM 3-8                                                          International Plant Protection Convention
+ Guidelines for the export, shipment, import and
+release of biological control agents and other beneficial organisms                                 ISPM 3
+
+3.1.2 Evaluate the documentation on the target pest and on the biological control agent and beneficial
+      organisms supplied by the importer (see section 4) in relation to the acceptable level of risk. The
+      contracting party should establish appropriate phytosanitary measures for import, shipment,
+      quarantine stations (including approval of research facilities, and phytosanitary measures for
+      confinement and disposal) or release of biological control agents appropriate to the assessed risk.
+      If the biological control agent or other beneficial organism is already present in the country,
+      regulation may only be needed to ensure there is no contamination or infestation of this organism,
+      or that interbreeding with local genotypes of the same species does not result in new phytosanitary
+      risks. Inundative release may be restricted for these reasons.
+3.1.3 Issue regulations stating requirements to be fulfilled by the exporting country, the exporter and
+      the importer 3. Where appropriate, these may include:
+      -      the issuing of an accompanying authorizing document (import permit or licence)
+      -      phytosanitary certification, in accordance with ISPM 12 (Phytosanitary certificates)
+      -      a specific certification document
+      -      authoritative identification of organisms during quarantine and provision of a reference
+             specimen
+      -      specification of the source of the biological control agent or other beneficial organism(s),
+             including origin and/or point of production where relevant
+      -      precautions to be taken against inclusion of natural enemies of the biological control agent
+             or other beneficial organism and of contamination or infestation
+      -      requirements regarding packaging for shipment during transport and storage
+      -      procedures for the disposal of packaging
+      -      means to validate documentation
+      -      means to validate the contents of consignments
+      -      conditions under which the package may be opened
+      -      designation of point(s) of entry
+      -      identification of the person or organization to receive the consignment
+      -      requirements for the facilities in which the biological control agent or other beneficial
+             organisms may be held.
+3.1.4 Ensure that procedures are in place for the documentation of:
+      -     pest risk analysis
+      -     the import (identity, origins, dates)
+      -     nurturing, rearing or multiplication
+      -     release (quantities released, dates, locations)
+      -     any other relevant data.
+       Such records may be made available to the scientific community and the public, as may be
+       appropriate, while protecting any proprietary rights to the data.
+3.1.5 If appropriate, ensure entry of consignments, and processing where required, through quarantine
+      stations. Where a country does not have secure quarantine stations, import through a quarantine
+      station in a third country, recognized by the importing contracting party, may be considered.
+3.1.6 Consider, through pest risk analysis, the risk of introducing other organisms associated with the
+      biological control agent or beneficial organism. Considerations (keeping in mind the principles
+      of necessity and minimal impact) should include phytosanitary measures requiring the culturing
+
+3
+  Provisions of other international agreements may address the import of biological control agents or other
+beneficial organisms (for example the Convention on Biological Diversity).
+
+International Plant Protection Convention                                                         ISPM 3-9
+                                                                 Guidelines for the export, shipment, import and
+ISPM 3                                      release of biological control agents and other beneficial organisms
+
+      of imported biological control agents and other beneficial organisms in quarantine before release.
+      Culturing for at least one generation can help in ensuring purity of the culture and freedom from
+      hyperparasites and pathogens or associated pests, as well as facilitating authoritative
+      identification. This is particularly advisable when biological control agents and other beneficial
+      organisms are collected from the wild.
+3.1.7 Where possible, ensure the deposition in collections of authoritatively identified reference
+      specimens of the imported biological control agent or other beneficial organism (and host(s)
+      where appropriate). It is preferable to deposit a series of specimens, where available, to
+      accommodate natural variation.
+3.1.8 In the case of sterile insect technique (SIT), the sterile insect may be marked to differentiate it
+      from the wild insect.
+3.1.9 Consider, through pest risk analysis (consistent with the principles of necessity and minimal
+      impact), if, after a first import or release, further imports of the same biological control agent or
+      other beneficial organism may be exempted from some or all of the requirements for import. The
+      publication of lists of approved and prohibited biological control agents and other beneficial
+      organisms may also be considered. If appropriate, biological control agents that are prohibited
+      should be included in lists of regulated pests (established and updated by contracting parties in
+      accordance with the IPPC and ISPM 19 (Guidelines on lists of regulated pests).
+
+3.2   Responsibilities of the NPPO of an exporting country
+The NPPO of an exporting country should ensure that the phytosanitary import requirements of the
+importing country are satisfied and that phytosanitary certificates are issued in accordance with ISPM 12
+where required by the importing country for consignments of biological control agents or other
+beneficial organisms, if these are considered as potential pests or pathways for plant pests.
+The NPPO is also encouraged to follow the appropriate elements of this standard where the importing
+country has no legislation concerning the import of biological control agents and other beneficial
+organisms.
+
+4.    Documentary Responsibilities of Importer prior to Import
+4.1   Documentary requirements related to the target organism
+Prior to the first importation, the importer of biological control agents or other beneficial organisms
+should provide information as required by the NPPO or other responsible authority of the importing
+contracting party. For all biological control agents or other beneficial organisms, this information
+includes accurate identification of the target organism(s), generally at the species level. Where a
+biological control agent intended to control a pest is being imported, the information on the target pest
+may also include:
+-      its world distribution and probable origin
+-      its known biology and ecology
+-      available information on its economic importance and environmental impact
+-      possible benefits and any conflicting interests surrounding its use
+-      known natural enemies, antagonists and other biological control agents or competitors of the
+       target pest already present or used in the proposed release area or in other parts of the world.
+For all biological control agents or other beneficial organisms, other information relevant to a PRA may
+also be requested by the NPPO or other responsible authority of the importing contracting party.
+
+
+
+
+ISPM 3-10                                                        International Plant Protection Convention
+ Guidelines for the export, shipment, import and
+release of biological control agents and other beneficial organisms                                   ISPM 3
+
+
+4.2    Documentary requirements related to the biological control agent or other
+       beneficial organism
+Prior to first import, the importer of biological control agents or other beneficial organisms should
+coordinate with the exporter to provide documentation, accompanied by appropriate scientific
+references, to the NPPO or other responsible authority of the importing contracting party with
+information on the biological control agent or beneficial organism including:
+-      sufficient characterization of the biological control agent or other beneficial organism to allow
+       for its accurate identification, in general to the species level at minimum
+-      a summary of all available information on its origin, world distribution, biology, natural enemies,
+       hyperparasites, and impact in its area of distribution
+-      available information on host specificity (in particular, a list of confirmed hosts) of the biological
+       control agent or beneficial organism and any potential hazards posed to non-target hosts
+-      description of natural enemies and contaminants of the agent and procedures required for their
+       elimination from laboratory colonies. This includes, where appropriate, procedures to identify
+       accurately and, if necessary, eliminate from the culture the host upon which the biological control
+       agent or beneficial organism was cultured. Information on any phytosanitary measures taken prior
+       to shipment should also be provided.
+
+4.3    Documentary requirements related to potential hazards and contingency plans
+Prior to first importation, the importer of biological control agents or other beneficial organisms is
+encouraged to provide documentation to the NPPO or other responsible authority that:
+-      identifies potential health hazards and analyzes the risks 4 posed to staff operatives exposed when
+       handling biological control agents or other beneficial organisms under laboratory, production and
+       application conditions.
+-      details contingency plans or procedures already in existence, should the biological control agent
+       or beneficial organism display unexpected adverse properties.
+
+4.4    Documentary requirements related to research in quarantine
+An importer of biological control agents or other beneficial organisms proposed for research in
+quarantine should provide as much information as possible as described in points 4.1–4.3. However, it
+is recognized that field collected organisms imported by researchers in initial shipments of potential
+biological control agents may not be described with regard to their exact taxonomic identity, host range,
+impact on non-target organisms, distribution, biology, impact in an area of distribution etc. This
+information will be determined after candidate biological control agents are studied in quarantine.
+The researcher, in conjunction with the quarantine station to be used, should also provide the following
+information:
+-     the nature of the material proposed for importation
+-     the type of the research to be carried out
+-     detailed description of the quarantine station (including security and the competency and
+      qualifications of the staff)
+-     an emergency plan that will be implemented in the case of an escape from the quarantine station.
+This information may be required by the NPPO or other responsible authority prior to approval of the
+research to be conducted. The NPPO or other responsible authority may verify the accuracy of the
+documentation provided and examine the facilities, and may require modifications as necessary.
+
+
+
+
+4
+ Available expertise, instruments and work in international fora with competence in the area of risks to human
+health should be taken into account as appropriate.
+
+International Plant Protection Convention                                                          ISPM 3-11
+                                                                 Guidelines for the export, shipment, import and
+ISPM 3                                      release of biological control agents and other beneficial organisms
+
+
+5.    Responsibilities of Exporter
+The exporter of biological control agents or other beneficial organisms is encouraged to ensure that:
+-     all phytosanitary import requirements specified in the regulations of the importing country or on
+      an import permit are complied with (see also section 3.2, which describes the related
+      responsibilities of the NPPO)
+-     all appropriate documentation accompanies the consignment
+-     packaging is secure in order to prevent escape of the contents
+-     organisms for SIT have been treated to achieve the required sterility for SIT purposes (e.g. using
+      irradiation with the required minimum absorbed dose). The treatment(s) used and an indication
+      of the effectiveness of sterilization should also be provided.
+
+5.1   Specific responsibilities regarding organisms intended for inundative release
+Exporters of biological control agents or other beneficial organisms for inundative release should
+provide documentation on measures undertaken to ensure that levels of contamination acceptable to the
+importing NPPO or other responsible authority are not exceeded.
+
+6.    Responsibilities of the NPPO or Other Responsible Authority of the Importing
+      Contracting Party upon Import
+6.1   Inspection
+Where required (see section 3.1.5) after checking the documentation, inspection should take place at an
+officially nominated quarantine station.
+
+6.2   Quarantine
+The NPPO should ensure that biological control agents or other beneficial organisms are cultured or
+reared in quarantine, if appropriate (see section 3.1.6), for as long as considered necessary.
+
+6.3   Release
+The NPPO or other responsible authority may allow biological control agents or other beneficial
+organisms to be passed directly for release, provided that all conditions have been complied with
+(particularly as described in section 3) and required documentary evidence is made available
+(see section 4).
+
+7.    Responsibilities of the NPPO or Other Responsible Authority before, upon and
+      following Release
+Prior to release, NPPOs or other responsible authorities are encouraged to communicate details of the
+intended release that may affect neighbouring countries. To facilitate information sharing in this manner,
+details of intended releases may also be communicated to relevant RPPOs prior to release.
+If pest risk analysis was not undertaken prior to import in accordance with ISPM 2 and/or ISPM 11, it
+should be undertaken prior to release, taking into account uncertainties, as provided for in those
+standards. In addition to conducting pest risk assessment, contracting parties should also consider
+possible impacts on the environment, such as impacts on non-target invertebrates.
+The NPPO or other responsible authority may verify the effectiveness of sterilization treatment(s) prior
+to release of sterile insects.
+
+7.1   Release
+The NPPO or other responsible authority should authorize and audit official requirements related to the
+release of biological control agents or other beneficial organisms, e.g. requirements related to release
+
+
+
+ISPM 3-12                                                        International Plant Protection Convention
+ Guidelines for the export, shipment, import and
+release of biological control agents and other beneficial organisms                               ISPM 3
+
+only in specific areas. This audit may be used to alter the requirements related to import or release of
+the organism.
+
+7.2    Documentation
+Documentation sufficient to allow trace-back of released biological control agents or other beneficial
+organisms should be maintained by the NPPO or other responsible authority.
+
+7.3    Monitoring and evaluation
+The NPPO or other responsible authority may monitor the release of biological control agents or other
+beneficial organisms in order to evaluate and, as necessary, respond to the impact on the target and non-
+target organisms. Where appropriate, it should include a marking system to facilitate recognition of the
+biological control agent (e.g. sterile insects) or other beneficial organism in comparison with the
+organism in its natural state and environment.
+
+7.4    Contingency plans
+The NPPO or other responsible authority of the importing contracting party is responsible for developing
+or adopting contingency plans or procedures, as appropriate, for use within the importing country.
+Where problems are identified (i.e. unexpected harmful incidents), the NPPO or other responsible
+authority should consider possible emergency actions and, where appropriate, ensure that they are
+implemented and that all relevant parties are informed.
+
+7.5    Communication
+It is recommended that the NPPO or other responsible authority ensures that local users and suppliers
+of biological control agents or other beneficial organisms, and farmers, farmer organizations and other
+stakeholders, are kept sufficiently informed and educated on the appropriate measures for their use.
+
+7.6    Reporting
+The contracting party should abide by any reporting obligations under the IPPC, e.g. where an organism
+used as a biological control agent or beneficial organism has shown pest characteristics.
+
+
+
+
+International Plant Protection Convention                                                      ISPM 3-13
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+cultivated and wild plants by preventing the introduction and
+spread of pests. International travel and trade are greater than
+ever before. As people and commodities move around the
+world, organisms that present risks to plants travel with them.
+
+Organization
+RR There are over 180 contracting parties to the IPPC.
+
+RR Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+RR Nine regional plant protection organizations (RPPOs) work
+
+   to facilitate the implementation of the IPPC in countries.
+RR IPPC liaises with relevant international organizations to
+
+   help build regional and national capacities.
+RR The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+Food and Agriculture Organization of the United Nations
+IPPC Secretariat
+Viale delle Terme di Caracalla, 00153 Rome, Italy
+Tel: +39 06 5705 4812
+Email: ippc@fao.org | Web: www.ippc.int
+

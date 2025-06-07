@@ -1,0 +1,463 @@
+International Standard for Phytosanitary Measures 17
+
+
+
+
+                       Pest reporting
+                                           eng
+                                                  ISPM 17
+ This page is intentionally left blank
+        INTERNATIONAL STANDARDS FOR
+           PHYTOSANITARY MEASURES
+
+
+
+
+   ISPM 17
+
+Pest reporting
+
+
+
+
+                    Produced by the Secretariat of the
+             International Plant Protection Convention
+                      Adopted 2002; published 2017
+
+
+
+
+                                         © FAO 2017
+ The designations employed and the presentation of material in this information
+product do not imply the expression of any opinion whatsoever on the part of the
+Food and Agriculture Organization of the United Nations (FAO) concerning the legal
+or development status of any country, territory, city or area or of its authorities, or
+concerning the delimitation of its frontiers or boundaries. The mention of specific
+companies or products of manufacturers, whether or not these have been patented,
+does not imply that these have been endorsed or recommended by FAO in
+preference to others of a similar nature that are not mentioned.
+
+The views expressed in this information product are those of the author(s) and do
+not necessarily reflect the views or policies of FAO.
+
+© FAO, 2017
+
+FAO encourages the use, reproduction and dissemination of material in this
+information product. Except where otherwise indicated, material may be copied,
+downloaded and printed for private study, research and teaching purposes, or for use
+in non-commercial products or services, provided that appropriate acknowledgement
+of FAO as the source and copyright holder is given and that FAO’s endorsement of
+users’ views, products or services is not implied in any way.
+
+All requests for translation and adaptation rights, and for resale and other commercial
+use rights should be made via www.fao.org/contact-us/licence-request or addressed
+to copyright@fao.org.
+
+FAO information products are available on the FAO website
+(www.fao.org/publications) and can be purchased through publications-
+sales@fao.org.
+
+When this ISPM is reproduced, it should be mentioned that current adopted versions
+of ISPMs are available for download on www.ippc.int.
+
+
+
+
+Publication history
+This is not an official part of the standard
+1999-10 ICPM-2 added topic Pest reporting (1999-003).
+2000-09 EWG developed draft text.
+2000-11 ICPM-3 noted as high priority topic.
+2001-05 ISC-3 revised draft text and approved for MC.
+2001-06 Sent for MC.
+2001-11 ISC-4 revised draft text for adoption.
+2002-03 ICPM-4 adopted standard.
+ISPM 17. 2002. Pest reporting. Rome, IPPC, FAO.
+2013-08 IPPC Secretariat applied ink amendments as noted by CPM-8 (2013).
+2015-06 IPPC Secretariat incorporated ink amendments and reformatted
+   standards following revoking of standards procedure from CPM-10 (2015).
+2017-04 CPM noted ink amendments to avoid the use of “trading partner”. The
+   IPPC Secretariat incorporated the ink amendments.
+Publication history last modified: 2017-04.
+ Pest reporting                                                                                                                                    ISPM 17
+
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................4
+
+INTRODUCTION ....................................................................................................................................4
+Scope ........................................................................................................................................................4
+References ................................................................................................................................................4
+Definitions ................................................................................................................................................4
+Outline of Requirements ..........................................................................................................................4
+
+REQUIREMENTS ...................................................................................................................................5
+1.     Provisions of the IPPC Regarding Pest Reporting ...........................................................................5
+2.     Purpose of Pest Reporting ................................................................................................................5
+3.     National Responsibilities ..................................................................................................................5
+       3.1      Surveillance .......................................................................................................................5
+       3.2      Sources of information ......................................................................................................6
+       3.3      Verification and analysis ...................................................................................................6
+       3.4      Motivation for domestic reporting ....................................................................................6
+4.     Reporting Obligations.......................................................................................................................6
+       4.1      Reporting of immediate or potential danger......................................................................6
+       4.2      Other pest reports ..............................................................................................................6
+       4.3      Reporting of changed status, absence or correction of earlier reports ..............................7
+       4.4      Reporting of pests in imported consignments ...................................................................7
+5.     Initiation of Reports ..........................................................................................................................7
+       5.1        Occurrence ........................................................................................................................7
+       5.2        Outbreak ............................................................................................................................7
+       5.3        Spread................................................................................................................................7
+       5.4        Successful eradication .......................................................................................................7
+       5.5        Establishment of pest free area..........................................................................................7
+6.     Pest Reporting...................................................................................................................................7
+       6.1      Content of reports ..............................................................................................................7
+       6.2      Timing of reporting ...........................................................................................................8
+       6.3      Mechanism of reporting and destination of reports...........................................................8
+       6.4      Good reporting practices ...................................................................................................8
+       6.5      Confidentiality...................................................................................................................8
+       6.6      Language ...........................................................................................................................9
+7.     Additional Information .....................................................................................................................9
+8.     Review ..............................................................................................................................................9
+9.     Documentation..................................................................................................................................9
+
+
+
+
+International Plant Protection Convention                                                                                                       ISPM 17-3
+ ISPM 17                                                                                        Pest reporting
+
+
+
+Adoption
+This standard was adopted by the Fourth Session of the Interim Commission on Phytosanitary Measures
+in March 2002.
+
+INTRODUCTION
+
+Scope
+This standard describes the responsibilities of and requirements for contracting parties in reporting the
+occurrence, outbreak and spread of pests in areas for which they are responsible. It also provides
+guidance on reporting successful eradication of pests and establishment of pest free areas.
+
+References
+The present standard refers to International Standards for Phytosanitary Measures (ISPMs). ISPMs are
+available on the International Phytosanitary Portal (IPP) at https://www.ippc.int/core-
+activities/standards-setting/ispms.
+IPPC. 1997. International Plant Protection Convention. Rome, IPPC, FAO.
+
+Definitions
+Definitions of phytosanitary terms used in the present standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+Outline of Requirements
+The International Plant Protection Convention requires contracting parties to report on the occurrence,
+outbreak and spread of pests with the purpose of communicating immediate or potential danger. National
+plant protection organizations (NPPOs) have the responsibility to collect pest information by
+surveillance and to verify the pest records thus collected. Occurrence, outbreak or spread of pests that
+are known (on the basis of observation, previous experience, or pest risk analysis (PRA)) to be of
+immediate or potential danger should be reported to other countries, in particular to NPPOs of
+neighbouring countries and of countries that are traded with.
+Pest reports should contain information on the identity of the pest, location, pest status, and nature of
+the immediate or potential danger. They should be provided without undue delay, preferably through
+electronic means, through direct communication, openly available publication or the International
+Phytosanitary Portal (IPP) 1.
+Reports of successful eradication, the establishment of pest free areas and other information may also
+be provided utilizing the same reporting procedure.
+
+
+
+
+1
+  The IPP is the electronic mechanism provided by the IPPC Secretariat to facilitate the exchange of official
+phytosanitary information (including pest reporting) between NPPOs, regional plant protection organizations
+(RPPOs), and/or the IPPC Secretariat.
+
+ISPM 17-4                                                         International Plant Protection Convention
+ Pest reporting                                                                                                          ISPM 17
+
+
+
+REQUIREMENTS
+
+1.     Provisions of the IPPC Regarding Pest Reporting
+The IPPC, in relation to its main purpose of “securing common and effective action to prevent the spread
+and introduction of pests of plants and plant products,” (Article I.1) requires contracting parties to make
+provision, to the best of their ability, for an NPPO, whose responsibilities include the following:
+          the surveillance of growing plants, including both areas under cultivation (inter alia fields, plantations,
+          nurseries, gardens, greenhouses and laboratories) and wild flora, and of plants and plant products in
+          storage or in transportation, particularly with the object of reporting the occurrence, outbreak and spread
+          of pests, and of controlling those pests, including the reporting referred to under Article VIII
+          paragraph 1(a); … [Article IV.2(b)].
+
+Contracting parties are responsible for the distribution of information within their territories regarding
+regulated pests (Article IV.3(a)), and they are required to the best of their ability, to “conduct
+surveillance for pests and develop and maintain adequate information on pest status in order to support
+categorization of pests, and for the development of appropriate phytosanitary measures. This
+information shall be made available to contracting parties, on request.” (Article VII.2(j)) They are
+required to “designate a contact point for the exchange of information connected with the
+implementation” of the IPPC (Article VIII.2).
+With these systems in operation, contracting parties are able to fulfil the requirement under the IPPC to
+cooperate with one another to the fullest practicable extent in achieving the aims of the Convention
+(Article VIII.1), and in particular to “cooperate in the exchange of information on plant pests,
+particularly the reporting of the occurrence, outbreak or spread of pests that may be of immediate or
+potential danger, in accordance with such procedures as may be established by the Commission” (Article
+VIII.1(a)).
+
+2.     Purpose of Pest Reporting
+The main purpose of pest reporting is to communicate immediate or potential danger. Immediate or
+potential danger normally arises from the occurrence, outbreak or spread of a pest that is a quarantine
+pest in the country in which it is detected, or a quarantine pest for neighbouring countries and countries
+that are traded with.
+The provision of reliable and prompt pest reports confirms the operation of effective surveillance and
+reporting systems within countries.
+Pest reporting allows countries to adjust as necessary their phytosanitary import requirements and
+actions to take into account any changes in pest risk. It provides useful current and historical information
+for operation of phytosanitary systems. Accurate information on pest status facilitates technical
+justification of phytosanitary measures and helps to minimize unjustified interference with trade. Every
+country needs pest reports for these purposes, and can only obtain them by the cooperation of other
+countries. Phytosanitary actions taken by importing countries based on pest reports should be
+commensurate with the pest risk and technically justified.
+
+3.     National Responsibilities
+NPPOs should make provision to ensure the collection, verification and analysis of domestic pest
+reports.
+
+3.1    Surveillance
+Pest reporting depends on the establishment, within countries, of national systems for surveillance, as
+required by the Article IV.2(b) of the IPPC. Information for pest reporting may be derived from either
+of the two types of pest surveillance systems defined in ISPM 6 (Guidelines for surveillance), general
+surveillance or specific surveys. Systems should be put in place to ensure that such information is sent
+
+
+
+International Plant Protection Convention                                                                           ISPM 17-5
+ ISPM 17                                                                                      Pest reporting
+
+
+
+to and collected by the NPPO. The surveillance and collection systems should operate on an ongoing
+and timely basis. Surveillance should be conducted in accordance with ISPM 6.
+
+3.2   Sources of information
+Information for pest reporting may be obtained directly by the NPPO or may be available to the NPPO
+from a variety of other sources (research institutions and journals, websites, growers and their journals,
+other NPPOs etc.). General surveillance by the NPPO includes the review of information from other
+sources.
+
+3.3   Verification and analysis
+NPPOs should put in place systems for verification of domestic pest reports from official and other
+sources (including those brought to their attention by other countries). This should be done by
+confirming the identification of the pest concerned and making a preliminary determination of its
+geographical distribution– and thus establishing its “pest status” in the country, according to ISPM 8
+(Determination of pest status in an area). NPPOs should also put in place systems of PRA to determine
+whether new or unexpected pest situations constitute an immediate or potential danger to their country
+(i.e. the reporting country), requiring phytosanitary action. PRA may also be used to identify, as
+appropriate, whether the situations that have been reported may be of concern to other countries.
+
+3.4   Motivation for domestic reporting
+Where possible, countries should provide incentives for domestic reporting. Growers and others may be
+required officially to report on new or unexpected pest situations and may be encouraged in this, for
+example, by publicity, community action, rewards or penalties.
+
+4.    Reporting Obligations
+The obligation identified under the IPPC (Article VIII.1(a)) is to report the occurrence, outbreak and
+spread of pests that may be of immediate or potential danger. Countries may optionally make other pest
+reports. Such reporting satisfies the general recommendation under the IPPC to cooperate in achieving
+the objectives of the Convention but is not a specific obligation. This standard also considers such other
+cases of pest reporting.
+
+4.1   Reporting of immediate or potential danger
+An immediate danger is considered to be one that has already been identified (pest already regulated) or
+is obvious on the basis of observation or previous experience. A potential danger is one that is identified
+as the result of a PRA.
+Immediate and potential danger of a pest found in the reporting country normally lead to phytosanitary
+or emergency action in that country.
+The occurrence, outbreak and spread of pests which is of immediate or potential danger to the reporting
+country may be of immediate or potential danger to other countries. There is an obligation to report it to
+other countries.
+Contracting parties have an obligation to report occurrence, outbreak or spread of pests that are not of
+danger to them but are known to be regulated by or of immediate danger to other countries. This will
+concern importing countries (for relevant pathways) and neighbouring countries to which the pest could
+spread without trade.
+
+4.2   Other pest reports
+Countries may also, as appropriate, use the same reporting systems to provide pest reports on other pests,
+or to report to other countries, if this contributes usefully to the exchange of information on plant pests
+foreseen under Article VIII of the IPPC. They may also enter into bilateral or multilateral agreements
+on pest reporting, e.g. through RPPOs.
+
+ISPM 17-6                                                        International Plant Protection Convention
+ Pest reporting                                                                                      ISPM 17
+
+
+
+4.3    Reporting of changed status, absence or correction of earlier reports
+Countries may also report cases where immediate or potential danger has changed or is absent (including
+in particular pest absence). Where there has been an earlier report indicating immediate or potential
+danger and it later appears that the report was incorrect or circumstances change so that the risk changes
+or disappears, countries should report the change. Countries may also report that all or part of their
+territory has been categorized as a pest free area, according to ISPM 4 (Requirements for the
+establishment of pest free areas), or report successful eradication according to ISPM 9 (Guidelines for
+pest eradication programmes), or changes in host range or in the pest status of a pest according to one
+of the descriptions in ISPM 8.
+
+4.4    Reporting of pests in imported consignments
+Reporting the pests detected in imported consignments is covered by the ISPM 13 (Guidelines for the
+notification of non-compliance and emergency action) and not by this standard.
+
+5.     Initiation of Reports
+Pest reports are initiated by the occurrence, outbreak, spread or successful eradication of pests, or any
+other new or unexpected pest situation.
+
+5.1    Occurrence
+Occurrence should normally be reported where the presence of a pest is newly determined, which is
+known to be a regulated pest in neighbouring or importing countries (for relevant pathways).
+
+5.2    Outbreak
+An outbreak refers to a recently detected pest population. An outbreak should be reported when its
+presence corresponds at least to the status of “Transient: actionable” in ISPM 8. This means that it should
+be reported even when the pest may survive in the immediate future, but is not expected to establish.
+The term outbreak also applies to an unexpected situation associated with an established pest which
+results in a significant increase in phytosanitary risk to the reporting country, neighbouring or importing
+countries, particularly if it is known that the pest is a regulated pest. Such unexpected situations could
+include a rapid increase in the pest population, changes in host range the development of a new, more
+vigorous strain or biotype, or the detection of a new pathway.
+
+5.3    Spread
+Spread concerns an established pest that expands its geographical distribution, resulting in a significant
+increase in pest risk to the reporting, neighbouring or importing countries, particularly if it is known that
+the pest is regulated.
+
+5.4    Successful eradication
+Eradication may be reported when it is successful, that is when an established or transient pest is
+eliminated from an area and the absence of that pest is verified (see ISPM 9).
+
+5.5    Establishment of pest free area
+The establishment of a pest free area may be reported where this constitutes a change in the pest status
+in that area (see ISPM 4).
+
+6.     Pest Reporting
+6.1    Content of reports
+A pest report should clearly indicate:
+-     the identity of the pest with scientific name (where possible, to the species level, and below
+      species level, if known and relevant)
+
+International Plant Protection Convention                                                         ISPM 17-7
+ ISPM 17                                                                                       Pest reporting
+
+
+
+-     the date of the report
+-     host(s) or articles concerned (as appropriate)
+-     the status of the pest under ISPM 8
+-     geographical distribution of the pest (including a map, if appropriate)
+-     the nature of the immediate or potential danger, or other reason for reporting.
+It may also indicate the phytosanitary measures applied or required, their purpose, and any other
+information as indicated for pest records in ISPM 8.
+If all the information is not available on the pest situation then a preliminary report should be made and
+updates made, as further information becomes available.
+
+6.2   Timing of reporting
+Reports on occurrence, outbreak and spread should be provided without undue delay. This is especially
+important when the probability of immediate spread is high. It is recognized that the operation of the
+national systems for surveillance and reporting (see section 3), and in particular the processes of
+verification and analysis, require a certain time, but this should be kept to a minimum.
+Reports should be updated, as new and more complete information becomes available.
+
+6.3   Mechanism of reporting and destination of reports
+Pest reports which are obligations under the IPPC should be made by NPPOs using at least one of the
+following three systems:
+-      direct communication to official contact points (mail, facsimile or e-mail) – countries are
+       encouraged to use electronic means of pest reporting to facilitate wide and prompt distribution of
+       information
+-      publication on an openly available, official national website (such a website may be designated
+       as part of an official contact point) – precise information on the website access address to the pest
+       reports should be made available to other contracting parties, or at least to the IPPC Secretariat
+-      the International Phytosanitary Portal (IPP).
+In addition, for pests of known and immediate danger to other countries, direct communication to those
+countries, by mail or e–mail, is recommended in any case.
+Countries may also address pest reports to RPPOs, to privately contracted reporting systems, through
+bilaterally agreed reporting systems, or in any other manner acceptable to the countries involved.
+Whatever reporting system is used, the NPPO should retain responsibility for the reports.
+Publication of pest reports in a scientific journal, or in an official journal or gazette that typically has
+limited distribution, does not meet the requirements of this standard.
+
+6.4   Good reporting practices
+Countries should follow the “good reporting practices” set out in ISPM 8.
+If the status of a pest in a country is questioned by another country, then an attempt should be made to
+resolve the matter bilaterally, in the first instance.
+
+6.5   Confidentiality
+Pest reports should not be confidential. However, national systems for surveillance, domestic reporting,
+verification, and analysis may contain confidential information.
+Countries may have in place requirements regarding confidentiality of certain information, e.g. identity
+of growers. National requirements should not affect basic reporting obligations (content of reports,
+timeliness).
+
+ISPM 17-8                                                        International Plant Protection Convention
+ Pest reporting                                                                                    ISPM 17
+
+
+
+Confidentiality in bilateral arrangements should not conflict with international reporting obligations.
+
+6.6    Language
+There are no IPPC obligations in relation to the language used for pest reporting, except where
+contracting parties request information under Article VII.2(j), when one of the official languages of
+FAO should be used for the reply. Contracting parties are encouraged to provide pest reports also in
+English, in particular for purposes of global electronic reporting.
+
+7.     Additional Information
+On the basis of pest reports, contracting parties may request additional information through official
+contact points. The reporting country, to the best of its ability, should report information required under
+Article VII.2(j).
+
+8.     Review
+NPPOs should undertake periodic review of their pest surveillance and reporting systems to ensure that
+they are meeting their reporting obligations and to identify possibilities for improving reliability and
+timeliness. They should make adjustments as appropriate.
+
+9.     Documentation
+National pest surveillance and reporting systems should be adequately described and documented and
+this information should be made available to other countries on request (see ISPM 6).
+
+
+
+
+International Plant Protection Convention                                                       ISPM 17-9
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+cultivated and wild plants by preventing the introduction and
+spread of pests. International travel and trade are greater than
+ever before. As people and commodities move around the
+world, organisms that present risks to plants travel with them.
+
+Organization
+RR There are over 180 contracting parties to the IPPC.
+
+RR Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+RR Nine regional plant protection organizations (RPPOs) work
+
+   to facilitate the implementation of the IPPC in countries.
+RR IPPC liaises with relevant international organizations to
+
+   help build regional and national capacities.
+RR The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+Food and Agriculture Organization of the United Nations
+IPPC Secretariat
+Viale delle Terme di Caracalla, 00153 Rome, Italy
+Tel: +39 06 5705 4812
+Email: ippc@fao.org | Web: www.ippc.int
+

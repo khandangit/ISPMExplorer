@@ -1,0 +1,421 @@
+                                                                                                             ISPM 8
+8
+INTERNATIONAL STANDARD FOR PHYTOSANITARY MEASURES
+
+
+
+
+                                                                                                             ENG
+
+
+
+
+                                                         Determination of
+                                                    pest status in an area
+
+
+
+
+                                                                        Produced by the Secretariat of the
+                                                         International Plant Protection Convention (IPPC)
+ This page is intentionally left blank
+                     INTERNATIONAL STANDARDS FOR
+                        PHYTOSANITARY MEASURES
+
+
+
+
+                ISPM 8
+
+Determination of pest status in an area
+
+
+
+
+                                 Produced by the Secretariat of the
+                          International Plant Protection Convention
+                                   Adopted 2021; published 2021
+
+
+                                                      © FAO 2021
+ Required citation:
+IPPC Secretariat. 2021. Determination of pest status in an area. International Standard for Phytosanitary Measures No. 8. Rome.
+FAO on behalf of the Secretariat of the International Plant Protection Convention.
+
+
+
+The designations employed and the presentation of material in this information product do not imply the expression of any opinion
+whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) concerning the legal or development
+status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. The
+mention of specific companies or products of manufacturers, whether or not these have been patented, does not imply that these
+have been endorsed or recommended by FAO in preference to others of a similar nature that are not mentioned.
+The views expressed in this information product are those of the author(s) and do not necessarily reflect the views or policies of
+FAO.
+© FAO, 2021
+
+
+
+
+Some rights reserved. This work is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO
+licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/icenses/by-nc-sa/3.0/igo/legalcode).
+Under the terms of this licence, this work may be copied, redistributed and adapted for non-commercial purposes, provided that
+the work is appropriately cited. In any use of this work, there should be no suggestion that FAO endorses any specific organization,
+products or services. The use of the FAO logo is not permitted. If the work is adapted, then it must be licensed under the same or
+equivalent Creative Commons licence. If a translation of this work is created, it must include the following disclaimer along with
+the required citation: “This translation was not created by the Food and Agriculture Organization of the United Nations (FAO).
+FAO is not responsible for the content or accuracy of this translation. The original English edition shall be the authoritative edition.”
+Disputes arising under the licence that cannot be settled amicably will be resolved by mediation and arbitration as described in
+Article 8 of the licence except as otherwise provided herein. The applicable mediation rules will be the mediation rules of the World
+Intellectual Property Organization http://www.wipo.int/amc/en/mediation/rules and any arbitration will be conducted in accordance
+with the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL).
+Third-party materials. Users wishing to reuse material from this work that is attributed to a third party, such as tables, figures or
+images, are responsible for determining whether permission is needed for that reuse and for obtaining permission from the
+copyright holder. The risk of claims resulting from infringement of any third-party-owned component in the work rests solely with
+the user.
+Sales, rights and licensing. FAO information products are available on the FAO website (www.fao.org/publications) and can be
+purchased through publications-sales@fao.org. Requests for commercial use should be submitted via: www.fao.org/contact-
+us/licence-request. Queries regarding rights and licensing should be submitted to: copyright@fao.org.
+When this ISPM is reproduced, it should be mentioned that current adopted versions of ISPMs are available for download on
+www.ippc.int.
+For official reference, policy-making or dispute avoidance and settlement purposes, the only ISPMs that may be referred to are
+those published under https://www.ippc.int/en/core-activities/standards-setting/ispms/#614.
+
+
+
+
+Publication history
+This is not an official part of the standard
+1994-05 CEPM-1 added topic Pest categorization and pest                  2017-09 Expert working group drafted revised ISPM.
+   risk definitions (1994-004).                                          2018-05 SC revised          and   approved     draft   for   first
+1994 Expert working group (EWG) developed draft text.                       consultation.
+1995-05 CEPM-2 revised draft text and approved for                       2018-07 First consultation.
+   consultation.                                                         2019-02 Steward revised draft.
+1996-05 CEPM-3 decided to add new draft text.                            2019-05 SC Working Group of seven members (SC-7)
+1997-10 CEPM-4 revised draft text and approved for                          revised and approved draft for second consultation.
+   consultation.                                                         2019-07 Second consultation.
+1998 Sent for consultation.                                              2019-11 SC revised and recommended the draft for
+1998-05 CEPM-5 revised draft text for adoption.                             adoption by CPM.
+1998-11 ICPM-1 adopted standard.                                         2021-03 CPM-15 adopted the standard.
+ISPM 8. 1998. Determination of pest status in an area.                   ISPM 8. 2021. Determination of pest status in an area.
+   Rome, IPPC, FAO.                                                         Rome, IPPC Secretariat, FAO.
+
+2010-03 CPM-5 added topic Revision of ISPM 8                             Publication history last updated: 2021-04
+   (Determination of pest status in an area) (2009-005).
+2013-11    Standards        Committee          (SC)   approved
+   Specification 59.
+ Determination of pest status in an area                                                                                                             ISPM 8
+
+
+
+CONTENTS
+
+Adoption ............................................................................................................................................. 4
+
+INTRODUCTION .............................................................................................................................. 4
+Scope .................................................................................................................................................. 4
+References .......................................................................................................................................... 4
+Definitions .......................................................................................................................................... 4
+Outline of requirements ...................................................................................................................... 4
+
+BACKGROUND ................................................................................................................................ 4
+
+IMPACTS ON BIODIVERSITY AND THE ENVIRONMENT ...................................................... 4
+
+REQUIREMENTS ............................................................................................................................. 5
+1.     Purpose of pest status determination .......................................................................................... 5
+2.     NPPO responsibilities ................................................................................................................. 5
+3.     Information used to determine pest status .................................................................................. 5
+4.     Describing pest status in an area................................................................................................. 6
+       4.1      Presence....................................................................................................................... 6
+       4.2      Absence ....................................................................................................................... 7
+5.     Exchange of pest status information between NPPOs ................................................................ 8
+
+
+
+
+International Plant Protection Convention                                                                                                        ISPM 8-3
+ ISPM 8                                                                  Determination of pest status in an area
+
+
+
+Adoption
+This standard was adopted by the First Session of the Interim Commission on Phytosanitary Measures
+in November 1998. This first revision was adopted by the Fifteenth Session of the Commission on
+Phytosanitary Measures in March 2021 as the present standard.
+
+INTRODUCTION
+
+Scope
+This standard describes the use of pest records and other information to determine pest status in an area.
+Pest status categories are defined and a description of the use of pest status for pest reporting is provided.
+This standard also provides guidance on the possible sources of uncertainty associated with information
+used to determine pest status.
+
+References
+The present standard refers to ISPMs. ISPMs are available on the International Phytosanitary Portal
+(IPP) at https://www.ippc.int/core-activities/standards-setting/ispms.
+IPPC Secretariat. 1997. International Plant Protection Convention. Rome, IPPC Secretariat, FAO.
+
+Definitions
+Definitions of phytosanitary terms used in this standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+Outline of requirements
+National plant protection organizations (NPPOs) use pest status for various activities, such as pest risk
+analysis, the establishment of and compliance with phytosanitary regulations, the establishment of lists
+of regulated pests, and the establishment and maintenance of pest free areas, areas of low pest
+prevalence, pest free places of production and pest free production sites.
+Pest status is determined exclusively by the NPPO responsible for the area concerned and is categorized
+under “presence” or “absence”.
+The quality of the reported information and the reliability and uncertainty of the data are important
+considerations to be taken into account by the NPPO when determining pest status in an area.
+
+BACKGROUND
+Pest records and other information are used by NPPOs to determine the presence or absence of a pest in
+an area. The NPPOs of importing and exporting countries need information concerning the status of
+pests for pest risk analysis, the establishment of and compliance with phytosanitary regulations, the
+establishment and maintenance of pest free areas, areas of low pest prevalence, pest free places of
+production and pest free production sites, and other activities.
+The purpose of this standard is to provide guidance on the determination of the pest status in an area
+using, in particular, information from surveillance and pest records as described in ISPM 6
+(Surveillance). Pest status is a part of the content of pest reports as described in ISPM 17 (Pest
+reporting).
+
+IMPACTS ON BIODIVERSITY AND THE ENVIRONMENT
+This standard may contribute to the protection of biodiversity and the environment by helping countries
+to determine the status of pests whose introduction and spread may have an environmental impact.
+
+ISPM 8-4                                                          International Plant Protection Convention
+ Determination of pest status in an area                                                             ISPM 8
+
+
+
+Determining and describing pest status in a consistent manner may help countries identify risks
+associated with such pests and apply phytosanitary measures to protect biodiversity and the
+environment.
+
+REQUIREMENTS
+
+1.     Purpose of pest status determination
+Determination of pest status in an area is a vital component of various activities undertaken to implement
+the IPPC and covered by the principles described in ISPM 1 (Phytosanitary principles for the protection
+of plants and the application of phytosanitary measures in international trade) and elaborated in other
+ISPMs.
+NPPOs may use pest status information when undertaking activities such as:
+-   pest risk analysis;
+-   considering market access requests;
+-   planning national, regional or international pest surveillance and management programmes;
+-   establishing and complying with phytosanitary regulations;
+-   establishing and maintaining lists of pests present in an area;
+-   establishing and updating lists of regulated pests;
+-   establishing and maintaining pest free areas, areas of low pest prevalence, pest free places of
+    production and pest free production sites;
+-   exchanging information as outlined in the IPPC.
+
+2.     NPPO responsibilities
+Contracting parties have obligations under the IPPC (Article VIII.1(a)) to report “the occurrence,
+outbreak or spread of pests”. Pest status should be determined exclusively by the NPPO responsible for
+the area concerned.
+The NPPO should:
+-    base its determination of pest status on the most reliable and timely information available;
+-    maintain pest records and supporting evidence, taking into account that they may be needed to
+     support the determination of pest status;
+-    re-evaluate pest status if appropriate.
+
+3.     Information used to determine pest status
+Information from pest records or other sources should be used as a basis for determining the appropriate
+pest status among the categories described in section 4.
+The information that should be included in pest records is described in ISPM 6.
+Information is available from many sources and has varying levels of reliability. Old information is less
+likely to be reliable about the current status of a pest than recent information because of changes in pest
+distribution, taxonomy and detection methods.
+Highly reliable and current sources should be used to determine pest status. However, when such sources
+are not available, lower reliability sources may be used. This may increase uncertainty but can also help
+to identify information gaps which can be addressed through surveillance (see ISPM 6) and pest
+diagnostics (see ISPM 27 (Diagnostic protocols for regulated pests)).
+
+
+
+
+International Plant Protection Convention                                                         ISPM 8-5
+ ISPM 8                                                                 Determination of pest status in an area
+
+
+
+Sometimes it may be difficult or not possible to determine pest status because of uncertainty associated
+with the available information. Sources of uncertainty may include:
+-      limited information on pest biology;
+-      taxonomic revisions or ambiguity;
+-      contradictory or outdated information;
+-      difficulties with or unreliability of survey methodologies;
+-      difficulties with or unreliability of diagnostic methodologies;
+-      insufficient information on pest–host associations;
+-      unknown aetiology;
+-      detection of signs or observation of symptoms without finding the pest;
+-      insufficient information on the pest distribution in an area;
+-      unreliability of the information sources.
+When an NPPO is not able to determine pest status, the NPPO should indicate that this is the case.
+
+4.    Describing pest status in an area
+The NPPO should decide upon the most appropriate description of the pest status in an area, based on
+information from various sources including results from surveillance (see ISPM 6).
+Pests under quarantine for diagnostic or research purposes (e.g. in a laboratory), or pest interceptions on
+imported consignments under detention, do not affect the pest status in an area.
+Similarly, detection of a pest in an area, confirmed by surveillance not to represent a population, may
+not affect the pest status in the area. Determination of pest status in an area requires evidence and expert
+judgement on the current distribution of a pest in the area. This judgement should be based on a synthesis
+of available information from various sources, also taking into account historical pest records, where
+available.
+Pest status should be determined for an area identified and specified by the NPPO. When pest status is
+determined, the area concerned and the date should be indicated. Information on pest free areas, pest
+free places of production or pest free production sites may be added to the report (see ISPM 4
+(Requirements for the establishment of pest free areas) and ISPM 10 (Requirements for the
+establishment of pest free places of production and pest free production sites)). Pest status should be
+described according to the categories identified below.
+
+4.1   Presence
+If a pest is present and reliable information is available, the pest status should be further characterized
+using the categories provided in Table 1.
+
+
+
+
+ISPM 8-6                                                         International Plant Protection Convention
+ Determination of pest status in an area                                                                        ISPM 8
+
+
+Table 1. Pest status – Present
+
+  Pest status                                    Pest status description
+  Present: widely distributed                    The pest is present throughout the area, where conditions are
+                                                 suitable.
+  Present: not widely distributed and not        The pest is present in a part or parts of the area and is not
+  under official control                         under “official control” in accordance with Supplement 1
+                                                 (Guidelines on the interpretation and application of the
+                                                 concepts of “official control” and “not widely distributed”) to
+                                                 ISPM 5 (Glossary of phytosanitary terms).
+  Present: not widely distributed and under      The pest is present in a part or parts of the area and is subject
+  official control                               to “official control” in accordance with Supplement 1
+                                                 (Guidelines on the interpretation and application of the
+                                                 concepts of “official control” and “not widely distributed”) to
+                                                 ISPM 5 (Glossary of phytosanitary terms). The purpose of the
+                                                 official control should be stated alongside the pest status
+                                                 determination.
+  Present: at low prevalence                     The pest is present in the area but its prevalence is low in
+                                                 accordance with ISPM 22 (Requirements for the establishment
+                                                 of areas of low pest prevalence).
+  Present: except in specified pest free areas   The pest is present in the area except in parts of the area
+                                                 which are free from the pest in accordance with ISPM 4
+                                                 (Requirements for the establishment of pest free areas). These
+                                                 parts should be described alongside the pest status
+                                                 determination.
+  Present: transient                             The pest is present but the evidence supports the conclusion
+                                                 that the pest is not expected to establish because conditions
+                                                 (e.g. hosts, climate) are not suitable for establishment or
+                                                 appropriate phytosanitary measures have been applied.
+
+
+In some cases, it may be necessary to provide additional information about pest presence, for instance:
+-     the extent of a localized outbreak;
+-     official control measures applied;
+-     the pest has only been reported under specific conditions, such as:
+            on specific hosts,
+            in enclosed structures (e.g. in a greenhouse),
+            in botanical gardens,
+            in the environment but not on a plant host (e.g. in soil or water),
+            in urban areas,
+            at certain times of the year.
+
+4.2    Absence
+If a pest is absent and reliable information is available, the pest status should be further categorized
+using the categories provided in Table 2.
+
+
+
+
+International Plant Protection Convention                                                                    ISPM 8-7
+ ISPM 8                                                                     Determination of pest status in an area
+
+
+Table 2. Pest status – Absent
+
+ Pest status                Pest status description
+ Absent: pest not           Surveillance supports the conclusion that the pest is absent and has not been
+ recorded                   recorded (see ISPM 6 (Surveillance)).
+ Absent: the entire         The entire country is established and maintained as a pest free area in
+ country is pest free       accordance with ISPM 4 (Requirements for the establishment of pest free areas).
+ Absent: pest records       Pest records indicate the presence of a pest, but the conclusion is reached that
+ invalid                    the records are invalid or no longer valid, such as in the following cases:
+                            ‐      changes in taxonomy have occurred;
+                            ‐      misidentification has occurred;
+                            ‐      the record or records have not been confirmed;
+                            ‐      there are errors in the record or records;
+                            ‐      changes in national borders have occurred.
+ Absent: pest no longer     Pest records indicate that the pest was present in the past, but surveillance
+ present                    indicates that the pest is no longer present (see ISPM 6 (Surveillance)). The
+                            reason or reasons may include:
+                            ‐      climate or other natural limitation to pest perpetuation;
+                            ‐      changes in cultivated host species or cultivars;
+                            ‐      changes in production practices.
+ Absent: pest eradicated    Pest records indicate that the pest was present in the past. Documented pest
+                            eradication measures were implemented and were successful (see ISPM 9
+                            (Guidelines for pest eradication programmes)). Surveillance confirms continued
+                            absence (see ISPM 6 (Surveillance)).
+
+
+Lack of information due to inadequate or insufficient surveillance activities does not constitute a basis
+for determining pest absence.
+
+5.    Exchange of pest status information between NPPOs
+Information pertaining to pest status in an area contributes to pest reports (see ISPM 17). It is the
+responsibility of an NPPO to provide pest records and other supporting evidence on pest status upon
+request from another NPPO.
+There may be some cases where a pest status declared by an NPPO is questioned by another NPPO
+(e.g. when there are repeated interceptions by importing countries or contradictory pest records). In such
+cases, bilateral contacts between NPPOs should be made to clarify the situation, and if needed the pest
+status should be revised by the NPPO responsible for the area concerned.
+NPPOs should:
+-   use the categories of pest status set out in this standard when exchanging pest status information,
+    to promote harmonization and transparency;
+-   in a timely manner, inform other NPPOs and their regional plant protection organization, where
+    appropriate, of relevant changes in pest status according to ISPM 17.
+
+
+
+
+ISPM 8-8                                                             International Plant Protection Convention
+ This page is intentionally left blank
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+global plant resources and facilitate safe trade.
+The IPPC vision is that all countries have the capacity to
+implement harmonized measures to prevent pest introductions
+and spread, and minimize the impacts of pests on food
+security, trade, economic growth, and the environment.
+
+Organization
+◆ There are over 180 IPPC contracting parties.
+◆ Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+◆ 10 regional plant protection organizations (RPPOs) have
+
+   been established to coordinate NPPOs in various regions
+   of the world.
+◆ IPPC liaises with relevant international organizations to
+
+   help build regional and national capacities.
+◆ The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+International Plant Production Convention Secretariat
+ippc@fao.org | www.ippc.int
+
+Food and Agriculture Organization of the United Nations
+Rome, Italy
+

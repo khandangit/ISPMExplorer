@@ -1,0 +1,1861 @@
+                                                                                                                    ISPM 5
+
+
+                                                                                                                    E NG
+                                             (IRSS) 5
+                                         MEASURES
+                             SUPPORT SYSTEM
+
+
+
+
+                                                                    Glossary of
+                           PHYTOSANITARY
+
+
+
+
+                                                            phytosanitary terms
+                         AND
+                       FOR
+                  REVIEW
+              STANDARD
+  IMPLEMENTATION
+INTERNATIONAL
+
+
+
+
+                                                                               Produced by the Secretariat of the
+                                                        A       International Plant Protection Convention (IPPC)
+ This page is intentionally left blank
+                 INTERNATIONAL STANDARDS FOR
+                    PHYTOSANITARY MEASURES
+
+
+
+
+            ISPM 5
+
+Glossary of phytosanitary terms
+
+
+
+
+                            Produced by the Secretariat of the
+                     International Plant Protection Convention
+                              Adopted 2024; published 2024
+
+
+
+
+                                                 © FAO 2024
+ Required citation:
+IPPC Secretariat. 2024. Glossary of phytosanitary terms. International Standard for Phytosanitary
+Measures No. 5. Rome. FAO on behalf of the Secretariat of the International Plant Protection
+Convention.
+
+
+
+
+The designations employed and the presentation of material in this information product do not imply
+the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of
+the United Nations (FAO) concerning the legal or development status of any country, territory, city
+or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. The mention
+of specific companies or products of manufacturers, whether or not these have been patented, does
+not imply that these have been endorsed or recommended by FAO in preference to others of a
+similar nature that are not mentioned.
+
+The views expressed in this information product are those of the author(s) and do not necessarily
+reflect the views or policies of FAO.
+
+© FAO, 2024
+
+
+
+
+Some rights reserved. This work is made available under the Creative Commons Attribution-
+NonCommercial-ShareAlike 3.0 IGO licence (CC BY-NC-SA 3.0 IGO;
+https://creativecommons.org/licenses/by-nc-sa/3.0/igo/legalcode).
+
+Under the terms of this licence, this work may be copied, redistributed and adapted for non-
+commercial purposes, provided that the work is appropriately cited. In any use of this work, there
+should be no suggestion that FAO endorses any specific organization, products or services. The use
+of the FAO logo is not permitted. If the work is adapted, then it must be licensed under the same or
+equivalent Creative Commons licence. If a translation of this work is created, it must include the
+following disclaimer along with the required citation: “This translation was not created by the Food
+and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or
+accuracy of this translation. The original English edition shall be the authoritative edition.”
+
+Disputes arising under the licence that cannot be settled amicably will be resolved by mediation and
+arbitration as described in Article 8 of the licence except as otherwise provided herein. The
+applicable mediation rules will be the mediation rules of the World Intellectual Property Organization
+https://www.wipo.int/amc/en/mediation/rules and any arbitration will be conducted in accordance
+with the Arbitration Rules of the United Nations Commission on International Trade Law
+(UNCITRAL).”
+
+Third-party materials. Users wishing to reuse material from this work that is attributed to a third
+party, such as tables, figures or images, are responsible for determining whether permission is
+needed for that reuse and for obtaining permission from the copyright holder. The risk of claims
+resulting from infringement of any third-party-owned component in the work rests solely with the
+user.
+
+Sales, rights and licensing. FAO information products are available on the FAO website
+(https://www.fao.org/publications) and can be purchased through publications-sales@fao.org.
+Requests for commercial use should be submitted via: https://www.fao.org/contact-us/licence-
+request. Queries regarding rights and licensing should be submitted to: copyright@fao.org.
+
+When this ISPM is reproduced, it should be mentioned that current adopted versions of ISPMs are
+available for download on https://www.ippc.int.
+
+For official reference, policy-making or dispute avoidance and settlement purposes, the only ISPMs
+that may be referred to are those published under https://www.ippc.int/en/core-activities/standards-
+setting/ispms/#614.
+ Publication history
+This is not an official part of the standard
+1986-05 Regional plant protection organizations (RPPOs)     2006-03 CPM-1 created the Technical Panel for the
+recommended creation of a Core vocabulary of                   Glossary (TPG).
+phytosanitary terms.                                        2006-10 1st meeting of the TPG. TPG revised standard.
+1988-02 RPPOs reviewed and approved for North               2007-05 SC revised standard and approved for
+   American Plant Protection Organization (NAPPO) and          consultation.
+   European and Mediterranean Plant Protection              2007-06 Consultation.
+   Organization (EPPO) consultation.                        2007-11 SC approved draft to be submitted for adoption.
+1989-09 RPPOs prepared draft Core vocabulary of             2008-04 CPM-3 adopted revised ISPM 5. 2008.
+   phytosanitary terms.                                     2007-10 TPG revised standard.
+1990 FAO published FAO Glossary of phytosanitary terms;     2008-05 SC-7 revised standard and approved for
+   FAO Plant Protection Bulletin 38(1).                        Consultation.
+1991-05 TC-RPPOs endorsed topic Glossary phytosanitary      2008-06 Consultation.
+   terms (1991-001).                                        2008-11 SC approved draft to be submitted for adoption.
+1993-05 TC-RPPOs revised terms and recommended to           2009-03 CPM-4 adopted revised ISPM 5. 2009.
+   establish working group for the FAO Glossary (GWG).
+1994-02 1st meeting of the GWG.                             2008-10 TPG revised standard.
+1994-03 CEPM-1 revised text and agreed to add new terms.    2009-05 SC revised standard and approved for
+1995-05 CEPM-2 decided publication of revised Glossary of      Consultation.
+   phytosanitary terms as an ISPM.                          2009-06 Consultation.
+1996-05 CEPM-3 revised text of Glossary of phytosanitary    2009-11 SC approved draft to be submitted for adoption.
+   terms.                                                   2010-03 CPM-5 adopted revised ISPM 5. 2010.
+1997-10 CEPM-4 revised the text and 29th Session of the
+   FAO Conference approved the glossary.                    2010-03 CPM-5 noted and IPPC Secretariat applied ink
+                                                               amendments to Supplement 1 (English version).
+1999-02 GWG revised the glossary.                           2011-03 CPM-6 noted and IPPC Secretariat applied ink
+1999-05 CEPM-6 revised the glossary and recommended            amendments to: “efficacy (of a treatment)”,
+   for adoption.                                               “establishment”, “introduction”, “spread”, “regulated
+1999-10 ICPM-2 adopted ISPM 5. 1999.                           area”, “consignment”, “inspection”, “quarantine”, and
+                                                               Supplement 1, 4 (English version).
+1999-09 GWG revised standard.                               2009-06 TPG started reviewing adopted standards for
+2000-05 ISC-1 revised standard and approved for                consistency in the use of terms.
+   consultation.                                            2010-10 TPG drafted amendments.
+2000-06 Consultation.                                       2011-05 SC revised draft and approved for consultation.
+2000-11 ISC-2 revised standard for adoption.                2011-06 Consultation.
+2001-04 ICPM-3 adopted revised ISPM 5. 2001.                2011-11 SC approved draft to be submitted for adoption.
+                                                            2012-03 CPM-7 adopted revised ISPM 5. 2012.
+2000-03 and 2001-03 GWG revised standard.
+2001-05 ISC-3 approved Specification 1 Review and           2013-03 CPM-8 noted and IPPC Secretariat applied ink
+   updating of the glossary of phytosanitary terms.            amendments to: “release (into the environment)”,
+2001-05 ISC-3 revised standard and approved for                “corrective action plan (in an area)”, “endangered area”,
+   consultation.                                               “official control”, “pest risk (for quarantine pests)”, “pest
+2001-06 Consultation.                                          risk (for regulated non-quarantine pests)”, “pest risk
+2001-11 ISC-4 revised standard for adoption.                   assessment (for quarantine pests)”, “pest risk
+2002-03 ICPM-4 adopted revised ISPM 5. 2002.                   assessment (for regulated non-quarantine pests)”, “pest
+                                                               risk management (for regulated non-quarantine pests)”,
+2002-02 GWG revised standard.                                  “phytosanitary        measure”,       “plant    quarantine”,
+2002-05 Standards Committee (SC) revised standard and          “phytosanitary regulation”, “regulated area”, “regulated
+   approved for consultation.                                  non-quarantine pest”, and Supplement 2 (English
+2002-06 Sent for consultation.                                 version).
+2002-11 SC revised standard for adoption.                   2012-10 TPG drafted amendments.
+2003-04 ICPM-5 adopted revised ISPM 5. 2003.                2013-06 Consultation.
+                                                            2014-05 SC-7 approved draft for substantial concerns
+2003-02 GWG revised standard.                                  commenting period (SCCP).
+2003-05 SC-7 agreed recommendations by TPG.                 2014-06 SCCP.
+2003-09 GWG revised standard.                               2014-11 SC approved draft to be submitted for adoption.
+2003-11 SC revised standard and requested to add new        2015-03 CPM-10 adopted revised ISPM 5. 2015.
+   terms on ISPMs.
+2004-02 GWG revised standard.                               2015-03 CPM-10 noted and IPPC Secretariat applied ink
+2004-04 SC revised standard and approved for                   amendments to the terms: “bulbs and tubers”, “cut
+   consultation.                                               flowers and branches”, “fruits and vegetables”, “grain”,
+2004-06 Consultation.                                          “plants in vitro”, “seeds”, “wood”.
+2004-11 SC revised standard for adoption.                   2015-05 IPPC Secretariat corrected a mistake introduced in
+2005-04 ICPM-7 adopted revised ISPM 5. 2005.                   the definition of “pest free area” and “area of low pest
+                                                               prevalence”.
+2004-10 & 2005-10 GWG revised standard.                     2013-02 TPG drafted amendments.
+2006-05 SC revised standard and approved              for   2014-05 SC revised draft and approved for consultation.
+   consultation.                                            2014-07 Consultation.
+2006-06 Consultation.                                       2015-05 SC-7 approved for SCCP.
+2006-11 SC revised standard for adoption.                   2015-06 SCCP.
+2007-03 CPM-2 adopted revised ISPM 5. 2007.                 2015-11 SC approved draft to be submitted for adoption.
+                                                            2016-04 CPM-11 adopted revised ISPM 5. 2016.
+ 2016-04 IPPC Secretariat adjusted the sources of              2020-04 SC revised 2020 amendments via Online
+   definitions to not include “revision” for ink amendments      Comment System and approved for first consultation
+   following TPG 2015-12 decision.                               (2020_eSC_May_17).
+2017-04 CPM noted and IPPC Secretariat applied ink            2020-07 First consultation.
+   amendments to the term “practically free” and to replace   2020-12 TPG revised.
+   “protected area” with “regulated area”, as appropriate.    2021-05 SC-7 approved for second consultation.
+                                                              2021-07 Second consultation.
+2014-12 TPG drafted amendments for approval by SC in          2021-11 SC approved draft to be submitted for adoption.
+   2015.                                                      2022-04 CPM-16 adopted revised ISPM 5. 2022.
+2015-05 SC reviewed and approved for consultation.
+2015-12 TPG drafted amendments for approval by SC in          2022-04 CPM-16 noted and IPPC Secretariat applied ink
+   2016.                                                         amendments to the term “area of low pest prevalence”.
+2016-05 SC approved for first consultation.                   2022-06 IPPC Secretariat fixed a term in the “Adoption”
+2016-07 First consultation.                                      section.
+2016-12 TPG reviewed consultation comments and                2022-07 IPPC Secretariat fixed a typo in the “detection
+   adjusted the draft 2016 amendments; also                      survey” definition.
+   recommended that revision of “endangered area” be
+   withdrawn from draft 2016 amendments because               2021-01 TPG proposed amendments.
+   “endangered area” is defined in Article II of IPPC and     2021-05 SC revised 2021 amendments via Online
+   the original definition is not incorrect. The                 Comment System and approved for first consultation.
+   misunderstandings that the revision could address are      2021-07 First consultation.
+   not sufficiently important to merit an “agreed             2021-12 TPG revised.
+   interpretation” of the term. Instead, the Explanatory      2022-05 SC-7 revised via Online Comment System and
+   document on ISPM 5 (the “Annotated Glossary”),                approved for second consultation.
+   note 1, will be adjusted to clarify that the term          2022-07 Second consultation.
+   “endangered area” should not be misinterpreted to          2022-11 SC approved draft to be submitted for adoption.
+   mean an environmentally protected area in the              2023-03 CPM-17 adopted revised ISPM 5. 2023.
+   ecological conservation sense.
+2017-05 SC-7 approved for second consultation.                2023-04 IPPC Secretariat corrected minor typographical
+2017-10 Steward revised draft amendments based on                errors (including application of italics and subscript to
+   comments.                                                     “Dmin”) and updated capitalization, punctuation and
+2017-11 SC reviewed and recommended the draft 2015 and           citation style to align with new IPPC style.
+   2016 amendments to the CPM for adoption.                   2023-07 IPPC Secretariat corrected a typographical error in
+2018-04 CPM-13 adopted revised ISPM 5. 2018.                     the definition of the term “emergency measure”.
+2018-04 CPM noted and IPPC Secretariat applied ink
+   amendment to the term “detention”.                         2021-12 TPG proposed 2022 amendments.
+2019-01 IPPC Secretariat updated the glossary terms under     2022-05 SC revised amendments via Online Comment
+   revision (indicated by a *).                                  System and approved for first consultation.
+                                                              2022-07 First consultation.
+2016-12 TPG drafted amendments.                               2022-11 SC reviewed 2021 amendments “general
+2017-05 SC approved for first consultation.                      surveillance”, “specific surveillance”, “surveillance”,
+2017-07 First consultation.                                      “inspection”, “test” and “release (of a consignment)”;
+2017-12 TPG revised.                                             referred “test” and “inspection” to TPG (and then SC-7)
+2018-05 SC-7 approved for second consultation.                   for review; and referred “general surveillance”, “specific
+2018-7 Second consultation.                                      surveillance”, “surveillance” and “release (of a
+2018-10 TPG Steward and Assistant Steward revised.               consignment)” to SC-7 for review.
+2018-11 SC approved draft to be submitted for adoption.       2022-12 and 2023-03 TPG reviewed and drafted
+2019-04 CPM-14 adopted revised ISPM 5. 2019.                     recommendations to SC-7 on 2021 amendments.
+                                                              2023-05 SC-7 approved 2022 amendments for second
+2019-06 IPPC Secretariat fixed a typo in the glossary term       consultation; approved 2021 amendments “general
+   “survey”.                                                     surveillance”, “surveillance” and “test” for third
+2017-12 TPG drafted amendments.                                  consultation as part of 2022 amendments; and
+2018-05 SC approved for first consultation.                      recommended that SC submit for adoption “specific
+2018-07 First consultation.                                      surveillance”, “release (of a consignment)” and
+2018-12 TPG revised.                                             “inspection”.
+2019-05 SC-7 revised and approved for second                  2023-07 Second and third consultation.
+   consultation.                                              2023-10 TPG steward and assistant steward reviewed
+2019-07 Second consultation.                                     second and third consultation comments and provided
+2019-10 TPG Steward and Assistant Steward revised.               recommendations to SC.
+2019-11 SC approved draft to be submitted for adoption.       2023-11 SC revised and approved for adoption.
+2021-03 CPM-15 adopted revised ISPM 5. 2021.                  2024-04 CPM-18 adopted revised ISPM 5. 2024.
+
+2021-04 IPPC Secretariat corrected some minor                 2024-04 IPPC Secretariat updated bibliographic style to
+   typographical errors and updated punctuation and              align with new FAO style and corrected minor
+   citation style to align with FAO style.                       typographical errors (application of bold to “debarked
+2021-05 IPPC Secretariat fixed a typo in the glossary term       wood”, “infest”, “official” and “treatment”, and
+   “wood (as a commodity)”.                                      derivatives, in definitions).
+                                                              2024-07 IPPC Secretariat applied ink amendments as
+2018-12 TPG drafted amendments for approval by SC in             noted by CPM-18 (2024).
+   2019.
+2019-05 SC reviewed and approved for first consultation.      Supplement 1
+2019-11 TPG drafted amendments for approval by SC in          1999-10 ICPM-2 added topic Official control (1999-002).
+   2020.                                                      2000-03 Expert working group (EWG) developed draft text.
+ 2000-05 ISC-1 revised draft text and approved for
+consultation.
+2000-06 Consultation.
+2000-11 ISC-2 approved draft to be submitted for adoption.
+2001-04 ICPM-3 adopted Supplement 1 to ISPM 5.
+ISPM 5. Supplement 1. Guidelines on the interpretation
+   and application of the concept of official control for
+   regulated pests (2001).
+2005-03 ICPM-7 added the topic Not widely distributed
+   (2005-008) (supplement to ISPM 5: Glossary of
+   phytosanitary terms).
+2006-05 SC approved Specification 33.
+2008-05 SC-7 reviewed draft.
+2011-05 SC approved for consultation.
+2011-06 Consultation.
+2011-11 TPG reviewed comments.
+2011-11 SC approved draft supplement to ISPM.
+2012-03 CPM-7 adopted revised Supplement 1 to ISPM 5.
+ISPM 5. Supplement 1. Guidelines on the interpretation
+   and application of the concepts of “official control” and
+   “not widely distributed” (2012).
+
+Supplement 2
+2001-04 ICPM-3 added topic Defining economic
+   importance (2001-004).
+2002-02 GWG developed draft text.
+2002-05 SC revised draft text and approved for
+   consultation.
+2002-06 Consultation.
+2002-11 SC revised draft text for adoption.
+2003-04 ICPM-5 adopted Supplement 2 to ISPM 5.
+ISPM 5. Supplement 2. Guidelines on the understanding of
+   “potential economic importance” and related terms
+   including reference to environmental considerations
+   (2003).
+
+Appendix 1
+2005-03 ICPM-7 IPPC and CBD (Convention on Biological
+   Diversity) secretariats decided cooperation programme.
+2006-04 CPM-1 agreed to assess progress on the work
+   programme (2006-033).
+2006-10 TPG developed draft text.
+2007-05 SC requested TPG to develop draft text CBD
+   terms.
+2007-10 TPG developed draft text.
+2008-05 SC revised draft text and approved for
+   consultation.
+2008-06 Consultation.
+2008-11 SC revised draft text for adoption.
+2009-03 CPM-4 adopted Appendix 1 to ISPM 5.
+ISPM 5. Appendix 1. Terminology of the Convention on
+   Biological Diversity in relation to the Glossary of
+   phytosanitary terms (2009).
+
+Publication history last updated: 2024-07
+ ISPM 5                                                                                                            Glossary of phytosanitary terms
+
+
+
+CONTENTS
+Adoption ...................................................................................................................................................8
+
+INTRODUCTION ....................................................................................................................................8
+Scope ........................................................................................................................................................8
+Purpose .....................................................................................................................................................8
+References ................................................................................................................................................8
+Outline of reference ................................................................................................................................10
+
+PHYTOSANITARY TERMS AND DEFINITIONS .............................................................................11
+
+SUPPLEMENT 1: Guidelines on the interpretation and application of the concepts of “official control”
+   and “not widely distributed” ...........................................................................................................24
+INTRODUCTION ..................................................................................................................................24
+Scope ......................................................................................................................................................24
+References ..............................................................................................................................................24
+Definition ...............................................................................................................................................24
+BACKGROUND ....................................................................................................................................24
+REQUIREMENTS .................................................................................................................................24
+1.     General requirements ......................................................................................................................24
+       1.1      Official control ................................................................................................................25
+       1.2      Not widely distributed .....................................................................................................25
+       1.3      Decision to apply official control ....................................................................................25
+2.     Specific requirements .....................................................................................................................26
+       2.1       Technical justification .....................................................................................................26
+       2.2       Non-discrimination .........................................................................................................26
+       2.3       Transparency ...................................................................................................................26
+       2.4       Enforcement ....................................................................................................................27
+       2.5       Mandatory nature of official control ...............................................................................27
+       2.6       Area of application ..........................................................................................................27
+       2.7       NPPO authority and involvement in official control.......................................................27
+
+SUPPLEMENT 2: Guidelines on the understanding of “potential economic importance” and related
+   terms including reference to environmental considerations ...........................................................28
+1.     Purpose and scope ..........................................................................................................................28
+2.     Background.....................................................................................................................................28
+3.     Economic terms and environmental scope of the IPPC and ISPMs ...............................................28
+4.     Economic considerations in PRA ...................................................................................................29
+       4.1     Types of economic effect ................................................................................................29
+       4.2     Costs and benefits ...........................................................................................................29
+5.     Application .....................................................................................................................................30
+APPENDIX TO SUPPLEMENT 2 ........................................................................................................31
+
+
+ISPM 5-6                                                                                        International Plant Protection Convention
+ Glossary of phytosanitary terms                                                                                                               ISPM 5
+
+
+
+APPENDIX 1: Terminology of the Convention on Biological Diversity in relation to the Glossary of
+   phytosanitary terms ........................................................................................................................32
+1.    Introduction ....................................................................................................................................32
+2.    Presentation ....................................................................................................................................32
+3.    Terminology ...................................................................................................................................32
+      3.1     “Alien species” ................................................................................................................32
+      3.2     “Introduction” .................................................................................................................33
+      3.3     “Invasive alien species” ..................................................................................................33
+      3.4     “Establishment”...............................................................................................................34
+      3.5     “Intentional introduction” ...............................................................................................35
+      3.6     “Unintentional introduction” ...........................................................................................35
+      3.7     “Risk analysis” ................................................................................................................35
+4.    Other concepts ................................................................................................................................36
+5.    References ......................................................................................................................................36
+
+
+
+
+International Plant Protection Convention                                                                                                   ISPM 5-7
+ ISPM 5                                                                      Glossary of phytosanitary terms
+
+
+
+Adoption
+This standard was first recommended for publication as an international standard by the FAO Committee
+of Experts on Phytosanitary Measures in 1996, and published in 1997. The first version of the glossary
+as ISPM 5 was adopted by the Second Session of the Interim Commission on Phytosanitary Measures
+in 1999. It has undergone repeated modifications since then. The current edition of ISPM 5 arises from
+amendments adopted by the Eighteenth Session of the Commission on Phytosanitary Measures in April
+2024.
+Supplement 1 was first adopted by the Third Session of the Interim Commission on Phytosanitary
+Measures in April 2001. The first revision of Supplement 1 was adopted by the Seventh Session of the
+Commission on Phytosanitary Measures in March 2012. Supplement 2 was adopted by the Fifth Session
+of the Interim Commission on Phytosanitary Measures in April 2003. Appendix 1 was adopted by the
+Fourth Session of the Commission on Phytosanitary Measures in March–April 2009.
+
+INTRODUCTION
+
+Scope
+This reference standard is a listing of terms and definitions with specific meaning for phytosanitary
+systems worldwide. It has been developed to provide a harmonized internationally agreed vocabulary
+associated with the implementation of the International Plant Protection Convention (IPPC) and
+International Standards for Phytosanitary Measures (ISPMs).
+Within the context of the IPPC and its ISPMs, all references to plants should be understood to continue
+to include algae and fungi, consistent with the International Code of Nomenclature for algae, fungi, and
+plants.
+
+Purpose
+The purpose of this reference standard is to increase clarity and consistency in the use and understanding
+of terms and definitions which are used by contracting parties for official phytosanitary purposes, in
+phytosanitary legislation and regulations, as well as for official information exchange.
+
+References
+The references below correspond to the approval of terms and definitions, as indicated in the definitions.
+For ISPMs, they do not indicate the most recent version (which is available on the IPP at
+https://www.ippc.int/core-activities/standards-setting/ispms).
+CBD (Convention on Biological Diversity). 2000. Cartagena Protocol on Biosafety to the Convention
+     on Biological Diversity. Montreal, CBD Secretariat.
+CEPM. 1996. Report of the Third Meeting of the FAO Committee of Experts on Phytosanitary
+     Measures, Rome, 13–17 May 1996. IPPC Secretariat. Rome, FAO.
+—— 1997. Report of the Fourth Meeting of the FAO Committee of Experts on Phytosanitary Measures,
+     Rome, 6–10 October 1997. IPPC Secretariat. Rome, FAO.
+—— 1998. Report of the Fifth Meeting of the FAO Committee of Experts on Phytosanitary Measures,
+     Rome, 11–14 May 1998. IPPC Secretariat. Rome, FAO.
+—— 1999. Report of the Sixth Meeting of the Committee of Experts on Phytosanitary Measures, Rome,
+     Italy: 17–21 May 1999. IPPC Secretariat. Rome, FAO.
+CPM. 2007. Report of the Second Session of the Commission on Phytosanitary Measures, Rome,
+     26–30 March 2007. IPPC Secretariat. Rome, FAO.
+—— 2008. Report of the Third Session of the Commission on Phytosanitary Measures, Rome,
+     7–11 April 2008. IPPC Secretariat. Rome, FAO.
+
+
+ISPM 5-8                                                        International Plant Protection Convention
+ Glossary of phytosanitary terms                                                                ISPM 5
+
+
+
+—— 2009. Report of the Fourth Session of the Commission on Phytosanitary Measures, Rome,
+     30 March–3 April 2009. IPPC Secretariat. Rome, FAO.
+—— 2012. Report of the Seventh Session of the Commission on Phytosanitary Measures, Rome,
+     19–23 March 2012. IPPC Secretariat. Rome, FAO.
+—— 2013. Report of the Eighth Session of the Commission on Phytosanitary Measures, 8-12 April
+     2013. IPPC Secretariat. Rome, FAO.
+—— 2015. Report of the Tenth Session of the Commission on Phytosanitary Measures, Rome,
+     16–20 March 2015. IPPC Secretariat. Rome, FAO.
+—— 2016. Report of the Eleventh Session of the Commission on Phytosanitary Measures, Rome,
+     4–8 March 2016. IPPC Secretariat. Rome, FAO.
+—— 2018. Report of the Thirteenth Session of the Commission on Phytosanitary Measures, Rome,
+     16–20 April 2018. IPPC Secretariat. Rome, FAO.
+—— 2019. Report of the Fourteenth Session of the Commission on Phytosanitary Measures, Rome,
+     1–5 April 2019. IPPC Secretariat. Rome, FAO.
+—— 2021. Report of the Fifteenth Session of the Commission on Phytosanitary Measures, Rome,
+     16 March, 18 March and 1 April 2021. IPPC Secretariat. Rome, FAO.
+—— 2022. Report of the Sixteenth Session of the Commission on Phytosanitary Measures, Rome,
+     5 April, 7 April and 21 April 2022. IPPC Secretariat. Rome, FAO.
+—— 2023. Report of the Seventeenth Session of the Commission on Phytosanitary Measures, Rome,
+     27–31 March 2023. IPPC Secretariat. Rome, FAO.
+—— 2024. Report of the Eighteenth Session of the Commission on Phytosanitary Measures, Rome,
+     15–19 April 2024. IPPC Secretariat. Rome, FAO.
+FAO. 1990. FAO Glossary of phytosanitary terms. FAO Plant Protection Bulletin, 38(1): 5–23. [current
+     equivalent: ISPM 5]
+FAO. 1995. See ISPM 5, 1995.
+ICPM. 2001. Report of the Third Interim Commission on Phytosanitary Measures, Rome, 2–6 April
+     2001. IPPC Secretariat. Rome, FAO.
+—— 2002. Report of the Fourth Interim Commission on Phytosanitary Measures, Rome,
+     11–15 March 2002. IPPC Secretariat. Rome, FAO.
+—— 2003. Report of the Fifth Interim Commission on Phytosanitary Measures, Rome, 07–11 April
+     2003. IPPC Secretariat. Rome, FAO.
+—— 2005. Report of the Seventh Interim Commission on Phytosanitary Measures, Rome, 4–7 April
+     2005. IPPC Secretariat. Rome, FAO.
+IPPC Secretariat. 1997. International Plant Protection Convention. IPPC Secretariat. Rome, FAO.
+ISO/IEC. 1991. ISO/IEC Guide 2:1991, General terms and their definitions concerning standardization
+     and related activities. Geneva, International Organization for Standardization, International
+     Electrotechnical Commission.
+ISPM 2. 2007. Framework for pest risk analysis. IPPC Secretariat. Rome, FAO.
+ISPM 3. 1995. Code of conduct for the import and release of exotic biological control agents. IPPC
+     Secretariat. Rome, FAO. [published 1996]
+ISPM 3. 2005. Guidelines for the export, shipment, import and release of biological control agents and
+     other beneficial organisms. IPPC Secretariat. Rome, FAO.
+ISPM 5. 1995. Glossary of phytosanitary terms. IPPC Secretariat. Rome, FAO. [published 1996]
+ISPM 8. 1998. Determination of pest status in an area. IPPC Secretariat. Rome, FAO.
+ISPM 10. 1999. Requirements for the establishment of pest free places of production and pest free
+     production sites. IPPC Secretariat. Rome, FAO.
+ISPM 11. 2001. Pest risk analysis for quarantine pests. IPPC Secretariat. Rome, FAO.
+
+
+
+International Plant Protection Convention                                                    ISPM 5-9
+ ISPM 5                                                                       Glossary of phytosanitary terms
+
+
+
+ISPM 11. 2004. Pest risk analysis for quarantine pests including analysis of environmental risks and
+    living modified organisms. IPPC Secretariat. Rome, FAO.
+ISPM 14. 2002. The use of integrated measures in a systems approach for pest risk management. IPPC
+    Secretariat. Rome, FAO.
+ISPM 15. 2002. Guidelines for regulating wood packaging material in international trade. IPPC
+    Secretariat. Rome, FAO.
+ISPM 16. 2002. Regulated non-quarantine pests: concept and application. IPPC Secretariat. Rome,
+    FAO.
+ISPM 17. 2002. Pest reporting. IPPC Secretariat. Rome, FAO.
+ISPM 18. 2003. Guidelines for the use of irradiation as a phytosanitary measure. IPPC Secretariat.
+    Rome, FAO.
+ISPM 20. 2004. Guidelines for a phytosanitary import regulatory system. IPPC Secretariat. Rome,
+    FAO.
+ISPM 21. 2004. Pest risk analysis for regulated non-quarantine pests. IPPC Secretariat. Rome, FAO.
+ISPM 22. 2005. Requirements for the establishment of areas of low pest prevalence. IPPC Secretariat.
+    Rome, FAO.
+ISPM 23. 2005. Guidelines for inspection. IPPC Secretariat. Rome, FAO.
+ISPM 24. 2005. Guidelines for the determination and recognition of equivalence of phytosanitary
+    measures. IPPC Secretariat. Rome, FAO.
+ISPM 25. 2006. Consignments in transit. IPPC Secretariat. Rome, FAO.
+ISPM 27. 2006. Diagnostic protocols for regulated pests. IPPC Secretariat. Rome, FAO.
+ISPM 28. 2007. Phytosanitary treatments for regulated pests. IPPC Secretariat. Rome, FAO.
+WTO (World Trade Organization). 1994. Agreement on the Application of Sanitary and
+    Phytosanitary Measures. Geneva.
+
+Outline of reference
+The purpose of this standard is to assist national plant protection organizations (NPPOs) and others in
+information exchange and the harmonization of vocabulary used in official communications and
+legislation pertaining to phytosanitary measures. The present version incorporates revisions agreed as a
+result of the approval of the International Plant Protection Convention (1997) and terms added through
+the adoption of additional International Standards for Phytosanitary Measures (ISPMs).
+The glossary contains all terms and definitions approved until the Eighteenth Session of the Commission
+on Phytosanitary Measures (CPM, 2024). References in square brackets refer to the approval of the term
+and definition, and not to subsequent adjustments in translation.
+As in previous editions of the glossary, terms in definitions are printed in bold to indicate their relation
+to other glossary terms and to avoid unnecessary repetition of elements described elsewhere in the
+glossary. Derived forms of words that appear in the glossary (e.g. inspected from inspection) are also
+considered glossary terms.
+
+
+
+
+ISPM 5-10                                                        International Plant Protection Convention
+ Glossary of phytosanitary terms                                                                        ISPM 5
+
+
+
+PHYTOSANITARY TERMS AND DEFINITIONS
+* Indicates that the term, at the time of publishing, is on the work programme of the Technical Panel
+for the Glossary which means the terms or definitions may be revised or deleted in the future.
+
+ absorbed dose                    Quantity of radiating energy absorbed per unit of mass of a specified
+                                  target [ISPM 18, 2003; revised CPM, 2012]
+ additional declaration           A statement that is required by an importing country to be entered on a
+                                  phytosanitary certificate and which provides specific additional
+                                  information on a consignment in relation to regulated pests or
+                                  regulated articles [FAO, 1990; revised ICPM, 2005; CPM, 2016]
+ area                             An officially defined country, part of a country or all or parts of several
+                                  countries [FAO, 1990; revised ISPM 2, 1995; CEPM, 1999; based on
+                                  the World Trade Organization Agreement on the Application of Sanitary
+                                  and Phytosanitary Measures (WTO, 1994)]
+ area endangered                  See endangered area
+ area of low pest                 An area, whether all of a country, part of a country, or all or parts of
+ prevalence                       several countries, as identified by the competent authorities, in which a
+                                  specific pest is present at low levels and which is subject to effective
+                                  surveillance or control [IPPC, 1997; revised CPM, 2015]
+ bark                             The layer of a woody trunk, branch or root outside the cambium
+                                  [CPM, 2008]
+ bark-free wood                   Wood from which all bark, except ingrown bark around knots and bark
+                                  pockets between rings of annual growth, has been removed [ISPM 15,
+                                  2002; revised CPM, 2008]
+ biological control agent         A natural enemy, antagonist or competitor, or other organism, used for
+                                  pest control [ISPM 3, 1995; revised ISPM 3, 2005]
+ buffer zone                      An area surrounding or adjacent to an area officially delimited for
+                                  phytosanitary purposes in order to minimize the probability of spread
+                                  of the target pest into or out of the delimited area, and subject to
+                                  phytosanitary or other control measures, if appropriate [ISPM 10, 1999;
+                                  revised ISPM 22, 2005; CPM, 2007]
+ chemical pressure                Treatment of wood with a chemical preservative through a process of
+ impregnation                     pressure in accordance with an official technical specification
+                                  [ISPM 15, 2002; revised ICPM, 2005]
+ commission                       The Commission on Phytosanitary Measures established under Article
+                                  XI [IPPC, 1997]
+ commodity                        A type of plant, plant product or other article being moved for trade or
+                                  other purpose [FAO, 1990; revised ICPM, 2001]
+ commodity pest list              A list of pests present in an area which may be associated with a specific
+                                  commodity [CEPM, 1996; revised CPM, 2015]
+
+
+
+
+International Plant Protection Convention                                                           ISPM 5-11
+ ISPM 5                                                                    Glossary of phytosanitary terms
+
+
+
+ compliance procedure       Official process of document checks, verification of consignment
+ (for a consignment)        integrity, inspection or testing to verify if a consignment complies
+                            with phytosanitary import requirements or phytosanitary
+                            requirements related to transit [CEPM, 1999; revised CPM, 2009;
+                            CPM, 2023]
+ consignment                A quantity of plants, plant products or other articles being moved from
+                            one country to another and covered, when required, by a single
+                            phytosanitary certificate (a consignment may be composed of one or
+                            more commodities or lots) [FAO, 1990; revised ICPM, 2001]
+ consignment in transit     A consignment which passes through a country without being imported,
+                            and that may be subject to phytosanitary measures [FAO, 1990;
+                            revised CEPM, 1996; CEPM 1999; ICPM, 2002; ISPM 25, 2006;
+                            formerly “country of transit”]
+ containment                Application of phytosanitary measures in and around an infested area
+                            to prevent spread of a pest [FAO, 1995]
+ contaminating pest         A pest that is carried by a commodity, packaging, conveyance or
+                            container, or present in a storage place and that, in the case of plants and
+                            plant products, does not infest them [CEPM, 1996; revised CEPM,
+                            1999; CPM, 2018]
+ contamination              Presence of a contaminating pest or unintended presence of a
+                            regulated article in or on a commodity, packaging, conveyance,
+                            container or storage place [CEPM, 1997; revised CEPM, 1999; CPM,
+                            2018]
+ control (of a pest)        Suppression, containment or eradication of a pest population [FAO,
+                            1995]
+ corrective action plan     Documented plan of phytosanitary actions to be implemented in an
+ (in an area)               area officially delimited for phytosanitary purposes if a pest is detected
+                            or a tolerance level is exceeded or in the case of faulty implementation
+                            of officially established procedures [CPM, 2009]
+ country of origin (of a    Country where the plants from which the plant products are derived
+ consignment of plant       were grown [FAO, 1990; revised CEPM, 1996; CEPM, 1999]
+ products)
+ country of origin (of a    Country where the plants were grown [FAO, 1990; revised CEPM,
+ consignment of plants)     1996; CEPM, 1999]
+ country of origin (of      Country where the regulated articles were first exposed to
+ regulated articles other   contamination by pests [FAO, 1990; revised CEPM, 1996; CEPM,
+ than plants and plant      1999]
+ products)
+ debarked wood              Wood that has been subjected to any process that results in the removal
+                            of bark. (Debarked wood is not necessarily bark-free wood.) [CPM,
+                            2008; replacing “debarking”]
+ delimiting survey          Survey conducted to establish the boundaries of an area considered to
+                            be infested by or free from a pest [FAO, 1990]
+
+
+
+
+ISPM 5-12                                                     International Plant Protection Convention
+ Glossary of phytosanitary terms                                                                    ISPM 5
+
+
+
+ detection survey                 Survey conducted to determine the presence or absence of pests [FAO,
+                                  1990; revised FAO, 1995; CPM, 2022]
+ detention                        Keeping a consignment in official custody or confinement, as a
+                                  phytosanitary measure [FAO, 1990; revised FAO, 1995; CEPM, 1999;
+                                  ICPM, 2005]
+ devitalization                   A procedure rendering plants or plant products incapable of
+                                  germination, growth or further reproduction [ICPM, 2001]
+ dose mapping                     Measurement of the absorbed dose distribution within a process load
+                                  through the use of dosimeters placed at specific locations within the
+                                  process load [ISPM 18, 2003]
+ dunnage                          Wood packaging material used to secure or support a commodity but
+                                  which does not remain associated with the commodity [FAO, 1990;
+                                  revised ISPM 15, 2002]
+ ecosystem                        A dynamic complex of plant, animal and microorganism communities
+                                  and their abiotic environment interacting as a functional unit [ISPM 3,
+                                  1995; revised ICPM, 2005]
+ efficacy (of a treatment)        A defined, measurable, and reproducible effect by a prescribed
+                                  treatment [ISPM 18, 2003]
+ emergency action                 A prompt official operation undertaken to prevent the entry,
+                                  establishment or spread of a pest in a new or unexpected situation not
+                                  addressed by existing phytosanitary measures [ICPM, 2001; revised
+                                  CPM, 2022]
+ emergency measure                An official measure promptly established to prevent the entry,
+                                  establishment or spread of a pest in a new or unexpected situation not
+                                  addressed by existing phytosanitary measures. An emergency
+                                  measure may or may not be a provisional measure [ICPM, 2001;
+                                  revised ICPM, 2005; CPM, 2023]
+ endangered area                  An area where ecological factors favour the establishment of a pest
+                                  whose presence in the area will result in economically important loss
+                                  [ISPM 2, 1995]
+ entry (of a consignment)         Movement of a consignment through a point of entry into an area
+                                  [FAO, 1995]
+ entry (of a pest)                Movement of a pest into an area where it is not yet present, or present
+                                  but not widely distributed and being officially controlled [ISPM 2,
+                                  1995]
+ equivalence (of                  The situation where, for a specified pest risk, different phytosanitary
+ phytosanitary measures)          measures achieve a contracting party’s appropriate level of protection
+                                  [FAO, 1995; revised CEPM, 1999; based on the World Trade
+                                  Organization Agreement on the Application of Sanitary and
+                                  Phytosanitary Measures (WTO, 1994); ISPM 24, 2005]
+ eradication                      Application of phytosanitary measures to eliminate a pest from an
+                                  area [FAO, 1990; revised FAO, 1995; formerly “eradicate”]
+
+
+
+
+International Plant Protection Convention                                                       ISPM 5-13
+ ISPM 5                                                                    Glossary of phytosanitary terms
+
+
+
+ establishment (of a pest)   Perpetuation, for the foreseeable future, of a pest within an area after
+                             entry [FAO, 1990; revised ISPM 2, 1995; IPPC, 1997; formerly
+                             “established”]
+ exclusion (of a pest)       Application of phytosanitary measures to prevent the entry or
+                             establishment of a pest into an area [CPM, 2018]
+ field                       A plot of land with defined boundaries within a place of production on
+                             which a commodity is grown [FAO, 1990]
+ find free                   To inspect a consignment, field or place of production and consider it
+                             to be free from a specific pest [FAO, 1990]
+ free from (of a             Without pests (or a specific pest) in numbers or quantities that can be
+ consignment, field or       detected by the application of phytosanitary procedures [FAO, 1990;
+ place of production)        revised FAO, 1995; CEPM, 1999]
+ fresh                       Living; not dried, deep-frozen or otherwise conserved [FAO, 1990]
+ fumigation                  Treatment with a chemical agent that reaches the commodity wholly
+                             or primarily in a gaseous state [FAO, 1990; revised FAO, 1995]
+ general surveillance        An official process whereby information on pests in an area is obtained
+                             through various non-official or official sources other than surveys
+                             [CPM, 2024]
+ grain (as a commodity)      Seeds (in the botanical sense) for processing or consumption, but not for
+                             planting [FAO, 1990; revised ICPM, 2001; CPM, 2016; CPM, 2021]
+ growing medium              Any material in which plant roots are growing or intended for that
+                             purpose [FAO, 1990]
+ growing period              Period when a plant species actively grows in an area, place of
+                             production or production site [ICPM, 2003; revised CPM, 2019]
+ habitat                     Part of an ecosystem with conditions in which an organism is naturally
+                             present or can establish [ICPM, 2005; revised CPM, 2015]
+ harmonization               The establishment, recognition and application by different countries of
+                             phytosanitary measures based on common standards [FAO, 1995;
+                             revised CEPM, 1999; based on the World Trade Organization
+                             Agreement on the Application of Sanitary and Phytosanitary Measures
+                             (WTO, 1994)]
+ harmonized                  Phytosanitary measures established by contracting parties to the
+ phytosanitary measures      IPPC, based on international standards [IPPC, 1997]
+ heat treatment              The process in which a commodity is heated until it reaches a minimum
+                             temperature for a minimum period of time according to an official
+                             technical specification [ISPM 15, 2002; revised ICPM, 2005]
+ host pest list              A list of pests that infest a plant species, globally or in an area [CEPM,
+                             1996; revised CEPM, 1999]
+ host range                  Species capable, under natural conditions, of sustaining a specific pest
+                             or other organism [FAO, 1990; revised ISPM 3, 2005]
+
+
+
+
+ISPM 5-14                                                     International Plant Protection Convention
+ Glossary of phytosanitary terms                                                                     ISPM 5
+
+
+
+ identity (of a                   The components of a consignment as covered by its phytosanitary
+ consignment)                     certificate and described in the sections “name of produce and quantity
+                                  declared”, “botanical name of plants” and “place of origin” [CPM,
+                                  2023]
+ import permit                    Official document authorizing importation of a commodity in
+                                  accordance with specified phytosanitary import requirements [FAO,
+                                  1990; revised FAO, 1995; ICPM, 2005]
+ inactivation                     Rendering microorganisms incapable of development [ISPM 18, 2003]
+ incursion                        An isolated population of a pest recently detected in an area, not known
+                                  to be established, but expected to survive for the immediate future
+                                  [ICPM, 2003]
+ infestation (of a                Presence in a commodity of a living pest of the plant or plant product
+ commodity)                       concerned. Infestation includes infection [CEPM, 1997; revised CEPM,
+                                  1999]
+ inspection                       Official visual examination of plants, plant products or other
+                                  regulated articles to determine if pests are present or to verify
+                                  conformity with phytosanitary requirements [FAO, 1990; revised FAO,
+                                  1995; CPM, 2024; formerly “inspect”]
+ inspector                        Person authorized by a national plant protection organization to
+                                  discharge its functions [FAO, 1990]
+ integrity (of a                  Condition of a consignment as described by its phytosanitary
+ consignment)                     certificate or other officially acceptable document when its identity is
+                                  unchanged, its packaging undamaged and it shows no signs of
+                                  tampering [CPM, 2007; revised CPM, 2023]
+ intended use                     Declared purpose for which plants, plant products or other articles are
+                                  imported, produced or used [ISPM 16, 2002; revised CPM, 2009]
+ interception (of a               The refusal or controlled entry of an imported consignment due to
+ consignment)                     failure to comply with phytosanitary regulations [FAO, 1990; revised
+                                  FAO, 1995]
+ interception (of a pest)         The detection of a pest during inspection or testing of an imported
+                                  consignment [FAO, 1990; revised CEPM, 1996]
+ intermediate quarantine          Quarantine in a country other than the country of origin or destination
+                                  [CEPM, 1996]
+ International Plant              International Plant Protection Convention, as deposited with FAO in
+ Protection Convention            Rome in 1951 and as subsequently amended [FAO, 1990]
+ International Standard           An international standard adopted by the Conference of FAO, the
+ for Phytosanitary                Interim Commission on Phytosanitary Measures or the Commission on
+ Measures                         Phytosanitary Measures, established under the IPPC [CEPM, 1996;
+                                  revised CEPM, 1999]
+ international standards          International standards established in accordance with Article X
+                                  paragraphs 1 and 2 of the IPPC [IPPC, 1997]
+ introduction (of a pest)         The entry of a pest resulting in its establishment [FAO, 1990; revised
+                                  ISPM 2, 1995; IPPC, 1997]
+
+
+International Plant Protection Convention                                                        ISPM 5-15
+ ISPM 5                                                                  Glossary of phytosanitary terms
+
+
+
+ inundative release         The release of large numbers of mass-produced biological control
+                            agents or beneficial organisms with the expectation of achieving a rapid
+                            effect [ISPM 3, 1995; revised ISPM 3, 2005]
+ IPPC                       International Plant Protection Convention, as deposited in 1951 with
+                            FAO in Rome and as subsequently amended [FAO, 1990; revised ICPM,
+                            2001]
+ irradiation                Treatment with any type of ionizing radiation [ISPM 18, 2003]
+ ISPM                       International Standard for Phytosanitary Measures [CEPM, 1996;
+                            revised ICPM, 2001]
+ living modified            Any living organism that possesses a novel combination of genetic
+ organism                   material obtained through the use of modern biotechnology [Cartagena
+                            Protocol on Biosafety to the Convention on Biological Diversity (CBD,
+                            2000)]
+ LMO                        living modified organism [ISPM 11, 2004]
+ lot                        A number of units of a single commodity, identifiable by its
+                            homogeneity of composition, origin etc., forming part of a consignment
+                            [FAO, 1990]
+ minimum absorbed dose      The localized minimum absorbed dose within the process load
+ (Dmin)                     [ISPM 18, 2003]
+ modern biotechnology       The application of:
+                                   a. in vitro nucleic acid techniques, including recombinant
+                                      deoxyribonucleic acid (DNA) and direct injection of nucleic
+                                      acid into cells or organelles; or
+                                   b. fusion of cells beyond the taxonomic family,
+                            that overcome natural physiological reproductive or recombination
+                            barriers and that are not techniques used in traditional breeding and
+                            selection. [Cartagena Protocol on Biosafety to the Convention on
+                            Biological Diversity (CBD, 2000)]
+ monitoring                 An official ongoing process to verify phytosanitary situations [CEPM,
+                            1996]
+ monitoring survey          Ongoing survey to verify the characteristics of a pest population
+                            [ISPM 4, 1995]
+ national plant protection Official service established by a government to discharge the functions
+ organization              specified by the IPPC [FAO, 1990; formerly “plant protection
+                           organization (national)”]
+ natural enemy              An organism which lives at the expense of another organism in its area
+                            of origin and which may help to limit the population of that organism.
+                            This includes parasitoids, parasites, predators, phytophagous
+                            organisms and pathogens [ISPM 3, 1995; revised ISPM 3, 2005]
+ non-quarantine pest        Pest that is not a quarantine pest for an area [FAO, 1995]
+ NPPO                       National plant protection organization [FAO, 1990; ICPM, 2001]
+
+
+
+
+ISPM 5-16                                                   International Plant Protection Convention
+ Glossary of phytosanitary terms                                                                          ISPM 5
+
+
+
+ official                         Established, authorized or performed by a national plant protection
+                                  organization [FAO, 1990]
+ official control                 The active enforcement of mandatory phytosanitary regulations and
+                                  the application of mandatory phytosanitary procedures with the
+                                  objective of eradication or containment of quarantine pests or for the
+                                  management of regulated non-quarantine pests [ICPM, 2001]
+ outbreak                         A recently detected pest population, including an incursion, or a sudden
+                                  significant increase of an established pest population in an area [FAO,
+                                  1995; revised ICPM, 2003]
+ packaging                        Material used in supporting, protecting or carrying a commodity
+                                  [ISPM 20, 2004]
+ parasite                         An organism which lives on or in a larger organism, feeding upon it
+                                  [ISPM 3, 1995]
+ parasitoid                       An insect parasitic only in its immature stages, killing its host in the
+                                  process of its development, and free living as an adult [ISPM 3, 1995]
+ pathogen                         Microorganism causing disease [ISPM 3, 1995]
+ pathway                          Any means that allows the entry or spread of a pest [FAO, 1990;
+                                  revised FAO, 1995]
+ pest                             Any species, strain or biotype of plant, animal or pathogenic agent
+                                  injurious to plants or plant products. Note: In the IPPC, “plant pest” is
+                                  sometimes used for the term “pest” [FAO, 1990; revised ISPM 2, 1995;
+                                  IPPC, 1997; CPM, 2012]
+ pest categorization              The process for determining whether a pest has or has not the
+                                  characteristics of a quarantine pest or those of a regulated non-
+                                  quarantine pest [ISPM 11, 2001]
+ pest diagnosis                   The process of detection and identification of a pest [ISPM 27, 2006]
+ pest free area                   An area in which a specific pest is absent as demonstrated by scientific
+                                  evidence and in which, where appropriate, this condition is being
+                                  officially maintained [ISPM 2, 1995; revised CPM, 2015]
+ pest free place of               Place of production in which a specific pest is absent as demonstrated
+ production                       by scientific evidence and in which, where appropriate, this condition is
+                                  being officially maintained for a defined period [ISPM 10, 1999; revised
+                                  CPM, 2015]
+ pest free production site        A production site in which a specific pest is absent, as demonstrated by
+                                  scientific evidence, and in which, where appropriate, this condition is
+                                  being officially maintained for a defined period [ISPM 10, 1999; revised
+                                  CPM, 2015]
+ pest record                      A document providing information concerning the presence or absence
+                                  of a specific pest at a particular location at a certain time, within an area
+                                  (usually a country) under described circumstances [CEPM, 1997]
+ pest risk (for quarantine        The probability of introduction and spread of a pest and the magnitude
+ pests)                           of the associated potential economic consequences [ISPM 2, 2007]
+
+
+
+International Plant Protection Convention                                                            ISPM 5-17
+ ISPM 5                                                                    Glossary of phytosanitary terms
+
+
+
+ pest risk (for regulated     The probability that a pest in plants for planting affects the intended
+ non-quarantine pests)        use of those plants with an economically unacceptable impact [ISPM 2,
+                              2007]
+ pest risk analysis (agreed   The process of evaluating biological or other scientific and economic
+ interpretation)              evidence to determine whether an organism is a pest, whether it should
+                              be regulated, and the strength of any phytosanitary measures to be
+                              taken against it [ISPM 2, 1995; revised IPPC, 1997; ISPM 2, 2007]
+ pest risk assessment (for    Evaluation of the probability of the introduction and spread of a pest
+ quarantine pests)            and the magnitude of the associated potential economic consequences
+                              [ISPM 2, 1995; revised ISPM 11, 2001; ISPM 2, 2007]
+ pest risk assessment (for    Evaluation of the probability that a pest in plants for planting affects
+ regulated non-               the intended use of those plants with an economically unacceptable
+ quarantine pests)            impact [ICPM, 2005]
+ pest risk management         Evaluation and selection of options to reduce the risk of introduction
+ (for quarantine pests)       and spread of a pest [ISPM 2, 1995; revised ISPM 11, 2001]
+ pest risk management         Evaluation and selection of options to reduce the risk that a pest in
+ (for regulated non-          plants for planting causes an economically unacceptable impact on the
+ quarantine pests)            intended use of those plants [ICPM, 2005]
+ pest status (in an area)     Presence or absence, at the present time, of a pest in an area, including
+                              where appropriate its distribution, as officially determined using expert
+                              judgement on the basis of current and historical pest records and other
+                              information [CEPM, 1997; revised CEPM, 1998]
+ PFA                          Pest free area [ISPM 2, 1995; revised ICPM, 2001]
+ phytosanitary action         An official operation, such as inspection, testing, surveillance or
+                              treatment, undertaken to implement phytosanitary measures or to
+                              enable phytosanitary certification [ICPM, 2001; revised ICPM, 2005;
+                              CPM, 2024]
+ phytosanitary certificate    An official paper document or its official electronic equivalent,
+                              consistent with the model certificates of the IPPC, attesting that a
+                              consignment meets phytosanitary import requirements [FAO, 1990;
+                              revised CPM, 2012]
+ phytosanitary                Use of phytosanitary procedures leading to the issue of a
+ certification                phytosanitary certificate [FAO, 1990]
+ phytosanitary import         Specific phytosanitary measures established by an importing country
+ requirements                 concerning consignments moving into that country [ICPM, 2005]
+ phytosanitary legislation    Basic laws granting legal authority to a national plant protection
+                              organization from which phytosanitary regulations may be drafted
+                              [FAO, 1990; revised FAO, 1995]
+ phytosanitary measure        Any legislation, regulation or official procedure having the purpose to
+ (agreed interpretation)      prevent the introduction or spread of quarantine pests, or to limit the
+                              economic impact of regulated non-quarantine pests [ISPM 4, 1995;
+                              revised IPPC, 1997; ICPM, 2002]
+
+
+
+
+ISPM 5-18                                                      International Plant Protection Convention
+ Glossary of phytosanitary terms                                                                     ISPM 5
+
+
+
+ The agreed interpretation of the term phytosanitary measure accounts for the relationship of
+ phytosanitary measures to regulated non-quarantine pests. This relationship is not adequately
+ reflected in the definition found in Article II of the IPPC (1997).
+ phytosanitary procedure          An official method on how to perform a phytosanitary action [FAO,
+                                  1990; revised FAO, 1995; CEPM, 1999; ICPM, 2001; ICPM, 2005;
+                                  CPM, 2024]
+ phytosanitary regulation         Official rule to prevent the introduction or spread of quarantine pests,
+                                  or to limit the economic impact of regulated non-quarantine pests,
+                                  including establishment of procedures for phytosanitary certification
+                                  [FAO, 1990; revised ISPM 4, 1995; CEPM, 1999; ICPM, 2001]
+ phytosanitary security           Condition of a consignment when its integrity has been maintained and
+ (of a consignment)               its infestation and contamination by regulated pests prevented
+                                  through the application of phytosanitary measures [CPM, 2009;
+                                  revised CPM, 2023]
+ place of production              Any premises or collection of fields operated as a single production or
+                                  farming unit [FAO, 1990; revised CEPM, 1999; CPM, 2015]
+ plant products                   Unmanufactured material of plant origin (including grain) and those
+                                  manufactured products that, by their nature or that of their processing,
+                                  may create a risk for the introduction and spread of pests [FAO, 1990;
+                                  revised IPPC, 1997; formerly “plant product”]
+ plant protection                 See national plant protection organization
+ organization (national)
+ plant quarantine                 All activities designed to prevent the introduction or spread of
+                                  quarantine pests or to ensure their official control [FAO, 1990; revised
+                                  FAO, 1995]
+ planting (including              Any operation for the placing of plants in a growing medium, or by
+ replanting)                      grafting or similar operations, to ensure their subsequent growth,
+                                  reproduction or propagation [FAO, 1990; revised CEPM, 1999]
+ plants                           Living plants and parts thereof, including seeds and germplasm
+                                  [FAO, 1990; revised IPPC, 1997]
+ plants for planting              Plants intended to remain planted, to be planted or replanted
+                                  [FAO, 1990]
+ point of entry                   Airport, seaport, land border point or any other location officially
+                                  designated for the importation of consignments, or the entrance of
+                                  persons [FAO, 1995; revised CPM, 2015]
+ post-entry quarantine            Quarantine applied to a consignment after entry [FAO, 1995]
+ PRA                              Pest risk analysis [ISPM 2, 1995; revised ICPM, 2001]
+ PRA area                         Area in relation to which a pest risk analysis is conducted [ISPM 2,
+                                  1995]
+ practically free (of a           Without pests (or a specific pest) in numbers or quantities in excess of
+ consignment, field, or           those that can be expected to result from, and be consistent with, good
+ place of production)             cultural and handling practices employed in the production and
+                                  marketing of the commodity [FAO, 1990; revised FAO, 1995]
+
+
+International Plant Protection Convention                                                        ISPM 5-19
+ ISPM 5                                                                 Glossary of phytosanitary terms
+
+
+
+ predator                  A natural enemy that preys and feeds on other animal organisms, more
+                           than one of which are killed during its lifetime [ISPM 3, 1995]
+ process load              A volume of material with a specified loading configuration and treated
+                           as a single entity [ISPM 18, 2003]
+ processed wood material   Products that are a composite of wood constructed using glue, heat and
+                           pressure, or any combination thereof [ISPM 15, 2002]
+ production site           A defined part of a place of production, that is managed as a separate
+                           unit for phytosanitary purposes [CPM, 2015]
+ prohibition               A phytosanitary regulation forbidding the importation or movement
+                           of specified pests or commodities [FAO, 1990; revised FAO, 1995]
+ provisional measure       A temporary official measure to prevent the entry, establishment or
+                           spread of a pest, established without full technical justification
+                           because of a current lack of adequate information and subjected to
+                           review and full technical justification as soon as possible [ICPM, 2001;
+                           revised CPM, 2023]
+ quarantine                Official confinement of regulated articles, pests or beneficial
+                           organisms for inspection, testing, treatment, observation or research
+                           [FAO, 1990; revised ISPM 3, 1995; CEPM, 1999; CPM, 2018]
+ quarantine area           An area within which a quarantine pest is present and is being
+                           officially controlled [FAO, 1990; revised FAO, 1995]
+ quarantine pest           A pest of potential economic importance to the area endangered
+                           thereby and not yet present there, or present but not widely distributed
+                           and being officially controlled [FAO, 1990; revised FAO, 1995; IPPC
+                           1997]
+ quarantine station        Official station for holding plants, plant products or other regulated
+                           articles, including beneficial organisms, in quarantine [FAO, 1990;
+                           revised FAO, 1995; formerly “quarantine station or facility”; CPM,
+                           2015]
+ raw wood                  Wood which has not undergone processing or treatment [ISPM 15,
+                           2002]
+ re-exported               Consignment that has been imported into a country from which it is
+ consignment               then exported. The consignment may be stored, split up, combined with
+                           other consignments or have its packaging changed [FAO, 1990;
+                           revised CEPM, 1996; CEPM, 1999; ICPM, 2001; ICPM, 2002; formerly
+                           “country of re-export”]
+ reference specimen        Specimen, from a population of a specific organism, conserved and
+                           accessible for the purpose of identification, verification or comparison.
+                           [ISPM 3, 2005; revised CPM, 2009]
+ refusal                   Forbidding entry of a consignment or other regulated article when it
+                           fails to comply with phytosanitary regulations [FAO, 1990; revised
+                           FAO, 1995]
+ regional plant protection An intergovernmental organization with the functions laid down by
+ organization              Article IX of the IPPC [FAO, 1990; revised FAO, 1995; CEPM, 1999;
+                           formerly “plant protection organization (regional)”]
+
+
+ISPM 5-20                                                   International Plant Protection Convention
+ Glossary of phytosanitary terms                                                                    ISPM 5
+
+
+
+ regional standards               Standards established by a regional plant protection organization for
+                                  the guidance of the members of that organization [IPPC, 1997]
+ regulated area                   An area into which, within which or from which plants, plant products
+                                  and other regulated articles are subjected to phytosanitary measures
+                                  [CEPM, 1996; revised CEPM, 1999; ICPM, 2001]
+ regulated article                Any plant, plant product, storage place, packaging, conveyance,
+                                  container, soil and any other organism, object or material capable of
+                                  harbouring or spreading pests, deemed to require phytosanitary
+                                  measures, particularly where international transportation is involved
+                                  [FAO, 1990; revised FAO, 1995; IPPC, 1997]
+ regulated non-                   A non-quarantine pest whose presence in plants for planting affects
+ quarantine pest                  the intended use of those plants with an economically unacceptable
+                                  impact and which is therefore regulated within the territory of the
+                                  importing contracting party [IPPC, 1997]
+ regulated pest                   A quarantine pest or a regulated non-quarantine pest [IPPC, 1997]
+ release (into the                Intentional liberation of an organism into the environment [ISPM 3,
+ environment)                     1995]
+ release (of a                    Authorization for entry of a consignment after completion of the
+ consignment)                     compliance procedure [FAO, 1995; revised CPM, 2024]
+ replanting                       See planting
+ required response                A specified level of effect for a treatment [ISPM 18, 2003]
+ RNQP                             Regulated non-quarantine pest [ISPM 16, 2002]
+ round wood                       Wood not sawn longitudinally, carrying its natural rounded surface,
+                                  with or without bark [FAO, 1990]
+ RPPO                             Regional plant protection organization [FAO, 1990; revised ICPM,
+                                  2001]
+ sawn wood                        Wood sawn longitudinally, with or without its natural rounded surface
+                                  with or without bark [FAO, 1990]
+ secretary                        Secretary of the commission appointed pursuant to Article XII [IPPC,
+                                  1997]
+ seeds (as a commodity)           Seeds (in the botanical sense) for planting [FAO, 1990; revised ICPM,
+                                  2001; CPM, 2016; CPM, 2021]
+ SIT                              sterile insect technique [ISPM 3, 2005]
+ specific surveillance            An official process whereby information on pests in an area is obtained
+                                  through surveys [CPM, 2024]
+ spread (of a pest)               Expansion of the geographical distribution of a pest within an area
+                                  [ISPM 2, 1995]
+
+
+
+
+International Plant Protection Convention                                                       ISPM 5-21
+ ISPM 5                                                                       Glossary of phytosanitary terms
+
+
+
+ standard                      Document established by consensus and approved by a recognized body
+                               that provides for common and repeated use, rules, guidelines or
+                               characteristics for activities or their results, aimed at the achievement of
+                               the optimum degree of order in a given context [FAO, 1995; ISO/IEC
+                               Guide 2:1991 definition]
+ sterile insect                An insect that, as a result of a specific treatment, is unable to reproduce
+                               [ISPM 3, 2005]
+ sterile insect technique      Method of pest control using area-wide inundative release of sterile
+                               insects to reduce reproduction in a field population of the same species
+                               [ISPM 3, 2005]
+ stored product                Unmanufactured plant product intended for consumption or
+                               processing, stored in a dried form (this includes in particular grain and
+                               dried fruits and vegetables) [FAO, 1990]
+ suppression                   The application of phytosanitary measures in an infested area to
+                               reduce pest populations [FAO, 1995; revised CEPM, 1999]
+ surveillance                  An official process whereby information on pests in an area is obtained
+                               through general surveillance, specific surveillance or a combination of
+                               both [CEPM, 1996; revised CPM, 2015; CPM, 2024]
+ survey (of pests)             An official procedure conducted over a defined period to determine the
+                               presence or absence of pests, or the boundaries or characteristics of a
+                               pest population, in an area, place of production or production site
+                               [FAO, 1990; revised CEPM, 1996; CPM, 2015; CPM, 2019]
+ systems approach              A pest risk management option that integrates different measures, at
+                               least two of which act independently, with cumulative effect [ISPM 14,
+                               2002; revised ICPM, 2005; CPM, 2015]
+ technically justified         Justified on the basis of conclusions reached by using an appropriate
+                               pest risk analysis or, where applicable, another comparable
+                               examination and evaluation of available scientific information [IPPC,
+                               1997]
+ test                          Official examination, other than inspection, of plants, plant products
+                               or other regulated articles, to determine if pests are present, identify
+                               pests or verify conformity with specific phytosanitary requirements,
+                               using for example chemical, molecular or serological characterization
+                               [FAO, 1990; revised CPM, 2018; CPM, 2024]
+ tolerance level (of a pest)   Incidence of a pest specified as a threshold for action to control that
+                               pest or to prevent its spread or introduction [CPM, 2009]
+ transience                    Presence of a pest that is not expected to lead to establishment [ISPM 8,
+                               1998]
+ transit                       See consignment in transit
+ transparency                  The principle of making available, at the international level,
+                               phytosanitary measures and their rationale [FAO, 1995; revised
+                               CEPM, 1999; based on the World Trade Organization Agreement on the
+                               Application of Sanitary and Phytosanitary Measures (WTO, 1994)]
+
+
+
+ISPM 5-22                                                        International Plant Protection Convention
+ Glossary of phytosanitary terms                                                                      ISPM 5
+
+
+
+ treatment (as a                  Official procedure for killing, inactivating, removing, rendering
+ phytosanitary measure)           infertile or devitalizing regulated pests [FAO, 1990; revised FAO,
+                                  1995; ISPM 15, 2002; ISPM 18, 2003; ICPM, 2005; CPM, 2021]
+ treatment schedule               The critical parameters of a treatment which need to be met to achieve
+                                  the intended outcome (i.e. the killing, inactivation or removal of pests,
+                                  or rendering pests infertile, or devitalization) at a stated efficacy
+                                  [ISPM 28, 2007]
+ visual examination               Examination using the unaided eye, lens, stereoscope or other optical
+                                  microscope [ISPM 23, 2005; revised CPM, 2018]
+ wood (as a commodity)            Commodities such as round wood, sawn wood, wood chips and wood
+                                  residue, with or without bark, excluding wood packaging material,
+                                  processed wood material, and bamboo and rattan products [FAO,
+                                  1990; revised ICPM, 2001; CPM, 2016; CPM, 2021]
+ wood packaging                   Wood or wood products (excluding paper products) used in supporting,
+ material                         protecting or carrying a commodity (includes dunnage) [ISPM 15,
+                                  2002]
+
+
+
+
+International Plant Protection Convention                                                         ISPM 5-23
+ ISPM 5                                                               Glossary of phytosanitary terms – Supplement 1
+
+
+This supplement was first adopted by the Third Session of the Interim Commission on Phytosanitary Measures in April 2001.
+ The first revision of this supplement was adopted by the Seventh Session of the Commission on Phytosanitary Measures in
+                                                        March 2012.
+                                     The supplement is a prescriptive part of the standard.
+
+SUPPLEMENT 1: Guidelines on the interpretation and application of the concepts of
+“official control” and “not widely distributed”
+
+INTRODUCTION
+
+Scope
+This supplement provides guidance on:
+-     the official control of regulated pests; and
+-     determination of when a pest is considered to be present but not widely distributed, for the
+      decision on whether a pest qualifies as a quarantine pest.
+
+References
+The present standard refers to ISPMs. ISPMs are available on the International Phytosanitary Portal (IPP
+– https://www.ippc.int).
+
+Definition
+Official control is defined as:
+The active enforcement of mandatory phytosanitary regulations and the application of mandatory
+phytosanitary procedures with the objective of eradication or containment of quarantine pests or for the
+management of regulated non-quarantine pests.
+
+BACKGROUND
+The words “present but not widely distributed and being officially controlled” express an essential
+concept in the definition of quarantine pest. According to that definition, a quarantine pest must always
+be of potential economic importance to an endangered area. In addition, it must either meet the criterion
+of not being present in that area or it must meet the combined criteria of being present but not widely
+distributed and subject to official control.
+The Glossary of phytosanitary terms defines official as “established, authorized or performed by an
+NPPO” and control as “suppression, containment or eradication of a pest population”. However, for
+phytosanitary purposes, the concept of official control is not adequately expressed by the combination
+of these two definitions.
+The purpose of this supplement is to describe more precisely the interpretation of:
+-     the concept of official control and its application in practice for quarantine pests that are present
+      in an area as well as for regulated non-quarantine pests; and
+-     the concept of “present but not widely distributed and under official control” for quarantine pests.
+“Not widely distributed” is not a term included in the description of pest status listed in ISPM 8.
+
+REQUIREMENTS
+
+1.     General requirements
+Official control is subject to ISPM 1, in particular the principles of non-discrimination, transparency,
+equivalence of phytosanitary measures and pest risk analysis.
+
+
+ISPM 5-24                                                                International Plant Protection Convention
+ Glossary of phytosanitary terms – Supplement 1                                                          ISPM 5
+
+
+
+1.1   Official control
+Official control includes:
+-     eradication and/or containment in the infested area(s);
+-     surveillance in the endangered area(s);
+-     restrictions related to the movement into and within the regulated area(s) including phytosanitary
+      measures applied at import.
+All official control programmes have elements that are mandatory. At minimum, programme evaluation
+and pest surveillance are required in official control programmes to determine the need for and effect of
+control to justify phytosanitary measures applied at import for the same purpose. Phytosanitary measures
+applied at import should be consistent with the principle of non-discrimination (see section 2.2 below).
+For quarantine pests, eradication and containment may have an element of suppression. For regulated
+non-quarantine pests, suppression may be used to avoid unacceptable economic impact as it applies to
+the intended use of plants for planting.
+
+1.2   Not widely distributed
+“Not widely distributed” is a concept referring to a pest’s occurrence and distribution within an area. A
+pest may be categorized as present and widely distributed in an area or not widely distributed, or absent.
+In pest risk analysis (PRA), the determination of whether a pest is not widely distributed is carried out
+in the pest categorization step. Transience means that a pest is not expected to establish and therefore is
+not relevant to the concept of “not widely distributed”.
+In the case of a quarantine pest that is present but not widely distributed, the importing country should
+define the infested area(s) and the endangered area(s). When a quarantine pest is considered not widely
+distributed, this means that the pest is limited to parts of its potential distribution and there are areas free
+from the pest that are at risk of economic loss from its introduction or spread. These endangered areas
+do not need to be contiguous but may consist of several distinct parts. In order to justify the statement
+of a pest being not widely distributed, a description and delimitation of the endangered areas should be
+made available if requested. There is a degree of uncertainty attached to any categorization of
+distribution. The categorization may also change over time.
+The area in which the pest is not widely distributed should be the same as the area for which the
+economic impact applies (i.e. the endangered area) and where the pest is under or being considered for
+official control. The decision that a pest is a quarantine pest, including consideration of its distribution,
+and placing that pest under official control, is typically made with respect to an entire country. However,
+in some instances it may be more appropriate to regulate a pest as a quarantine pest in parts of a country
+rather than in the whole country. It is the potential economic importance of the pest for those parts that
+has to be considered in determining phytosanitary measures. Examples of when this may be appropriate
+are countries whose territories include one or more islands or other cases where there are natural or
+artificially created barriers to pest establishment and spread, such as large countries in which specified
+crops are restricted by climate to well-defined areas.
+
+1.3   Decision to apply official control
+A national plant protection organization (NPPO) may choose whether or not to officially control a pest
+of potential economic importance that is present but not widely distributed, taking into account relevant
+factors from PRA, for example the costs and benefits of regulating the specific pest, and the technical
+and logistical ability to control the pest within the defined area. If the pest is not subjected to official
+control, it does not then qualify as a quarantine pest.
+
+
+
+
+International Plant Protection Convention                                                            ISPM 5-25
+ ISPM 5                                                       Glossary of phytosanitary terms – Supplement 1
+
+
+
+2.    Specific requirements
+The specific requirements to be met relate to pest risk analysis, technical justification, non-
+discrimination, transparency, enforcement, mandatory nature of official control, area of application, and
+NPPO authority and involvement in official control.
+
+2.1   Technical justification
+Domestic requirements and phytosanitary import requirements should be technically justified and result
+in non-discriminatory phytosanitary measures.
+Application of the definition of a quarantine pest requires knowledge of potential economic importance,
+potential distribution and official control programmes (ISPM 2). The categorization of a pest as present
+and widely distributed or present but not widely distributed is determined in relation to its potential
+distribution. This potential distribution represents the areas where the pest could become established if
+given the opportunity, i.e. its hosts are present and environmental factors such as climate and soil are
+favourable. ISPM 11 provides guidance on the factors to be considered in assessing the probability of
+establishment and spread when conducting a pest risk analysis. In the case of a pest that is present but
+not widely distributed, the assessment of potential economic importance should relate to the areas where
+the pest is not established.
+Surveillance should be used to determine the distribution of a pest in an area as a basis for the further
+consideration of whether the pest is not widely distributed. ISPM 6 provides guidance on surveillance,
+and includes provisions on transparency. Biological factors such as pest life cycle, means of dispersal
+and rate of reproduction may influence the design of surveillance programmes, the interpretation of
+survey data and the level of confidence in the categorization of a pest as not widely distributed. The
+distribution of a pest in an area is not a static condition. Changing conditions or new information may
+necessitate reconsideration of whether a pest is not widely distributed.
+
+2.2   Non-discrimination
+The principle of non-discrimination between domestic requirements and phytosanitary import
+requirements is fundamental. In particular, requirements for imports should not be more stringent than
+the effect of official control in an importing country. There should therefore be consistency between
+domestic requirements and phytosanitary import requirements for a defined pest:
+-      Import requirements should not be more stringent than domestic requirements.
+-      Domestic and import requirements should be the same or have an equivalent effect.
+-      Mandatory elements of domestic and import requirements should be the same.
+-      The intensity of inspection of imported consignments should be the same as equivalent processes
+       in domestic control programmes.
+-      In the case of non-compliance, the same or equivalent phytosanitary actions should be taken on
+       imported consignments as are taken domestically.
+-      If a tolerance level is applied within a domestic official control programme, the same tolerance
+       level should be applied to equivalent imported material. In particular, if no action is taken in the
+       domestic official control programme because the pest incidence does not exceed the tolerance
+       level concerned, then no action should be taken for an imported consignment if the pest incidence
+       does not exceed that same tolerance level. Compliance with import tolerance levels is generally
+       determined by inspection or testing at entry, whereas compliance with the tolerance level for
+       domestic consignments should be determined at the last point where official control is applied.
+-      If downgrading or reclassifying is permitted within a domestic official control programme, similar
+       options should be available for imported consignments.
+
+2.3   Transparency
+Domestic requirements for official control and the phytosanitary import requirements should be
+documented and made available, on request.
+
+ISPM 5-26                                                        International Plant Protection Convention
+ Glossary of phytosanitary terms – Supplement 1                                                     ISPM 5
+
+
+
+2.4   Enforcement
+The domestic enforcement of official control programmes should be equivalent to the enforcement of
+phytosanitary import requirements. Enforcement should include:
+-     a legal basis;
+-     operational implementation;
+-     evaluation and review;
+-     phytosanitary action in the case of non-compliance.
+
+2.5   Mandatory nature of official control
+Official control is mandatory in the sense that all persons involved are legally bound to perform the
+actions required. The scope of official control programmes for quarantine pests is completely mandatory
+(e.g. procedures for eradication campaigns), whereas the scope for regulated non-quarantine pests is
+mandatory only in certain circumstances (e.g. official certification programmes).
+
+2.6   Area of application
+An official control programme can be applied at national, subnational or local area level. The area of
+application of official control measures should be specified. Any phytosanitary import requirements
+should have the same effect as the domestic requirements for official control.
+
+2.7   NPPO authority and involvement in official control
+Official control should:
+-     be established or recognized by the contracting party or the NPPO under appropriate legislative
+      authority;
+-     be performed, managed, supervised or, at minimum, audited/reviewed by the NPPO;
+-     have enforcement assured by the contracting party or the NPPO;
+-     be modified, terminated or lose official recognition by the contracting party or the NPPO.
+Responsibility and accountability for official control programmes rests with the contracting party.
+Agencies other than the NPPO may be responsible for aspects of official control programmes, and
+certain aspects of official control programmes may be the responsibility of subnational authorities or the
+private sector. The NPPO should be fully aware of all aspects of official control programmes in its
+country.
+
+
+
+
+International Plant Protection Convention                                                       ISPM 5-27
+ ISPM 5                                                                 Glossary of phytosanitary terms – Supplement 2
+
+
+     This supplement was adopted by the Fifth Session of the Interim Commission on Phytosanitary Measures in April 2003.
+                                    The supplement is a prescriptive part of the standard.
+
+SUPPLEMENT 2: Guidelines on the understanding of “potential economic importance”
+and related terms including reference to environmental considerations
+
+1.       Purpose and scope
+These guidelines provide the background and other relevant information to clarify potential economic
+importance and related terms, so that such terms are clearly understood and their application is consistent
+with the International Plant Protection Convention (IPPC) and the International Standards for
+Phytosanitary Measures (ISPMs). These guidelines also show the application of certain economic
+principles as they relate to the IPPC’s objectives, in particular in protecting uncultivated/unmanaged
+plants, wild flora, habitats and ecosystems with respect to invasive alien species that are pests.
+These guidelines clarify that the IPPC:
+-     can account for environmental concerns in economic terms using monetary or non-monetary
+      values;
+-     asserts that market impacts are not the sole indicator of pest impact;
+-     maintains the right of contracting parties to adopt phytosanitary measures with respect to pests
+      for which the economic damage caused to plants, plant products or ecosystems within an area
+      cannot be easily quantified.
+They also clarify, with respect to pests, that the scope of the IPPC covers the protection of cultivated
+plants in agriculture, horticulture and forestry, uncultivated/unmanaged plants, wild flora, habitats and
+ecosystems.
+
+2.       Background
+The IPPC has historically maintained that the adverse consequences of pests, including those concerning
+uncultivated/unmanaged plants, wild flora, habitats and ecosystems, are measured in economic terms.
+References to the terms economic effects, economic impacts, potential economic importance and
+economically unacceptable impact and the use of the word economic in the IPPC and in ISPMs has
+resulted in some misunderstanding of the application of such terms and of the focus of the IPPC.
+The scope of the convention applies to the protection of wild flora resulting in an important contribution
+to the conservation of biological diversity. However, it has been misinterpreted that the IPPC is only
+commercially focused and limited in scope. It has not been clearly understood that the IPPC can account
+for environmental concerns in economic terms. This has created issues of consistency with other
+agreements, including the Convention on Biological Diversity and the Montreal Protocol on Substances
+that Deplete the Ozone Layer.
+
+3.       Economic terms and environmental scope of the IPPC and ISPMs
+The economic terms found in the IPPC and ISPMs may be categorized as follows.
+Terms requiring judgement to support policy decisions:
+-    potential economic importance (in the definition for quarantine pest);
+-    economically unacceptable impact (in the definition for regulated non-quarantine pest);
+-    economically important loss (in the definition for endangered area).
+Terms related to evidence that supports the above judgements:
+-    limit the economic impact (in the definition for phytosanitary regulation and the agreed
+     interpretation of phytosanitary measure);
+-    economic evidence (in the definition for pest risk analysis);
+
+
+ISPM 5-28                                                                  International Plant Protection Convention
+ Glossary of phytosanitary terms – Supplement 2                                                         ISPM 5
+
+
+
+-     cause economic damage (in Article VII.3 of the IPPC, 1997);
+-     direct and indirect economic impacts (in ISPM 11 and ISPM 16);
+-     economic consequences and potential economic consequences (in ISPM 11);
+-     commercial consequences and non-commercial consequences (in ISPM 11).
+ISPM 11 notes in section 2.1.1.5 with respect to pest categorization, that there should be a clear
+indication that the pest is likely to have an unacceptable economic impact, including environmental
+impact, in the PRA area. Section 2.3 of the standard describes the procedure for assessing potential
+economic consequences of a pest introduction. Pest effects may be considered to be direct or indirect.
+Section 2.3.2.2 addresses analysis of commercial consequences. Section 2.3.2.4 provides guidance on
+the assessment of the non-commercial and environmental consequences of pest introduction. It
+acknowledges that certain types of effects may not apply to an existing market that can be easily
+identified, but it goes on to state that the impacts could be approximated with an appropriate non-market
+valuation method. This section notes that if a quantitative measurement is not feasible, then this part of
+the assessment should at least include a qualitative analysis and an explanation of how the information
+is used in the PRA. Environmental or other undesirable effects of control measures are covered in
+section 2.3.1.2 (Indirect pest effects) as part of the analysis of potential economic consequences. Where
+a pest risk is found to be unacceptable, section 3.4 provides guidance on the selection of pest risk
+management options, including measurements of cost-effectiveness, feasibility and least trade
+restrictiveness.
+In April 2001 the ICPM recognized that under the IPPC’s existing mandate, to take account of
+environmental concerns, further clarification should include consideration of the following five
+proposed points relating to potential environmental risks of pests:
+-     reduction or elimination of endangered (or threatened) native plant species;
+-     reduction or elimination of a keystone plant species (a species which plays a major role in the
+      maintenance of an ecosystem);
+-     reduction or elimination of a plant species which is a major component of a native ecosystem;
+-     causing a change to plant biological diversity in such a way as to result in ecosystem
+      destabilization;
+-     resulting in control, eradication or management programmes that would be needed if a quarantine
+      pest was introduced, and impacts of such programmes (e.g. pesticides, non-indigenous predators
+      or parasites) on biological diversity.
+Thus it is clear, with respect to plant pests, that the scope of the IPPC covers the protection of cultivated
+plants in agriculture, horticulture and forestry, uncultivated/unmanaged plants, wild flora, habitats and
+ecosystems.
+
+4.    Economic considerations in PRA
+4.1   Types of economic effect
+In PRA, economic effects should not be interpreted to be only market effects. Goods and services not
+sold in commercial markets can have economic value, and economic analysis encompasses much more
+than the study of market goods and services. The use of the term economic effects provides a framework
+in which a wide variety of effects (including environmental and social effects) may be analysed.
+Economic analysis uses a monetary value as a measure to allow policy makers to compare costs and
+benefits from different types of goods and services. This does not preclude the use of other tools such
+as qualitative and environmental analyses that may not use monetary terms.
+
+4.2   Costs and benefits
+A general economic test for any policy is to pursue the policy if its benefit is at least as large as its cost.
+Costs and benefits are broadly understood to include both market and non-market aspects. Costs and
+benefits can be represented by both quantifiable measurements and qualitative measurements. Non-
+
+International Plant Protection Convention                                                           ISPM 5-29
+ ISPM 5                                                              Glossary of phytosanitary terms – Supplement 2
+
+
+
+market goods and services may be difficult to quantify or measure but nevertheless are essential to
+consider.
+Economic analysis for phytosanitary purposes can only provide information with regard to costs and
+benefits, and does not judge if one distribution is necessarily better than another distribution of costs
+and benefits of a specific policy. In principle, costs and benefits should be measured regardless to whom
+they occur. Given that judgements about the preferred distribution of costs and benefits are policy
+choices, these should have a rational relationship to phytosanitary considerations.
+Costs and benefits should be counted whether they occur as a direct or indirect result of a pest
+introduction or if a chain of causation is required before the costs are incurred or the benefits realized.
+Costs and benefits associated with indirect consequences of pest introductions may be less certain than
+costs and benefits associated with direct consequences. Often, there is no monetary information about
+the cost of any loss that may result from pests introduced into natural environments. Any analysis should
+identify and explain uncertainties involved in estimating costs and benefits and assumptions should be
+clearly stated.
+
+5.     Application
+The following criteria should be met before a pest is deemed to have potential economic importance:1
+-     a potential for introduction in the PRA area;
+-     the potential to spread after establishment;
+-     a potential harmful impact on plants, for example:
+           crops (for example loss of yield or quality),
+           the environment, for example damage to ecosystems, habitats or species,
+           some other specified value, for example recreation, tourism, aesthetics.
+As stated in section 3, environmental damage, arising from the introduction of a pest, is one of the types
+of damage recognized by the IPPC. Thus, with respect to the third criterion above, contracting parties
+to the IPPC have the right to adopt phytosanitary measures even with respect to a pest that only has the
+potential for environmental damage. Such action should be based upon a pest risk analysis that includes
+the consideration of evidence of potential environmental damage. When indicating the direct and
+indirect impact of pests on the environment, the nature of the harm or losses arising from a pest
+introduction should be specified in pest risk analysis.
+In the case of regulated non-quarantine pests, because such pest populations are already established,
+introduction in an area of concern and environmental effects are not relevant criteria in the consideration
+of economically unacceptable impacts (see ISPM 16 and ISPM 21).
+
+
+
+
+1
+ With respect to the first and second criteria, IPPC (1997) Article VII.3 states that for pests that may not be capable
+of establishment, measures taken against these pests must be technically justified.
+
+ISPM 5-30                                                               International Plant Protection Convention
+ Glossary of phytosanitary terms – Appendix to Supplement 2                                                      ISPM 5
+
+
+               This appendix is for reference purposes only and is not a prescriptive part of the standard.
+
+APPENDIX TO SUPPLEMENT 2
+This appendix provides additional clarification of some terms used in this supplement.
+Economic analysis: It primarily uses monetary values as a measure to allow policy makers to compare
+costs and benefits from different types of goods and services. It encompasses more than the study of
+market goods and services. Economic analysis does not prevent the use of other measures that do not
+use a monetary value; for example, qualitative or environmental analysis.
+Economic effects: This includes market effects as well as non-market effects, such as environmental and
+social considerations. Measurement of the economic value of environmental effects or social effects
+may be difficult to establish. For example, the survival and well-being of another species or the value
+of the aesthetics of a forest or a jungle. Both qualitative and quantitative worth may be considered in
+measuring economic effects.
+Economic impacts of plant pests: This includes both market measures as well as those consequences
+that may not be easy to measure in direct economic terms, but which represent a loss or damage to
+cultivated plants, uncultivated plants or plant products.
+Economic value: This is the basis for measuring the cost of the effect of changes (e.g. in biodiversity,
+ecosystems, managed resources or natural resources) on human welfare. Goods and services not sold in
+commercial markets can have economic value. Determining economic value does not prevent ethical or
+altruistic concerns for the survival and well-being of other species based on cooperative behaviour.
+Qualitative measurement: This is the valuation of qualities or characteristics in other than monetary or
+numeric terms.
+Quantitative measurement: This is the valuation of qualities or characteristics in monetary or other
+numeric terms.
+
+
+
+
+International Plant Protection Convention                                                                     ISPM 5-31
+ ISPM 5                                                                  Glossary of phytosanitary terms – Appendix 1
+
+
+     This appendix was adopted by the Fourth Session of the Commission on Phytosanitary Measures in March–April 2009.
+                   The appendix is for reference purposes only and is not a prescriptive part of the standard.
+
+APPENDIX 1: Terminology of the Convention on Biological Diversity in relation to the
+Glossary of phytosanitary terms
+
+1.       Introduction
+Since 2001, it has been made clear that the scope of the IPPC extends to risks arising from pests that
+primarily affect the environment and biological diversity, including harmful plants. The Technical Panel
+for the glossary, which reviews ISPM 5 (Glossary of phytosanitary terms, hereinafter referred to as the
+glossary), therefore examined the possibility of adding new terms and definitions to the standard to
+cover this area of concern. In particular, it considered the terms and definitions that are in use by the
+Convention on Biological Diversity (CBD),* with a view to adding them to the glossary, as has
+previously been done in several cases for the terminology of other intergovernmental organizations.
+However, study of the terms and definitions available from the CBD has shown that they are based on
+concepts different from those of the IPPC, so that similar terms are given distinctly different meanings.
+The CBD terms and definitions could not accordingly be used directly in the glossary. It was decided
+instead to present these terms and definitions in the present Appendix to the glossary, providing
+explanations of how they differ from IPPC terminology.
+This Appendix is not intended to provide a clarification of the scope of the CBD, nor of the scope of the
+IPPC.
+
+2.       Presentation
+In relation to each term considered, the CBD definition is first provided. This is placed alongside an
+“Explanation in IPPC context”, in which, as usual, glossary terms (or derived forms of glossary terms)
+are shown in bold. These explanations may also include CBD terms, in which case these are also in
+bold and followed by “(CBD)”. The explanations constitute the main body of this Appendix. Each is
+followed by notes, providing further clarification of some of the difficulties.
+
+3.       Terminology
+3.1      “Alien species”
+
+    CBD definition                                          Explanation in IPPC context
+    A species, subspecies or lower taxon,                   An alien2 species (CBD) is an individual3 or
+    introduced outside its natural past1 or present         population, at any life stage, or a viable part of an
+    distribution; includes any part, gametes, seeds,        organism that is non-indigenous to an area and
+    eggs, or propagules of such species that might          that has entered4 by human agency5 into the area
+    survive and subsequently reproduce
+
+Notes:
+1
+  The qualification concerning “past and present” distribution is not relevant for IPPC purposes, since
+the IPPC is concerned only with existing situations. It does not matter that the species was present in
+the past if it is present now. The word “past” in the CBD definition presumably allows for the re-
+introduction of a species into an area where it has recently become extinct and thus a reintroduced
+species would presumably not be considered an alien species.
+2
+ “Alien” refers only to the location and distribution of an organism compared with its natural range. It
+does not imply that the organism is harmful.
+
+*
+  The terms and definitions discussed in this document have resulted from discussion on invasive alien species by
+the Parties of the Convention on Biological Diversity (Secretariat of the Convention on Biological Diversity).
+
+ISPM 5-32                                                                International Plant Protection Convention
+ Glossary of phytosanitary terms – Appendix 1                                                        ISPM 5
+
+
+3
+ The CBD definition emphasizes the physical presence of individuals of a species at a certain time,
+whereas the IPPC concept of occurrence relates to the geographical distribution of the taxon in general.
+4
+   For CBD purposes, an alien species is already present in the area that is not within its native
+distribution (see Introduction below). The IPPC is more concerned with organisms that are not yet
+present in the area of concern (i.e. quarantine pests). The term “alien” is not appropriate for them, and
+terms such as “exotic”, “non-indigenous” or “non-native” have been used in ISPMs. To avoid confusion,
+it would be preferable to use only one of these terms, in which case “non-indigenous” would be suitable,
+especially as it can accompany its opposite “indigenous”. “Exotic” is not suitable because it presents
+translation problems.
+5
+ A species that is non-indigenous and has entered an area through natural means is not an alien species
+(CBD). It is simply extending its natural range. For IPPC purposes, such a species could still be
+considered as a potential quarantine pest.
+
+3.2      “Introduction”
+
+    CBD definition                                 Explanation in IPPC context
+    The movement by human agency, indirect or      The entry of a species into an area where it is non-
+    direct, of an alien species6 outside of its    indigenous, through movement by human agency,
+    natural range (past or present). This          either directly from an area where the species is
+    movement can be either within a country or     indigenous, or indirectly8 (by successive movement
+    between countries or areas beyond national     from an area where the species is indigenous through
+    jurisdiction7                                  one or several areas where it is not)
+
+Notes:
+6
+  The CBD definition suggests that introduction (CBD) concerns an alien species (CBD), and thus a
+species that has already entered the area. However, it may be supposed, on the basis of other documents
+made available by CBD, that this is not so, and that a non-indigenous species entering for the first time
+is being introduced (CBD). For CBD, a species can be introduced (CBD) many times, but for IPPC a
+species, once established, cannot be introduced again.
+7
+    The issue of “areas beyond national jurisdiction” is not relevant for the IPPC.
+8
+ In the case of indirect movement, it is not specifically stated in the definition whether all the movements
+from one area to another must be introductions (CBD) (i.e. by human agency, intentional or
+unintentional), or whether some can be by natural movement. This question arises, for example, where
+a species is introduced (CBD) into one area and then moves naturally to an adjoining area. It seems
+that this may be considered as an indirect introduction (CBD), so that the species concerned is an alien
+species (CBD) in the adjoining area, despite the fact that it entered it naturally. In the IPPC context, the
+intermediate country, from which the natural movement occurs, has no obligation to act to limit the
+natural movement, though it may have obligations to prevent intentional or unintentional introduction
+(CBD) if the importing country concerned establishes corresponding phytosanitary measures.
+
+3.3      “Invasive alien species”
+
+    CBD definition                                   Explanation in IPPC context
+    An alien species whose introduction and/or An invasive12 alien species (CBD) is an alien
+    spread threaten9 biological diversity10, 11 species (CBD) that by its establishment or spread
+                                                has become injurious to plants13, or that by risk
+                                                analysis (CBD)14 is shown to be potentially
+                                                injurious to plants
+
+
+
+
+International Plant Protection Convention                                                        ISPM 5-33
+ ISPM 5                                                          Glossary of phytosanitary terms – Appendix 1
+
+
+
+Notes:
+9
+  The word “threaten” does not have an immediate equivalent in IPPC language. The IPPC definition of
+a pest uses the term “injurious”, while the definition of a quarantine pest refers to “economic
+importance”. ISPM 11 makes it clear that quarantine pests may be “injurious” to plants directly, or
+indirectly (via other components of ecosystems), while Supplement 2 of the glossary explains that
+“economic importance” depends on a harmful impact on crops, or on the environment, or on some other
+specific value (recreation, tourism, aesthetics).
+10
+   Invasive alien species (CBD) threaten “biological diversity”. This is not an IPPC term, and the
+question arises whether it has a scope corresponding to that of the IPPC. “Biological diversity” would
+then have to be given a wide meaning, extending to the integrity of cultivated plants in agro-ecosystems,
+non-indigenous plants that have been imported and planted for forestry, amenity or habitat
+management, and indigenous plants in any habitat, whether “man-made” or not. The IPPC does protect
+plants in any of these situations, but it is not clear whether the scope of the CBD is as wide; some
+definitions of “biological diversity” take a much narrower view.
+11
+  On the basis of other documents made available by CBD, invasive alien species may also threaten
+“ecosystems, habitats or species”.
+12
+  The CBD definition and its explanation concern the whole term invasive alien species and do not
+address the term “invasive” as such.
+13
+   The context of the IPPC is the protection of plants. It is clear that there are effects on biological
+diversity that do not concern plants, and so there are invasive alien species (CBD) that are not relevant
+to the IPPC. The IPPC is also concerned with plant products, but it is not clear to what extent the CBD
+considers plant products as a component of biological diversity.
+14
+  For the IPPC, organisms that have never entered the endangered area can also be considered as
+potentially injurious to plants, as a result of pest risk analysis.
+
+3.4   “Establishment”
+
+ CBD definition                                       Explanation in IPPC context
+ The process15 of an alien species in a new habitat The establishment of an alien species (CBD) in
+ successfully producing viable offspring16 with a a habitat in the area it has entered, by successful
+ likelihood of continued survival                   reproduction
+
+Notes:
+15
+   Establishment (CBD) is a process, not a result. It seems that a single generation of reproduction can
+be establishment (CBD), provided the offspring have a likelihood of continued survival (otherwise
+there would be a comma after “offspring”). The CBD definition does not express the IPPC concept of
+“perpetuation for the foreseeable future”.
+16
+  It is not clear how far “offspring” applies to organisms that propagate themselves vegetatively (many
+plants, most fungi, other microorganisms). By using “perpetuation”, the IPPC avoids the question of
+reproduction or replication of individuals altogether. It is the species as a whole that survives. Even the
+growth of long-lived individuals to maturity could be considered to be perpetuation for the foreseeable
+future (e.g. plantations of a non-indigenous plant).
+
+
+
+
+ISPM 5-34                                                        International Plant Protection Convention
+ Glossary of phytosanitary terms – Appendix 1                                                       ISPM 5
+
+
+
+3.5   “Intentional introduction”
+
+ CBD definition                                       Explanation in IPPC context
+ Deliberate movement and/or17 release by Deliberate movement of a non-indigenous species
+ humans of an alien species outside its natural into an area, including its release into the
+ range                                          environment18
+
+Notes:
+17
+   The “and/or” of the CBD definition is difficult to understand.
+18
+  Under most phytosanitary import regulatory systems the intentional introduction of regulated pests is
+prohibited.
+
+3.6   “Unintentional introduction”
+
+ CBD definition                                   Explanation in IPPC context
+ All other introductions which are not Entry of a non-indigenous species with a traded
+ intentional                           consignment, which it infests or contaminates, or
+                                       by some other human agency including pathways
+                                       such as passengers’ baggage, vehicles, artificial
+                                       waterways19
+
+Notes:
+19
+   The prevention of unintentional introduction of regulated pests is an important focus of phytosanitary
+import regulatory systems.
+
+3.7   “Risk analysis”
+
+ CBD definition                                        Explanation in IPPC context
+ 1) the assessment of the consequences20 of the        Risk analysis (CBD)22 is: 1) evaluation of the
+ introduction and of the likelihood of                 probability of establishment and spread, within
+ establishment of an alien species using science-      an area23, of an alien species (CBD) that has
+ based information (i.e. risk assessment), and         entered that area, 2) evaluation of the associated
+ 2) the identification of measures that can be         potential undesirable consequences, and
+ implemented to reduce or manage these risks           3) evaluation and selection of measures to reduce
+ (i.e. risk management), taking into account socio-    the risk of such establishment and spread
+ economic and cultural considerations21
+
+Notes:
+20
+   It is not clear what kinds of consequences are considered.
+21
+  It is not clear at what stages in the process of risk analysis (CBD) socio-economic and cultural
+considerations are taken into account (during assessment, or during management, or both). No
+explanation can be offered in relation to ISPM 11 or Supplement 2 of ISPM 5.
+22
+  This explanation is based on the IPPC definitions of pest risk assessment and pest risk management,
+rather than on that of pest risk analysis.
+23
+   It is unclear whether risk analysis (CBD) may be conducted prior to entry, in which case the
+probability of introduction may also need to be assessed, and measures evaluated and selected to reduce
+the risk of introduction. It may be supposed (on the basis of other documents made available by CBD)
+that risk analysis (CBD) can identify measures restricting further introductions, in which case it relates
+more closely to pest risk analysis.
+
+International Plant Protection Convention                                                       ISPM 5-35
+ ISPM 5                                                       Glossary of phytosanitary terms – Appendix 1
+
+
+
+4.    Other concepts
+The CBD does not propose definitions of other terms, but does use a number of concepts that do not
+seem to be considered in the same light by the IPPC and the CBD, or are not distinguished by the IPPC.
+These include:
+-     border controls
+-     quarantine measures
+-     burden of proof
+-     natural range or distribution
+-     precautionary approach
+-     provisional measures
+-     control
+-     statutory measures
+-     regulatory measures
+-     social impact
+-     economic impact.
+
+5.    References
+CBD (Convention on Biological Diversity). 1992. Convention on Biological Diversity. Montreal, CBD
+     Secretariat.
+CBD. n.d. Glossary of terms. In: Convention on Biological Diversity. [Cited November 2008].
+     https://www.cbd.int/invasive/terms.shtml
+
+
+
+
+ISPM 5-36                                                     International Plant Protection Convention
+ This page is intentionally left blank
+ IPPC
+The International Plant Protection Convention (IPPC)
+is an international plant-health agreement that aims to
+protect global plant resources and facilitate safe trade.
+The IPPC vision is that all countries have the capacity
+to implement harmonized measures to prevent pest
+introductions and spread, and minimize the impacts
+of pests on food security, trade, economic growth, and
+the environment.
+
+
+Organization
+» There are over 180 IPPC contracting parties.
+» Each contracting party has a national plant protection
+  organization (NPPO) and an official IPPC contact point.
+» Ten regional plant protection organizations (RPPOs)
+  have been established to coordinate NPPOs in various
+  regions of the world.
+» The IPPC Secretariat liaises with relevant international
+  organizations to help build regional and national
+  capacities.
+» The secretariat is provided by the Food and Agriculture
+  Organization of the United Nations (FAO).
+
+
+
+
+International Plant Protection Convention Secretariat
+ippc@fao.org | www.ippc.int
+
+Food and Agriculture Organization of the United Nations
+Rome, Italy
+

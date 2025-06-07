@@ -1,0 +1,820 @@
+International Standard for Phytosanitary Measures    2
+
+
+
+
+                   pest risk analysis
+                     Framework for
+                                           eng
+                                                    ISPM 2
+ This page is intentionally left blank
+                 INTERNATIONAL STANDARDS FOR
+                    PHYTOSANITARY MEASURES
+
+
+
+
+            ISPM 2
+
+Framework for pest risk analysis
+
+
+
+
+                             Produced by the Secretariat of the
+                      International Plant Protection Convention
+                               Adopted 2007; published 2019
+
+
+
+
+                                                  © FAO 2007
+ FAO encourages the use, reproduction and dissemination of material in this
+information product. Except where otherwise indicated, material may be copied,
+downloaded and printed for private study, research and teaching purposes, or for
+use in non-commercial products or services, provided that appropriate
+acknowledgement of FAO as the source and copyright holder is given and that
+FAO’s endorsement of users’ views, products or services is not implied in any
+way.
+When this ISPM is reproduced, it should be mentioned that current adopted
+versions of ISPMs are available for download on www.ippc.int.
+All requests for translation and adaptation rights, and for resale and other
+commercial use rights should be made via www.fao.org/contact-us/licence-
+request or addressed to copyright@fao.org.
+FAO    information    products are             available on    the   FAO   website
+(www.fao.org/publications) and can             be purchased   through publications-
+sales@fao.org.
+The designations The designations employed and the presentation of material in
+this information product do not imply the expression of any opinion whatsoever on
+the part of the Food and Agriculture Organization of the United Nations (FAO)
+concerning the legal or development status of any country, territory, city or area or
+of its authorities, or concerning the delimitation of its frontiers or boundaries. The
+mention of specific companies or products of manufacturers, whether or not these
+have been patented, does not imply that these have been endorsed or
+recommended by FAO in preference to others of a similar nature that are not
+mentioned. The views expressed in this information product are those of the
+author(s) and do not necessarily reflect the views or policies of FAO.
+
+
+Publication history
+This is not an official part of the standard
+1989-09 TC-RPPOs added topic Pest risk assessment process (1989-002).
+1990-10 EWG developed draft text.
+1991-05 TC-RPPOs revised draft text and proceeded with the discussion.
+1991-11 EWG revised draft text.
+1992-05 TC-RPPOs revised draft text and unable to recommend.
+1993-05 TC-RPPOs revised draft text and approved for MC.
+1994-05 CEPM-1 revised draft text and requested to add PRA definitions to Glossary.
+1995-05 CEPM-2 revised draft text for adoption.
+1995-11 28th FAO Conference adopted standard.
+ISPM 2. 1995. Guidelines for pest risk analysis. Rome, IPPC, FAO.
+
+1998-05 CEPM- added topic Revision of ISPM No. 2 (1989-002).
+1999-10 ICPM-2 added topic.
+2001-05 ISC-3 approved Specification 3 Revision of ISPM 2.
+2002-04 ICPM-4 noted high priority topic.
+2003-05 SC-7 revised Specification 3 (rev 1).
+2003-11 SC revised Specification 3 (rev 2).
+2004-01 EWG revised standard.
+2004-04 SC revised standard and Specification 3 (rev 3) and returned to EWG.
+2004-06 EWG revised standard and Specification 3.
+2005-04 SC revised standard and requested review by International Plant Health Risk
+   Analysis Network.
+2006-05 SC reviewed standard and approved for MC (*without any revision).
+2006-06 Sent for MC.
+2006-11 SC revised standard for adoption.
+2007-03 CPM-2 adopted revised standard.
+ISPM 2. 2007. Framework for pest risk analysis. Rome, IPPC, FAO.
+
+2015-06 IPPC Secretariat incorporated ink amendments and reformatted standards following
+   revoking of standards procedure from CPM-10 (2015).
+2019-04 CPM-14 noted and IPPC Secretariat incorporated ink amendments to the term
+   “contamination” and its derivatives.
+
+Publication history last updated: 2019-04
+ Framework for pest risk analysis                                                                                                                    ISPM 2
+
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................4
+
+INTRODUCTION ....................................................................................................................................4
+Scope ........................................................................................................................................................4
+References ................................................................................................................................................4
+Definitions ................................................................................................................................................4
+Outline of Requirements ..........................................................................................................................4
+
+BACKGROUND ......................................................................................................................................5
+
+REQUIREMENTS ...................................................................................................................................6
+1.     PRA Stage 1: Initiation .....................................................................................................................6
+       1.1     Initiation points .................................................................................................................7
+       1.1.1   Identification of a pathway ................................................................................................7
+       1.1.2   Identification of a pest .......................................................................................................7
+       1.1.3   Review of phytosanitary policies ......................................................................................8
+       1.1.4   Identification of an organism not previously known to be a pest......................................8
+       1.2     Determination of an organism as a pest ............................................................................8
+       1.2.1   Plants as pests ....................................................................................................................9
+       1.2.2   Biological control agents and other beneficial organisms ...............................................10
+       1.2.3   Organisms not yet fully described or difficult to identify ...............................................10
+       1.2.4   Living modified organisms .............................................................................................10
+       1.2.5   Import of organisms for specific uses .............................................................................11
+       1.3     Defining the PRA area ....................................................................................................11
+       1.4     Previous pest risk analyses ..............................................................................................11
+       1.5     Conclusion of initiation ...................................................................................................11
+2.     Summary of PRA Stages 2 and 3 ...................................................................................................12
+       2.1    Linked standards .............................................................................................................12
+       2.2    Summary of PRA Stage 2: Pest risk assessment .............................................................12
+       2.3    Summary of PRA Stage 3: Pest risk management ..........................................................13
+3.     Aspects Common to All PRA Stages .............................................................................................13
+       3.1      Uncertainty ......................................................................................................................13
+       3.2      Information gathering......................................................................................................13
+       3.3      Documentation ................................................................................................................14
+       3.3.1    Documenting the general PRA process ...........................................................................14
+       3.3.2    Documenting each specific PRA.....................................................................................14
+       3.4      Risk communication........................................................................................................14
+       3.5      Consistency in PRA ........................................................................................................15
+       3.6      Avoidance of undue delay ...............................................................................................15
+APPENDIX 1: Pest risk analysis flow chart ..........................................................................................16
+
+
+
+International Plant Protection Convention                                                                                                        ISPM 2-3
+ ISPM 2                                                                     Framework for pest risk analysis
+
+
+
+Adoption
+This standard was first adopted by the Twenty-eighth Session of the FAO Conference in November
+1995 as Guidelines for pest risk analysis. This first revision was adopted by the Second Session of the
+Commission on Phytosanitary Measures in March 2007 as the present standard.
+
+
+INTRODUCTION
+
+Scope
+This standard provides a framework that describes the pest risk analysis (PRA) process within the
+scope of the IPPC. It introduces the three stages of pest risk analysis – initiation, pest risk assessment
+and pest risk management. The standard focuses on the initiation stage. Generic issues of information
+gathering, documentation, risk communication, uncertainty and consistency are addressed.
+
+
+References
+The present standard refers to International Standards for Phytosanitary Measures (ISPMs). ISPMs are
+available on the International Phytosanitary Portal (IPP) at https://www.ippc.int/core-
+activities/standards-setting/ispms.
+IPPC. 1997. International Plant Protection Convention. Rome, IPPC, FAO.
+WTO. 1994. Agreement on the Application of Sanitary and Phytosanitary Measures. Geneva, World
+     Trade Organization.
+
+Definitions
+Definitions of phytosanitary terms used in the present standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+
+Outline of Requirements
+The PRA process is a technical tool used for identifying appropriate phytosanitary measures. The PRA
+process may be used for organisms not previously recognized as pests (such as plants, biological
+control agents or other beneficial organisms, living modified organisms), recognized pests, pathways
+and review of phytosanitary policy. The process consists of three stages: 1: Initiation; 2: Pest risk
+assessment; and 3: Pest risk management.
+This standard provides detailed guidance on PRA Stage 1, summarizes PRA Stages 2 and 3, and
+addresses issues generic to the entire PRA process. For Stages 2 and 3 it refers to ISPM 3 (Guidelines
+for the export, shipment, import and release of biological control agents and other beneficial
+organisms), ISPM 11 (Pest risk analysis for quarantine pests) and ISPM 21 (Pest risk analysis for
+regulated non-quarantine pests) dealing with the PRA process.
+The PRA process is initiated in Stage 1 with the identification of an organism or pathway that may be
+considered for pest risk assessment, or as part of the review of existing phytosanitary measures, in
+relation to a defined PRA area. The first step is to determine or confirm whether or not the organism
+considered is a pest. If no pests are identified, the analysis need not continue. The analysis of pests
+identified in Stage 1 continues to Stages 2 and 3 using guidance provided in other standards.
+Information gathering, documentation and risk communication, as well as uncertainty and consistency,
+are issues common to all PRA stages.
+
+
+
+
+ISPM 2-4                                                        International Plant Protection Convention
+ Framework for pest risk analysis                                                                           ISPM 2
+
+
+
+
+BACKGROUND
+Pest risk analysis provides the rationale for phytosanitary measures for a specified PRA area. It
+evaluates scientific evidence to determine whether an organism is a pest. If so, the analysis evaluates
+the probability of introduction and spread of the pest and the magnitude of potential economic
+consequences in a defined area, using biological or other scientific and economic evidence. If the risk
+is deemed unacceptable, the analysis may continue by suggesting management options that can reduce
+the risk to an acceptable level. Subsequently, pest risk management options may be used to establish
+phytosanitary regulations.
+For some organisms, it is known beforehand that they are pests, but for others, the question of whether
+or not they are pests should initially be resolved1.
+The pest risks posed by the introduction of organisms associated with a particular pathway, such as a
+commodity, should also be considered in a PRA. The commodity itself may not pose a pest risk but
+may harbour organisms that are pests. Lists of such organisms are compiled during the initiation stage.
+Specific organisms may then be analysed individually, or in groups where individual species share
+common biological characteristics.
+Less commonly, the commodity itself may pose a pest risk. When deliberately introduced and
+established in intended habitats in new areas, organisms imported as commodities (such as plants for
+planting, biological control agents and other beneficial organisms, and living modified organisms
+(LMOs)) may pose a risk of accidentally spreading to unintended habitats causing injury to plants or
+plant products. Such risks may also be analysed using the PRA process.
+The PRA process is applied to pests of cultivated plants and wild flora, in accordance with the scope
+of the IPPC. It does not cover the analysis of risks beyond the scope of the IPPC.
+Provisions of other international agreements may address risk assessment (e.g. the Convention on
+Biological Diversity and the Cartagena Protocol on Biosafety to that convention).
+
+The PRA structure
+The PRA process consists of three stages:
+-    Stage 1: Initiation
+-    Stage 2: Pest risk assessment
+-    Stage 3: Pest risk management.
+Information gathering, documentation and risk communication are carried out throughout the PRA
+process. PRA is not necessarily a linear process because, in conducting the entire analysis, it may be
+necessary to go back and forth between various stages.
+
+Revision of this standard
+This revision of ISPM 2 particularly addresses the issues of:
+-     aligning the text with the 1997 revision of the IPPC
+-     aligning the text with further conceptual developments of the PRA scope and procedures as
+      appearing in ISPM 3, ISPM 11 and ISPM 21
+-     including regulated non-quarantine pests (RNQPs) in the description of the PRA process
+-     including organisms not known beforehand to be pests in the description of the PRA process
+
+1
+  The IPPC defines a pest as “any species, strain or biotype of plant, animal or pathogenic agent injurious to
+plants or plant products”. The understanding of the term “pests” includes organisms that are pests because they
+directly affect cultivated/managed or uncultivated/unmanaged plants, indirectly affect plants, or indirectly affect
+plants through effects on other organisms (c.f. Annex 1 of ISPM 11).
+
+International Plant Protection Convention                                                                ISPM 2-5
+ ISPM 2                                                                      Framework for pest risk analysis
+
+
+
+-     including aspects common to all PRA stages in the description of the PRA.
+Thus, this standard provides detailed guidance on PRA Stage 1 and issues generic to all PRA stages,
+and refers to other ISPMs (identified in Table 1) as appropriate for further analysis through PRA
+Stages 2 and 3. This standard is conceptual and is not a detailed operational or methodological guide
+for assessors. An overview of the full PRA process is illustrated in Appendix 1.
+
+Provisions of the IPPC regarding pest risk analysis
+The International Plant Protection Convention (IPPC, Article VII.2(a)) requires that: “Contracting
+parties shall not ... take any of the measures specified in paragraph 1 of this Article [i.e. phytosanitary
+measures] unless such measures are made necessary by phytosanitary considerations and are
+technically justified.”
+Article VI.1(b) requires that phytosanitary measures are: “limited to what is necessary to protect plant
+health and/or safeguard the intended use and can be technically justified by the contracting party
+concerned.”
+“Technically justified” is defined in Article II.1 as: “justified on the basis of conclusions reached by
+using an appropriate pest risk analysis or, where applicable, another comparable examination and
+evaluation of available scientific information.”
+Article IV.2(f) states that the responsibilities of the national plant protection organization (NPPO)
+include “the conduct of pest risk analyses”. The issuing of regulations is a responsibility of the
+contracting party to the IPPC (Article IV.3(c)), although contracting parties may delegate this
+responsibility to the NPPO.
+In conducting a PRA, the obligations established in the IPPC should be taken into account. Those of
+particular relevance to the PRA process include:
+-      cooperation in the provision of information
+-      minimal impact
+-      non-discrimination
+-      harmonization
+-      transparency
+-      avoidance of undue delay.
+
+
+REQUIREMENTS
+
+1.    PRA Stage 1: Initiation
+Initiation is the identification of organisms and pathways that may be considered for pest risk
+assessment in relation to the identified PRA area.
+A PRA process may be triggered in the following situations (initiation points, section 1.1):
+-    a request is made to consider a pathway that may require phytosanitary measures
+-    a pest is identified that may justify phytosanitary measures
+-    a decision is made to review or revise phytosanitary measures or policies
+-    a request is made to determine whether an organism is a pest.
+The initiation stage involves four steps:
+-     determination whether an organism is a pest (section 1.2)
+-     defining the PRA area (section 1.3)
+-     evaluating any previous PRA (section 1.4)
+
+ISPM 2-6                                                         International Plant Protection Convention
+ Framework for pest risk analysis                                                                     ISPM 2
+
+
+
+-      conclusion (section 1.5).
+When the PRA process has been triggered by a request to consider a pathway, the above steps are
+preceded by assembling a list of organisms of possible regulatory concern because they are likely to be
+associated with a pathway.
+At this stage, information is necessary to identify the organism and its potential economic impact,
+which includes environmental impact2. Other useful information on the organism may include its
+geographical distribution, host plants, habitats and association with commodities (or, for RNQP
+candidates, association with plants for planting). For pathways, information about the commodity,
+including modes of transport, and its intended end use, is essential.
+
+1.1    Initiation points
+
+1.1.1 Identification of a pathway
+The need for a new or revised PRA for a specific pathway may arise in situations such as when:
+-     import is proposed of a commodity not previously imported or a commodity from a new area of
+      origin
+-     there is an intention to import for selection and/or scientific research a plant species or cultivar
+      not yet introduced that could potentially be a host of pests
+-     a pathway other than commodity import is identified (natural spread, packing material, mail,
+      garbage, compost, passenger baggage etc.)
+-     a change in susceptibility of a plant to a pest is identified
+-     a change in virulence/aggressiveness or host range of a pest.
+These are situations where the commodity itself is not a pest. When the commodity itself may be a
+pest, it should also be considered under section 1.1.4.
+A list of organisms likely to be associated with the pathway should be assembled, including organisms
+that have not yet been clearly identified as pests. When a PRA is carried out for a commodity for
+which trade already exists, records of actual pest interceptions should be used as the basis for the
+listing of associated pests.
+
+1.1.2 Identification of a pest
+The need for a new or revised PRA on a specific recognized pest may arise in situations such as when:
+-     an infestation or an outbreak of a new pest is discovered
+-     a new pest is identified by scientific research
+-     a pest is reported to be more injurious than previously known
+-     an organism is identified as a vector for other recognized pests
+-     there is a change in the status or incidence of a pest in the PRA area
+-     a new pest is intercepted on an imported commodity
+-     a pest is repeatedly intercepted at import
+-     a pest is proposed to be imported for research or other purpose.
+In these situations, the fact that the organism is known to be a pest can be recorded in preparation for
+PRA Stage 2.
+
+
+
+2
+ Further information on this aspect is provided in Supplement 2 (Guidelines on the understanding of potential
+economic importance and related terms including reference to environmental considerations) to ISPM 5.
+
+International Plant Protection Convention                                                           ISPM 2-7
+ ISPM 2                                                                     Framework for pest risk analysis
+
+
+
+1.1.3 Review of phytosanitary policies
+The need for a new or revised PRA may arise from situations such as when:
+-     a national review of phytosanitary regulations, requirements or operations is undertaken
+-     an official control programme (e.g. a certification programme encompassing phytosanitary
+      elements) is developed to avoid unacceptable economic impact of specified RNQPs in plants for
+      planting
+-     an evaluation of a regulatory proposal of another country or international organization is
+      undertaken
+-     a new system, process or procedure is introduced or new information made available that could
+      influence a previous decision (e.g. results of monitoring; a new treatment or withdrawal of a
+      treatment; new diagnostic methods)
+-     an international dispute on phytosanitary measures arises
+-     the phytosanitary situation in a country changes or political boundaries change.
+In these situations, pests will already have been identified and this fact should be recorded in
+preparation for PRA Stage 2.
+For existing trade, no new measures should be applied until the revision or new PRA has been
+completed, unless this is warranted by new or unexpected phytosanitary situations that may necessitate
+emergency measures.
+
+1.1.4 Identification of an organism not previously known to be a pest
+An organism may be considered for PRA in situations such as when:
+-     a proposal is made to import a new plant species or variety for cropping, amenity or
+      environmental purposes
+-     a proposal is made to import or release a biological control agent or other beneficial organism
+-     an organism is found that has not yet been fully named or described or is difficult to identify
+-     a proposal is made to import an organism for research, analysis or other purpose
+-     a proposal is made to import or release an LMO.
+In these situations it would be necessary to determine if the organism is a pest and thus subject to PRA
+Stage 2. Section 1.2 provides further guidance in this matter.
+
+1.2   Determination of an organism as a pest
+Pre-selection or screening are terms sometimes used to cover the early step of determining whether an
+organism is a pest or not.
+The taxonomic identity of the organism should be specified because any biological and other
+information used should be relevant to the organism in question. If the organism has not yet been fully
+named or described, then, to be determined as a pest, it should at least have been shown to be
+identifiable, consistently to produce injury to plants or plant products (e.g. symptoms, reduced growth
+rate, yield loss or any other damage) and to be transmissible or able to disperse.
+The taxonomic level for organisms considered in PRA is usually the species. The use of a higher or
+lower taxonomic level should be supported by a scientifically sound rationale. In cases where levels
+below the species level are being analysed, the rationale for this distinction should include evidence of
+reported significant variation in factors such as virulence, pesticide resistance, environmental
+adaptability, host range or its role as a vector.
+Predictive indicators of an organism are characteristics that, if found, would suggest the organism may
+be a pest. The information on the organism should be checked against such indicators, and if none are
+
+
+ISPM 2-8                                                       International Plant Protection Convention
+ Framework for pest risk analysis                                                                 ISPM 2
+
+
+
+found, it may be concluded that the organism is not a pest, and the analysis may be ended by recording
+the basis of that decision.
+The following are examples of indicators to consider:
+-     previous history of successful establishment in new areas
+-     phytopathogenic characteristics
+-     phytophagous characteristics
+-     presence detected in connection with observations of injury to plants, beneficial organisms etc.
+      before any clear causal link has been established
+-     belonging to taxa (family or genus) commonly containing known pests
+-     capability of acting as a vector for known pests
+-     adverse effects on non-target organisms beneficial to plants (such as pollinators or predators of
+      plant pests).
+Particular cases for analysis include plant species, biological control agents and other beneficial
+organisms, organisms which have not yet been fully named or described, or are difficult to identify,
+intentional import of organisms and LMOs. The pest potential of LM-plants should be determined as
+outlined in section 1.2.4.
+
+1.2.1 Plants as pests
+Plants have deliberately been spread among countries and continents for millennia, and new species or
+varieties of plants for cropping, amenity or environmental purposes are continually imported. Some
+plant species or cultivars transferred to regions beyond their natural range may escape from where
+they were initially released and invade unintended habitats such as arable land, natural or semi-natural
+habitats to become pests.
+Plants as pests may also be introduced unintentionally into a country, for example as contaminating
+pests with seeds for sowing, grain for consumption or fodder, wool, soil, machinery, equipment,
+vehicles, containers or ballast water.
+Plants as pests may affect other plants by competing for water, light, minerals etc. or through direct
+parasitism and thus suppressing or eliminating other plants. Imported plants may also affect, by
+hybridization, plant populations under cultivation or in the wild flora, and may become pests for that
+reason. Further information is provided in the supplementary text on environmental risks in ISPM 11).
+The primary indicator that a plant species may become a pest in the PRA area is the existence of
+reports that the plant species has been recorded as a pest elsewhere. Some intrinsic attributes that may
+indicate that a plant species could be a pest include:
+-     adaptability to a wide range of ecological conditions
+-     strong competitiveness in plant stands
+-     high rate of propagation
+-     ability to build up a persistent soil-seed bank
+-     high mobility of propagules
+-     allelopathy
+-     parasitic capacity
+-     capacity to hybridize.
+However, it should be noted that plants without such attributes may nevertheless become pests and
+that long time lags have often been observed between the introduction of a new plant species and
+evidence that the plant is a pest.
+
+
+
+International Plant Protection Convention                                                      ISPM 2-9
+ ISPM 2                                                                     Framework for pest risk analysis
+
+
+
+1.2.2 Biological control agents and other beneficial organisms
+Biological control agents and other beneficial organisms are intended to be beneficial to plants. Thus,
+when performing a PRA, the main concern is to look for potential injury to non-target organisms3.
+Other concerns may include:
+-     presence of other species as contaminants of cultures of beneficial organisms, the culture
+      thereby acting as a pathway for pests
+-     reliability of containment facilities when such are required.
+
+1.2.3 Organisms not yet fully described or difficult to identify
+Organisms that have not yet been fully named or described or are difficult to identify (e.g. damaged
+specimen or unidentifiable life stages) may be detected in imported consignments or during
+surveillance, in which case a decision as to whether phytosanitary action is justified and
+recommendations for phytosanitary measures may need to be made. These should be based on a PRA
+using the information available, even if very limited. It is recommended that, in such cases, specimens
+are deposited in an accessible reference collection for future further examination.
+
+1.2.4 Living modified organisms
+LMOs are organisms that possess a novel combination of genetic material, obtained through the use of
+modern biotechnology and are designed to express one or more new or altered traits. Types of LMOs
+for which a PRA may be conducted include:
+-     plants for use in agriculture, horticulture or silviculture, bioremediation of soil, for industrial
+      purposes, or as therapeutic agents (e.g. LMO plants with an enhanced vitamin profile)
+-     biological control agents and other beneficial organisms modified to improve their performance
+-     pests modified to alter their pathogenic characteristics.
+The modification may result in an organism with a new trait that may now present a pest risk beyond
+that posed by the non-modified recipient or donor organisms, or similar organisms. Risks may include:
+-      increased potential for establishment and spread
+-      those resulting from inserted gene sequences that may act independently of the organism with
+       subsequent unintended consequences
+-      potential to act as a vector for the entering of a genetic sequence into domesticated or wild
+       relatives of that organism, resulting in an increase in the pest risk of that related organism
+-      in case of a modified plant species, the potential to act as a vector for the entering of an
+       injurious genetic sequence into relatives of that species.
+PRA is usually concerned with phenotypic rather than genotypic characteristics. However, genotypic
+characteristics should also be considered when assessing the pest risks of LMOs.
+Predictive indicators more specific to LMOs include intrinsic attributes such as:
+-     phenotypic similarities or genetic relationships to known pest species
+-     introduced changes in adaptive characteristics that may increase the potential for introduction or
+      spread
+-     phenotypic and genotypic instability.
+For LMOs, identification requires information regarding the taxonomic status of the recipient and the
+donor organism, and description of the vector, the nature of the genetic modification, and the genetic
+sequence and its insertion site in the recipient genome.
+
+
+3
+ ISPM 3 recommends that NPPOs should conduct a PRA either before import or before release of biological
+control agents and other beneficial organisms.
+
+ISPM 2-10                                                      International Plant Protection Convention
+ Framework for pest risk analysis                                                                   ISPM 2
+
+
+
+Further potential risks of LMOs are outlined in Annex 3 to ISPM 11. A PRA may be carried out to
+determine whether the LMO is a pest, and subsequently assess the pest risk.
+
+1.2.5 Import of organisms for specific uses
+When a request is made to import an organism that may be a pest for use in scientific research,
+education, industry or other purposes, the identity of the organism should be clearly defined.
+Information on the organism or closely related organisms may be assessed to identify indicators that it
+may be a pest. For organisms determined to be pests, pest risk assessment may be carried out.
+
+1.3    Defining the PRA area
+The area to which the PRA refers has to be clearly defined. It may be the whole or part of a country or
+several countries. Whereas information may be gathered from a wider geographical area, the analysis
+of establishment, spread and economic impact should relate only to the defined PRA area.
+In PRA Stage 2, the endangered area is identified. In PRA Stage 3, the regulated area may, however,
+be designated as wider than the endangered area if technically justified and not in conflict with the
+principle of non-discrimination.
+
+1.4    Previous pest risk analyses
+Before performing a new PRA, a check should be made to determine if the organism, pest or pathway
+has ever been subjected to a previous PRA. The validity of any existing analysis should be verified
+because circumstances and information may have changed. Its relevance to the PRA area should be
+confirmed.
+The possibility of using a PRA of a similar organism, pest or pathway may also be investigated,
+particularly when information on the specific organism is absent or incomplete. Information
+assembled for other purposes, such as environmental impact assessments of the same or a closely
+related organism, may be useful but cannot substitute for a PRA.
+
+1.5    Conclusion of initiation
+At the end of PRA Stage 1, pests and pathways of concern will have been identified and the PRA area
+defined. Relevant information will have been collected and pests identified as candidates for further
+assessment, either individually or in association with a pathway.
+Organisms determined not to be pests and pathways not carrying pests need not be further assessed.
+The decision and rationale should be recorded and communicated, as appropriate.
+Where an organism has been determined to be a pest the process may continue to PRA Stage 2. Where
+a list of pests has been identified for a pathway, pests may be assessed as groups, where biologically
+similar, or separately.
+Where the PRA is specifically aimed at determining if the pest should be regulated as a quarantine
+pest, the process may proceed immediately to the pest categorization step of pest risk assessment
+(PRA Stage 2) of ISPM 11. That ISPM is relevant for organisms that appear to meet the following
+criteria:
+-      not present in the PRA area or, if present, of limited distribution and subject to official control
+       or being considered for official control
+-      having the potential to cause injury to plants or plant products in the PRA area
+-      having the potential to establish and spread in the PRA area.
+
+
+
+
+International Plant Protection Convention                                                       ISPM 2-11
+ ISPM 2                                                                                     Framework for pest risk analysis
+
+
+
+Where the PRA is specifically aimed at determining if the pest should be regulated as an RNQP, the
+process may proceed immediately to the pest categorization step of pest risk assessment (PRA Stage
+2) of ISPM 21. That ISPM is relevant for organisms that appear to meet the following criteria:
+-      present in the PRA area and subject to official control or being considered for official control
+-      plants for planting are a pathway for the pest in the PRA area
+-      having the potential to affect the intended use of plants for planting with an economically
+       unacceptable impact in the PRA area.
+
+
+2.      Summary of PRA Stages 2 and 3
+
+2.1     Linked standards
+The PRA process for different pest categories is described in separate ISPMs, as summarized in Table
+1. As circumstances change and techniques evolve, new standards may be developed and others
+revised.
+
+Table 1: Standards linked to ISPM 2
+
+ISPM                  Coverage of PRA
+ISPM 11               Specific guidance on PRA of quarantine pests
+                      including:
+                        - Stage 1: Initiation1
+                        - Stage 2: Pest risk assessment including
+                          environmental risks and LMO assessment
+                        - Stage 3: Pest risk management
+ISPM 21               Specific guidance on PRA of regulated non-
+                      quarantine pests including:
+                       - Stage 1: Initiation1
+                       - Stage 2: Pest risk assessment especially of
+                         plants for planting as the main source of
+                         infestation and economic impact on their
+                         intended use
+                       - Stage 3: Pest risk management
+ISPM 3                Specific guidance on pest risk management for
+                      biological control agents and beneficial organisms 2
+1    ISPM 11 and ISPM 21 include some guidance on PRA Stage 1 for quarantine pests and RNQPs, respectively.
+2    ISPM 3 provides more detailed guidance appropriate to PRA Stage 1, for example with respect to the provision of
+     necessary information, documentation and communication to relevant parties.
+
+
+2.2     Summary of PRA Stage 2: Pest risk assessment
+Stage 2 involves several steps:
+-     pest categorization: the determination of whether the pest has the characteristics of a quarantine
+      pest or RNQP, respectively
+-     assessment of introduction and spread:
+            candidates for quarantine pests: the identification of the endangered area and assessment
+             of the probability of introduction and spread
+             candidates for RNQPs: assessment of whether the plants for planting are or will be the
+              main source of pest infestation, in comparison to other sources of infestation of the area
+-       assessment of economic impacts:
+             candidates for quarantine pests: assessment of economic impacts, including
+              environmental impacts
+
+ISPM 2-12                                                                    International Plant Protection Convention
+ Framework for pest risk analysis                                                                 ISPM 2
+
+
+
+            candidates for RNQPs: assessment of potential economic impacts associated with the
+             intended use of plants for planting in the PRA area (including analysis of infestation
+             threshold and tolerance level)
+-      conclusion, summarizing the overall pest risk on the basis of assessment results regarding
+       introduction, spread and potential economic impacts for quarantine pests, or economically
+       unacceptable impacts for regulated non-quarantine pests.
+The outputs from pest risk assessment are used to decide if the pest risk management stage (Stage 3) is
+required.
+
+2.3    Summary of PRA Stage 3: Pest risk management
+Stage 3 involves the identification of phytosanitary measures that (alone or in combination) reduce the
+risk to an acceptable level.
+Phytosanitary measures are not justified if the pest risk is considered acceptable or if they are not
+feasible (e.g. as may be the case with natural spread). However, even in such cases contracting parties
+may decide to maintain a low level of monitoring or audit regarding the pest risk to ensure that future
+changes in that risk are identified.
+The conclusion of the pest risk management stage will be whether or not appropriate phytosanitary
+measures adequate to reduce the pest risk to an acceptable level are available, cost-effective and
+feasible.
+In addition to standards for PRA (Table 1), other standards provide specific technical guidance to pest
+risk management options.
+
+
+3.     Aspects Common to All PRA Stages
+
+3.1    Uncertainty
+Uncertainty is a component of risk and therefore important to recognize and document when
+performing PRAs. Sources of uncertainty with a particular PRA may include missing, incomplete,
+inconsistent or conflicting data; natural variability of biological systems; subjectiveness of analysis;
+and sampling randomness. Symptoms of uncertain causes and origin and asymptomatic carriers of
+pests may pose particular challenges.
+The nature and degree of uncertainty in the analysis should be documented and communicated, and the
+use of expert judgement indicated. If adding or strengthening of phytosanitary measures are
+recommended to compensate for uncertainty, this should be recorded. Documentation of uncertainty
+contributes to transparency and may also be used for identifying research needs or priorities.
+As uncertainty is an inherent part of PRA, it is appropriate to monitor the phytosanitary situation
+resulting from the regulation based on any particular PRA and to re-evaluate previous decisions.
+
+3.2    Information gathering
+Throughout the process, information should be gathered and analysed as required to reach
+recommendations and conclusions. Scientific publications as well as technical information such as
+data from surveys and interceptions may be relevant. As the analysis progresses, information gaps may
+be identified necessitating further enquiries or research. Where information is insufficient or
+inconclusive, expert judgement may be used if appropriate.
+Cooperation in the provision of information and responding to requests for information made via the
+official contact point are IPPC obligations (Articles VIII.1(c) and VIII.2). When requesting
+information from other contracting parties, requests should be as specific as possible and limited to
+
+International Plant Protection Convention                                                     ISPM 2-13
+ ISPM 2                                                                            Framework for pest risk analysis
+
+
+
+information essential to the analysis. Other agencies may be approached for information appropriate to
+the analysis.
+
+3.3      Documentation
+The principle of transparency requires that contracting parties should, on request, make available the
+technical justification for phytosanitary requirements. Thus, the PRA should be sufficiently
+documented. Documenting PRA has two levels:
+-     documenting the general PRA process
+-     documenting each analysis made.
+
+3.3.1 Documenting the general PRA process
+The NPPO should preferably document procedures and criteria of its general PRA process.
+
+3.3.2 Documenting each specific PRA
+For each particular analysis, the entire process from initiation to pest risk management should be
+sufficiently documented so that the sources of information and rationale for management decisions can
+be clearly demonstrated. However, a PRA does not necessarily need to be long and complex. A short
+and concise PRA may be sufficient provided justifiable conclusions can be reached after completing
+only a limited number of steps in the PRA process.
+The main elements to be documented are:
+-    purpose of the PRA
+-    identity of the organism
+-    PRA area
+-    biological attributes of the organism and evidence of ability to cause injury
+-    for quarantine pests: pest, pathways, endangered area
+-    for RNQPs: pest, host, plants and/or parts or class of plants under consideration, sources of
+     infestation, intended use of the plants
+-    sources of information
+-    nature and degree of uncertainty and measures envisaged to compensate for uncertainty
+-    for pathway-initiated analysis: commodity description and categorized pest list
+-    evidence of economic impact, which includes environmental impact
+-    conclusions of pest risk assessment (probabilities and consequences)
+-    decisions and justifications to stop the PRA process
+-    pest risk management: phytosanitary measures identified, evaluated and recommended
+-    date of completion and the NPPO responsible for the analysis, including if appropriate names of
+     authors, contributors and reviewers.
+Other aspects to be documented may include4:
+-     particular need for monitoring the efficacy of proposed phytosanitary measures
+-     hazards identified outside the scope of the IPPC and to be communicated to other authorities.
+
+3.4      Risk communication
+Risk communication is generally recognized as an interactive process allowing exchange of
+information between the NPPO and stakeholders. It is not simply a one-way movement of information
+
+4
+    ISPM 3 lists additional documentation requirements in relation to such organisms.
+
+ISPM 2-14                                                             International Plant Protection Convention
+ Framework for pest risk analysis                                                               ISPM 2
+
+
+
+or about making stakeholders understand the risk situation, but is meant to reconcile the views of
+scientists, stakeholders, politicians etc. in order to:
+-      achieve a common understanding of the pest risks
+-      develop credible pest risk management options
+-      develop credible and consistent regulations and policies to deal with pest risks
+-      promote awareness of the phytosanitary issues under consideration.
+At the end of the PRA, evidence supporting the PRA, the proposed mitigations and uncertainties
+should preferably be communicated to stakeholders and other interested parties, including other
+contracting parties, RPPOs and NPPOs, as appropriate.
+If, subsequent to the PRA, phytosanitary requirements, restrictions or prohibitions are adopted, the
+contracting party shall immediately publish and transmit those to contracting parties that it believes
+may be directly affected (according to IPPC Article VII.2(b)) and on request make the rationale
+available to any contracting party (according to IPPC Article VII.2(c)).
+If, subsequent to the PRA, phytosanitary requirements, restrictions or prohibitions are not adopted,
+contracting parties are encouraged to make this information available.
+NPPOs are encouraged to communicate evidence of hazards other than pest risks (such as to animals
+or human health) to the appropriate authorities.
+
+3.5    Consistency in PRA
+It is recommended that an NPPO strives for consistency in its conduct of PRAs. Consistency offers
+numerous benefits, including:
+-       facilitation of the principles of non-discrimination and transparency
+-       improved familiarity with the PRA process
+-       increased efficiency in completing PRAs and managing related data
+-       improved comparability between PRAs conducted on similar products or pests, which in turn
+        aids in development and implementation of similar or equivalent management measures.
+Consistency may be assured through, for example, the elaboration of generic decision criteria and
+procedural steps, training of individuals conducting PRA, and review of draft PRAs.
+
+3.6    Avoidance of undue delay
+Where other contracting parties are directly affected, the NPPO should, on request, supply information
+about the completion of individual analyses, and if possible the anticipated time frame, taking into
+account avoidance of undue delay (ISPM 1 (Phytosanitary principles for the protection of plants and
+the application of phytosanitary measures in international trade)).
+
+
+
+
+International Plant Protection Convention                                                   ISPM 2-15
+ ISPM 2                                                                Framework for pest risk analysis - Appendix 1
+
+
+            This appendix is for reference purposes only and is not a prescriptive part of the standard.
+
+
+APPENDIX 1: Pest risk analysis flow chart
+
+
+
+
+ISPM 2-16                                                               International Plant Protection Convention
+ This page is intentionally left blank
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+cultivated and wild plants by preventing the introduction and
+spread of pests. International travel and trade are greater than
+ever before. As people and commodities move around the
+world, organisms that present risks to plants travel with them.
+
+Organization
+RR There are over 180 contracting parties to the IPPC.
+
+RR Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+RR Nine regional plant protection organizations (RPPOs) work
+
+   to facilitate the implementation of the IPPC in countries.
+RR IPPC liaises with relevant international organizations to
+
+   help build regional and national capacities.
+RR The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+Food and Agriculture Organization of the United Nations
+IPPC Secretariat
+Viale delle Terme di Caracalla, 00153 Rome, Italy
+Tel: +39 06 5705 4812
+Email: ippc@fao.org | Web: www.ippc.int
+

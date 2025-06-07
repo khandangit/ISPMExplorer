@@ -1,0 +1,457 @@
+                                                                                                          ISPM 7
+7
+INTERNATIONAL STANDARD FOR PHYTOSANITARY MEASURES
+
+
+
+
+                                                                                                          ENG
+
+
+
+
+                                                           Phytosanitary
+                                                    certification system
+
+
+
+
+                                                                     Produced by the Secretariat of the
+                                                      International Plant Protection Convention (IPPC)
+ This page is intentionally left blank
+                  INTERNATIONAL STANDARDS FOR
+                     PHYTOSANITARY MEASURES
+
+
+
+
+             ISPM 7
+
+Phytosanitary certification system
+
+
+
+
+                              Produced by the Secretariat of the
+                       International Plant Protection Convention
+                                Adopted 2011; published 2016
+
+
+
+
+                                                   © FAO 2011
+ FAO encourages the use, reproduction and dissemination of material in this
+information product. Except where otherwise indicated, material may be copied,
+downloaded and printed for private study, research and teaching purposes, or for
+use in non-commercial products or services, provided that appropriate
+acknowledgement of FAO as the source and copyright holder is given and that
+FAO’s endorsement of users’ views, products or services is not implied in any
+way.
+When this ISPM is reproduced, it should be mentioned that current adopted
+versions of ISPMs are available for download on www.ippc.int.
+All requests for translation and adaptation rights, and for resale and other
+commercial use rights should be made via www.fao.org/contact-us/licence-
+request or addressed to copyright@fao.org.
+FAO    information    products are             available on    the  FAO    website
+(www.fao.org/publications) and can             be purchased   through publications-
+sales@fao.org.
+The designations The designations employed and the presentation of material in
+this information product do not imply the expression of any opinion whatsoever on
+the part of the Food and Agriculture Organization of the United Nations (FAO)
+concerning the legal or development status of any country, territory, city or area or
+of its authorities, or concerning the delimitation of its frontiers or boundaries. The
+mention of specific companies or products of manufacturers, whether or not these
+have been patented, does not imply that these have been endorsed or
+recommended by FAO in preference to others of a similar nature that are not
+mentioned. The views expressed in this information product are those of the
+author(s) and do not necessarily reflect the views or policies of FAO.
+
+
+
+
+Publication history
+This is not an official part of the standard
+1994-05 CEPM-1 added topic - Export Certification System (1994-002)
+1995 EWG developed draft text
+1995-05 CEPM-2 revised draft text and approved for MC
+1995 Sent for MC
+1996-05 CEPM-3 revised draft for adoption
+1997-11 29th FAO Conference adopted standard
+ISPM 7. 1997. Export certification system. Rome, IPPC, FAO.
+
+
+2006-04 CPM-1 added topic Revision of ISPM 7 (2006-034)
+2006-11 SC approved Specification 38 Revision of ISPM 7 and 12
+2008-02 EWG revised standard
+2009-06 SC revised standard and approved for MC
+2010-02 Sent for MC
+2010- 05 SC-7 revised standard
+2010-11 SC revised standard for adoption
+2011-03 CPM-6 adopted revised standard
+ISPM 7. 2011. Phytosanitary certification system. Rome, IPPC, FAO.
+
+
+2015-03 CPM-10 noted ink amendments in relation to “phytosanitary status”.
+2015-06 IPPC Secretariat incorporated ink amendments and reformatted
+   standards following revoking of standards procedure from CPM-10 (2015).
+Publication history last modified: 2015-12.
+ Phytosanitary certification system                                                                                                                 ISPM 7
+
+
+
+CONTENTS
+
+Adoption .................................................................................................................................................. 4
+
+INTRODUCTION ....................................................................................................................................4
+Scope ..................................................................................................................................................... 4
+References ............................................................................................................................................... 4
+Definitions ............................................................................................................................................... 4
+Outline of requirements ........................................................................................................................... 4
+
+REQUIREMENTS ...................................................................................................................................6
+1.     Legal Authority................................................................................................................................ 6
+2.     NPPO Responsibilities .................................................................................................................... 6
+       2.1    Administrative responsibilities ......................................................................................... 6
+       2.2    Operational responsibilities .............................................................................................. 6
+3.     Resources and Infrastructure ........................................................................................................... 7
+       3.1     Personnel .......................................................................................................................... 7
+       3.2     Information on phytosanitary import requirements.......................................................... 7
+       3.3     Technical information on regulated pests ........................................................................ 7
+       3.4     Materials and facilities ..................................................................................................... 7
+4.     Documentation................................................................................................................................. 8
+       4.1    Phytosanitary certificates ................................................................................................. 8
+       4.2    Documentation of procedures .......................................................................................... 8
+       4.3    Record-keeping ................................................................................................................ 8
+5.     Communication ............................................................................................................................... 9
+       5.1    Communication within the exporting country.................................................................. 9
+       5.2    Communication between NPPOs ..................................................................................... 9
+6.     Phytosanitary Certification System Review .................................................................................... 9
+APPENDIX 1: Guidelines for public officers issuing phytosanitary certificates.................................. 10
+
+
+
+
+International Plant Protection Convention                                                                                                       ISPM 7-3
+ ISPM 7                                                                     Phytosanitary certification system
+
+
+
+Adoption
+This standard was adopted by the Twenty-ninth Session of the FAO Conference in November 1997 as
+Export certification system. The first revision of the standard was adopted by the Sixth Session of the
+Commission on Phytosanitary Measures in March 2011 as the present standard.
+
+INTRODUCTION
+
+Scope
+This standard contains requirements and describes components of a phytosanitary certification system
+to be established by national plant protection organizations (NPPOs).
+Requirements and guidelines for the preparation and issuance of phytosanitary certificates1
+(phytosanitary certificates for export and phytosanitary certificates for re-export) are described in
+ISPM 12 (Phytosanitary certificates).
+
+References
+The present standard refers to International Standards for Phytosanitary Measures (ISPMs). ISPMs are
+available on the International Phytosanitary Portal (IPP) at https://www.ippc.int/core-
+activities/standards-setting/ispms.
+IPPC. 1997. International Plant Protection Convention. Rome, IPPC, FAO.
+
+Definitions
+Definitions of phytosanitary terms used in this standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+Outline of requirements
+Phytosanitary certificates are issued for exported or re-exported consignments to provide assurance to
+an NPPO that the consignments meet the phytosanitary import requirements.
+The NPPO of the exporting country has the sole authority to undertake phytosanitary certification and
+should establish a management system to deal with the legislative and administrative requirements.
+The NPPO undertakes operational responsibilities, including sampling and inspection of plants, plant
+products and other regulated articles; detection and identification of pests; surveillance of crops;
+performance of treatments; and establishing and maintaining a record-keeping system.
+In undertaking these functions, the NPPO of the exporting country should have personnel with the
+required skills and technical qualifications. Authorized non-government personnel may carry out
+specified certification functions, provided they are qualified and skilled and responsible to the NPPO.
+Official information on the phytosanitary import requirements of the importing country should be
+available to the NPPO personnel of the exporting country. Technical information on the regulated
+pests of the importing country, along with equipment for sampling, inspection, testing and treatment,
+should also be available to the personnel involved in phytosanitary certification.
+The NPPO of the exporting country should maintain a system for documenting the relevant
+certification procedures. Guidance and instruction material for all procedures should be available.
+Records of all activities leading to issuance of phytosanitary certificates should be maintained.
+
+
+1
+  The IPPC refers to a “phytosanitary certificate” for export purposes and a “phytosanitary certificate for
+reexport” for re-export purposes. In order to keep the use of these terms simple and clear in this standard
+“phytosanitary certificate for export” and “phytosanitary certificate for re-export” are used. The term
+“phytosanitary certificates” (plural) is used to cover both types of certificate.
+
+ISPM 7-4                                                         International Plant Protection Convention
+ Phytosanitary certification system                                                    ISPM 7
+
+
+
+The NPPOs of exporting and importing countries should maintain official communication through
+their respective contact points. Information on phytosanitary import requirements and non-
+compliances should be communicated.
+
+
+
+
+International Plant Protection Convention                                            ISPM 7-5
+ ISPM 7                                                                                  Phytosanitary certification system
+
+
+
+
+REQUIREMENTS
+The IPPC states in its Article V.1:
+           Each contracting party shall make arrangements for phytosanitary certification, with the objective of
+           ensuring that exported plants, plant products and other regulated articles and consignments thereof are
+           in conformity with the certifying statement ….
+
+Therefore, contracting parties should develop and maintain a phytosanitary certification system for
+certifying compliance of plants, plant products and other regulated articles with the phytosanitary
+import requirements of importing contracting parties as well as their freedom from regulated pests.
+The system for the issuance of phytosanitary certificates includes the components of legal authority,
+administrative and operational responsibilities, resources and infrastructure, documentation,
+communication and system review.
+
+1.    Legal Authority
+The NPPO should have the sole authority by legislative or administrative means to conduct, develop
+and maintain a phytosanitary certification system related to exports and re-exports, and should bear the
+legal responsibility for its actions in using this authority, in accordance with Article IV.2(a) of the
+IPPC.
+The NPPO may have the authority to prevent the export of consignments that do not meet
+phytosanitary import requirements.
+
+2.    NPPO Responsibilities
+To implement the phytosanitary certification system, the NPPO should have the following
+administrative and operational responsibilities.
+
+2.1   Administrative responsibilities
+The NPPO should have a management system that ensures that all legislative and administrative
+requirements related to phytosanitary certification are satisfied and be able to:
+-     identify a person or office within the NPPO responsible for the phytosanitary certification
+      system
+-     identify the duties and communication channels of all personnel involved in phytosanitary
+      certification
+-     employ or authorize personnel who have appropriate qualifications and skills
+-     ensure that adequate and sustained training is provided
+-     ensure that adequate personnel and resources are available.
+
+2.2   Operational responsibilities
+The NPPO should have the capability to undertake the following functions:
+-    document and maintain the information regarding the phytosanitary import requirements where
+     needed for phytosanitary certification and provide appropriate work instructions to personnel
+-    perform inspection, sampling and testing of plants, plant products and other regulated articles
+     for purposes related to phytosanitary certification
+-    detect and identify pests
+-    identify plants, plant products and other regulated articles
+-    perform, supervise or audit the required phytosanitary treatments
+-    perform surveys and monitoring and control activities to confirm compliance with the
+     phytosanitary import requirements to be attested in phytosanitary certificates
+-    complete and issue phytosanitary certificates
+
+
+ISPM 7-6                                                                    International Plant Protection Convention
+ Phytosanitary certification system                                                               ISPM 7
+
+
+
+-      verify that appropriate phytosanitary procedures have been established and correctly applied
+-      investigate and take corrective actions (if appropriate) on any notification of non-compliance
+-      produce operational instructions to ensure that phytosanitary import requirements are met
+-      archive copies of issued phytosanitary certificates and other relevant documents
+-      review the effectiveness of phytosanitary certification systems
+-      implement, to the extent possible, safeguards against potential problems such as conflicts of
+       interest and fraudulent issuance and use of phytosanitary certificates
+-      conduct training for personnel
+-      verify the competency of authorized personnel
+-      ensure through appropriate procedures the phytosanitary security of consignments after
+       phytosanitary certification prior to export.
+
+3.     Resources and Infrastructure
+3.1    Personnel
+The NPPO of the exporting country should have, or have access to, personnel with the technical
+qualifications and skills appropriate for the duties and responsibilities of conducting phytosanitary
+certification activities. The personnel should have the training and experience to undertake the
+functions described in section 2.2.
+In addition to being technically qualified and having the skills, expertise and training required to
+perform these functions, personnel should have no conflict of interest in the outcome of the
+phytosanitary certification. Guidelines for public officers issuing phytosanitary certificates are
+provided in Appendix 1 [under development, amend as needed].
+Except for the issuance of phytosanitary certificates non-governmental personnel may be authorized
+by the NPPO to perform specified certification functions. To be authorized, such personnel should be
+qualified and skilled, and responsible to the NPPO. To ensure independence in their exercise of
+official functions, they should be subject to restrictions and obligations equivalent to those for
+government officials and have no conflict of interest (e.g. financial or otherwise) that may affect the
+outcome.
+
+3.2    Information on phytosanitary import requirements
+Phytosanitary certification should be based on official information from the importing country. The
+NPPO of the exporting country should, to the extent possible, have available current official
+information concerning the phytosanitary import requirements of relevant importing countries. Such
+information should be made available in accordance with Article VII.2(b), VII.2(d) and VII.2(i) of the
+IPPC and ISPM 20 (elements on dissemination of established regulations (Guidelines for a
+phytosanitary import regulatory system)).
+
+3.3    Technical information on regulated pests
+Personnel involved in phytosanitary certification should be provided with adequate technical
+information concerning regulated pests for the importing countries including:
+-     their presence and distribution within the exporting country
+-     the biology, surveillance, detection and identification of these pests
+-     the means to control such pests, including treatment where appropriate.
+
+3.4    Materials and facilities
+The NPPO should ensure that adequate equipment, materials and facilities are available to carry out
+sampling, inspection, testing, treatment, consignment verification and other phytosanitary certification
+procedures.
+
+
+International Plant Protection Convention                                                      ISPM 7-7
+ ISPM 7                                                                    Phytosanitary certification system
+
+
+
+4.    Documentation
+The NPPO should have a system for documenting the relevant procedures applied and maintaining
+records (including documentation storage and retrieval). The system should allow the traceability of
+phytosanitary certificates and the related consignments and their parts. The system should also allow
+verification of compliance with the phytosanitary import requirements.
+
+4.1   Phytosanitary certificates
+The phytosanitary certificates are the documentary assurance that the phytosanitary certification
+process as described under the IPPC has been undertaken. The model phytosanitary certificates as
+described in the Annex to the IPPC should be used. Specific guidance is provided in ISPM 12.
+
+4.2   Documentation of procedures
+The NPPO should maintain guidance documents and work instructions, as appropriate, covering all
+the procedures of the phytosanitary certification system, including:
+-      specific activities relating to phytosanitary certificates, as described in ISPM 12 including
+       inspection, sampling, testing, treatment and verification of the identity and integrity of
+       consignments
+-      maintaining security over official seals and marks
+-      ensuring traceability of consignments, including their identification and phytosanitary security
+       (as appropriate) through all stages of production, handling and transport prior to export
+-      investigation of notifications of non-compliance from the NPPO of an importing country,
+       including, if requested by the NPPO of the importing country, a report of the outcome of such
+       an investigation (this procedure should be in line with ISPM 13 (Guidelines for the notification
+       of non-compliance and emergency action))
+-      investigation of invalid or fraudulent phytosanitary certificates, when the existence of these has
+       been brought to the attention of the NPPO by means other than a notification of non-
+       compliance.
+In addition, NPPOs may have documented procedures in place related to phytosanitary certification
+for the cooperation with stakeholders (i.e. producers, brokers, traders).
+
+4.3   Record-keeping
+In general, records should be kept concerning all procedures related to phytosanitary certification.
+Copies of phytosanitary certificates should be kept by the NPPO for the purposes of validation and
+traceability for an appropriate period of time (at least one year).
+For each consignment for which phytosanitary certificates are issued, records should be kept on:
+-     inspection, testing, treatment or other verification that was carried out
+-     samples taken
+-     names of the personnel who undertook these tasks
+-     the date on which the activity was undertaken
+-     results obtained.
+Records should be kept for an appropriate period of time (at least one year) and the NPPO should be
+able to retrieve these records. The use of a secure electronic storage and retrieval system is
+recommended for standardized documentation of records.
+It may be useful to keep such records for those non-compliant consignments for which phytosanitary
+certificates were not issued.
+
+
+
+
+ISPM 7-8                                                       International Plant Protection Convention
+ Phytosanitary certification system                                                                                 ISPM 7
+
+
+
+5.     Communication
+5.1    Communication within the exporting country
+The NPPO should have procedures in place for timely communication to relevant government
+departments and agencies, authorized personnel and industry such as producers, brokers, exporters and
+other stakeholders concerning:
+-      phytosanitary import requirements of other countries
+-      pest status and geographical distribution
+-      operational procedures.
+
+5.2    Communication between NPPOs
+According to the IPPC, Article VIII.2:
+          Each contracting party shall designate a contact point for the exchange of information connected with
+          the implementation of this Convention.
+
+Official communications should be sent to and from that contact point. However, for specific
+information or activities (e.g. notification of non-compliance) an NPPO may designate alternative
+points for contact on such matters.
+In order to supply the NPPO of the exporting country with phytosanitary import requirements, clear
+and accurate information should be provided by the importing country, preferably by its IPPC contact
+point in accordance with IPPC Article VII.2(b) and also in response to a request by the NPPO of the
+exporting country. It may also be made available through regional plant protection organizations
+(RPPOs) or on the International Phytosanitary Portal (IPP) (https://www.ippc.int). NPPOs are
+encouraged to provide their official phytosanitary import requirements to RPPOs or on the IPP in one
+of the official languages of FAO, preferably in English. The NPPO of the exporting country may also
+request its exporters to provide such information and encourage them to inform it about any changes in
+requirements.
+Where necessary, the NPPO of the exporting country should communicate with the IPPC contact point
+of the importing country to clarify and confirm the phytosanitary import requirements.
+If after phytosanitary certification the NPPO of the exporting country becomes aware that an exported
+consignment may not have complied with phytosanitary import requirements, the IPPC contact point
+or designated alternative point of contact in the importing country should be informed as soon as
+possible. In cases where non-compliance has been identified at import, ISPM 13 applies.
+
+6.     Phytosanitary Certification System Review
+The NPPO should periodically review the effectiveness of all aspects of its export phytosanitary
+certification system and implement changes to the system if required.
+
+
+
+
+International Plant Protection Convention                                                                         ISPM 7-9
+ ISPM 7                                                                Phytosanitary certification system - Appendix 1
+
+
+             This appendix is for reference purposes only and is not a prescriptive part of the standard.
+
+APPENDIX 1: Guidelines for public officers issuing phytosanitary certificates
+[under development, amend as necessary]
+
+
+
+
+ISPM 7-10                                                                International Plant Protection Convention
+ This page is intentionally left blank
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+cultivated and wild plants by preventing the introduction and
+spread of pests. International travel and trade are greater than
+ever before. As people and commodities move around the
+world, organisms that present risks to plants travel with them.
+
+Organization
+++ There are over 180 contracting parties to the IPPC.
+
+++ Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+++ Nine regional plant protection organizations (RPPOs) work
+
+   to facilitate the implementation of the IPPC in countries.
+++ IPPC liaises with relevant international organizations to
+
+   help build regional and national capacities.
+++ The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+International Plant Protection Convention (IPPC)
+Viale delle Terme di Caracalla, 00153 Rome, Italy
+Tel: +39 06 5705 4812 - Fax: +39 06 5705 4819
+Email: ippc@fao.org - Web: www.ippc.int
+

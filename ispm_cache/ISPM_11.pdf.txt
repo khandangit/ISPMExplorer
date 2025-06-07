@@ -1,0 +1,1794 @@
+International Standard for Phytosanitary Measures 11
+
+
+
+
+                      quarantine pests
+                   Pest risk analysis for
+                                            eng
+                                                  ISPM 11
+ This page is intentionally left blank
+                     INTERNATIONAL STANDARDS FOR
+                        PHYTOSANITARY MEASURES
+
+
+
+
+               ISPM 11
+
+Pest risk analysis for quarantine pests
+
+
+
+
+                                 Produced by the Secretariat of the
+                          International Plant Protection Convention
+                                   Adopted 2013; published 2019
+
+
+
+
+                                                      © FAO 2017
+ The designations employed and the presentation of material in this information
+product do not imply the expression of any opinion whatsoever on the part of the Food
+and Agriculture Organization of the United Nations (FAO) concerning the legal or
+development status of any country, territory, city or area or of its authorities, or
+concerning the delimitation of its frontiers or boundaries. The mention of specific
+companies or products of manufacturers, whether or not these have been patented,
+does not imply that these have been endorsed or recommended by FAO in
+preference to others of a similar nature that are not mentioned.
+
+The views expressed in this information product are those of the author(s) and do
+not necessarily reflect the views or policies of FAO.
+
+© FAO, 2017
+
+FAO encourages the use, reproduction and dissemination of material in this
+information product. Except where otherwise indicated, material may be copied,
+downloaded and printed for private study, research and teaching purposes, or for use
+in non-commercial products or services, provided that appropriate acknowledgement
+of FAO as the source and copyright holder is given and that FAO’s endorsement of
+users’ views, products or services is not implied in any way.
+
+All requests for translation and adaptation rights, and for resale and other commercial
+use rights should be made via www.fao.org/contact-us/licence-request or addressed
+to copyright@fao.org.
+
+FAO information products are available on the FAO website
+(www.fao.org/publications) and can be purchased through publications-
+sales@fao.org.
+
+When this ISPM is reproduced, it should be mentioned that current adopted versions
+of ISPMs are available for download on www.ippc.int.
+ Publication history
+This is not an official part of the standard
+1994-05 CEPM-1 added topic PRA; Supplementary                2003-11 SC revised draft text with annexes.
+    (1994-003).                                              2004-04 ICPM-6 adopted Supplement 2 (S2): Pest risk
+1995-02 EWG developed draft text.                               analysis for living modified organisms (with Annexes 2,
+1995-05 CEPM-2 postponed the discussion.                        3) to ISPM 11.
+1996-05 CEPM-3 recommended for further study.
+1997-10 CEPM-4 discussed and requested further review.       2004-07 SC revised and approved integrated (S1+S2)
+1998-05 CEPM-5 revised draft text and requested                 standard.
+    comments.                                                ISPM 11. 2004. Pest risk analysis for quarantine pests
+1999-05 CEPM-6 discussed draft text and requested further       including analysis of environmental risks and living
+    discussion.                                                 modified organisms. Rome, IPPC, FAO.
+1999-09 Supplementary CEPM revised draft text and
+    approved for MC.                                         2007-05 SC-7 approved Specification 44 rev. 1.
+1999 Sent for MC.                                            2009-05 EWG drafted.
+2000-11 ISC-2 revised draft text for adoption.
+2001-04 ICPM-3 adopted standard.                             2009-05 SC revised draft.
+ISPM 11. 2001. Pest risk analysis for quarantine pests.      2010-04 SC revised draft.
+    Rome, IPPC, FAO.                                         2011-04 Steward revised ISPM based on comments.
+1999-04 ICPM-2 added topic GMO/Biodiversity/Invasive         2011-05 SC approved for MC.
+   species (1999-004).                                       2011-12 Steward revised ISPM based on comments.
+1999-05 Open-ended PRA WG developed draft text               2012-03 Submitted to SC-7.
+2000-06 EWG for definition the words Genetically modified
+   organisms, LMOs and invasive species.                     2012-04 SC-7 revised and recommended to SC.
+2001-02 IPPC-CBD joint consultation.                         2012-05 Submitted for 2012 SCCP.
+2001-04 ICPM-3 split topic Risk analysis for environmental   2012-11 SC revised and recommended for adoption by
+   hazards of plant pests (2001-001) and LMOs                   CPM.
+   (1999-004).
+                                                             2013-04 CPM-8 adopted Annex 4 to ISPM 11 and
+2001-05 ISC approved Specification 5 Risk analysis for          consequential changes to core text.
+   environmental hazards of plants pests.
+                                                             ISPM 11. 2013. Pest risk analysis for quarantine pests.
+2002-05 SC revised draft text and approved for MC.              Rome, IPPC, FAO.
+2002-06 Sent for MC.
+2002-11 SC revised draft text for adoption.                  2014-04 Secretariat deleted reference to previous ISPM
+2003-04 ICPM-5 adopted Supplement 1(S1): Analysis of            version in the adoption section.
+   environmental risks (with Annex 1) to ISPM 11 and
+                                                             2015-03 CPM-10 noted ink amendments in relation to
+   revised the title.
+                                                                “phytosanitary status”.
+ISPM 11. 2003. Pest risk analysis for quarantine pests
+   including analysis of environmental risks. Rome, IPPC,    2015-06 IPPC Secretariat incorporated ink amendments
+   FAO.                                                         and reformatted standards following revoking of
+                                                                standards procedure from CPM-10 (2015).
+2001-09 Open-ended WG developed draft Specification 10       2017-04 CPM-12 noted ink amendments to avoid the use of
+   Pest risk analysis for living modified organisms             “trading partner”. The IPPC Secretariat incorporated the
+   (1999-004).                                                  ink amendments.
+2002-03 ICPM-4 approved Specification 10: Pest risk          2019-04 CPM-14 noted and IPPC Secretariat incorporated
+   analysis for living modified organisms.                      ink amendments to the term “contamination” and its
+2002-09 EWG developed draft text.                               derivatives.
+2003-05 SC-7 revised draft text and approved for MC.
+2003-06 Draft Sent for MC.                                   Publication history last updated: 2019-04
+ ISPM 11                                                                                                  Pest risk analysis for quarantine pests
+
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................6
+
+INTRODUCTION ....................................................................................................................................6
+Scope ........................................................................................................................................................6
+References ................................................................................................................................................6
+Definitions ................................................................................................................................................7
+Outline of Requirements ..........................................................................................................................7
+
+PEST RISK ANALYSIS FOR QUARANTINE PESTS .........................................................................8
+1.     Stage 1: Initiation..............................................................................................................................8
+       1.1       Initiation points .................................................................................................................8
+       1.1.1     PRA initiated by the identification of a pathway ..............................................................9
+       1.1.2     PRA initiated by the identification of a pest .....................................................................9
+       1.1.3     PRA initiated by the review or revision of a policy ..........................................................9
+       1.2       Identification of PRA area...............................................................................................10
+       1.3       Information......................................................................................................................10
+       1.3.1     Previous PRA ..................................................................................................................10
+       1.4       Conclusion of initiation ...................................................................................................10
+2.     Stage 2: Pest Risk Assessment .......................................................................................................11
+       2.1       Pest categorization ..........................................................................................................11
+       2.1.1     Elements of categorization ..............................................................................................11
+       2.1.1.1 Identity of pest.................................................................................................................12
+       2.1.1.2 Presence or absence in PRA area ....................................................................................12
+       2.1.1.3 Regulatory status .............................................................................................................12
+       2.1.1.4 Potential for establishment and spread in PRA area .......................................................12
+       2.1.1.5 Potential for economic consequences in PRA area .........................................................13
+       2.1.2     Conclusion of pest categorization ...................................................................................13
+       2.2       Assessment of the probability of introduction and spread ..............................................13
+       2.2.1     Probability of entry of a pest ...........................................................................................14
+       2.2.1.1 Identification of pathways for a PRA initiated by a pest ................................................14
+       2.2.1.2 Probability of the pest being associated with the pathway at origin ...............................14
+       2.2.1.3 Probability of survival during transport or storage .........................................................14
+       2.2.1.4 Probability of pest surviving existing pest management procedures ..............................14
+       2.2.1.5 Probability of transfer to a suitable host..........................................................................15
+       2.2.2     Probability of establishment ............................................................................................15
+       2.2.2.1 Availability of suitable hosts, alternate hosts and vectors in the PRA area ....................16
+       2.2.2.2 Suitability of environment ...............................................................................................16
+       2.2.2.3 Cultural practices and control measures..........................................................................16
+       2.2.2.4 Other characteristics of the pest affecting the probability of establishment ...................16
+       2.2.3     Probability of spread after establishment ........................................................................17
+       2.2.4     Conclusion on the probability of introduction and spread ..............................................17
+       2.2.4.1 Conclusion regarding endangered areas ..........................................................................17
+
+ISPM 11-4                                                                                       International Plant Protection Convention
+ Pest risk analysis for quarantine pests                                                                                                       ISPM 11
+
+
+
+       2.3           Assessment of potential economic consequences ...........................................................17
+       2.3.1         Pest effects ......................................................................................................................18
+       2.3.1.1       Direct pest effects ............................................................................................................19
+       2.3.1.2       Indirect pest effects .........................................................................................................19
+       2.3.2         Analysis of economic consequences ...............................................................................20
+       2.3.2.1       Time and place factors ....................................................................................................20
+       2.3.2.2       Analysis of commercial consequences ............................................................................20
+       2.3.2.3       Analytical techniques ......................................................................................................20
+       2.3.2.4       Non-commercial and environmental consequences ........................................................21
+       2.3.3         Conclusion of the assessment of economic consequences ..............................................21
+       2.3.3.1       Endangered area ..............................................................................................................21
+       2.4           Degree of uncertainty ......................................................................................................21
+       2.5           Conclusion of the pest risk assessment stage ..................................................................22
+3.     Stage 3: Pest Risk Management .....................................................................................................22
+       3.1       Level of risk ....................................................................................................................22
+       3.2       Technical information required .......................................................................................22
+       3.3       Acceptability of risk ........................................................................................................23
+       3.4       Identification and selection of appropriate risk management options .............................23
+       3.4.1     Options for consignments................................................................................................24
+       3.4.2     Options preventing or reducing infestation in the crop ...................................................24
+       3.4.3     Options ensuring that the area, place or site of production or crop is free from the pest 25
+       3.4.4     Options for other types of pathways ...............................................................................25
+       3.4.5     Options within the importing country .............................................................................25
+       3.4.6     Prohibition of commodities .............................................................................................25
+       3.5       Phytosanitary certificates and other compliance measures .............................................25
+       3.6       Conclusion of pest risk management ..............................................................................26
+       3.6.1     Monitoring and review of phytosanitary measures .........................................................26
+4.     Documentation of Pest Risk Analysis ............................................................................................26
+       4.1    Documentation requirements ..........................................................................................26
+S1 ANNEX 1: Comments on the scope of the IPPC in regard to environmental risks .......................27
+S2 ANNEX 2: Comments on the scope of the IPPC in regard to pest risk analysis for living modified
+   organisms ........................................................................................................................................28
+S2 ANNEX 3: Determining the potential for a living modified organism to be a pest .......................29
+ANNEX 4: Pest risk analysis for plants as quarantine pests ..................................................................31
+
+
+
+
+International Plant Protection Convention                                                                                                  ISPM 11-5
+     ISPM 11                                                                Pest risk analysis for quarantine pests
+
+
+
+    Adoption
+    ISPM 11 (Pest risk analysis for quarantine pests) was adopted by the Third Session of the Interim
+    Commission on Phytosanitary Measures in April 2001. In April 2003, the Fifth Session of the Interim
+    Commission on Phytosanitary Measures adopted a supplement to ISPM 11 on analysis of environmental
+    risk and agreed that it should be integrated into ISPM 11. This resulted in ISPM 11 Rev. 1 (Pest risk
+    analysis for quarantine pests including analysis of environmental risks). In April 2004, the Sixth Session
+    of the Interim Commission on Phytosanitary Measures adopted a supplement on pest risk analysis for
+    living modified organisms (LMOs) and agreed that it should be integrated into ISPM 11 Rev. 1 (Pest
+    risk analysis for quarantine pests including analysis of environmental risks and living modified
+    organisms). The supplementary text on environmental risks is marked with “S1” and the supplementary
+    text on LMOs is marked with “S2”.
+    The Interim Commission on Phytosanitary Measures acknowledges the collaboration and support of the
+    Secretariat of the Convention on Biological Diversity, as well as the participation of experts from Parties
+    to the Convention, in the preparation of the supplements to ISPM 11.
+
+    Annex 4 on pest risk analysis for plants as quarantine pests, together with associated changes in the core
+    text of the standard, was adopted by the Eighth Session of the Commission on Phytosanitary Measures
+    in April 2013.
+
+    INTRODUCTION
+
+    Scope
+    The standard provides details for the conduct of pest risk analysis (PRA) to determine if pests are
+    quarantine pests. It describes the integrated processes to be used for risk assessment as well as the
+    selection of risk management options.
+S1 It also includes details regarding the analysis of risks of plant pests to the environment and biological
+   diversity, including those risks affecting uncultivated/unmanaged plants, wild flora, habitats and
+   ecosystems contained in the PRA area. Some explanatory comments on the scope of the IPPC in regard
+   to environmental risks are given in Annex 1.
+S2 It includes guidance on evaluating potential phytosanitary risks to plants and plant products posed by
+   LMOs. This guidance does not alter the scope of ISPM 11 but is intended to clarify issues related to the
+   PRA for LMOs. Some explanatory comments on the scope of the IPPC in regard to PRA for LMOs are
+   given in Annex 2.
+
+    Specific guidance on conducting PRA for plants as quarantine pests is provided in Annex 4.
+
+    References
+    The present standard refers to International Standards for Phytosanitary Measures (ISPMs). ISPMs are
+    available on the International Phytosanitary Portal (IPP) at https://www.ippc.int/core-
+    activities/standards-setting/ispms.
+    CBD. 2000. Cartagena Protocol on Biosafety to the Convention on Biological Diversity. Montreal,
+    CBD.
+    ICPM. 2001. Report of the Third Interim Commission on Phytosanitary Measures, Rome, 2–6 April
+         2001. Rome, IPPC, FAO.
+    ICPM. 2005. Report of the Seventh Interim Commission on Phytosanitary Measures, Rome, 4–7 April
+         2005. Rome, IPPC, FAO.
+    IPPC. 1997. International Plant Protection Convention. Rome, IPPC, FAO.
+
+
+    ISPM 11-6                                                        International Plant Protection Convention
+ Pest risk analysis for quarantine pests                                                           ISPM 11
+
+
+
+Definitions
+Definitions of phytosanitary terms used in the present standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+Outline of Requirements
+The objectives of a PRA are, for a specified area, to identify pests and/or pathways of quarantine concern
+and evaluate their risk, to identify endangered areas, and, if appropriate, to identify risk management
+options. PRA for quarantine pests follows a process defined by three stages:
+-     Stage 1 (initiating the process) involves identifying the pest(s) and pathways that are of quarantine
+      concern and should be considered for risk analysis in relation to the identified PRA area.
+-     Stage 2 (risk assessment) begins with the categorization of individual pests to determine whether
+      the criteria for a quarantine pest are satisfied. Risk assessment continues with an evaluation of the
+      probability of pest entry, establishment, and spread, and of their potential economic consequences
+      (including environmental consequences – S1).
+-     Stage 3 (risk management) involves identifying management options for reducing the risks
+      identified at Stage 2. These are evaluated for efficacy, feasibility and impact in order to select
+      those that are appropriate.
+
+
+
+
+International Plant Protection Convention                                                       ISPM 11-7
+      ISPM 11                                                                 Pest risk analysis for quarantine pests
+
+
+
+     PEST RISK ANALYSIS FOR QUARANTINE PESTS
+
+     1.    Stage 1: Initiation
+     The aim of the initiation stage is to identify the pest(s) and pathways which are of quarantine concern
+     and should be considered for risk analysis in relation to the identified PRA area.
+S2 Some LMOs may present a phytosanitary risk and therefore warrant a PRA. However other LMOs will
+   not present phytosanitary risks beyond those posed by related non-LMOs and therefore will not warrant
+   a complete PRA. Thus, for LMOs, the aim of the initiation stage is to identify those LMOs that have the
+   characteristics of a potential pest and need to be assessed further, and those which need no further
+   assessment under ISPM 11.
+S2 LMOs are organisms that have been modified using techniques of modern biotechnology to express one
+   or more new or altered traits. In most cases, the parent organism is not normally considered to be a plant
+   pest but an assessment may need to be performed to determine if the genetic modification (i.e. gene,
+   new gene sequence that regulates other genes, or gene product) results in a new trait or characteristic
+   that may present a plant pest risk.
+S2 A plant pest risk from LMOs may be presented by:
+   -     the organism(s) with the inserted gene(s) (i.e. the LMO)
+   -     the combination of genetic material (e.g. gene from plant pests such as viruses) or
+   -     the consequences of the genetic material moving to another organism.
+
+     1.1   Initiation points
+     The PRA process may be initiated as a result of:
+     -    the identification of a pathway that presents a potential pest hazard
+     -    the identification of a pest that may require phytosanitary measures
+     -    the review or revision of phytosanitary policies and priorities.
+S1 The initiation points frequently refer to “pests”. The IPPC defines a pest as “any species, strain or
+   biotype of plant, animal, or pathogenic agent, injurious to plants or plant products”. When applying
+   these initiation points to the specific case of plants as pests, it is important to note that the plants
+   concerned should satisfy this definition. Pests directly affecting plants satisfy this definition. In addition,
+   many organisms indirectly affecting plants also satisfy this definition (such as plants as pests, e.g. weeds,
+   invasive alien plants). The fact that they are injurious to plants may be based on evidence of their impact
+   obtained in an area in which they occur. In the case where there is insufficient evidence that they affect
+   plants indirectly, it may nevertheless be appropriate to assess – on the basis of available pertinent
+   information – whether they are potentially injurious in the PRA area by using a clearly documented,
+   consistently applied and transparent system. This is particularly important for plant species or cultivars
+   that are imported for planting.
+S2 The types of LMOs that a national plant protection organization (NPPO) may be asked to assess for
+   phytosanitary risk include:
+     -     plants for use (a) as agricultural crops, for food and feed, ornamental plants or managed forests;
+           (b) in bioremediation (as an organism that cleans up pollution); (c) for industrial purposes (e.g.
+           production of enzymes or bioplastics); (d) as therapeutic agents (e.g. pharmaceutical production)
+     -     biological control agents modified to improve their performance in that role
+     -     pests modified to alter their pathogenic characteristic and thereby make them useful for biological
+           control (see ISPM 3 (Guidelines for the export, shipment, import and release of biological control
+           agents and other beneficial organisms))
+     -     organisms genetically modified to improve their characteristics such as for biofertilizer or other
+           influences on soil, bioremediation or industrial uses.
+
+     ISPM 11-8                                                         International Plant Protection Convention
+     Pest risk analysis for quarantine pests                                                              ISPM 11
+
+
+
+S2 In order to be categorized as a pest, an LMO has to be injurious or potentially injurious to plants or plant
+   products under conditions in the PRA area. This damage may be in the form of direct effects on plants
+   or plant products, or indirect effects. For guidance on the process of determining whether an LMO has
+   the potential to be a pest, refer to Annex 3, “Determining the potential for a living modified organism
+   to be a pest”.
+
+    1.1.1 PRA initiated by the identification of a pathway
+    The need for a new or revised PRA of a specific pathway may arise in the following situations:
+    -     International trade is initiated in a commodity not previously imported into the country (usually
+          a plant or plant product, including genetically altered plants) or a commodity from a new area or
+          new country of origin.
+    -     New plant species are imported for selection and scientific research purposes.
+    -     A pathway other than commodity import is identified (natural spread, packing material, mail,
+          garbage, passenger baggage etc.).
+    A list of pests likely to be associated with the pathway (e.g. carried by the commodity) may be generated
+    by any combination of official sources, databases, scientific and other literature, or expert consultation.
+    It is preferable to prioritize the listing, based on expert judgement on pest distribution and types of pests.
+    If no potential quarantine pests are identified as likely to follow the pathway, the PRA may stop at this
+    point.
+S2 The phrase “genetically altered plants” is understood to mean plants obtained through the use of modern
+   biotechnology.
+
+    1.1.2 PRA initiated by the identification of a pest
+    A requirement for a new or revised PRA on a specific pest may arise in the following situations:
+    -     An emergency arises on discovery of an established infestation or an outbreak of a new pest within
+          a PRA area.
+    -     An emergency arises on interception of a new pest on an imported commodity.
+    -     A new pest risk is identified by scientific research.
+    -     A pest is introduced into an area.
+    -     A pest is reported to be more damaging in an area other than in its area of origin.
+    -     A pest is repeatedly intercepted.
+    -     A request is made to import an organism.
+    -     An organism is identified as a vector for other pests.
+    -     An organism is genetically altered in a way which clearly identifies its potential as a plant pest.
+S2 The phrase “genetically altered” is understood to include obtained through the use of modern
+   biotechnology.
+
+    1.1.3 PRA initiated by the review or revision of a policy
+    A requirement for a new or revised PRA originating from policy concerns will most frequently arise in
+    the following situations:
+    -      A national decision is taken to review phytosanitary regulations, requirements or operations.
+    -      A proposal made by another country or by an international organization (regional plant protection
+           organization, FAO) is reviewed.
+    -      A new treatment or loss of a treatment system, a new process, or new information impacts on an
+           earlier decision.
+    -      A dispute arises on phytosanitary measures.
+
+
+
+    International Plant Protection Convention                                                          ISPM 11-9
+     ISPM 11                                                                    Pest risk analysis for quarantine pests
+
+
+
+    -      The phytosanitary situation in a country changes, a new country is created, or political boundaries
+           have changed.
+
+    1.2    Identification of PRA area
+    The PRA area should be defined as precisely as possible in order to identify the area for which
+    information is needed.
+
+    1.3    Information
+    Information gathering is an essential element of all stages of PRA. It is important at the initiation stage
+    in order to clarify the identity of the pest(s), its/their present distribution and association with host plants,
+    commodities etc. Other information will be gathered as required to reach necessary decisions as the PRA
+    continues.
+    Information for PRA may come from a variety of sources. The provision of official information
+    regarding pest status is an obligation under the IPPC (Article VIII.1(c)) facilitated by official contact
+    points (Article VIII.2).
+S1 For environmental risks, the variety of sources of information will generally be wider than traditionally
+   used by NPPOs. Broader inputs may be required. These sources may include environmental impact
+   assessments, but it should be recognized that such assessments usually do not have the same purpose as
+   PRA and cannot substitute for PRA.
+S2 For LMOs, information required for a full risk analysis may include:
+   -    name, identity and taxonomic status of the LMO (including any relevant identifying codes) and
+        the risk management measures applied to the LMO in the country of export
+   -    taxonomic status, common name, point of collection or acquisition, and characteristics of the
+        donor organism
+   -    description of the nucleic acid or the modification introduced (including genetic construct) and
+        the resulting genotypic and phenotypic characteristics of the LMO
+   -    details of the transformation process
+   -    appropriate detection and identification methods and their specificity, sensitivity and reliability
+   -    intended use including intended containment
+   -    quantity or volume of the LMO to be imported.
+S2 Information regarding pest status is an obligation under the IPPC (Article VIII.1(c)) facilitated by
+   official contact points (Article VIII.2). A country may have obligations to provide information about
+   LMOs under other international agreements such as the Cartagena Protocol on Biosafety to the
+   Convention on Biological Diversity (CBD, 2000). The Cartagena Protocol has a Biosafety Clearing-
+   house that may contain relevant information. Information on LMOs is sometimes commercially
+   sensitive and applicable obligations with regard to release and handling of information should be
+   observed.
+
+    1.3.1 Previous PRA
+    A check should also be made as to whether pathways, pests or policies have already been subjected to
+    the PRA process, either nationally or internationally. If a PRA exists, its validity should be checked as
+    circumstances and information may have changed. The possibility of using a PRA from a similar
+    pathway or pest, that may partly or entirely replace the need for a new PRA, should also be investigated.
+
+    1.4    Conclusion of initiation
+    At the end of Stage 1, the initiation point, the pests and pathways of concern and the PRA area will have
+    been identified. Relevant information has been collected and pests have been identified as possible
+    candidates for phytosanitary measures, either individually or in association with a pathway.
+
+
+    ISPM 11-10                                                          International Plant Protection Convention
+     Pest risk analysis for quarantine pests                                                          ISPM 11
+
+
+
+S2 For LMOs at the end of Stage 1 an NPPO may decide that the LMO:
+   -    is a potential pest and needs to be assessed further in Stage 2 or
+   -    is not a potential pest and needs no further analysis under ISPM 11 (but see also the following
+        paragraph).
+S2 PRA under the IPPC only relates to the assessment and management of phytosanitary risks. As with
+   other organisms or pathways assessed by an NPPO, LMOs may present other risks not falling within
+   the scope covered by the IPPC. For LMOs, PRA may constitute only a portion of the required overall
+   risk analysis. For example, countries may require the assessment of risks to human or animal health or
+   to the environment beyond that covered by the IPPC. When an NPPO discovers potential for risks that
+   are not phytosanitary it may be appropriate to notify the relevant authorities.
+
+    2.     Stage 2: Pest Risk Assessment
+    The process for pest risk assessment can be broadly divided into three interrelated steps:
+    -     pest categorization
+    -     assessment of the probability of introduction and spread
+    -     assessment of potential economic consequences (including environmental impacts).
+    In most cases, these steps will be applied sequentially in a PRA but it is not essential to follow a
+    particular sequence. Pest risk assessment needs to be only as complex as is technically justified by the
+    circumstances. This standard allows a specific PRA to be judged against the principles of necessity,
+    minimal impact, transparency, equivalence, pest risk analysis, managed risk and non-discrimination set
+    out in ISPM 1 (Phytosanitary principles for the protection of plants and the application of phytosanitary
+    measures in international trade).
+S2 For LMOs, from this point forward in PRA, it is assumed that the LMO is being assessed as a pest, and
+   therefore “LMO” refers to an LMO that is a potential quarantine pest due to new or altered characteristics
+   or properties resulting from the genetic modification. The risk assessment should be carried out on a
+   case-by-case basis. LMOs that have pest characteristics unrelated to the genetic modification should be
+   assessed using the normal procedures.
+
+    2.1    Pest categorization
+    At the outset, it may not be clear which pest(s) identified in Stage 1 require a PRA. The categorization
+    process examines for each pest whether the criteria in the definition for a quarantine pest are satisfied.
+    In the evaluation of a pathway associated with a commodity, a number of individual PRAs may be
+    necessary for the various pests potentially associated with the pathway. The opportunity to eliminate an
+    organism or organisms from consideration before in-depth examination is undertaken is a valuable
+    characteristic of the categorization process.
+    An advantage of pest categorization is that it can be done with relatively little information; however
+    information should be sufficient to adequately carry out the categorization.
+
+    2.1.1 Elements of categorization
+    The categorization of a pest as a quarantine pest includes the following primary elements:
+    -     identity of the pest
+    -     presence or absence in the PRA area
+    -     regulatory status
+    -     potential for establishment and spread in PRA area
+    -     potential for economic consequences (including environmental consequences) in the PRA area.
+
+
+
+
+    International Plant Protection Convention                                                     ISPM 11-11
+     ISPM 11                                                                Pest risk analysis for quarantine pests
+
+
+
+    2.1.1.1 Identity of pest
+    The identity of the pest should be clearly defined to ensure that the assessment is being performed on a
+    distinct organism, and that biological and other information used in the assessment is relevant to the
+    organism in question. If this is not possible because the causal agent of particular symptoms has not yet
+    been fully identified, then it should have been shown to produce consistent symptoms and to be
+    transmissible.
+    The taxonomic unit for the pest is generally species. The use of a higher or lower taxonomic level should
+    be supported by scientifically sound rationale. In the case of levels below the species, this should include
+    evidence demonstrating that factors such as differences in virulence, host range or vector relationships
+    are significant enough to affect pest risk.
+    Specific guidance on the consideration of identity of plants as pests is provided in Annex 4.
+    In cases where a vector is involved, the vector may also be considered a pest to the extent that it is
+    associated with the causal organism and is required for transmission of the pest.
+S2 In the case of LMOs, identification requires information regarding characteristics of the recipient or
+   parent organism, the donor organism, the genetic construct, the gene or transgene vector and the nature
+   of the genetic modification. Information requirements are set out under section 1.3.
+
+    2.1.1.2 Presence or absence in PRA area
+    The pest should be absent from all or a defined part of the PRA area.
+    Specific guidance on determining the presence or absence of plants as pests is provided in Annex 4.
+S2 In the case of LMOs, this should relate to the LMO of phytosanitary concern.
+
+    2.1.1.3 Regulatory status
+    If the pest is present but not widely distributed in the PRA area, it should be under official control or
+    expected to be under official control in the near future.
+S1 Official control of pests presenting an environmental risk may involve agencies other than the NPPO.
+   However, it is recognized that ISPM 5 Supplement 1 (Guidelines on the interpretation and application
+   of the concepts of “official control” and “not widely distributed”) applies, in particular its provisions
+   regarding NPPO authority and involvement in official control.
+S2 In the case of LMOs, official control should relate to the phytosanitary measures applied because of the
+   pest nature of the LMO. It may be appropriate to consider any official control measures in place for the
+   parent organism, donor organism, transgene vector or gene vector.
+
+    2.1.1.4 Potential for establishment and spread in PRA area
+    Evidence should be available to support the conclusion that the pest could become established or spread
+    in the PRA area. The PRA area should have ecological/climatic conditions including those in protected
+    conditions suitable for the establishment and spread of the pest and where relevant, host species (or near
+    relatives), alternate hosts and vectors should be present in the PRA area.
+S2 For LMOs, the following should also be considered:
+   -    changes in adaptive characteristics resulting from the genetic modification that may increase the
+        potential for establishment and spread
+   -    gene transfer or gene flow that may result in the establishment and spread of pests, or the
+        emergence of new pests
+   -    genotypic and phenotypic instability that could result in the establishment and spread of
+        organisms with new pest characteristics, e.g. loss of sterility genes designed to prevent
+        outcrossing.
+
+    ISPM 11-12                                                       International Plant Protection Convention
+     Pest risk analysis for quarantine pests                                                                   ISPM 11
+
+
+
+S2 For more detailed guidance on the assessment of these characteristics, see Annex 3.
+
+    2.1.1.5 Potential for economic consequences in PRA area
+    There should be clear indications that the pest is likely to have an unacceptable economic impact
+    (including environmental impact) in the PRA area.
+S1 Unacceptable economic impact is described in ISPM 5 Supplement 2 (Guidelines on the understanding
+   of potential economic importance and related terms including reference to environmental
+   considerations).
+S2 In the case of LMOs, the economic impact (including environmental impact) should relate to the pest
+   nature (injurious to plants and plant products) of the LMO.
+
+    2.1.2 Conclusion of pest categorization
+    If it has been determined that the pest has the potential to be a quarantine pest, the PRA process should
+    continue. If a pest does not fulfil all of the criteria for a quarantine pest, the PRA process for that pest
+    may stop. In the absence of sufficient information, the uncertainties should be identified and the PRA
+    process should continue.
+
+    2.2    Assessment of the probability of introduction and spread
+    Pest introduction is comprised of both entry and establishment. Assessing the probability of introduction
+    requires an analysis of each of the pathways with which a pest may be associated from its origin to its
+    establishment in the PRA area. In a PRA initiated by a specific pathway (usually an imported
+    commodity), the probability of pest entry is evaluated for the pathway in question. The probabilities for
+    pest entry associated with other pathways need to be investigated as well.
+    For risk analyses that have been initiated for a specific pest, with no particular commodity or pathway
+    under consideration, the potential of all probable pathways should be considered.
+    The assessment of probability of spread is based primarily on biological considerations similar to those
+    for entry and establishment.
+S1 With respect to a plant being assessed as a pest with indirect effects, wherever a reference is made to a
+   “host” or “host range”, these terms should be understood to refer to a suitable habitat1 in the PRA area.
+S1 In the case of plants as pests, the concepts of entry, establishment and spread may have to be considered
+   differently.
+S1 For plants for planting proposed for import, the probability of entry need not be assessed. Following
+   import, the plants may be planted and maintained in a particular location. The pest risk may arise if there
+   is a possibility that the plants may spread from the location where they are intended to grow and establish
+   in the endangered area. Accordingly, section 2.2.3 may be considered before section 2.2.2.
+S1 Imported plants not intended to be planted may be used for various purposes (e.g. as bird seed, as fodder,
+   or for processing). The pest risk of such plants may arise if there is a possibility that the plants may
+   escape or be diverted from the intended use and establish in the endangered area.
+    Specific guidance on the consideration of habitats, locations and endangered area for plants as pests is
+    provided in Annex 4.
+S2 Assessing the probability of introduction of an LMO requires an analysis of both intentional or
+   unintentional pathways of introduction, and intended use.
+
+
+    1
+     In the case of organisms that affect plants indirectly, through effects on other organisms, the terms host/habitat
+    will extend also to those other organisms.
+
+    International Plant Protection Convention                                                              ISPM 11-13
+     ISPM 11                                                                Pest risk analysis for quarantine pests
+
+
+
+    2.2.1 Probability of entry of a pest
+    The probability of entry of a pest depends on the pathways from the exporting country to the destination,
+    and the frequency and quantity of pests associated with them. The higher the number of pathways, the
+    greater the probability of the pest entering the PRA area.
+    Documented pathways for the pest to enter new areas should be noted. Potential pathways, which may
+    not currently exist, should be assessed. Pest interception data may provide evidence of the ability of a
+    pest to be associated with a pathway and to survive in transport or storage.
+S1 The probability of entry need not be assessed for plants that are proposed for import. However, the
+   probability of entry needs to be assessed for pests that may be carried by such plants (e.g. contaminating
+   seeds carried with seeds imported for planting).
+    Specific guidance on assessing the probability of entry for plants as pests is provided in Annex 4.
+
+S2 This section is not relevant to LMOs imported for intentional release into the environment.
+
+    2.2.1.1 Identification of pathways for a PRA initiated by a pest
+    All relevant pathways should be considered. They can be identified principally in relation to the
+    geographical distribution and host range of the pest. Consignments of plants and plant products moving
+    in international trade are the principal pathways of concern and existing patterns of such trade will, to a
+    substantial extent, determine which pathways are relevant. Other pathways such as other types of
+    commodities, packing materials, persons, baggage, mail, conveyances and the exchange of scientific
+    material should be considered where appropriate. Entry by natural means should also be assessed, as
+    natural spread is likely to reduce the effectiveness of phytosanitary measures.
+S2 For LMOs, all relevant pathways of introduction should be considered (intentional and unintentional).
+
+    2.2.1.2 Probability of the pest being associated with the pathway at origin
+    The probability of the pest being associated, spatially or temporally, with the pathway at origin should
+    be estimated. Factors to consider are:
+    -      prevalence of the pest in the source area
+    -      occurrence of the pest in a life stage that would be associated with commodities, containers, or
+           conveyances
+    -      volume and frequency of movement along the pathway
+    -      seasonal timing
+    -      pest management, cultural and commercial procedures applied at the place of origin (application
+           of plant protection products, handling, culling, roguing, grading).
+
+    2.2.1.3 Probability of survival during transport or storage
+    Examples of factors to consider are:
+    -    speed and conditions of transport and duration of the life cycle of the pest in relation to time in
+         transport and storage
+    -    vulnerability of the life stages during transport or storage
+    -    prevalence of pest likely to be associated with a consignment
+    -    commercial procedures (e.g. refrigeration) applied to consignments in the country of origin,
+         country of destination, or in transport or storage.
+
+    2.2.1.4 Probability of pest surviving existing pest management procedures
+    Existing pest management procedures (including phytosanitary procedures) applied to consignments
+    against other pests from origin to end use, should be evaluated for effectiveness against the pest in
+
+
+    ISPM 11-14                                                       International Plant Protection Convention
+     Pest risk analysis for quarantine pests                                                             ISPM 11
+
+
+
+    question. The probability that the pest will go undetected during inspection or survive other existing
+    phytosanitary procedures should be estimated.
+
+    2.2.1.5 Probability of transfer to a suitable host
+    Factors to consider are:
+    -     dispersal mechanisms, including vectors to allow movement from the pathway to a suitable host
+    -     whether the imported commodity is to be sent to a few or many destination points in the PRA
+          area
+    -     proximity of entry, transit and destination points to suitable hosts
+    -     time of year at which import takes place
+    -     intended use of the commodity (e.g. for planting, processing and consumption)
+    -     risks from by-products and waste.
+    Some uses are associated with a much higher probability of introduction (e.g. planting) than others (e.g.
+    processing). The probability associated with any growth, processing, or disposal of the commodity in
+    the vicinity of suitable hosts should also be considered.
+S2 For LMOs, the probability of gene flow and gene transfer should also be considered, when there is a
+   trait of phytosanitary concern that may be transferred.
+
+    2.2.2 Probability of establishment
+    In order to estimate the probability of establishment of a pest, reliable biological information (life cycle,
+    host range, epidemiology, survival etc.) should be obtained from the areas where the pest currently
+    occurs. The situation in the PRA area can then be compared with that in the areas where it currently
+    occurs (taking account also of protected environments such as glass- or greenhouses) and expert
+    judgement used to assess the probability of establishment. Case histories concerning comparable pests
+    can be considered. Examples of the factors to consider are:
+    -     availability, quantity and distribution of hosts in the PRA area
+    -     environmental suitability in the PRA area
+    -     potential for adaptation of the pest
+    -     reproductive strategy of the pest
+    -     method of pest survival
+    -     cultural practices and control measures.
+    In considering probability of establishment, it should be noted that a transient pest (see ISPM 8
+    (Determination of pest status in an area)) may not be able to establish in the PRA area (e.g. because of
+    unsuitable climatic conditions) but could still have unacceptable economic consequences (see IPPC
+    Article VII.3).
+S1 In the case of plants as pests, assessment of the probability of establishment concerns their establishment
+   in habitats other than those in which they are intended to grow.
+    Specific guidance on assessing the probability of establishment of plants as pests is provided in Annex 4.
+S2 For LMOs, the survival capacity without human intervention should also be considered.
+S2 In addition, where gene flow is a concern in the PRA area, the probability of expression and
+   establishment of a trait of phytosanitary concern should be considered.
+S2 Case histories concerning comparable LMOs or other organisms carrying the same construct can be
+   considered.
+
+
+
+
+    International Plant Protection Convention                                                        ISPM 11-15
+     ISPM 11                                                                  Pest risk analysis for quarantine pests
+
+
+
+    2.2.2.1 Availability of suitable hosts, alternate hosts and vectors in the PRA area
+    Factors to consider are:
+    -     whether hosts and alternate hosts are present and how abundant or widely distributed they may
+          be
+    -     whether hosts and alternate hosts occur within sufficient geographic proximity to allow the pest
+          to complete its life cycle
+    -     whether there are other plant species, which could prove to be suitable hosts in the absence of the
+          usual host species
+    -     whether a vector, if needed for dispersal of the pest, is already present in the PRA area or likely
+          to be introduced
+    -     whether another vector species occurs in the PRA area.
+    The taxonomic level at which hosts are considered should normally be the “species”. The use of higher
+    or lower taxonomic levels should be justified by scientifically sound rationale.
+
+    2.2.2.2 Suitability of environment
+    Factors in the environment (e.g. suitability of climate, soil, pest and host competition) that are critical
+    to the development of the pest, its host and if applicable its vector, and to their ability to survive periods
+    of climatic stress and complete their life cycles, should be identified. It should be noted that the
+    environment is likely to have different effects on the pest, its host and its vector. This needs to be
+    recognized in determining whether the interaction between these organisms in the area of origin is
+    maintained in the PRA area to the benefit or detriment of the pest. The probability of establishment in a
+    protected environment, e.g. in glasshouses, should also be considered.
+    Climatic modelling systems may be used to compare climatic data on the known distribution of a pest
+    with that in the PRA area.
+
+    2.2.2.3 Cultural practices and control measures
+    Where applicable, practices employed during the cultivation/production of the host crops should be
+    compared to determine if there are differences in such practices between the PRA area and the origin of
+    the pest that may influence its ability to establish.
+S2 For plants that are LMOs, it may also be appropriate to consider specific cultural, control or management
+   practices.
+    Pest control programmes or natural enemies already in the PRA area which reduce the probability of
+    establishment may be considered. Pests for which control is not feasible should be considered to present
+    a greater risk than those for which treatment is easily accomplished. The availability (or lack) of suitable
+    methods for eradication should also be considered.
+
+    2.2.2.4 Other characteristics of the pest affecting the probability of establishment
+    Other characteristics of the pest affecting the probability of establishment include:
+    -     Reproductive strategy of the pests and method of pest survival. Characteristics, which enable the
+          pest to reproduce effectively in the new environment, such as parthenogenesis/self-crossing,
+          duration of the life cycle, number of generations per year, resting stage etc., should be identified.
+    -     Genetic adaptability. Whether the species is polymorphic and the degree to which the pest has
+          demonstrated the ability to adapt to conditions like those in the PRA area should be considered,
+          e.g., host-specific races or races adapted to a wider range of habitats or to new hosts. This
+          genotypic (and phenotypic) variability facilitates a pest’s ability to withstand environmental
+          fluctuations, to adapt to a wider range of habitats, to develop pesticide resistance and to overcome
+          host resistance.
+
+
+
+    ISPM 11-16                                                        International Plant Protection Convention
+     Pest risk analysis for quarantine pests                                                           ISPM 11
+
+
+
+    -      Minimum population needed for establishment. If possible, the threshold population that is
+           required for establishment should be estimated.
+S2 For LMOs, if there is evidence of genotypic and phenotypic instability, this should be considered.
+S2 It may also be appropriate to consider proposed production and control practices related to the LMO in
+   the country of import.
+
+    2.2.3 Probability of spread after establishment
+    A pest with a high potential for spread may also have a high potential for establishment, and possibilities
+    for its successful containment and/or eradication are more limited. In order to estimate the probability
+    of spread of the pest, reliable biological information should be obtained from areas where the pest
+    currently occurs. The situation in the PRA area can then be carefully compared with that in the areas
+    where the pest currently occurs and expert judgement used to assess the probability of spread. Case
+    histories concerning comparable pests can usefully be considered. Examples of the factors to consider
+    are:
+    -       suitability of the natural and/or managed environment for natural spread of the pest
+    -       presence of natural barriers
+    -       the potential for movement with commodities or conveyances
+    -       intended use of the commodity
+    -       potential vectors of the pest in the PRA area
+    -       potential natural enemies of the pest in the PRA area.
+S1 In the case of plants as pests, assessment of spread concerns spread from the location where the plants
+   are intended to grow or from the intended use to the endangered area.
+    Specific guidance on assessing the probability of spread of plants as pests is provided in Annex 4.
+    The information on probability of spread is used to estimate how rapidly a pest’s potential economic
+    importance may be expressed within the PRA area. This also has significance if the pest is liable to enter
+    and establish in an area of low potential economic importance and then spread to an area of high potential
+    economic importance. In addition it may be important in the risk management stage when considering
+    the feasibility of containment or eradication of an introduced pest.
+S1 Certain pests may not cause injurious effects on plants immediately after they establish, and in particular
+   may only spread after a certain time. In assessing the probability of spread, this should be considered,
+   based on evidence of such behaviour.
+
+    2.2.4 Conclusion on the probability of introduction and spread
+    The overall probability of introduction should be expressed in terms most suitable for the data, the
+    methods used for analysis, and the intended audience. This may be quantitative or qualitative, since
+    either output is in any case the result of a combination of both quantitative and qualitative information.
+    The probability of introduction may be expressed as a comparison with that obtained from PRAs on
+    other pests.
+
+    2.2.4.1 Conclusion regarding endangered areas
+    The part of the PRA area where ecological factors favour the establishment of the pest should be
+    identified in order to define the endangered area. This may be the whole of the PRA area or a part of the
+    area.
+
+    2.3    Assessment of potential economic consequences
+    Requirements described in this step indicate what information relative to the pest and its potential host
+    plants should be assembled, and suggest levels of economic analysis that may be carried out using that
+
+
+    International Plant Protection Convention                                                      ISPM 11-17
+     ISPM 11                                                               Pest risk analysis for quarantine pests
+
+
+
+    information in order to assess all the effects of the pest, i.e. the potential economic consequences.
+    Wherever appropriate, quantitative data that will provide monetary values should be obtained.
+    Qualitative data may also be used. Consultation with an economist may be useful.
+    In many instances, detailed analysis of the estimated economic consequences is not necessary if there is
+    sufficient evidence or it is widely agreed that the introduction of a pest will have unacceptable economic
+    consequences (including environmental consequences). In such cases, risk assessment will primarily
+    focus on the probability of introduction and spread. It will, however, be necessary to examine economic
+    factors in greater detail when the level of economic consequences is in question, or when the level of
+    economic consequences is needed to evaluate the strength of measures used for risk management or in
+    assessing the cost-benefit of exclusion or control.
+    Specific guidance on assessing the potential economic consequences of plants as pests is provided in
+    Annex 4.
+S2 In the case of LMOs, the economic impact (including environmental impact) should relate to the pest
+   nature (injurious to plants and plant products) of the LMO.
+S2 For LMOs, the following evidence should also be considered:
+   -    potential economic consequences that could result from adverse effects on non-target organisms
+        that are injurious to plants or plant products
+   -    economic consequences that could result from pest properties.
+S2 For more detailed guidance on the assessment of these characteristics, see Annex 3.
+
+    2.3.1 Pest effects
+    In order to estimate the potential economic importance of the pest, information should be obtained from
+    areas where the pest occurs naturally or has been introduced. This information should be compared with
+    the situation in the PRA area. Case histories concerning comparable pests can usefully be considered.
+    The effects considered may be direct or indirect.
+S1 The basic method for estimating the potential economic importance of pests in this section also applies
+   to:
+   -     pests affecting uncultivated/unmanaged plants
+   -     plants as pests
+   -     pests affecting plants through effects on other organisms.
+S1 In the case of direct and indirect environmental effects, specific evidence is needed.
+S1 In the case of plants for planting that may be pests, the long-term consequences for the habitat in which
+   the plants are intended to grow may be included in the assessment because planting may affect further
+   use of or have a harmful effect on that habitat.
+S1 Environmental effects and consequences considered should result from effects on plants. Such effects,
+   however, on plants may be less significant than the effects and/or consequences on other organisms or
+   systems. For example, a plant as a pest that has only a minor impact on plants may be significantly
+   allergenic for humans or a minor plant pathogen may produce toxins that seriously affect livestock.
+   However, the regulation of plants solely on the basis of their effects on other organisms or systems (e.g.
+   on human or animal health) is outside the scope of this standard. If the PRA process reveals evidence of
+   a potential hazard to other organisms or systems, this should be communicated to the appropriate
+   authorities that have the legal responsibility to deal with the issue.
+
+
+
+
+    ISPM 11-18                                                      International Plant Protection Convention
+     Pest risk analysis for quarantine pests                                                             ISPM 11
+
+
+
+    2.3.1.1 Direct pest effects
+    For identification and characterization of the direct effects of the pest on each potential host in the PRA
+    area, or those effects which are host-specific, the following are examples that could be considered:
+    -      known or potential host plants (in the field, under protected cultivation, or in the wild)
+    -      types, amount and frequency of damage
+    -      crop losses, in yield and quality
+    -      biotic factors (e.g. adaptability and virulence of the pest) affecting damage and losses
+    -      abiotic factors (e.g. climate) affecting damage and losses
+    -      rate of spread
+    -      rate of reproduction
+    -      control measures (including existing measures), their efficacy and cost
+    -      effect on existing production practices
+    -      environmental effects.
+    For each of the potential hosts, the total area of the crop and area potentially endangered should be
+    estimated in relation to the elements given above.
+S1 In the case of the analysis of environmental risks, examples of direct pest effects on plants and/or their
+   environmental consequences that could be considered include:
+   -      reduction of keystone plant species
+   -      reduction of plant species that are major components of ecosystems (in terms of abundance or
+          size), and endangered native plant species (including effects below species level where there is
+          evidence of such effects being significant)
+   -      significant reduction, displacement or elimination of other plant species.
+S1 The estimation of the area potentially endangered should relate to these effects.
+
+    2.3.1.2 Indirect pest effects
+    For identification and characterization of the indirect effects of the pest in the PRA area, or those effects
+    that are not host-specific, the following are examples that could be considered:
+    -      effects on domestic and export markets, including in particular effects on export market access
+           (The potential consequences for market access which may result if the pest becomes established,
+           should be estimated. This involves considering the extent of any phytosanitary regulations
+           imposed (or likely to be imposed) by importing countries.)
+    -      changes to producer costs or input demands, including control costs
+    -      changes to domestic or foreign consumer demand for a product resulting from quality changes
+    -      environmental and other undesired effects of control measures
+    -      feasibility and cost of eradication or containment
+    -      capacity to act as a vector for other pests
+    -      resources needed for additional research and advice
+    -      social and other effects (e.g. tourism).
+S1 In the case of the analysis of environmental risks, examples of indirect pest effects on plants and/or their
+   environmental consequences that could be considered include:
+   -      significant effects on plant communities
+   -      significant effects on designated environmentally sensitive or protected areas
+   -      significant change in ecological processes and the structure, stability or processes of an ecosystem
+          (including further effects on plant species, erosion, water table changes, increased fire hazard,
+          nutrient cycling)
+
+    International Plant Protection Convention                                                        ISPM 11-19
+     ISPM 11                                                                Pest risk analysis for quarantine pests
+
+
+
+    -      effects on human use (e.g. water quality, recreational uses, tourism, animal grazing, hunting,
+           fishing)
+    -      costs of environmental restoration.
+S1 Effects on human and animal health (e.g. toxicity, allergenicity), water tables, tourism etc. could also be
+   considered, as appropriate, by other agencies/authorities.
+
+    2.3.2 Analysis of economic consequences
+    2.3.2.1 Time and place factors
+    Estimations made in the previous section related to a hypothetical situation where the pest is supposed
+    to have been introduced and to be fully expressing its potential economic consequences (per year) in the
+    PRA area. In practice, however, economic consequences are expressed with time, and may concern one
+    year, several years or an indeterminate period. Various scenarios should be considered. The total
+    economic consequences over more than one year can be expressed as net present value of annual
+    economic consequences, and an appropriate discount rate selected to calculate net present value.
+    Other scenarios could concern whether the pest occurs at one, few or many points in the PRA area and
+    the expression of potential economic consequences will depend on the rate and manner of spread in the
+    PRA area. The rate of spread may be envisaged to be slow or rapid; in some cases, it may be supposed
+    that spread can be prevented. Appropriate analysis may be used to estimate potential economic
+    consequences over the period of time when a pest is spreading in the PRA area. In addition, many of the
+    factors or effects considered above could be expected to change over time, with the consequent effects
+    of potential economic consequences. Expert judgement and estimations will be required.
+
+    2.3.2.2 Analysis of commercial consequences
+    As determined above, most of the direct effects of a pest, and some of the indirect effects will be of a
+    commercial nature, or have consequences for an identified market. These effects, which may be positive
+    or negative, should be identified and quantified. The following may usefully be considered:
+    -     effect of pest-induced changes to producer profits that result from changes in production costs,
+          yields or prices
+    -     effect of pest-induced changes in quantities demanded or prices paid for commodities by domestic
+          and international consumers. This could include quality changes in products and/or quarantine-
+          related trade restrictions resulting from a pest introduction.
+
+    2.3.2.3 Analytical techniques
+    There are analytical techniques which can be used in consultation with experts in economics to make a
+    more detailed analysis of the potential economic effects of a quarantine pest. These should incorporate
+    all of the effects that have been identified. These techniques may include:
+    -       Partial budgeting. This will be adequate, if the economic effects induced by the action of the pest
+            to producer profits are generally limited to producers and are considered to be relatively minor.
+    -       Partial equilibrium. This is recommended if, under point 2.3.2.2, there is a significant change in
+            producer profits, or if there is a significant change in consumer demand. Partial equilibrium
+            analysis is necessary to measure welfare changes, or the net changes arising from the pest impacts
+            on producers and consumers.
+    -       General equilibrium. If the economic changes are significant to a national economy, and could
+            cause changes to factors such as wages, interest rates or exchange rates, then general equilibrium
+            analysis could be used to establish the full range of economic effects.
+    The use of analytical techniques is often limited by lack of data, by uncertainties in the data, and by the
+    fact that for certain effects only qualitative information can be provided.
+
+
+
+
+    ISPM 11-20                                                       International Plant Protection Convention
+     Pest risk analysis for quarantine pests                                                           ISPM 11
+
+
+
+    2.3.2.4 Non-commercial and environmental consequences
+    Some of the direct and indirect effects of the introduction of a pest determined in sections 2.3.1.1 and
+    2.3.1.2 will be of an economic nature, or affect some type of value, but not have an existing market
+    which can be easily identified. As a result, the effects may not be adequately measured in terms of prices
+    in established product or service markets. Examples include in particular environmental effects (such as
+    ecosystem stability, biodiversity, amenity value) and social effects (such as employment, tourism)
+    arising from a pest introduction. These impacts could be approximated with an appropriate non-market
+    valuation method. More details on environment are given below.
+    If quantitative measurement of such consequences is not feasible, qualitative information about the
+    consequences may be provided. An explanation of how this information has been incorporated into
+    decisions should also be provided.
+S1 Application of this standard to environmental hazards requires clear categorization of environmental
+   values and how they can be assessed. The environment can be valued using different methodologies,
+   but these methodologies are best used in consultation with experts in economics. Methodologies may
+   include consideration of “use” and “non-use” values. “Use” values arise from consumption of an
+   element of the environment, such as accessing clean water, or fishing in a lake, and also those that are
+   non-consumptive, such as use of forests for leisure activities. “Non-use” values may be subdivided into:
+   -     “option value” (value for use at a later date)
+   -     “existence value” (knowledge that an element of the environment exists)
+   -     “bequest value” (knowledge that an element of the environment is available for future
+         generations).
+S1 Whether the element of the environment is being assessed in terms of use or non-use values, methods
+   exist for their valuation, such as market-based approaches, surrogate markets, simulated markets, and
+   benefit transfer. Each has advantages, disadvantages and situations where it is particularly useful.
+S1 The assessment of consequences may be either quantitative or qualitative and in many cases, qualitative
+   data is sufficient. A quantitative method may not exist to address a situation (e.g. catastrophic effects on
+   a keystone species), or a quantitative analysis may not be possible (no methods available). Useful
+   analyses can be based on non-monetary valuations (number of species affected, water quality), or expert
+   judgement, if the analyses follow documented, consistent and transparent procedures.
+S1 Economic impact is described in ISPM 5 Supplement 2.
+
+    2.3.3 Conclusion of the assessment of economic consequences
+    Wherever appropriate, the output of the assessment of economic consequences described in this step
+    should be in terms of a monetary value. The economic consequences can also be expressed qualitatively
+    or using quantitative measures without monetary terms. Sources of information, assumptions and
+    methods of analysis should be clearly specified.
+
+    2.3.3.1 Endangered area
+    The part of the PRA area where presence of the pest will result in economically important loss should
+    be identified as appropriate. This is needed to define the endangered area.
+
+    2.4    Degree of uncertainty
+    Estimation of the probability of introduction of a pest and of its economic consequences involves many
+    uncertainties. In particular, this estimation is an extrapolation from the situation where the pest occurs
+    to the hypothetical situation in the PRA area. It is important to document the areas of uncertainty and
+    the degree of uncertainty in the assessment, and to indicate where expert judgement has been used. This
+    is necessary for transparency and may also be useful for identifying and prioritizing research needs.
+
+
+
+    International Plant Protection Convention                                                      ISPM 11-21
+     ISPM 11                                                                Pest risk analysis for quarantine pests
+
+
+
+S1 It should be noted that the assessment of the probability and consequences of environmental hazards of
+   pests of uncultivated and unmanaged plants often involves greater uncertainty than for pests of cultivated
+   or managed plants. This is due to the lack of information, additional complexity associated with
+   ecosystems, and variability associated with pests, hosts or habitats.
+
+    2.5    Conclusion of the pest risk assessment stage
+    As a result of the pest risk assessment, all or some of the categorized pests may be considered appropriate
+    for pest risk management. For each pest, all or part of the PRA area may be identified as an endangered
+    area. A quantitative or qualitative estimate of the probability of introduction of a pest or pests, and a
+    corresponding quantitative or qualitative estimate of economic consequences (including environmental
+    consequences), have been obtained and documented or an overall rating could have been assigned. These
+    estimates, with associated uncertainties, are utilized in the pest risk management stage of the PRA.
+
+    3.     Stage 3: Pest Risk Management
+    The conclusions from pest risk assessment are used to decide whether risk management is required and
+    the strength of measures to be used. Since zero-risk is not a reasonable option, the guiding principle for
+    risk management should be to manage risk to achieve the required degree of safety that can be justified
+    and is feasible within the limits of available options and resources. Pest risk management (in the
+    analytical sense) is the process of identifying ways to react to a perceived risk, evaluating the efficacy
+    of these actions, and identifying the most appropriate options. The uncertainty noted in the assessments
+    of economic consequences and probability of introduction should also be considered and included in the
+    selection of a pest management option.
+S1 In considering the management of environmental risks, it should be stressed that phytosanitary measures
+   are intended to account for uncertainty and should be designed in proportion to the risk. Pest risk
+   management options should be identified, taking account of the degree of uncertainty in the assessment
+   of economic consequences, probability of introduction, and the respective technical justification of those
+   options. In this respect, the management of risks to the environment caused by plant pests does not differ
+   from the management of other plant pest risks.
+    Specific guidance on pest risk management for plants as pests is provided in Annex 4.
+
+    3.1    Level of risk
+    In implementing the principle of managed risk (ISPM 1), countries should decide what level of risk is
+    acceptable to them.
+    The acceptable level of risk may be expressed in a number of ways, such as:
+    -     reference to existing phytosanitary requirements
+    -     indexed to estimated economic losses
+    -     expressed on a scale of risk tolerance
+    -     compared with the level of risk accepted by other countries.
+S2 For LMOs, the acceptable level of risk may also be expressed by comparison to the level of risk
+   associated with similar or related organisms, based on their characteristics and behaviour in a similar
+   environment to the PRA area.
+
+    3.2    Technical information required
+    The decisions to be made in the pest risk management process will be based on the information collected
+    during the preceding stages of PRA. This information will be composed of:
+    -     reasons for initiating the process
+    -     estimation of the probability of introduction to the PRA area
+    -     evaluation of potential economic consequences in the PRA area.
+
+
+    ISPM 11-22                                                       International Plant Protection Convention
+     Pest risk analysis for quarantine pests                                                          ISPM 11
+
+
+
+    3.3    Acceptability of risk
+    Overall risk is determined by the examination of the outputs of the assessments of the probability of
+    introduction and the economic impact. If the risk is found to be unacceptable, then the first step in risk
+    management is to identify possible phytosanitary measures that will reduce the risk to, or below an
+    acceptable level. Measures are not justified if the risk is already acceptable or must be accepted because
+    it is not manageable (as may be the case with natural spread). Countries may decide that a low level of
+    monitoring or audit is maintained to ensure that future changes in the pest risk are identified.
+
+    3.4    Identification and selection of appropriate risk management options
+    Appropriate measures should be chosen based on their effectiveness in reducing the probability of
+    introduction of the pest. The choice should be based on the following considerations, which include
+    several of the phytosanitary principles of ISPM 1:
+    -     Phytosanitary measures shown to be cost-effective and feasible. The benefit from the use of
+          phytosanitary measures is that the pest will not be introduced and the PRA area will, consequently,
+          not be subjected to the potential economic consequences. The cost-benefit analysis for each of
+          the minimum measures found to provide acceptable security may be estimated. Those measures
+          with an acceptable benefit-to-cost ratio should be considered.
+    -     Principle of “minimal impact”. Measures should not be more trade restrictive than necessary.
+          Measures should be applied to the minimum area necessary for the effective protection of the
+          endangered area.
+    -     Reassessment of previous requirements. No additional measures should be imposed if existing
+          measures are effective.
+    -     Principle of “equivalence”. If different phytosanitary measures with the same effect are
+          identified, they should be accepted as alternatives.
+    -     Principle of “non-discrimination”. If the pest under consideration is established in the PRA area
+          but of limited distribution and under official control, the phytosanitary measures in relation to
+          import should not be more stringent than those applied within the PRA area. Likewise,
+          phytosanitary measures should not discriminate between exporting countries where the status of
+          the relevant pest is the same.
+S1 The principle of non-discrimination and the concept of official control also apply to:
+   -     pests affecting uncultivated/unmanaged plants
+   -     plants as pests
+   -     pests affecting plants through effects on other organisms.
+S1 If any of these become established in the PRA area and if official control is applied, then phytosanitary
+   measures at import should not be more stringent than the official control measures.
+    The major risk of introduction of plant pests is with imported consignments of plants and plant products,
+    but (especially for a PRA performed on a particular pest) it is necessary to consider the risk of
+    introduction with other types of pathways (e.g. packing materials, conveyances, travellers and their
+    luggage, and the natural spread of a pest).
+    The measures listed below are examples of those that are most commonly applied to traded commodities.
+    They are applied to pathways, usually consignments of a host, from a specific origin. The measures
+    should be as precise as possible as to consignment type (hosts, parts of plants) and origin so as not to
+    act as barriers to trade by limiting the import of products where this is not justified. Combinations of
+    two or more measures may be needed in order to reduce the risk to an acceptable level. The available
+    measures can be classified into broad categories which relate to the pest status of the pathway in the
+    country of origin. These include measures:
+    -      applied to the consignment
+    -      applied to prevent or reduce original infestation in the crop
+
+    International Plant Protection Convention                                                     ISPM 11-23
+     ISPM 11                                                                  Pest risk analysis for quarantine pests
+
+
+
+    -      to ensure the area or place of production is free from the pest
+    -      concerning the prohibition of commodities.
+    Other options may arise in the PRA area (restrictions on the use of a commodity), control measures,
+    introduction of a biological control agent, eradication and containment. Such options should also be
+    evaluated and will apply in particular if the pest is already present but not widely distributed in the PRA
+    area.
+
+    3.4.1 Options for consignments
+    Measures may include any combinations of the following:
+    -    inspection or testing for freedom from a pest or to a specified pest tolerance – sample size should
+         be adequate to give an acceptable probability of detecting the pest
+    -    prohibition of parts of the host
+    -    a pre-entry or post-entry quarantine system – this system could be considered to be the most
+         intensive form of inspection or testing where suitable facilities and resources are available, and
+         may be the only option for certain pests not detectable on entry
+    -    specified conditions of preparation of the consignment (e.g. handling to prevent infestation or
+         reinfestation)
+    -    specified treatment of the consignment – such treatments are applied post-harvest and could
+         include chemical, thermal, irradiation or other physical methods
+    -    restrictions on end use, distribution and periods of entry of the commodity.
+    Measures may also be applied to restrict the import of consignments of pests.
+S1 The concept of consignments of pests may be applied to the import of plants considered to be pests.
+   These consignments may be restricted to species or varieties posing less risk.
+S2 For LMOs, as for other organisms, information may have been obtained concerning the risk management
+   measures applied to the LMO in the country of export (see section 1.3). These should be assessed to
+   determine if they are appropriate for the conditions in the PRA area and, if appropriate, the intended
+   use.
+S2 For LMOs, measures may also include procedures for the provision of information on the phytosanitary
+   integrity of consignments (e.g. tracing systems, documentation systems, identity preservation systems).
+
+    3.4.2 Options preventing or reducing infestation in the crop
+    Measures may include:
+    -    treatment of the crop, field, or place of production
+    -    restriction of the composition of a consignment so that it is composed of plants belonging to
+         resistant or less susceptible species
+    -    growing plants under specially protected conditions (glasshouse, isolation)
+    -    harvesting of plants at a certain age or a specified time of year
+    -    production in a certification scheme. An officially monitored plant production scheme usually
+         involves a number of carefully controlled generations, beginning with nuclear stock plants of high
+         health status. It may be specified that the plants be derived from plants within a limited number
+         of generations.
+S2 Measures may be applied to reduce the probability that LMOs (or genetic material from LMOs) that
+   pose a phytosanitary risk could be in other crops. These include:
+   -     management systems (e.g. buffer zones, refugia)
+   -     management of trait expression
+   -     control of reproductive ability (e.g. male sterility)
+
+
+    ISPM 11-24                                                       International Plant Protection Convention
+     Pest risk analysis for quarantine pests                                                           ISPM 11
+
+
+
+    -      control of alternative hosts.
+    3.4.3 Options ensuring that the area, place or site of production or crop is free from the
+          pest
+    Measures may include:
+    -    pest-free area – requirements for pest-free area status are described in ISPM 4 (Requirements for
+         the establishment of pest free areas)
+    -    pest-free place of production or pest-free production site – requirements are described in ISPM 10
+         (Requirements for the establishment of pest free places of production and pest free production
+         sites)
+    -    inspection of crop to confirm pest freedom.
+
+    3.4.4 Options for other types of pathways
+    For many types of pathways, the measures considered above for plants and plant products to detect the
+    pest in the consignment or to prevent infestation of the consignment, may also be used or adapted. For
+    certain types of pathways, the following factors should be considered:
+    -      Natural spread of a pest includes movement of the pest by flight, wind dispersal, transport by
+           vectors such as insects or birds and natural migration. If the pest is entering the PRA area by
+           natural spread, or is likely to enter in the immediate future, phytosanitary measures may have
+           little effect. Control measures applied in the area of origin could be considered. Similarly,
+           containment or eradication, supported by suppression and surveillance, in the PRA area after entry
+           of the pest could be considered.
+    -      Measures for human travellers and their baggage could include targeted inspections, publicity and
+           fines or incentives. In a few cases, treatments may be possible.
+    -      Contaminated machinery or modes of transport (ships, trains, planes, road transport) could be
+           subjected to cleaning or disinfestation.
+
+    3.4.5 Options within the importing country
+    Certain measures applied within the importing country may also be used. These could include careful
+    surveillance to try and detect the entry of the pest as early as possible, eradication programmes to
+    eliminate any foci of infestation and/or containment action to limit spread.
+S1 For plants to be imported, where there is a high level of uncertainty regarding pest risk, it may be decided
+   not to take phytosanitary measures at import, but only to apply surveillance or other procedures after
+   entry (e.g. by or under the supervision of the NPPO).
+S2 The potential for risk from LMO pests depends in part on the intended use. As for other organisms,
+   certain intended uses (such as high security contained use) may significantly manage risk.
+S2 For LMOs, as with other pests, options within the country also include the use of emergency measures
+   related to phytosanitary risks. Any emergency measures should be consistent with Article VII.6 of the
+   IPPC.
+
+    3.4.6 Prohibition of commodities
+    If no satisfactory measure to reduce risk to an acceptable level can be found, the final option may be to
+    prohibit importation of the relevant commodities. This should be viewed as a measure of last resort and
+    should be considered in light of the anticipated efficacy, especially in instances where the incentives for
+    illegal import may be significant.
+
+    3.5    Phytosanitary certificates and other compliance measures
+    Risk management includes the consideration of appropriate compliance procedures. The most important
+    of these is export certification (see ISPM 7 (Phytosanitary certification system)). The issuance of
+
+
+    International Plant Protection Convention                                                      ISPM 11-25
+     ISPM 11                                                               Pest risk analysis for quarantine pests
+
+
+
+    phytosanitary certificates (see ISPM 12 (Phytosanitary certificates)) provides official assurance that a
+    consignment is “considered to be free from the quarantine pests specified by the importing contracting
+    party and to conform with the current phytosanitary requirements of the importing contracting party.” It
+    thus confirms that the specified risk management options have been followed. An additional declaration
+    may be required to indicate that a particular measure has been carried out. Other compliance measures
+    may be used subject to bilateral or multilateral agreement.
+S2 Information on phytosanitary certificates regarding LMOs (as with any other regulated articles) should
+   only be related to phytosanitary measures (see ISPM 12).
+
+    3.6    Conclusion of pest risk management
+    The result of the pest risk management procedure will be either that no measures are identified which
+    are considered appropriate or the selection of one or more management options that have been found to
+    lower the risk associated with the pest(s) to an acceptable level. These management options form the
+    basis of phytosanitary regulations or requirements.
+    The application and maintenance of such regulations is subject to certain obligations in the case of
+    contracting parties to the IPPC.
+S1 Phytosanitary measures taken in relation to environmental hazards should, as appropriate, be notified to
+   relevant competent authorities responsible for national biodiversity policies, strategies and action plans.
+S1 It is noted that the communication of risks associated with environmental hazards is of particular
+   importance to promote awareness.
+    Specific guidance on risk communication for plants as pests is provided in Annex 4.
+
+    3.6.1 Monitoring and review of phytosanitary measures
+    In accordance with the principle of modification (ISPM 1) the implementation of particular
+    phytosanitary measures should not be considered to be permanent. After application, the success of the
+    measures in achieving their aim should be determined by monitoring during use. This is often achieved
+    by inspection of the commodity on arrival, noting any interceptions or any entries of the pest to the PRA
+    area. The information supporting the pest risk analysis should be periodically reviewed to ensure that
+    any new information that becomes available does not invalidate the decision taken.
+
+    4.     Documentation of Pest Risk Analysis
+    4.1    Documentation requirements
+    The IPPC and the principle of transparency (ISPM 1) require that countries should, on request, make
+    available the rationale for phytosanitary requirements. The whole process from initiation to pest risk
+    management should be sufficiently documented so that when a review or a dispute arises, the sources
+    of information and rationale used in reaching the management decision can be clearly demonstrated.
+    The main elements of documentation are:
+    -    purpose for the PRA
+    -    pest, pest list, pathways, PRA area, endangered area
+    -    sources of information
+    -    categorized pest list
+    -    conclusions of risk assessment
+               probability
+               consequences
+    -    risk management
+               options identified
+               options selected.
+
+    ISPM 11-26                                                      International Plant Protection Convention
+      Pest risk analysis for quarantine pests – Annex 1                                                             ISPM 11
+
+
+     This annex was adopted as part of a supplement by the Fifth Session of the Interim Commission on Phytosanitary Measures
+                                                           in April 2003.
+                                           The annex is a prescriptive part of the standard.
+
+S1   ANNEX 1: Comments on the scope of the IPPC in regard to environmental risks
+     The range of pests covered by the IPPC extends beyond pests directly affecting cultivated plants. The
+     coverage of the IPPC definition of pests includes plants as pests and other species that have indirect
+     effects on plants, and the Convention applies to the protection of wild flora. The scope of the IPPC also
+     extends to organisms that are pests because they:
+     -      directly affect uncultivated/unmanaged plants
+     Introduction of these pests may have few commercial consequences, and therefore they have been less
+     likely to be evaluated, regulated and/or placed under official control. An example of this type of pest is
+     Dutch elm disease (Ophiostoma novo-ulmi).
+     -     indirectly affect plants
+     In addition to pests that directly affect host plants, there are those, like most plants as pests (e.g. weeds
+     and invasive plants), that affect plants primarily by other processes such as competition.
+     -     indirectly affect plants through effects on other organisms
+     Some pests may primarily affect other organisms, but thereby cause deleterious effects on plant species,
+     or plant health in habitats or ecosystems. Examples include parasites of beneficial organisms, such as
+     biological control agents.
+     To protect the environment and biological diversity without creating disguised barriers to trade,
+     environmental risks and risks to biological diversity should be analysed in a PRA.
+
+
+
+
+     International Plant Protection Convention                                                                  ISPM 11-27
+      ISPM 11                                                            Pest risk analysis for quarantine pests – Annex 2
+
+
+      This annex was adopted by the Sixth Session of the Interim Commission on Phytosanitary Measures in March–April 2004.
+                                          The annex is a prescriptive part of the standard.
+
+S2   ANNEX 2: Comments on the scope of the IPPC in regard to pest risk analysis for living
+     modified organisms
+     Phytosanitary risks that may be associated with a living modified organism are within the scope of the
+     International Plant Protection Convention and should be considered using pest risk analysis to make
+     decisions regarding pest risk management.
+     The analysis of LMOs includes consideration of the following:
+     -     Some LMOs may present a phytosanitary risk and therefore warrant a PRA. However other LMOs
+           will not present a phytosanitary risks beyond those posed by related non-LMOs and therefore will
+           not warrant a complete PRA. For example, modifications to change the physiological
+           characteristics of a plant (e.g. ripening time, storage life) may not present any phytosanitary risk.
+           The pest risk that may be posed by an LMO is dependent on a combination of factors, including
+           the characteristics of the donor and recipient organisms, the genetic alteration, and the specific
+           new trait or traits. Therefore, part of the supplementary text (see Annex 3) provides guidance on
+           how to determine if an LMO is a potential pest.
+     -     PRA may constitute only a portion of the overall risk analysis for import and release of a LMO.
+           For example, countries may require the assessment of risks to human or animal health, or to the
+           environment, beyond that covered by the IPPC. This standard only relates to the assessment and
+           management of phytosanitary risks. As with other organisms or pathways assessed by an NPPO,
+           LMOs may present other risks not falling within the scope of the IPPC. When an NPPO discovers
+           potential for risks that are not of phytosanitary concern it may be appropriate to notify the relevant
+           authorities.
+     -     Phytosanitary risks from LMOs may result from certain traits introduced into the organism, such
+           as those that increase the potential for establishment and spread, or from inserted gene sequences
+           that do not alter the pest characteristics of the organism but that might act independently of the
+           organism or have unintended consequences.
+     -     In cases of phytosanitary risks related to gene flow, the LMO is acting more as a potential vector
+           or pathway for introduction of a genetic construct of phytosanitary concern rather than as a pest
+           in and of itself. Therefore, the term “pest” should be understood to include the potential of an
+           LMO to act as a vector or pathway for introduction of a gene presenting a potential phytosanitary
+           risk.
+     -     The risk analysis procedures of the IPPC are generally concerned with phenotypic characteristics
+           rather than genotypic characteristics. However, genotypic characteristics may need to be
+           considered when assessing the phytosanitary risks of LMOs.
+     -     Potential phytosanitary risks that may be associated with LMOs could also be associated with
+           non-LMOs. It may be useful to consider risks associated with LMOs in the context of risks posed
+           by the non-modified recipient or parental organisms, or similar organisms, in the PRA area.
+
+
+
+
+     ISPM 11-28                                                             International Plant Protection Convention
+      Pest risk analysis for quarantine pests – Annex 3                                                               ISPM 11
+
+
+         This annex was adopted by the Sixth Session of the Interim Commission on Phytosanitary Measures in March–April 2004.
+                                             The annex is a prescriptive part of the standard.
+
+S2   ANNEX 3: Determining the potential for a living modified organism to be a pest
+     This annex is relevant for living modified organisms only where there is potential for phytosanitary risks
+     from the LMO associated with some characteristic or property related to the genetic modification. Other
+     phytosanitary risks associated with the organism should be assessed under other appropriate sections of
+     ISPM 11 or under other appropriate ISPMs.
+     The information requirements outlined in section 1.3 may be needed in determining the potential for an
+     LMO to be a pest.
+     Potential phytosanitary risks for LMOs
+     Potential phytosanitary risks for LMOs may include:
+     a. Changes in adaptive characteristics which may increase the potential for introduction or spread, for
+     example alterations in:
+     -     tolerance to adverse environmental conditions (e.g. drought, freezing, salinity)
+     -     reproductive biology
+     -     dispersal ability of pests
+     -     growth rate or vigour
+     -     host range
+     -     pest resistance
+     -     pesticide (including herbicide) resistance or tolerance.
+     b. Adverse effects of gene flow or gene transfer including, for example:
+     -     transfer of pesticide or pest resistance genes to compatible species
+     -     the potential to overcome existing reproductive and recombination barriers resulting in pest risks
+     -     potential for hybridization with existing organisms or pathogens to result in pathogenicity or
+           increased pathogenicity.
+     c. Adverse effects on non-target organisms including, for example:
+     -     changes in host range of the LMO, including the cases where it is intended for use as a biological
+           control agent or organism otherwise claimed to be beneficial
+     -     effects on other organisms, such as biological control agents, beneficial organisms, or soil fauna
+           and microflora, nitrogen-fixing bacteria, that result in a phytosanitary impact (indirect effects)
+     -     capacity to vector other pests
+     -     negative direct or indirect effects of plant-produced pesticides on non-target organisms beneficial
+           to plants.
+     d. Genotypic and phenotypic instability including, for example:
+     -        reversion of an organism intended as a biocontrol agent to a virulent form.
+     e. Other injurious effects including, for example:
+     -     phytosanitary risks presented by new traits in organisms that do not normally pose phytosanitary
+           risk
+     -     novel or enhanced capacity for virus recombination, trans-encapsidation and synergy events
+           related to the presence of virus sequences
+     -     phytosanitary risks resulting from nucleic acid sequences (markers, promoters, terminators etc.)
+           present in the insert.
+
+
+     International Plant Protection Convention                                                                   ISPM 11-29
+ ISPM 11                                                    Pest risk analysis for quarantine pests – Annex 3
+
+
+
+The potential phytosanitary risks identified above can also be associated with non-LMOs. The risk
+analysis procedures of the IPPC are generally concerned with phenotypic characteristics rather than
+genotypic characteristics. However, genotypic characteristics may need to be considered when assessing
+the phytosanitary risks of LMOs.
+If there is no indication that new traits resulting from genetic modifications have phytosanitary risks,
+the LMO may require no further consideration.
+It may be useful to consider potential risks in the context of risks posed by the non-modified recipients
+or parental organisms, or similar organisms, in the PRA area.
+In cases of phytosanitary risks related to gene flow, the LMO is acting more as a potential vector or
+pathway for introduction of a genetic construct of phytosanitary concern rather than as a pest in and of
+itself. Therefore, the term “pest” should be understood to include the potential of an LMO to act as a
+vector or pathway for introduction of a gene presenting a potential phytosanitary risk.
+Factors that may result in the need to subject a LMO to Stage 2 of the PRA include:
+-     lack of knowledge about a particular modification event
+-     the credibility of information if it is an unfamiliar modification event
+-     insufficient data on the behaviour of the LMO in environments similar to the PRA area
+-     field experience, research trials or laboratory data indicating that the LMO may pose
+      phytosanitary risks (see subsections a. to e. above)
+-     where the LMO expresses characteristics that are associated with pests under ISPM 11
+-     existing conditions in the country (or PRA area) that may result in the LMO being a pest
+-     where there are PRAs for similar organisms (including LMOs) or risk analyses carried out for
+      other purposes that indicate a pest potential
+-     experience in other countries.
+Factors that may lead to the conclusion that an LMO is not a potential pest and/or requires no further
+consideration under ISPM 11 include:
+-     where the genetic modification in similar or related organisms has previously been assessed by
+      the NPPO (or other recognized experts or agencies) as having no phytosanitary risk
+-     where the LMO is to be confined in a reliable containment system and not be released
+-     evidence from research trials that the LMO is unlikely to be a pest under the use proposed
+-     experience in other countries.
+
+
+
+
+ISPM 11-30                                                     International Plant Protection Convention
+ Pest risk analysis for quarantine pests including – Annex 4                                                   ISPM 11
+
+
+        This annex was adopted by the Eighth Session of the Commission on Phytosanitary Measures in April 2013.
+                                     The annex is a prescriptive part of the standard.
+
+ANNEX 4: Pest risk analysis for plants as quarantine pests
+Introduction
+This annex provides specific guidance on conducting PRA to determine if a plant is a pest of cultivated
+or wild plants, whether it should be regulated, and to identify phytosanitary measures that reduce the
+pest risk to an acceptable level. It focuses primarily on plants proposed for import, whether as plants for
+planting or for other intended uses. It does not cover the unintentional introduction of plants as
+contaminating pests in commodities or conveyances.
+The number and diversity of plants being moved between and within countries is increasing as
+opportunities for trade increase and markets develop for new plants. Movements of plants may imply
+two types of pest risk: the plant (as a pathway) may carry pests, or the plant itself may be a pest. The
+risk of introducing pests with plants as a pathway has long been recognized and widely regulated.
+However, pest risk posed by plants as pests requires specific consideration.
+Plants as pests
+Plants as pests may affect other plants through competition for space and resources, such as light,
+nutrients and water, or through parasitism or allelopathy. Plants introduced to a new area may also
+become pests by hybridizing with cultivated plants or wild plants.
+Thus, the protection of plants as pursued through the IPPC may include considering certain plants as
+pests, and taking phytosanitary measures to prevent their introduction and spread. Determining which
+plants are pests is context-specific and may vary with geography, habitat, land use, time and the
+perceived value of the natural resources in the endangered area. PRA should form the basis of such a
+determination and subsequent decisions regarding possible regulation of the plant species as a quarantine
+pest. It should be noted that plants having undergone such analysis may also require assessment of their
+potential to be pathways for other pests.
+The IPPC has recognized the importance of plants as pests by underscoring that the definition of “pest”
+includes weeds (ICPM, 2001), and by specifically including “plants that are invasive alien species” in a
+range of recommendations for action for those invasive alien species that are pests of plants (ICPM,
+2005). This annex provides some specific guidance on how to apply these recommendations. The 2004
+revision of ISPM 11 introduced specific elements of conducting a PRA for plants as pests that are further
+elaborated in this annex.
+The IPPC is concerned with pests injurious to cultivated and wild plants (see Annex 1 of this standard),
+and therefore weeds and invasive plants that are injurious to other plants should be considered pests in
+the IPPC context. Henceforth in this annex, the terms “weed” and “invasive plants” are not used, but
+only the single term “plants as pests”2.
+The remainder of the text generally follows the sequence of ISPM 11, with the corresponding sections
+of the standard indicated in parentheses. In each section, guidance is provided on the analytical aspects
+particular to plants as pests.
+Stage 1: Initiation
+Initiation points
+The PRA process for plants as quarantine pests will most frequently arise in situations such as:
+-      a request is made to import a plant not previously imported
+
+2
+  “Invasive plants” are often taken to mean invasive alien species in the CBD sense (see ISPM 5, Appendix 1).
+The term “weed” usually refers to pests of cultivated plants. However, some countries use the term “weed”
+irrespective of whether cultivated plants or wild flora are at risk, and other countries use the term “noxious weed”,
+“landscape weed”, “environmental weed” or similar terms to distinguish them from plants only affecting crops.
+
+International Plant Protection Convention                                                                 ISPM 11-31
+ ISPM 11                                                     Pest risk analysis for quarantine pests – Annex 4
+
+
+
+-     a plant already available and used in a country is suspected of posing a pest risk, e.g. because of
+      new evidence or anticipated changes in its intended use
+-     a decision is made to review or revise phytosanitary policies.
+Pre-selection
+ISPM 2 (Framework for pest risk analysis) describes, as part of the initiation stage, a pre-selection step
+intended for determining whether or not an organism is a pest, and provides some indicators that a plant
+may be a pest. Particular attention is needed for plants that have proven to be pests elsewhere or that
+have intrinsic characteristics such as high propagation rate or strong competitive or propagule dispersal
+abilities. In most cases, consideration of these factors in Stage 1 of the PRA may not be sufficient to
+terminate the process; however, in cases where it is clearly determined that the plant is only suited to a
+specific type of habitat that does not exist in the PRA area, it may be concluded that the plant cannot
+become a pest in that area and the PRA process may stop at that point.
+Stage 2: Pest risk assessment
+Identity of the plant (refer to section 2.1.1.1)
+The species is the taxonomic level usually considered in PRA. However, in the case of cultivated plants
+that may be pests, lower taxonomic levels may be used where there are scientifically sound rationales.
+The taxonomic level appropriate for conducting the PRA for a particular plant as a pest should be
+determined by the NPPO.
+Some particular considerations regarding the identity of plants as pests may include the following:
+-    The taxonomic identity of the plant may be unclear because it has been obscured by breeding or
+     hybridization or is the subject of plant breeders’ rights. This is particularly relevant for
+     horticultural plants. The NPPO should acquire the best possible information about the identity
+     and parentage of the plant from various sources (e.g. the prospective importer, plant breeders,
+     scientific literature).
+-    The use of taxonomic levels below the species (i.e. subspecies, variety, cultivar) may be justified
+     if there is scientific evidence demonstrating that differences in characteristics are stable and
+     significantly affect phytosanitary status. Examples may include differences in adaptability to
+     environmental conditions, ability to exploit resources, ability to defend against herbivores, and
+     methods of reproduction or propagule dispersal.
+-    The evaluation of a hybrid should be based on information specific to that hybrid where available.
+     Where such information does not exist, PRA may be conducted on the parent species to determine
+     their pest risk. If either parent is determined to be a pest and the associated risk is deemed
+     unacceptable, this information may form the basis of the risk assessment for the hybrid. However,
+     as hybrids do not always express similar characteristics to their parent species, that approach may
+     significantly increase the assessment uncertainty and should be used with caution.
+Presence or absence in the PRA area (refer to section 2.1.1.2)
+Determination of presence or absence in the PRA area is a particular challenge for NPPOs when plants
+are proposed for import because the plants may already be growing in locations (e.g. botanical gardens,
+home gardens) that may not be reported. Sources of information may include horticultural, agricultural,
+forestry and aquaculture publications and databases. The NPPO may need to carry out particular surveys
+to obtain information on presence and distribution.
+The presence or absence of wild or cultivated relatives in the PRA area should also be determined in the
+case where there is scientific evidence that the plant may hybridize with such local relatives.
+Intended use
+The PRA should include consideration of the intended use (refer to ISPM 32 (Categorization of
+commodities according to their pest risk)) of the plants as this may affect the probability of
+establishment, spread and economic consequences. However, it should also be recognized that plants,
+once entered, may escape or be diverted from the use for which they were originally intended.
+
+ISPM 11-32                                                      International Plant Protection Convention
+ Pest risk analysis for quarantine pests including – Annex 4                                         ISPM 11
+
+
+
+In the case of plants for planting, significant human effort is made to ensure their continuous survival
+and, in some cases, successful reproduction because of their perceived benefits. Furthermore, the plants
+for planting have often been selected to be well suited for growing in the importing country. This
+significantly increases the likelihood of establishment and spread. Therefore, plants for planting are
+generally considered to pose the highest risk. Examples of uses, broadly in the order of decreasing risk
+at the time of planting, are:
+-      planting in the open landscape without management (e.g. for soil erosion control, waste water
+       treatment and carbon dioxide uptake, or as aquatic plants in watercourses or ponds)
+-      planting in the open landscape with management (e.g. in forestry, agriculture (including for
+       biofuel), horticulture, land reclamation and golf courses, or as cover crops)
+-      planting outdoors in urban areas (e.g. for amenity purposes in roadsides, parks or gardens)
+-      planting indoors only.
+Plants for intended uses other than planting may be considered, including for human consumption or
+animal feed, processing, combustion for energy production, or research.
+Habitats, locations and endangered areas
+Plants imported for planting may be destined for a particular geographic location of a particular habitat.
+However, the NPPO should assess:
+-      the probability that the plants could establish in habitats in the PRA area other than where they
+       were intended to grow (i.e. to what degree other habitats are suitable for the plant)
+-      the probability that the plants could spread from the location where they were intended to grow.
+The overall area of suitable habitats where the presence of the plant would result in economically
+important loss constitutes the endangered area.
+The analysis of suitable habitats is analogous to the analysis of host plants for other pests (in the case of
+parasitic plants, both host and habitat need to be considered). The guidance provided in section 2.2.2
+(and its subsections) of this standard can generally be used, substituting the terms “host” and “host
+range” with “suitable habitat”.
+Probability of entry (refer to section 2.2.1)
+For imported plants, the probability of entry need not be assessed. Nevertheless, an estimation of the
+volume, frequency and destinations of prospective imports may be needed in order to assess the
+likelihood of establishment and spread.
+Historical evidence of pest behaviour
+The most reliable predictor of establishment, spread and potential economic consequences of a plant as
+a pest is the history of that plant as a pest when introduced into new areas with similar habitats and
+climate. Where such a history is documented, the assessment should use this information, comparing
+whether the habitat and climate conditions are sufficiently similar in the PRA area. However, a plant
+may never have been moved out of its native range where it may be controlled by naturally occurring
+enemies or other biotic or abiotic factors. In such cases, no historical evidence exists of establishment,
+spread or economic consequences.
+Probability of establishment (refer to section 2.2.2)
+The assessment of the probability of establishment should consider the suitability of the climate, other
+abiotic and biotic factors (see section 2.2.2.2), and cultural practices (see section 2.2.2.3). The
+assessment should compare the conditions in habitats within the PRA area to the conditions in habitats
+in which the plant currently occurs. Depending on the information available, the following may be
+incorporated:
+-      climate: suitability of current climates and, for long-lived plants, future projected climates
+-      other abiotic factors: soil characteristics, topography, hydrology, natural fires, etc.
+
+
+International Plant Protection Convention                                                        ISPM 11-33
+ ISPM 11                                                     Pest risk analysis for quarantine pests – Annex 4
+
+
+
+-     biotic factors: current vegetation, degree of disturbance, presence or absence of natural enemies
+      and competitors
+-     cultural practices in crops or managed plant communities: herbicide usage, harvesting, soil
+      cultivation, burning, etc. (including side-effects such as aerial deposition of nitrogen or
+      pesticides).
+Where the history of a particular plant as a pest is not well documented, the assessment should consider
+intrinsic characteristics of the plant that may predict establishment (refer to section 2.2.2.4). Although
+intrinsic characteristics have sometimes been shown to be poor predictors, the following may be
+considered:
+-      reproductive characteristics: sexual and asexual mechanisms, dioecism, duration of flowering,
+       self-compatibility, reproduction frequency, generation time
+-      adaptive potential (of individuals and populations): genotypic or phenotypic plasticity,
+       hybridization potential
+-      propagule attributes: volume and viability, dormancy
+-      tolerance or resistance: response to pests, herbicides, grazing and other cultural practices,
+       drought, flooding, frost, salinity, climate changes.
+Many plants as pests are opportunists with a strong potential to become established in disturbed habitats.
+Plants with a robust dormancy combined with a prolific reproductive ability are particularly suited for
+such an opportunistic strategy. Disturbed habitats are common; therefore, plants with such opportunistic
+adaptations may encounter many opportunities for establishment and spread.
+Probability of spread (refer to section 2.2.3)
+The likelihood and extent of spread depends on natural and human-mediated factors. Natural factors
+may include:
+-     intrinsic characteristics of the plant species (in particular regarding reproduction, adaptation and
+      propagule dispersal)
+-     existence of natural means of spread (e.g. birds and other animals, water, wind)
+-     existence and spatial pattern of suitable habitats and dispersal corridors connecting them.
+Human-mediated factors, whether intentional or unintentional, may include:
+-   intended use, consumer demand, economic value and ease of transport
+-   the movement of propagules of contaminating pests with soil or other materials (e.g. clothing,
+    conveyances, machinery, tools, equipment)
+-   the discarding of plants (e.g. after flowering or when private aquaria are emptied)
+-   disposal procedures (e.g. composting) for waste that contains plants.
+There are often long time lags between a plant’s initial introduction and its later spread. As a
+consequence, even in the cases where establishment may be well documented, the potential for later
+spread may be less known. If evidence exists, the following factors may need to be considered:
+-     changes in abiotic factors (e.g. an increase in aerial deposition of nitrogen or sulphur)
+-     changes in the genetic profile of the plant species (e.g. through natural selection, genetic drift)
+-     long generative time or time to maturity
+-     emergence of novel uses for the plant
+-     relatively rare dispersal events that move propagules from suboptimal to optimal habitats
+-     changes in land use or disturbance pattern (e.g. following natural floods, natural fires)
+-     changes in climate (e.g. warmer climate changes in precipitation patterns).
+
+
+
+
+ISPM 11-34                                                      International Plant Protection Convention
+ Pest risk analysis for quarantine pests including – Annex 4                                        ISPM 11
+
+
+
+Assessment of potential economic consequences (refer to section 2.3)
+Plants as pests may have a variety of economic consequences, including yield losses in agriculture,
+horticulture and forestry; reduction of recreational value; or reduction of biodiversity and negative
+effects on other parts of the ecosystem. Assessment of economic consequences of plants as pests may
+be inherently difficult because they may have broad agricultural, environmental and social consequences
+that may be non-specific, not readily apparent or not easily quantified (e.g. changes in the soil’s nutrient
+profile).
+It is important to consider the potential long-term economic consequences for the entire PRA area,
+including where the plants are intended to grow. The most reliable predictor of potential economic
+consequences is evidence of consequences elsewhere, particularly in areas with similar habitats.
+However, in some cases, plants have never been moved out of their native ranges and therefore may not
+have had an opportunity to express any potential consequences. In the absence of evidence of economic
+consequences elsewhere, consideration may be given to whether or not the plant possesses intrinsic
+characteristics that predict pest potential, such as those discussed above and in section 2.2.2.4 related to
+establishment and spread.
+Stage 3: Pest risk management (refer to section 3.4)
+Plants for planting will usually be introduced into habitats suitable for their establishment and growth.
+In such cases, most pest risk management options would be counterproductive to the intended use. In
+general, for plants for planting considered quarantine pests, the most effective risk management option
+is prohibition (refer to section 3.4.6). However, those plants may at the same time have a perceived
+benefit that may be considered in the decision-making process following the PRA.
+For specific situations, other pest risk management options may be pursued, including:
+-     requirements for growing plants under confinement
+-     requirements for harvesting plants at a certain stage or specified time to prevent opportunities for
+      reproduction
+-     restriction of plants to particular locations, such as those that are marginally suitable
+-     restriction of import to specified cultivars or clones
+-     restrictions on the disposal of excess or waste plant material
+-     other restrictions on planting, growing, sale, holding, transport or disposal
+-     considering the use of codes of conduct for sale, holding, transport, planting or disposal, for
+      example, in the form of internal rules or guidelines within the plant industry to refrain from or
+      restrict the selling of particular plants for specific intended uses.
+For plants imported for consumption or processing, risk management options may include restrictions
+on transport, storage, locations of import and use, sale, waste disposal, time of year import takes place,
+and requirements regarding the processing or treatments (e.g. devitalization).
+In identifying risk management options, the suitability of control measures, ease of detection,
+identification of and access to the plants, time needed for effective control and difficulty of eradication
+or containment should be considered. For example, plants in highly managed systems such as cropping
+systems may be more easily controlled than plants in natural or semi-natural habitats, or in private
+gardens. Many of the factors considered under “establishment” and “spread” also influence a plant’s
+response to control measures and thus the feasibility of control.
+In cases where the assessed plants are present in collections (e.g. botanical gardens) and import
+regulation is considered, phytosanitary measures may have to be applied to those collections.
+Irrespective of risk management options, where the import of a plant is allowed, it may be appropriate
+to develop post-entry systems such as surveillance in the PRA area, contingency plans, and systems to
+report new occurrences.
+
+
+International Plant Protection Convention                                                       ISPM 11-35
+ ISPM 11                                                    Pest risk analysis for quarantine pests – Annex 4
+
+
+
+Aspects common to all PRA stages
+Risk communication (refer to ISPM 2)
+Plants intentionally introduced for planting may not be perceived as a threat by the public, or by
+particular stakeholders, who may perceive the plants as purely beneficial. Furthermore, in many
+countries authorities other than the NPPO have responsibilities under the Convention of Biological
+Diversity with regard to plants intentionally introduced for planting. Therefore, risk communication may
+be particularly important in relation to plants as pests.
+Risk communication may include for example:
+-     consultation with importers, research institutes and other governmental and non-governmental
+      organizations (e.g. environmental protection agencies, parks departments, nurseries, landscapers)
+      to exchange information on plants as potential pests
+-     publication of lists of plants as quarantine pests
+-     labelling of plants in commerce (e.g. explaining the pest risk the plants may pose and under which
+      conditions the pest risk may occur).
+
+
+
+
+ISPM 11-36                                                     International Plant Protection Convention
+ This page is intentionally left blank
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+cultivated and wild plants by preventing the introduction and
+spread of pests. International travel and trade are greater than
+ever before. As people and commodities move around the
+world, organisms that present risks to plants travel with them.
+
+Organization
+RR There are over 180 contracting parties to the IPPC.
+
+RR Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+RR Nine regional plant protection organizations (RPPOs) work
+
+   to facilitate the implementation of the IPPC in countries.
+RR IPPC liaises with relevant international organizations to
+
+   help build regional and national capacities.
+RR The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+Food and Agriculture Organization of the United Nations
+IPPC Secretariat
+Viale delle Terme di Caracalla, 00153 Rome, Italy
+Tel: +39 06 5705 4812
+Email: ippc@fao.org | Web: www.ippc.int
+

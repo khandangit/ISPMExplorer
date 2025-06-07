@@ -1,0 +1,1404 @@
+                                                                                                                   ISPM 12
+INTERNATIONAL STANDARD FOR PHYTOSANITARY MEASURES 12
+
+
+
+
+                                                                                                                    ENG
+
+
+
+
+                                                       Phytosanitary certificates
+
+
+
+
+                                                                              Produced by the Secretariat of the
+                                                               International Plant Protection Convention (IPPC)
+ This page is intentionally left blank
+              INTERNATIONAL STANDARDS FOR
+                 PHYTOSANITARY MEASURES
+
+
+
+
+        ISPM 12
+
+Phytosanitary certificates
+
+
+
+
+                           Produced by the Secretariat of the
+                    International Plant Protection Convention
+                             Adopted 2022; published 2022
+
+
+                                                © FAO 2022
+ Required citation:
+IPPC Secretariat. 2022. Phytosanitary certificates. International Standard for Phytosanitary Measures No. 12. Rome. FAO
+on behalf of the Secretariat of the International Plant Protection Convention.
+
+
+
+
+The designations employed and the presentation of material in this information product do not imply the expression of any
+opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) concerning the legal
+or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers
+or boundaries. The mention of specific companies or products of manufacturers, whether or not these have been patented,
+does not imply that these have been endorsed or recommended by FAO in preference to others of a similar nature that
+are not mentioned.
+
+The views expressed in this information product are those of the author(s) and do not necessarily reflect the views or
+policies of FAO.
+
+© FAO, 2022
+
+
+
+
+Some rights reserved. This work is made available under the Creative Commons Attribution-NonCommercial-ShareAlike
+3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/icenses/by-nc-sa/3.0/igo/legalcode).
+
+Under the terms of this licence, this work may be copied, redistributed and adapted for non-commercial purposes, provided
+that the work is appropriately cited. In any use of this work, there should be no suggestion that FAO endorses any specific
+organization, products or services. The use of the FAO logo is not permitted. If the work is adapted, then it must be
+licensed under the same or equivalent Creative Commons licence. If a translation of this work is created, it must include
+the following disclaimer along with the required citation: “This translation was not created by the Food and Agriculture
+Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The
+original English edition shall be the authoritative edition.”
+
+Disputes arising under the licence that cannot be settled amicably will be resolved by mediation and arbitration as
+described in Article 8 of the licence except as otherwise provided herein. The applicable mediation rules will be the
+mediation rules of the World Intellectual Property Organization www.wipo.int/amc/en/mediation/rules and any arbitration
+will be conducted in accordance with the Arbitration Rules of the United Nations Commission on International Trade Law
+(UNCITRAL).
+
+Third-party materials. Users wishing to reuse material from this work that is attributed to a third party, such as tables,
+figures or images, are responsible for determining whether permission is needed for that reuse and for obtaining
+permission from the copyright holder. The risk of claims resulting from infringement of any third-party-owned component
+in the work rests solely with the user.
+
+Sales, rights and licensing. FAO information products are available on the FAO website (www.fao.org/publications) and
+can be purchased through publications-sales@fao.org. Requests for commercial use should be submitted via:
+www.fao.org/contact-us/licence-request. Queries regarding rights and licensing should be submitted to:
+copyright@fao.org.
+
+When this ISPM is reproduced, it should be mentioned that current adopted versions of ISPMs are available for download
+on www.ippc.int.
+
+For official reference, policy-making or dispute avoidance and settlement purposes, the only ISPMs that may be referred
+to are those published under www.ippc.int/en/core-activities/standards-setting/ispms/#614.
+ Publication history
+This is not an official part of the standard
+1996-05 CEPM-3 added the topic Phytosanitary certificates           adoption, as following Electronic phytosanitary
+   (1996-003).                                                      certificatesion, information on standard XML schemas,
+1996-08 Expert working group (EWG) developed draft text.            and exchange mechanisms (2014). The title now
+                                                                    accurately reflects the Appendix 1 as adopted by CPM.
+1997-10 CEPM-4 postponed the discussion.
+                                                                 ISPM 12. Appendix 1. 2014. Electronic phytosanitary
+1998-05 CEPM-5 discussed draft text.                                certificates, information on standard XML schemas, and
+1999-05 CEPM-6 revised draft text and approved for                  exchange mechanisms (2014). Rome, IPPC, FAO.
+   consultation.
+1999-06 Consultation.                                            2015-03 CPM-10 noted ink amendments in relation to
+                                                                    “phytosanitary status”.
+2000-11 Interim Standards Committee (ISC-2) revised draft
+   for adoption.                                                 2015-04 IPPC Secretariat incorporated ink amendments
+                                                                    and reformatted standards following revoking of
+2001-04 ICPM-3 adopted standard.                                    standards procedure from CPM-10 (2015). The
+ISPM 12. 2001. Guidelines for phytosanitary certificates.           Secretariat also corrected the Appendix 1 title from
+   Rome, IPPC, FAO.                                                 “schemes” to “schema”.
+                                                                 2015-09 IPPC Secretariat incorporated minor editorial
+2006-04 CPM-1 added topic Revision of ISPM 12 (2006-                changes.
+   035).
+                                                                 2017-10 The CPM Bureau agreed to, in exceptional
+2006-11    Standards     Committee      (SC)   approved             circumstances, ink amendments to align with the
+   Specification 38 (Revision of ISPM 7 and ISPM 12).               ePhyto pilot and requested the IPPC Secretariat to
+2008-02 EWG revised draft.                                          apply immediately.
+2009-05 SC revised draft and approved for consultation.
+                                                                 2016-04 CPM 11 added topic Focused revision of ISPM 12
+2009-06 Consultation.                                               (Phytosanitary certificates) in relation to re-export
+2010-02 Steward revised draft based on consultation                 (2015-011).
+   comments.                                                     2018-02 SC approved Specification 67.
+2010-05 SC-7 revised draft.                                      2019-12 EWG drafted the standard.
+2010-11 SC approved draft to be submitted for adoption,          2020-04 SC revised via Online Comment System (OCS) (to
+   revision to Appendix 1 unfinished.                               replace cancelled 2020-05 SC meeting) and approved
+2011-03 CPM-6 adopted revised ISPM 12.                              for      first    consultation      via      e-decision
+ISPM 12. 2011. Phytosanitary certificates. Rome, IPPC,              (2020_eSC_May_18), also agreeing to include some
+   FAO.                                                             ink amendments beyond the scope of the focused
+                                                                    revision of ISPM 12 in relation to re-export, to correct
+2011-06 Open-ended         working     group   on   electronic      the terminology and improve consistency within the
+   certification.                                                   standard.
+2012-02 Steward and IPPC steering committee on ePhyto            2020-07 First consultation.
+   developed drafted text.                                       2021-05 SC-7 revised          and   approved   for   second
+2012-04 SC revised and approved draft for consultation.             consultation.
+2012-06 Consultation.                                            2021-07 Second consultation.
+2012-11 Steward revised draft based on consultation              2021-10 SC revised via OCS.
+   comments.                                                     2021-11 SC revised and recommended for adoption by
+2013-05 SC-7 revised draft.                                         CPM.
+2013-06 Substantial concerns commenting period.                  2022-04 CPM-16 adopted the revised standard.
+2013-10 Steward revised draft based on substantial               ISPM 12. 2022. Phytosanitary certificates. Rome, IPPC
+   concerns comments.                                               Secretariat, FAO.
+2013-11 SC approved draft to be submitted for adoption.
+2014-04 CPM-9 adopted revised Appendix 1 to ISPM 12.             Publication history last updated: 2022-04
+2014-09 Secretariat corrected the title in English of
+   Appendix 1, which had been erroneously modified after
+ ISPM 12                                                                                                                    Phytosanitary certificates
+
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................6
+
+INTRODUCTION ....................................................................................................................................6
+Scope ........................................................................................................................................................6
+References ................................................................................................................................................6
+Definitions ................................................................................................................................................6
+Outline of requirements ............................................................................................................................6
+
+BACKGROUND ......................................................................................................................................7
+
+REQUIREMENTS FOR PHYTOSANITARY CERTIFICATION .........................................................8
+1.     Phytosanitary certificates ..................................................................................................................8
+       1.1      Purpose of phytosanitary certificates ................................................................................8
+       1.2      Types and forms of phytosanitary certificates ..................................................................8
+       1.3      Attachments to phytosanitary certificates .........................................................................9
+       1.4      Electronic phytosanitary certificates .................................................................................9
+       1.5      Mode of transmission ........................................................................................................9
+       1.6      Duration of validity ...........................................................................................................9
+2.     Actions taken with issued phytosanitary certificates ......................................................................10
+       2.1       Certified copies of phytosanitary certificates ..................................................................10
+       2.2       Replacement of phytosanitary certificates ......................................................................10
+       2.3       Alterations to phytosanitary certificates ..........................................................................10
+3.     Considerations for importing countries and NPPOs issuing phytosanitary certificates .................10
+       3.1      Unacceptable phytosanitary certificates ..........................................................................11
+       3.1.1    Invalid phytosanitary certificates ....................................................................................11
+       3.1.2    Fraudulent phytosanitary certificates ..............................................................................11
+       3.2      Phytosanitary import requirements for the preparation and issuance of phytosanitary
+                certificates .......................................................................................................................12
+4.     Specific considerations for the preparation and issuance of phytosanitary certificates ..................12
+5.     Guidelines and requirements for completing sections of a phytosanitary certificate for export ....13
+6.     Considerations for re-export situations ...........................................................................................18
+       6.1      Considerations for issuing a phytosanitary certificate for re-export ...............................18
+       6.1.1    Examination of the phytosanitary import requirements of the country of destination ....18
+       6.1.2    Repacking, reloading, storing, splitting or combining consignments .............................18
+       6.1.3    General considerations ....................................................................................................19
+       6.2      Considerations for issuing a phytosanitary certificate for export in certain re-export cases
+                .........................................................................................................................................19
+       6.3      Other considerations for re-export situations ..................................................................19
+7.     Considerations for transit................................................................................................................20
+ANNEX 1: Model phytosanitary certificate for export ..........................................................................21
+ANNEX 2: Model phytosanitary certificate for re-export......................................................................22
+
+
+ISPM 12-4                                                                                       International Plant Protection Convention
+ Phytosanitary certificates                                                                                                                     ISPM 12
+
+
+
+APPENDIX 1: Electronic phytosanitary certificates, information on standard XML schemas and
+   exchange mechanisms (2014) .........................................................................................................23
+Introduction ............................................................................................................................................23
+1.     XML message structure ..................................................................................................................23
+2.     XML schema contents ....................................................................................................................23
+       2.1    Country names ................................................................................................................24
+       2.2    Scientific names of plants and pests ................................................................................24
+       2.3    Description of consignment ............................................................................................24
+       2.4    Treatments .......................................................................................................................24
+       2.5    Additional declarations ...................................................................................................24
+       2.6    Name of authorized officer .............................................................................................24
+3.     Secure data exchange mechanisms .................................................................................................24
+4.     Electronic phytosanitary certificate for re-export ...........................................................................25
+       4.1      Electronic phytosanitary certificate for re-export with original phytosanitary certificate
+                for export in electronic form ...........................................................................................25
+       4.2      Electronic phytosanitary certificate for re-export with original phytosanitary certificate in
+                paper form .......................................................................................................................25
+       4.3      Paper phytosanitary certificate for re-export with original phytosanitary certificate in
+                electronic form ................................................................................................................25
+5.     Management of electronic phytosanitary certificates issued by NPPOs ........................................25
+       5.1    Retrieval issues................................................................................................................25
+       5.2    Alteration and replacement .............................................................................................26
+       5.3    Cancelled dispatch ..........................................................................................................26
+       5.4    Certified copy ..................................................................................................................26
+6.     Declared name and address of consignee .......................................................................................26
+APPENDIX 2: Recommended wording for additional declarations ......................................................27
+
+
+
+
+International Plant Protection Convention                                                                                                   ISPM 12-5
+ ISPM 12                                                                                    Phytosanitary certificates
+
+
+
+Adoption
+This standard was first adopted by the Third Session of the Interim Commission on Phytosanitary
+Measures in April 2001 as Guidelines for phytosanitary certificates. The first revision of the standard
+was adopted by the Sixth Session of the Commission on Phytosanitary Measures in March 2011. The
+revised Appendix 1 was adopted by the Ninth Session of the Commission on Phytosanitary Measures in
+April 2014. A focused revision of ISPM 12 in relation to re-export was adopted by the Sixteenth Session
+of the Commission on Phytosanitary Measures in April 2022 as the present standard.
+
+INTRODUCTION
+
+Scope
+This standard provides the requirements and guidelines for the preparation and issuance of phytosanitary
+certificates (phytosanitary certificates for export and phytosanitary certificates for re-export).1
+Specific guidance on requirements and components of a phytosanitary certification system to be
+established by national plant protection organizations (NPPOs) is provided in ISPM 7 (Phytosanitary
+certification system).
+
+References
+The present standard refers to International Standards for Phytosanitary Measures (ISPMs). ISPMs are
+available on the International Phytosanitary Portal (IPP) at https://www.ippc.int/core-
+activities/standards-setting/ispms.
+IPPC. International Plant Protection Convention. Rome, IPPC, FAO.
+
+Definitions
+Definitions of phytosanitary terms used in this standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+Outline of requirements
+Phytosanitary certification is used to attest that consignments meet phytosanitary import requirements
+and is undertaken by an NPPO. A phytosanitary certificate for export or for re-export can be issued only
+by a public officer who is technically qualified and duly authorized by an NPPO.
+A phytosanitary certificate for export is usually issued by the NPPO of the country where the plants,
+plant products or other regulated articles were grown or processed. A phytosanitary certificate for re-
+export is issued by the NPPO of the country of re-export (a country where the commodity has not been
+grown or processed to change its nature) when the consignment has not been subjected to the risk of
+infestation or contamination by pests regulated by the country of destination and meets the phytosanitary
+import requirements of that country, and the original phytosanitary certificate or a certified copy of the
+phytosanitary certificate (hereafter referred to as a “certified copy”) is available.
+NPPOs shall use the model phytosanitary certificates of the IPPC.
+Where the required phytosanitary information exceeds the space available on the phytosanitary
+certificates, an attachment may be added with this information.
+
+
+
+1
+  The IPPC refers to a “phytosanitary certificate” for export purposes and a “phytosanitary certificate for re-export”
+for re-export purposes. In order to keep the use of these terms simple and clear in this standard “phytosanitary
+certificate for export” and “phytosanitary certificate for re-export” are used. The term “phytosanitary certificates”
+(plural) is used to cover both types of certificate.
+
+ISPM 12-6                                                              International Plant Protection Convention
+ Phytosanitary certificates                                                                                               ISPM 12
+
+
+
+Phytosanitary certificates should accompany the consignment or may be transmitted by mail or other
+means, or where agreed between countries, NPPOs may use electronic phytosanitary certificates, using
+standardized language, structure of the message and exchange protocols.
+Phytosanitary certificates may have a limited duration of validity. The NPPO of the exporting country
+or the importing country may make relevant stipulations.
+Specific procedures should be followed in the case of replacement phytosanitary certificates, certified
+copies of phytosanitary certificates, and alterations to phytosanitary certificates. Invalid or fraudulent
+phytosanitary certificates should not be accepted.
+Specific consideration is given to situations of re-export, particularly when the country of re-export does
+not require a phytosanitary certificate for importing the commodity but the country of destination
+requires that specific phytosanitary measures have been applied in the country of origin.2
+
+BACKGROUND
+Phytosanitary certification is used to attest that consignments meet phytosanitary import requirements
+and is applied to most plants, plant products and other regulated articles that are traded internationally.
+Phytosanitary certification contributes to the protection of plants, including cultivated and
+uncultivated/unmanaged plants and wild flora (including aquatic plants), habitats and ecosystems in the
+importing countries. Phytosanitary certification also facilitates international trade in plants, plant
+products and other regulated articles by providing an internationally agreed document and related
+procedures.
+Article V.2(a) of the IPPC stipulates how phytosanitary certificates should be issued:
+       Inspection and other related activities leading to issuance of phytosanitary certificates shall be carried out
+       only by or under the authority of the official national plant protection organization. The issuance of
+       phytosanitary certificates shall be carried out by public officers who are technically qualified and duly
+       authorized by the official national plant protection organization to act on its behalf and under its control
+       with such knowledge and information available to those officers that the authorities of importing
+       contracting parties may accept the phytosanitary certificates with confidence as dependable documents.
+
+       [See also ISPM 7]
+
+This was clarified at the FAO Conference in 1997 during adoption of the 1997 revision of the IPPC: “It
+is understood that … ‘public officers who are technically qualified and duly authorized by the national
+plant protection organization’ include officers from the national plant protection organization”. “Public”
+in this context means employed by a level of government, not by a private company. “Include officers
+from the national plant protection organization” means that the officer may be directly employed by the
+NPPO, but does not have to be directly employed by the NPPO.
+The IPPC also states requirements for the use of model phytosanitary certificates (in Article V.3):
+       Each contracting party undertakes not to require consignments of plants or plant products or other regulated
+       articles imported into its territories to be accompanied by phytosanitary certificates inconsistent with the
+       models set out in the Annex to this Convention. Any requirements for additional declarations shall be
+       limited to those technically justified.
+
+
+
+
+2
+  In this standard, except where stated otherwise, the requirements set out for issuing a phytosanitary certificate
+for re-export consider only a country of origin (issuing a phytosanitary certificate for export), a country of re-
+export (issuing a phytosanitary certificate for re-export) and a country of destination.
+
+International Plant Protection Convention                                                                               ISPM 12-7
+ ISPM 12                                                                             Phytosanitary certificates
+
+
+
+REQUIREMENTS FOR PHYTOSANITARY CERTIFICATION
+
+1.       Phytosanitary certificates
+1.1      Purpose of phytosanitary certificates
+Phytosanitary certificates are issued to attest that plants, plant products or other regulated articles meet
+the phytosanitary import requirements of importing countries and are in conformity with the certifying
+statement. Phytosanitary certificates may also be issued to support re-export certification to other
+countries. Phytosanitary certificates should be issued only for these purposes.
+
+1.2      Types and forms of phytosanitary certificates
+In the Annex to the IPPC, there are two types of certificates: a “phytosanitary certificate” (see Annex 1
+of this standard) for export purposes and a “phytosanitary certificate for re-export” (see Annex 2 of this
+standard) for re-export purposes.3
+A phytosanitary certificate for export is usually issued by the NPPO of the country of origin. A
+phytosanitary certificate for export describes the consignment and, through a certifying statement,
+additional declarations and treatment records, declares that the consignment meets phytosanitary import
+requirements. A phytosanitary certificate for export may also be issued in certain re-export situations
+for plants, plant products and other regulated articles originating in countries other than the country of
+re-export if compliance with the phytosanitary import requirements can be attested by the country of re-
+export (e.g. by inspection).
+A phytosanitary certificate for re-export may be issued by the NPPO of the re-exporting country in the
+case where the commodity in the consignment was not grown or processed to change its nature in that
+country and only where an original phytosanitary certificate for export or a certified copy is available.
+The phytosanitary certificate for re-export provides the link to the phytosanitary certificate issued in the
+country of export and takes into account any changes in the pest risk associated with the consignment
+that may have occurred in the country of re-export.
+Procedures for managing the issuance of the two types of phytosanitary certificates and the systems that
+ensure their legitimacy are the same.
+According to Article V.2(b) of the IPPC, the IPPC model phytosanitary certificates provide standardized
+wording that shall be followed for the preparation of phytosanitary certificates. The standardization of
+the phytosanitary certificates is necessary to ensure consistency, that they are easily recognized, and that
+essential information is reported. NPPOs are encouraged to use a single format for their phytosanitary
+certificates for export and a single format for phytosanitary certificates for re-export and to place a
+sample of the phytosanitary certificates’ format on the International Phytosanitary Portal (IPP)
+(https://www.ippc.int) in a manner that prevents falsification.
+Phytosanitary certificates can be in paper form or, where it is accepted by the NPPO of the importing
+country, in electronic form.
+Electronic phytosanitary certificates are the electronic equivalent of the wording and data of
+phytosanitary certificates in paper form, including the certifying statement, transmitted by authenticated
+and secure electronic means from the NPPO of the exporting country to the NPPO of the importing
+country. Electronic phytosanitary certification does not constitute text processing or other electronic
+generation of paper forms, which are then distributed non-electronically. Nor is it the transfer of an
+electronic version of the paper certificate (e.g. through e-mail).
+
+
+
+
+3
+    See Scope, footnote 1, concerning terminology.
+
+ISPM 12-8                                                        International Plant Protection Convention
+ Phytosanitary certificates                                                                      ISPM 12
+
+
+
+NPPOs should apply safeguards against falsification of paper phytosanitary certificates, for example
+special papers, watermarks or special printing. When electronic certification is used, appropriate
+safeguards should also be applied.
+Phytosanitary certificates are not valid until all requirements have been met and they are dated, signed
+and stamped, sealed, marked or completed electronically by the NPPO of the exporting or re-exporting
+country.
+
+1.3    Attachments to phytosanitary certificates
+If the information required to complete phytosanitary certificates exceeds the available space on the
+form, an attachment may be added. The information in the attachment should only include what is
+required on the phytosanitary certificates. All pages of attachments should bear the number of the
+phytosanitary certificates and should be dated, signed and stamped in the same manner as required for
+the phytosanitary certificates. Phytosanitary certificates should refer to any attachments in the
+appropriate section. If an attachment has more than one page, the pages should be numbered and the
+number of pages indicated on the phytosanitary certificates. Other documents such as the Convention
+on International Trade in Endangered Species (CITES) certificates may accompany the consignment
+along with the phytosanitary certificate, but such documents should not be considered attachments to
+the phytosanitary certificates nor should they be referenced on the phytosanitary certificate.
+
+1.4    Electronic phytosanitary certificates
+Electronic phytosanitary certificates may be issued where accepted by the NPPO of the importing
+country.
+When using electronic phytosanitary certificates NPPOs should develop systems that generate
+certificates using standardized language, message structure and exchange protocols. Appendix 1
+provides guidance on standardized language, message structure and exchange protocols.
+Electronic phytosanitary certificates may be used subject to the following provisions:
+-     The mode of issue, transmission and level of security is acceptable to the NPPO of the importing
+      country and if relevant to NPPOs of other countries involved.
+-     The information provided is consistent with the IPPC model phytosanitary certificates.
+-     The purpose of phytosanitary certification under the IPPC is realized.
+-     The identity of the issuing NPPO can be adequately established and authenticated.
+
+1.5    Mode of transmission
+Phytosanitary certificates should accompany the consignments for which they have been issued.
+Phytosanitary certificates may also be transmitted separately by mail or other means if accepted by the
+NPPO of the importing country. In the case of electronic phytosanitary certificates, they should be
+directly available to the relevant NPPO officials. In all cases, phytosanitary certificates should be
+available to the NPPO of the importing country upon the consignment’s arrival.
+
+1.6    Duration of validity
+The phytosanitary security of consignments may be lost after issuance of phytosanitary certificates and
+therefore the NPPO of the exporting or re-exporting country may decide to restrict the duration of the
+validity of phytosanitary certificates after issuance and prior to export.
+The NPPO of the exporting or re-exporting country may assess the situation and define an appropriate
+period of validity before export occurs, taking into account the likelihood of the consignment becoming
+infested or contaminated prior to export or re-export. Such likelihood may be affected by packaging
+(sealed carton or loose packing) and storage environment (open air or enclosed), type of commodity and
+conveyance, time of year and type of pests. A phytosanitary certificate for export for which the period
+
+
+
+International Plant Protection Convention                                                     ISPM 12-9
+ ISPM 12                                                                            Phytosanitary certificates
+
+
+
+of validity has expired may still be used for issuing a phytosanitary certificate for re-export, provided
+that the consignment meets all the requirements set out in section 6.1.
+NPPOs of importing countries may also stipulate as part of the phytosanitary import requirements the
+duration for which phytosanitary certificates remain valid.
+
+2.    Actions taken with issued phytosanitary certificates
+2.1   Certified copies of phytosanitary certificates
+A certified copy is a copy of the original of the phytosanitary certificate for export or re-export that is
+validated (stamped, dated and countersigned) by the NPPO, indicating it is a true representative copy of
+the original phytosanitary certificate. It may be issued upon request by the exporter. It does not replace
+the original. Such copies are used primarily for re-export purposes.
+
+2.2   Replacement of phytosanitary certificates
+Phytosanitary certificates may be replaced at the request of an exporter for a consignment for which a
+phytosanitary certificate has already been issued. This should be done only in exceptional circumstances
+(e.g. damage to the phytosanitary certificates issued; change of addresses, country of destination or
+points of entry; missing or incorrect information) and should be carried out by the NPPO of the country
+that issued the phytosanitary certificates being replaced.
+In all cases, the issuing NPPO should request exporters to return the original phytosanitary certificates
+and any certified copies that have already been issued for the consignments.
+Other requirements concerning replacement of phytosanitary certificates include:
+-     Phytosanitary certificates returned for replacement should be retained by the NPPO of the issuing
+      country and be cancelled. The new phytosanitary certificates should not have the same number as
+      the certificate being replaced. The number of the original certificate should not be re-used.
+-     When previously issued phytosanitary certificates cannot be returned and have left the care and
+      control of the NPPO (for example because they are lost or in another country), the NPPO may
+      decide that it is appropriate to issue a replacement certificate. The new phytosanitary certificate
+      should not have the same number as the phytosanitary certificate being replaced but should refer
+      to it by including an additional declaration stating that “This certificate replaces and cancels
+      phytosanitary certificate no. [insert number] issued on [insert date]”.
+
+2.3   Alterations to phytosanitary certificates
+Alterations should be avoided as they may create uncertainty about the validity of phytosanitary
+certificates. However, if alterations are necessary, they should be made only on the original
+phytosanitary certificates by the issuing NPPO. Alterations should be minimal and should be stamped,
+dated and countersigned by the issuing NPPO.
+
+3.    Considerations for importing countries and NPPOs issuing phytosanitary
+      certificates
+NPPOs of importing countries may require phytosanitary certificates for regulated articles only. These
+are usually plants and plant products but may include articles such as empty containers, vehicles and
+organisms other than plants where phytosanitary measures are technically justified.
+NPPOs of the importing countries should not require phytosanitary certificates for plant products that
+have been processed to the point where they have no potential for introducing regulated pests, or for
+other articles that do not require phytosanitary measures (see IPPC Article VI.2 and ISPM 32
+(Categorization of commodities according to their pest risk)).
+NPPOs should consult bilaterally when there are differences between their views regarding the technical
+justification for requiring phytosanitary certificates. Requirements for phytosanitary certificates should
+
+ISPM 12-10                                                       International Plant Protection Convention
+ Phytosanitary certificates                                                                       ISPM 12
+
+
+
+respect the principles of transparency, non-discrimination, necessity and technical justification (see
+ISPM 1 (Phytosanitary principles for the protection of plants and the application of phytosanitary
+measures in international trade)).
+
+3.1    Unacceptable phytosanitary certificates
+NPPOs of importing countries should not accept phytosanitary certificates that they determine to be
+invalid or fraudulent. The NPPO of the declared country of issuance should be notified as soon as
+possible regarding unacceptable or suspect phytosanitary certificates as described in ISPM 13
+(Guidelines for the notification of non-compliance and emergency action). Where the NPPO of the
+importing country suspects that phytosanitary certificates may be unacceptable, it may require the
+prompt cooperation of the NPPO of the exporting or re-exporting country in determining the validity or
+non-validity of the phytosanitary certificates. The NPPO of the exporting or re-exporting country should
+take corrective action where necessary and review systems for the issuance of phytosanitary certificates
+so as to ensure that a high level of confidence is associated with its phytosanitary certificates.
+
+3.1.1 Invalid phytosanitary certificates
+Phytosanitary certificates are invalid if, for example, they have or they are:
+-     incomplete or incorrect information
+-     false or misleading information
+-     conflicting or inconsistent information
+-     wording or information that is inconsistent with the model phytosanitary certificates
+-     information added by unauthorized persons
+-     unauthorized (not stamped, dated or countersigned) alterations or deletions
+-     an expired period of validity unless used as a certified copy for re-export
+-     illegible (e.g. badly written, damaged)
+-     non-certified copies
+-     transmitted through a mode of transfer unauthorized by the NPPO (for electronic phytosanitary
+      certificates)
+-     phytosanitary certification of plants, plant products and other regulated articles prohibited for
+      import.
+These are also reasons for rejecting phytosanitary certificates or for requesting additional information.
+
+3.1.2 Fraudulent phytosanitary certificates
+Fraudulent phytosanitary certificates typically include those:
+-    issued on non-authorized forms
+-    not dated, stamped, marked or sealed, and signed by the issuing NPPO
+-    issued by persons who are not authorized public officers.
+Fraudulent phytosanitary certificates are invalid. The NPPO issuing phytosanitary certificates should
+have safeguards against their falsification. In the case of electronic phytosanitary certification,
+safeguards against falsification are an element of the electronic certification mechanism. The NPPO of
+the exporting country should take corrective action when notified of a non-compliance.
+
+
+
+
+International Plant Protection Convention                                                     ISPM 12-11
+ ISPM 12                                                                             Phytosanitary certificates
+
+
+
+3.2   Phytosanitary import requirements for the preparation and issuance of
+      phytosanitary certificates
+Importing countries frequently specify phytosanitary import requirements that should be observed with
+respect to the preparation and issuance of phytosanitary certificates. Examples of what an importing
+country may require include:
+-     that phytosanitary certificates be completed in a specific language or one of its listed languages
+      (however, countries are encouraged to accept one of the official languages of FAO, preferably
+      English)
+-     the period of time allowed for issuance after inspection or treatment and the period of time
+      between the issuance of phytosanitary certificates and the dispatch of the consignment from the
+      exporting country
+-     that phytosanitary certificates be completed by typing or if handwritten, be in legible capital letters
+      (where the language allows it)
+-     the units of measurement to be used in the description of the consignment and for other declared
+      quantities.
+
+4.    Specific considerations for the preparation and issuance of phytosanitary
+      certificates
+Phytosanitary certificates shall only be issued by public officers who are technically qualified and duly
+authorized by the NPPO.
+Phytosanitary certificates should only be issued if the NPPO is confident that the phytosanitary import
+requirements are met.
+Phytosanitary certificates should contain the necessary information to clearly identify the consignment
+to which each relates.
+Phytosanitary certificates should only contain information related to phytosanitary matters. They should
+not include statements related to non-phytosanitary requirements such as animal or human health
+matters, pesticide residues, radioactivity, commercial information (e.g. letters of credit), or quality.
+To facilitate cross-referencing between phytosanitary certificates and documents not related to
+phytosanitary certification (e.g. letters of credit, bills of lading, CITES certificates), notes may
+accompany phytosanitary certificates that associate them with the identification code, symbol or
+numbers of the relevant documents that require cross-referencing. Such notes should be used only when
+necessary and should not be considered part of phytosanitary certificates.
+All sections of the phytosanitary certificates should be completed. Where no entry is made, the term
+“None” should be entered or the line should be blocked out or a line drawn through the section to prevent
+unauthorized additions.
+For re-export of consignments, the NPPO of the country of re-export may need specific information
+from the country of origin in order to ensure compliance with the phytosanitary import requirements of
+the country of destination. However, this may not be available on the phytosanitary certificate for export
+(e.g. specific information for an additional declaration is missing on the phytosanitary certificate for
+export, or a phytosanitary certificate for export itself was not required at import by the country of re-
+export). In such cases, if the specific phytosanitary import requirements of the country of destination
+cannot be met within the country of re-export, a phytosanitary certificate for re-export should not be
+issued. However, the NPPO of the country of origin may support any subsequent re-export process as
+follows:
+-      Where a phytosanitary certificate for export is required by the country of re-export, the NPPO of
+       the country of origin may, upon request by the NPPO of the re-exporting country or by exporters,
+       provide additional phytosanitary information (e.g. the results of a growing season inspection) to
+       that required by the country of re-export. Such information may be necessary for the issuance of
+
+ISPM 12-12                                                        International Plant Protection Convention
+ Phytosanitary certificates                                                                                            ISPM 12
+
+
+
+       phytosanitary certificates for re-export. This information should be placed in the additional
+       declaration section, under the subheading “Additional official phytosanitary information” (see
+       section 5).
+-      Where a phytosanitary certificate for export is not required by the country of re-export, the NPPO
+       of the country of origin may nevertheless issue a phytosanitary certificate for export upon request
+       by exporters. This would be for consignments intended for re-export to other countries in order
+       to provide additional phytosanitary information necessary for the issuance of phytosanitary
+       certificates for re-export.
+In both cases above, the country of re-export should appropriately address the considerations for re-
+export situations set out in section 6.
+Phytosanitary certificates should be issued before dispatch; however, they may also be issued after
+dispatch of a consignment provided that:
+-     the phytosanitary security of the consignment has been assured, and
+-     the NPPO of the exporting country has undertaken sampling, inspection and treatments necessary
+      to satisfy phytosanitary import requirements before dispatch of the consignment.
+If these criteria are not met, phytosanitary certificates should not be issued.
+In the case where phytosanitary certificates are issued after dispatch, the inspection date should be
+indicated in the additional declaration section if required by the importing country.
+
+5.     Guidelines and requirements for completing sections of a phytosanitary certificate
+       for export
+Information on completing the sections of the phytosanitary certificate for export is provided as follows:
+[Headings in bold refer to the sections of the model certificate, see model in Annex 1]
+No. __________
+Each phytosanitary certificate for export should have a unique identification number, which allows for
+trace-back of consignments, facilitates audits and serves for record-keeping.
+Plant Protection Organization of ____________
+The name of the country issuing the phytosanitary certificate for export should be listed here along with
+the name of the NPPO.
+TO: Plant Protection Organization(s) of ____________
+The name of the importing country should be listed here. Where a transit country and the importing
+country have specific phytosanitary requirements that include the need for a phytosanitary certificate
+for export, the names of both countries should be listed and the transit country should be indicated. Care
+should be taken to ensure that the phytosanitary import or transit requirements of each country are met
+and appropriately indicated. In those cases where the consignment is imported and then re-exported to
+another country, the names of both countries (i.e. the country of re-export and the country of destination)
+may be inserted by the NPPO of the exporting country, provided that the phytosanitary import
+requirements of both countries have been met.
+                       ------------------------------------------------------------------------------------------
+
+                               I. Description of Consignment
+Name and address of exporter: ____________
+This information identifies the source of the consignment to facilitate its trace-back and audit by the
+NPPO of the exporting country. The address of the exporter should be located in the exporting country.
+The name and address of an exporter’s local agent or shipper should be used where an international
+company with a foreign address is the exporter.
+
+
+International Plant Protection Convention                                                                           ISPM 12-13
+ ISPM 12                                                                             Phytosanitary certificates
+
+
+
+Declared name and address of consignee: ____________
+The name and address inserted here should be in sufficient detail to enable the NPPO of the importing
+country to confirm the identity of the consignee and, where necessary, to be able to conduct trace-back
+of non-compliant imports. Where the consignee is not known, “To order” may be used if the NPPO of
+the importing country permits the use of the term and accepts any associated risks. The importing
+country may require that the address of a consignee be a location in the importing country.
+Number and description of packages: ____________
+The number of packages and their description should be included. Sufficient detail should be included
+in this section to enable the NPPO of the importing country to link the phytosanitary certificate for
+export with the corresponding consignment. In some cases (e.g. grain and bulk timber), shipping
+containers and/or railcars are considered the package and the number may be included (e.g. 10
+containers). In cases of bulk shipments, the term “in bulk” may be used.
+Distinguishing marks: ____________
+Distinguishing marks on packages (e.g. lot numbers, serial numbers or brand names) and conveyance
+identification numbers or names (e.g. container and railcar identification numbers or vessel name in the
+case of bulk shipments) should be included if necessary for the identification of the consignment.
+Place of origin: ____________
+The place of origin refers to places where the commodity was grown or produced, and where it may
+therefore have been infested or contaminated by pests regulated by the country of destination. In all
+cases, the name of the country or countries of origin should be stated. Countries may also require that
+the name or code of the pest free area, pest free place of production or pest free production site be
+identified. Further details on the pest free area, pest free place of production or pest free production site
+may be provided in the additional declaration section.
+If the commodity was moved from the place of origin to a new place where it was repacked or stored,
+and where it may therefore have been infested or contaminated by pests regulated by the country of
+destination, this new place should also be declared under the place of origin section. Similarly, if the
+commodity was moved from the place of origin to a new place where it was processed or treated, thereby
+removing possible infestation or contamination, this new place should also be declared under the place
+of origin section. In such cases, each country and place, where necessary, should be declared with the
+initial place of origin in brackets, for example declared as “name of country of export (name of country
+of origin)”.
+If plants were imported into or moved within a country and have subsequently been grown for a specific
+period of time (depending on the commodity concerned, but usually one growing season or more), these
+plants may be considered to have changed their country or place of origin, provided that the pest risk
+associated with them is affected only by that country or place of further growth.
+If different lots within a consignment originate in different places or countries, all countries and, where
+necessary, all places should be indicated. To assist with trace-back in such cases, the most relevant place
+for undertaking trace-back may be identified, for example the exporting company where records are
+stored.
+Declared means of conveyance: ____________
+This section refers to how the consignment is transported when leaving the certifying country. Terms
+such as “ocean vessel”, “boat”, “aircraft”, “road”, “truck”, “rail”, “mail” and “carried by hand” may be
+used. The ship’s name and voyage number or the aircraft’s flight number may be included if known.
+The means of conveyance is generally as declared by the exporter. Often this will be only the first means
+of conveyance used directly after issuance of the phytosanitary certificate for export. Consignments
+frequently move in such a way that the means of conveyance can change, for example a container that
+is transferred from a ship to a truck. If the distinguishing marks identify the consignment, it is sufficient
+to declare only the first means of conveyance. This is then not necessarily the means of conveyance used
+when arriving in the country of import.
+
+ISPM 12-14                                                        International Plant Protection Convention
+ Phytosanitary certificates                                                                                   ISPM 12
+
+
+
+Declared point of entry: ____________
+This should be the first point of arrival in the country of destination, or if not known, the country name.
+Where the consignment transits through another country this may need to be recorded if the country of
+transit has phytosanitary requirements for transiting consignments. The entry point of the country of
+transit, or if not known the country name, should be noted in brackets.
+The point of entry is declared by the exporter at the time of issuance of the phytosanitary certificate for
+export. This point of entry may change for various reasons, and entry into the country at a place other
+than the declared point of entry should not normally be considered as non-compliance. However, when
+the NPPO of the importing country prescribes specified points of entry in its phytosanitary import
+requirements, then one of the specific points of entry should be declared and the consignment should
+enter through that point.
+Name of produce and quantity declared: ____________
+This section should be sufficiently descriptive of the commodity and should include the name of the
+plant, plant product or other regulated article, unit and the quantity as accurately as possible to enable
+the NPPO of the importing country to verify the contents of the consignment. International codes may
+be added to facilitate identification (e.g. Customs codes) and internationally recognized units and terms
+should be used (e.g. metric system). Because different phytosanitary import requirements may apply to
+the different intended uses (e.g. consumption as compared with propagation) or degree of processing
+(e.g. fresh as compared with dried), the intended use or degree of processing should be specified. Entries
+should not refer to trade names, sizes or other commercial terms.
+Botanical name of plants: ____________
+The information inserted here should identify plants and plant products using accepted scientific names,
+at least to genus level but preferably to species level.
+It may not be feasible to provide botanical names for certain regulated articles and products of complex
+composition such as stock feeds. In these cases, the NPPOs of the importing and exporting countries
+may agree on a suitable common name descriptor, or the words “Not applicable” or “N/A” should be
+entered.
+Certifying statement
+           This is to certify that the plants, plant products or other regulated articles described herein
+           have been inspected and/or tested according to appropriate official procedures and are
+           considered to be free from the quarantine pests specified by the importing contracting party
+           and to conform with the current phytosanitary requirements of the importing contracting party,
+           including those for regulated non-quarantine pests.
+
+           They are deemed to be practically free from other pests.* [*Optional clause]
+
+In most instances specific phytosanitary import requirements exist or regulated pests are specified and
+the certifying statement on the phytosanitary certificate for export is used to certify conformity with
+these phytosanitary import requirements.
+In instances where phytosanitary import requirements are not specific, the NPPO of the exporting
+country may certify the general status of the consignment for any pests believed by it to be of
+phytosanitary concern.
+NPPOs of exporting countries may include the optional clause on their phytosanitary certificate for
+export. NPPOs of importing countries cannot request that the optional clause be added.
+“Appropriate official procedures” refers to procedures carried out by the NPPO or persons authorized
+by the NPPO for purposes of phytosanitary certification. Such procedures should be in conformity with
+ISPMs where appropriate. The procedures may be specified by the NPPO of the importing country
+taking into account any relevant ISPMs.
+
+
+
+International Plant Protection Convention                                                               ISPM 12-15
+ ISPM 12                                                                                                     Phytosanitary certificates
+
+
+
+“Considered to be free from quarantine pests” refers to freedom from pests in numbers or quantities that
+can be detected by the application of phytosanitary procedures. It should not be interpreted to mean
+absolute freedom in all cases but rather that quarantine pests are believed not to be present based on the
+procedures used for their detection or elimination. It should be recognized that phytosanitary procedures
+have inherent uncertainty and variability, and involve some probability that pests will not be detected or
+eliminated. This uncertainty and probability should be taken into account in the specification of
+appropriate procedures.
+In some cases where irradiation treatments have been applied, live stages of target pests may be present
+in the consignment. Providing the treatment has been applied in accordance with ISPM 18 (Guidelines
+for the use of irradiation as a phytosanitary measure) and the appropriate treatment has been applied to
+achieve the required response, the validity of this part of the certifying statement is not compromised
+because the detection of live stages of the target pest is not considered as non-compliance.
+“Phytosanitary requirements”, as provided by the importing country, are officially prescribed conditions
+to be met in order to prevent the introduction and/or spread of pests. Phytosanitary import requirements
+should be specified in advance by the NPPO of the importing country in legislation, regulations or
+elsewhere (e.g. import permits and bilateral and other arrangements).
+“Importing contracting party” refers to governments that have adhered to the IPPC.
+                      ------------------------------------------------------------------------------------------
+
+                                               II. Additional Declaration
+Additional declarations provide specific additional information on a consignment in relation to regulated
+pests and regulated articles. Additional declarations should be kept to a minimum and be concise.
+NPPOs of the importing countries should keep under review the need for additional declarations and
+they should not require additional declarations with the required wording similar to that already included
+in the certifying statement on the phytosanitary certificate for export. The text of additional declarations
+may be specified in phytosanitary regulations, import permits or bilateral agreements. Treatments should
+not be indicated in this section but in section III of the phytosanitary certificate for export.
+Additional declarations should be only those containing specific phytosanitary information required by
+the NPPO of the importing country or requested by the exporter for future phytosanitary certification
+purposes and they should not repeat information that is otherwise noted in the certifying statement or in
+the treatment section. In cases where phytosanitary import requirements allow for several alternative
+measures, the NPPO of the exporting country should specify in its additional declaration which option
+has been applied.
+Appendix 2 provides examples of text for different types of additional declarations that are often
+required by NPPOs of importing countries. When NPPOs consider it necessary to require or provide an
+additional declaration they are encouraged to use the standard wording as provided in Appendix 2.
+In the case where an import permit is required by the importing country, the import permit number may
+be referred to here to assist cross-referencing.
+Where a phytosanitary certificate for export is issued after dispatch of the consignment, and if required
+by the importing country, the date of inspection should be added to this section (see also applicable
+conditions in section 4).
+Where additional official phytosanitary information is included for future phytosanitary certification
+purposes, such as re-export (see section 4), such information should be presented in this section. This
+information should be clearly separated from the additional declaration required by the importing
+country and should follow the added subheading “Additional official phytosanitary information”.
+                     ------------------------------------------------------------------------------------------
+
+
+
+
+ISPM 12-16                                                                         International Plant Protection Convention
+ Phytosanitary certificates                                                                         ISPM 12
+
+
+
+                             III. Disinfestation and/or Disinfection Treatment
+Entries should be as follows:
+Date
+The date that the treatment was applied to the consignment. Months should be written in full so that the
+month, day and year are not confused.
+Treatment
+The type of treatment applied to the consignment (e.g. heat treatment, irradiation).
+Chemical (active ingredient)
+The active ingredient of the chemical applied in the treatment.
+Duration and temperature
+The duration of the treatment and temperature in the treatment.
+Concentration
+The concentration and dosage of the treatment applied.
+Additional information
+Any relevant additional information.
+Treatments indicated should only be those that are acceptable to the importing country and are
+performed or initiated (in the case of transit) in the exporting country under supervision or authority of
+the NPPO of the exporting country to meet the phytosanitary import requirements.
+For irradiation treatments, the provisions of ISPM 18 should be considered.
+                              ----------------------------------------------------------
+Stamp of organization
+The official seal, stamp or mark identifying the issuing NPPO should be included on the phytosanitary
+certificate for export. The NPPO of the exporting country should normally use a uniform stamp, seal or
+mark within a country. It should be added by the authorized public officer upon completion of the form
+or may be printed on the phytosanitary certificate for export. Care should be taken to ensure that the
+stamp, seal or mark does not obscure essential information.
+Name of authorized officer, date and signature
+The name of the authorized public officer should be printed, typed, stamped or handwritten in legible
+upper case (capital) letters (where the language allows it). The date should also be printed, typed,
+stamped or handwritten in legible upper case (capital) letters (where the language allows it). The names
+of months should be written in full so that the month, day and year are not confused.
+Although sections of the phytosanitary certificate for export may be completed in advance, the date
+stated should be the date of issuance. Upon request of the NPPO of the importing country, the NPPO of
+the exporting country should be able to verify the authenticity of signatures of authorized public officers.
+The phytosanitary certificate for export shall be signed only after it is duly completed.
+When electronic phytosanitary certificates are issued, the certification data should be authenticated by
+the issuing NPPO. This authentication process is equivalent to the signature of the authorized public
+officer and stamp, seal or mark. Authenticated electronic certification data is equivalent to the completed
+paper document of the phytosanitary certificate for export.
+Financial liability statement
+The inclusion of a statement of the financial liability of the NPPO on the phytosanitary certificate for
+export is optional and at the discretion of the NPPO of the exporting country.
+
+
+International Plant Protection Convention                                                       ISPM 12-17
+ ISPM 12                                                                                    Phytosanitary certificates
+
+
+
+6.     Considerations for re-export situations
+6.1    Considerations for issuing a phytosanitary certificate for re-export
+The phytosanitary certificate for re-export (see model in Annex 2) is the same as the phytosanitary
+certificate for export (see model in Annex 1) except for the text covering the certifying statement. In the
+certifying statement on the phytosanitary certificate for re-export, the NPPO of the country of re-export
+indicates, by inserting ticks in the appropriate boxes, whether the original phytosanitary certificate or a
+certified copy is attached to the phytosanitary certificate for re-export, whether the consignment has
+been repacked or not, whether the containers are original or new, and whether an additional inspection
+has been done.
+When a consignment is imported into a country and then re-exported to another, the NPPO of the country
+of re-export, upon request by exporters, may issue a phytosanitary certificate for re-export only if all of
+the following requirements are met:
+-      All the plants, plant products or other regulated articles of the consignment for re-export have
+       been imported.
+-      All the plants, plant products or other regulated articles of the consignment for re-export are
+       covered and accompanied by an original phytosanitary certificate (or phytosanitary certificates)
+       for export or a certified copy (or certified copies).
+-      The plants, plant products or other regulated articles of the consignment for re-export have not
+       been grown, or processed to change their nature,4 in the country of re-export.
+-      The consignment has not been infested or contaminated by pests regulated by the country of
+       destination.
+In addition to the above requirements, the NPPO should only issue a phytosanitary certificate for re-
+export if it is confident that the phytosanitary import requirements of the country of destination are met.
+
+6.1.1 Examination of the phytosanitary import requirements of the country of
+      destination
+Before issuing a phytosanitary certificate for re-export, the NPPO should first examine the phytosanitary
+import requirements of the country of destination and determine if they can be met.
+The country of re-export may not be able to meet some of the phytosanitary import requirements (e.g.
+growing season inspection, soil testing) of the country of destination. However, the country of re-export
+may still be able to issue a phytosanitary certificate for re-export if:
+-     information on compliance with such requirements has been declared on the phytosanitary
+      certificate for export by the country of origin; or
+-     an alternative phytosanitary action can be performed by the country of re-export (such as an
+      additional inspection, a test or a treatment) that is considered equivalent and in accordance with
+      the phytosanitary import requirements of the country of destination.
+
+6.1.2 Repacking, reloading, storing, splitting or combining consignments
+A phytosanitary certificate for re-export may still be issued if the consignment has been repacked,
+reloaded, stored, split up or combined with other imported consignments, provided that it has not been
+exposed to infestation or contamination by pests regulated by the country of destination. If a risk of
+infestation or contamination is identified, an additional inspection or a test should be carried out to verify
+
+
+
+4
+  The decisive criterion for judging whether a plant, plant product or other article has been processed to change its
+nature is the categorization used in the phytosanitary import requirements of the country of destination. If the
+phytosanitary import requirements for the unprocessed commodity and the processed commodity are the same,
+then a phytosanitary certificate for re-export may be issued.
+
+ISPM 12-18                                                             International Plant Protection Convention
+ Phytosanitary certificates                                                                          ISPM 12
+
+
+
+that the consignment has not been infested or contaminated by pests regulated by the country of
+destination.
+If the consignment is split up and the resulting consignments are re-exported separately to one or
+multiple countries, then phytosanitary certificates for re-export and certified copies of the original
+phytosanitary certificate for export should accompany all such consignments.
+Where imported consignments are combined, the original phytosanitary certificates for export or
+certified copies of these must be available for all the regulated articles forming part of the consignment
+for re-export, and all those articles must meet the phytosanitary import requirements of the country of
+destination.
+
+6.1.3 General considerations
+By issuing a phytosanitary certificate for re-export, the NPPO of the re-exporting country is providing
+assurance to the country of destination related to the handling (e.g. splitting, combining, repacking,
+reloading, storing) of the consignment in the country of re-export.
+Additional declarations on phytosanitary certificates for re-export, where required, should be based on
+the activities of the NPPO of the country of re-export. Additional declarations from the original
+phytosanitary certificate or certified copies should not be transferred to phytosanitary certificates for re-
+export.
+The phytosanitary certificate for re-export shall be signed only after it is duly completed.
+The original phytosanitary certificate for export or a certified copy should accompany the consignment
+together with the phytosanitary certificate for re-export.
+In the case of consignments re-exported multiple times, all the original phytosanitary certificates for re-
+export or certified copies of these should also accompany the consignment. The phytosanitary certificate
+number indicated in the certifying statement of the phytosanitary certificate for re-export should be the
+number of the phytosanitary certificate issued by the NPPO of the most recent country of re-export.
+
+6.2    Considerations for issuing a phytosanitary certificate for export in certain re-
+       export cases
+In those cases where one or more of the requirements set out in section 6.1 for issuing a phytosanitary
+certificate for re-export cannot be met, a phytosanitary certificate for re-export should not be issued.
+Instead, the NPPO of the country of re-export, upon request by exporters, may carry out inspection,
+testing, treatment or another appropriate phytosanitary action, and if the NPPO is confident that the
+phytosanitary import requirements of the country of destination are met, it may issue a phytosanitary
+certificate for export. The country of origin should still be indicated in brackets in the place of origin
+section of the phytosanitary certificate for export.
+The NPPO of the re-exporting country may attach the original phytosanitary certificate, or a certified
+copy thereof, if it contains information that was used to complete the phytosanitary certificate for export.
+In this case, the number of the certificate may be referred to in the additional declaration section of the
+phytosanitary certificate for export to attest compliance with the phytosanitary import requirements of
+the country of destination (e.g. growing season inspection, soil testing) that cannot be met by the country
+of re-export.
+
+6.3    Other considerations for re-export situations
+When re-exports routinely occur, or are started, suitable procedures for satisfying the phytosanitary
+import requirements of both the country of re-export and the country of destination may be agreed
+between the NPPOs of the countries of origin and re-export. This may include an exchange of written
+correspondence between the respective NPPOs on phytosanitary actions performed in the country of
+origin (e.g. growing season inspection, soil testing) that provides the assurance required for the country
+
+International Plant Protection Convention                                                        ISPM 12-19
+ ISPM 12                                                                            Phytosanitary certificates
+
+
+
+of re-export to certify consignments in accordance with the phytosanitary import requirements of the
+country of destination.
+
+7.    Considerations for transit
+If a consignment is in transit through a country, the NPPO of the country of transit is not involved unless
+risks for the country of transit have been identified (ISPM 25 (Consignments in transit)).
+If the phytosanitary security of the consignment has been compromised during transit, and the NPPO of
+the country of transit receives a request to become involved, the NPPO may perform phytosanitary
+certification for export in accordance with the provisions described in this standard.
+A change of means of conveyance during transit or the transport of two or more consignments in one
+conveyance should not be considered a reason to issue phytosanitary certificates unless the phytosanitary
+security of the consignment is compromised.
+Importing countries may have specific phytosanitary import requirements (e.g. require seals, specific
+packaging) addressed to the country of export for the import of consignments to be moved in transit
+through other countries if specific risks have been identified.
+
+
+
+
+ISPM 12-20                                                       International Plant Protection Convention
+ Phytosanitary certificates – Annex 1                                                             ISPM 12
+
+
+                                   This annex is a prescriptive part of the standard.
+
+ANNEX 1: Model phytosanitary certificate for export
+[Original annexed to the IPPC]
+                                                                             No. __________
+Plant Protection Organization of ________________________________________________________
+TO: Plant Protection Organization(s) of __________________________________________________
+
+                                       I. Description of Consignment
+Name and address of exporter: ________________________________________________________
+Declared name and address of consignee: _______________________________________________
+Number and description of packages: ___________________________________________________
+Distinguishing marks: ________________________________________________________________
+Place of origin: _____________________________________________________________________
+Declared means of conveyance: _______________________________________________________
+Declared point of entry: ______________________________________________________________
+Name of produce and quantity declared: _________________________________________________
+Botanical name of plants: _____________________________________________________________
+
+This is to certify that the plants, plant products or other regulated articles described herein have been
+inspected and/or tested according to appropriate official procedures and are considered to be free from
+the quarantine pests specified by the importing contracting party and to conform with the current
+phytosanitary requirements of the importing contracting party, including those for regulated non-
+quarantine pests.
+
+They are deemed to be practically free from other pests.*
+
+                                           II. Additional Declaration
+                                                 [Enter text here]
+
+                            III. Disinfestation and/or Disinfection Treatment
+Date ________ Treatment ___________ Chemical (active ingredient) __________________________
+Duration and temperature _____________________________________________________________
+Concentration ______________________________________________________________________
+Additional information ________________________________________________________________
+
+__________________________________________________________________________________
+
+                                        Place of issue _______________________________________
+(Stamp of Organization)            Name of authorized officer ___________________________________
+                                        Date ____________ __________________________________
+                                                                                        (Signature)
+
+__________________________________________________________________________________
+
+No financial liability with respect to this certificate shall attach to ____________ (name of Plant
+Protection Organization) or to any of its officers or representatives.*
+
+*Optional clause
+
+
+
+
+International Plant Protection Convention                                                     ISPM 12-21
+ ISPM 12                                                                          Phytosanitary certificates – Annex 2
+
+
+                                This annex is a prescriptive part of the standard.
+
+ANNEX 2: Model phytosanitary certificate for re-export
+[Original annexed to the IPPC]
+                                                                                No. __________
+Plant Protection Organization of _______________________________ (contracting party of re-export)
+TO: Plant Protection Organization(s) of _______________________ (contracting party(ies) of import)
+
+                                    I. Description of Consignment
+Name and address of exporter: ________________________________________________________
+Declared name and address of consignee: _______________________________________________
+Number and description of packages: ___________________________________________________
+Distinguishing marks: ________________________________________________________________
+Place of origin: _____________________________________________________________________
+Declared means of conveyance: _______________________________________________________
+Declared point of entry: ______________________________________________________________
+Name of produce and quantity declared: _________________________________________________
+Botanical name of plants: _____________________________________________________________
+
+This is to certify that the plants, plant products or other regulated articles described above ________
+were imported into (contracting party of re-export) ___________ from ______________ (contracting
+party of origin) covered by Phytosanitary certificate No. ________, *original  certified true copy  of
+which is attached to this certificate; that they are packed  repacked  in original  *new  containers,
+that based on the original phytosanitary certificate  and additional inspection , they are considered
+to conform with the current phytosanitary requirements of the importing contracting party, and that during
+storage in _______________ (contracting party of re-export), the consignment has not been subjected
+to the risk of infestation or infection.
+*Insert tick in appropriate  boxes
+                                        II. Additional Declaration
+                                              [Enter text here]
+
+                          III. Disinfestation and/or Disinfection Treatment
+Date ________ Treatment ___________ Chemical (active ingredient) __________________________
+Duration and temperature _____________________________________________________________
+Concentration ______________________________________________________________________
+Additional information ________________________________________________________________
+
+__________________________________________________________________________________
+
+                                      Place of issue _______________________________________
+(Stamp of Organization)          Name of authorized officer ___________________________________
+                                      Date
+                                      ____________          ___________________________________
+                                                                                      (Signature)
+
+__________________________________________________________________________________
+
+No financial liability with respect to this certificate shall attach to ____________ (name of Plant
+Protection Organization) or to any of its officers or representatives.**
+
+**Optional clause
+
+
+
+
+ISPM 12-22                                                             International Plant Protection Convention
+ Phytosanitary certificates – Appendix 1                                                                         ISPM 12
+
+
+         This appendix was adopted by the Ninth Session of the Commission on Phytosanitary Measures in April 2014.
+                   This appendix is for reference purposes only and is not a prescriptive part of the standard.
+
+APPENDIX 1: Electronic phytosanitary certificates, information on standard XML
+schemas and exchange mechanisms (2014)
+
+Introduction
+Electronic phytosanitary certificates are the electronic equivalents of phytosanitary certificates in paper
+form and may be used if they are accepted by the national plant protection organization (NPPO) of the
+importing country. When electronic phytosanitary certificates are issued by the NPPO of the exporting
+or re-exporting country, they should be made directly available to the NPPO of the importing country.
+All the requirements and procedures in this standard apply to electronic phytosanitary certificates.
+When using electronic phytosanitary certificates, NPPOs should develop a system for the issuance,
+transmission and receipt of electronic phytosanitary certificates that uses Extensible Markup Language
+(XML), standardized message structure and contents, and standardized exchange protocols.
+This appendix provides guidance on these elements and refers to a page on the IPPC website 5 that
+provides links to further details – both IPPC and external websites and documents – on the information
+contained in this appendix. These links are referred to in the text as “Link 1”, “Link 2” and so forth.
+The system should include the following harmonized components to generate electronic phytosanitary
+certificates.
+
+1.       XML message structure
+NPPOs should use the World Wide Web Consortium’s (WC3) XML (Link 1) for exchange of electronic
+phytosanitary certification data.
+The phytosanitary XML message structure is based on the United Nations Centre for Trade Facilitation
+and Electronic Business (UN/CEFACT) Sanitary and Phytosanitary (SPS) XML schema (Link 2) and
+on XML data mapping, which indicates where the phytosanitary certification data should be placed in
+the XML schema.
+The phytosanitary XML data mapping enables the generation of an electronic phytosanitary certificate
+for export (Link 3) and an electronic phytosanitary certificate for re-export (Link 4).
+
+2.       XML schema contents
+To facilitate automatic electronic communication and processing of phytosanitary certification data,
+NPPOs are encouraged to use standardized (harmonized) terms, codes and text for the data elements
+associated with the XML message for electronic phytosanitary certificates.
+The use of free (i.e. non-standardized) text should be limited when appropriate codes are available.
+For dates and country names, harmonized text is available and no free text is anticipated to be required.
+For scientific names of plants and pests, consignment description, treatments, additional declarations
+and points of entry, extensive lists of harmonized terms, codes and text are being developed and will be
+available. Free text may be inserted if the appropriate term, text or value does not appear in the lists.
+The process for maintaining and updating the lists of harmonized terms is being developed and will be
+described on the IPPC website5 NPPOs will be requested to submit proposals for new harmonized terms
+using this process.
+
+
+5
+    http://www.ippc.int/en/ephyto/ephyto-technical-information/
+
+International Plant Protection Convention                                                                   ISPM 12-23
+ ISPM 12                                                              Phytosanitary certificates – Appendix 1
+
+
+
+For data elements other than those above, no harmonization of terms and text is needed and therefore
+free text may be entered.
+Further details on the information to be entered for the data elements in the XML message are provided
+in the following subsections.
+
+2.1   Country names
+For the names of countries (i.e. the country of origin, export, re-export, transit and destination) it is
+encouraged that the two-letter country codes of the International Organization for Standardization (ISO)
+(Link 6) be used.
+
+2.2   Scientific names of plants and pests
+For the scientific names of the plants in the consignment, the plants from which plant products were
+derived, and the regulated pests, the use of the database of scientific names (Link 7) is encouraged.
+
+2.3   Description of consignment
+The type of commodity and the type of packaging should be included in the description of the
+consignment. It is encouraged that the commodity be described using IPPC commodity terminology
+(Link 8). It is also encouraged that the type of packaging be described using the United Nations
+Economic Commission for Europe (UNECE) Recommendation 21 (Link 9).
+Other elements of the description of the consignment may include, where possible:
+-     weight, volume and height (which is encouraged to be described using UNECE
+      Recommendation 20 (Link 10))
+-     declared means of conveyance (which is encouraged to be described using UNECE
+      Recommendation 19 (Link 15))
+-     declared point of entry and country name (which is encouraged to be described using the United
+      Nations Code for Trade and Transportation Locations (UN/LOCODE) (Link 14)).
+
+2.4   Treatments
+It is encouraged that treatment types be specified using the IPPC’s harmonized terms for treatment types
+(Link 11). Active ingredients are encouraged to be specified using the pesticide index of the Codex
+Alimentarius (Link 12). Other parameters (e.g. concentration, dosage, temperature, and duration of
+exposure) are encouraged to be described using UNECE Recommendation 20 (Link 10).
+
+2.5   Additional declarations
+Recommended standardized wording for additional declarations is provided in Appendix 2 and it is
+encouraged to be described using IPPC codes for additional declarations (Link 13). Free text may be
+used to supplement the additional declarations indicated on the IPPC website or to describe additional
+declarations that have not been standardized.
+
+2.6   Name of authorized officer
+The name of the authorized officer issuing the electronic phytosanitary certificates should be included
+in each types of electronic phytosanitary certificate.
+
+3.    Secure data exchange mechanisms
+NPPOs are responsible for the security of their national information technology (IT) system used for
+generating electronic phytosanitary certificates.
+During transmission, the data should be encrypted to ensure that the electronic exchange of the electronic
+phytosanitary certification data between NPPOs is secure and authenticated. NPPOs should use a secure
+
+
+
+ISPM 12-24                                                      International Plant Protection Convention
+ Phytosanitary certificates – Appendix 1                                                           ISPM 12
+
+
+
+protocol with a minimum 128-bit encryption. Before transmission, the electronic phytosanitary
+certification data may be subjected to additional encryption that remains intact after transmission.
+Transmission of data over the Internet from the NPPO of the exporting country to the NPPO of the
+importing country should be performed using secure IT mechanisms (e.g. Simple Object Access
+Protocol (SOAP), Secure/Multipurpose Internet Mail Extensions (S/MIME), File Transfer Protocol
+(FTP), Representative State Transfer (REST)) using systems that are mutually compatible.
+The NPPO of the exporting country should make available to the exporter the actual electronic
+phytosanitary certificate number for the consignment.
+Communication on the status of the message exchange between NPPOs should follow UN/CEFACT
+recommended standard messages.
+NPPOs are responsible for developing and maintaining their systems for exchanging electronic
+phytosanitary certification data. In cases where an exchange mechanism is suspended due to
+maintenance or unexpected system failure, the NPPO should notify other NPPOs as soon as possible.
+
+4.     Electronic phytosanitary certificate for re-export
+In paper-only systems, the original phytosanitary certificate for export or its certified copy should be
+available as an attachment to the phytosanitary certificate for re-export. In the situation where paper and
+electronic phytosanitary certificates are both in use, the following requirements should be met.
+
+4.1    Electronic phytosanitary certificate for re-export with original phytosanitary
+       certificate for export in electronic form
+When both the phytosanitary certificate for export and the phytosanitary certificate for re-export are in
+electronic form, the electronic phytosanitary certificate for export should be attached electronically to
+the electronic phytosanitary certificate for re-export.
+
+4.2    Electronic phytosanitary certificate for re-export with original phytosanitary
+       certificate in paper form
+When the original phytosanitary certificate for export is in paper form and the phytosanitary certificate
+for re-export is in electronic form, a scan of the original phytosanitary certificate for export (in PDF or
+other non-editable format) should be attached to the electronic phytosanitary certificate for re-export.
+
+4.3    Paper phytosanitary certificate for re-export with original phytosanitary
+       certificate in electronic form
+When the original phytosanitary certificate for export is in electronic form and the phytosanitary
+certificate for re-export is in paper form, the electronic phytosanitary certificate for export should be
+printed and validated by the NPPO of the country of re-export by stamping, dating and countersigning.
+The printed version of the electronic phytosanitary certificate for export becomes a certified copy and
+should then, in paper form, be attached to the phytosanitary certificate for re-export.
+
+5.     Management of electronic phytosanitary certificates issued by NPPOs
+5.1    Retrieval issues
+If the NPPO of the importing country is unable to retrieve the electronic phytosanitary certificates, the
+NPPO of the exporting country should resubmit the original electronic phytosanitary certificates at the
+request of the NPPO of the importing country.
+
+
+
+
+International Plant Protection Convention                                                      ISPM 12-25
+ ISPM 12                                                                Phytosanitary certificates – Appendix 1
+
+
+
+5.2   Alteration and replacement
+If any of the information in electronic phytosanitary certificates needs to be altered after their issuance,
+the original electronic phytosanitary certificates should be revoked and replacement electronic
+phytosanitary certificates (Link 5) with alterations should be issued as described in this standard.
+
+5.3   Cancelled dispatch
+If the NPPO of the exporting country becomes aware of a consignment that is not dispatched after the
+issuance of electronic phytosanitary certificates, the NPPO of the exporting country should revoke the
+associated electronic phytosanitary certificates.
+
+5.4   Certified copy
+Certified copies of electronic phytosanitary certificates are printouts of the electronic phytosanitary
+certification data that are validated (stamped, dated and countersigned) by an NPPO attesting the
+authenticity of the data.
+The printouts should be in the format that follows the standardized wording provided by the IPPC model
+phytosanitary certificates and recognized as phytosanitary certificates. However, the printouts may be
+XML data in XML format if accepted by the NPPO of the importing country.
+
+6.    Declared name and address of consignee
+In the case of paper phytosanitary certificates, for “Declared name and address of consignee” the term
+“To order” may be used in instances where the consignee is not known and the NPPO of the importing
+country permits use of the term.
+With electronic phytosanitary certificates, the consignment information may arrive in the importing
+country well before the consignment arrives, which will allow pre-entry verification of the electronic
+phytosanitary certification data.
+Instead of using the “To order” option, NPPOs are encouraged to require the electronic phytosanitary
+certificates to include the name and address of a contact person in the importing country responsible for
+the consignment.
+
+
+
+
+ISPM 12-26                                                       International Plant Protection Convention
+ Phytosanitary certificates – Appendix 2                                                                          ISPM 12
+
+
+                This appendix is for reference purposes only and is not a prescriptive part of the standard.
+
+APPENDIX 2: Recommended wording for additional declarations
+Phytosanitary import requirements for additional declarations should preferably use the following
+wording. However, these are examples and are not the only statements that may be used.
+1.     The consignment* was inspected and found free from ______ (name of pest(s) or soil [to be
+       specified]).
+2.     The consignment* was tested (method may be specified) and found free from ______ (name of
+       pest(s)).
+3.     The growing media in which the plants were grown was tested prior to planting and found free
+       from ______ (name of pest(s)).
+4.     ______ (Name of pest(s)) is absent/not known to occur in ______ (name of country/area).
+5.     The consignment* was produced in a
+                              pest free area for ______ (name of pest(s))**
+                              area of low pest prevalence for _______ (name of pest(s))
+                              pest free place of production for ______ (name of pest(s))**
+                              pest free production site for ______ (name of pest(s))**.
+6.     The place of production**/production site/field** was inspected during the growing season(s)***
+       and found free from ______ (name of pest(s)).
+7.     The plants/mother plants were inspected during the last growing season(s) *** and found free
+       from ______ (name of pest(s)).
+8.     The plants were produced in vitro (specify the in vitro technique) and found free from _____
+       (name of pest(s)).
+9.     The plants were derived from mother plants that were tested (method may be specified) and found
+       free from ______ (name of pest(s)).
+10.    This consignment* was produced and prepared for export in accordance with ______ (name of
+       programme/reference to specific phytosanitary import requirement or a bilateral arrangement).
+11.    This consignment was produced from plant varieties resistant to _________ (name of pest).
+12.    Plants for planting are in compliance with _______ (specify the tolerance level(s)) established by
+       phytosanitary import requirements for _______ (specify the regulated non-quarantine pest(s)).
+* May be specified if this applies only to parts thereof.
+** If applicable add: “including a surrounding buffer zone”.
+*** Number of times/growing seasons or specific period may be added as appropriate.
+
+
+
+
+International Plant Protection Convention                                                                      ISPM 12-27
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+global plant resources and facilitate safe trade.
+The IPPC vision is that all countries have the capacity to
+implement harmonized measures to prevent pest introductions
+and spread, and minimize the impacts of pests on food
+security, trade, economic growth, and the environment.
+
+
+
+Organization
+◆ There are over 180 IPPC contracting parties.
+◆ Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+◆ 10 regional plant protection organizations (RPPOs) have
+
+   been established to coordinate NPPOs in various regions
+   of the world.
+◆ The IPPC Secretariat liaises with relevant international
+
+   organizations to help build regional and national
+   capacities.
+◆ The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+International Plant Protection Convention Secretariat
+ippc@fao.org | www.ippc.int
+
+Food and Agriculture Organization of the United Nations
+Rome, Italy
+

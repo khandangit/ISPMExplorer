@@ -1,0 +1,1035 @@
+                                                                                ISPM 15
+International Standard for Phytosanitary Measures 15
+
+
+
+
+                                                                                 eng
+
+
+
+
+                                                         Regulation of wood
+                                                       packaging material in
+                                                          international trade
+ This page is intentionally left blank
+                    INTERNATIONAL STANDARDS FOR
+                       PHYTOSANITARY MEASURES
+
+
+
+
+              ISPM 15
+
+Regulation of wood packaging material
+         in international trade
+
+
+
+
+                               Produced by the Secretariat of the
+                        International Plant Protection Convention
+                                 Adopted 2018; published 2019
+
+
+
+
+                                                    © FAO 2018
+ The designations employed and the presentation of material in this information product do not imply
+the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of
+the United Nations (FAO) concerning the legal or development status of any country, territory, city
+or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. The mention
+of specific companies or products of manufacturers, whether or not these have been patented, does
+not imply that these have been endorsed or recommended by FAO in preference to others of a similar
+nature that are not mentioned.
+
+The views expressed in this information product are those of the author(s) and do not necessarily
+reflect the views or policies of FAO.
+
+© FAO, 2018
+
+
+
+
+Some rights reserved. This work is made available under the Creative Commons Attribution-
+NonCommercial-ShareAlike 3.0 IGO licence (CC BY-NC-SA 3.0 IGO;
+https://creativecommons.org/licenses/by-nc-sa/3.0/igo/legalcode).
+
+Under the terms of this licence, this work may be copied, redistributed and adapted for non-
+commercial purposes, provided that the work is appropriately cited. In any use of this work, there
+should be no suggestion that FAO endorses any specific organization, products or services. The use
+of the FAO logo is not permitted. If the work is adapted, then it must be licensed under the same or
+equivalent Creative Commons licence. If a translation of this work is created, it must include the
+following disclaimer along with the required citation: “This translation was not created by the Food
+and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or
+accuracy of this translation. The original English edition shall be the authoritative edition.
+
+Disputes arising under the licence that cannot be settled amicably will be resolved by mediation and
+arbitration as described in Article 8 of the licence except as otherwise provided herein. The
+applicable mediation rules will be the mediation rules of the World Intellectual Property Organization
+http://www.wipo.int/amc/en/mediation/rules and any arbitration will be conducted in accordance with
+the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL).
+
+Third-party materials. Users wishing to reuse material from this work that is attributed to a third
+party, such as tables, figures or images, are responsible for determining whether permission is
+needed for that reuse and for obtaining permission from the copyright holder. The risk of claims
+resulting from infringement of any third-party-owned component in the work rests solely with the user.
+
+Sales, rights and licensing. FAO information products are available on the FAO website
+(www.fao.org/publications) and can be purchased through publications-sales@fao.org. Requests for
+commercial use should be submitted via: www.fao.org/contact-us/licence-request. Queries regarding
+rights and licensing should be submitted to: copyright@fao.org.
+
+When this ISPM is reproduced, it should be mentioned that current adopted versions of ISPMs are
+available for download on www.ippc.int.
+
+For official reference, policy-making or dispute avoidance and settlement purposes, the only ISPMs
+that may be referred to are those published under https://www.ippc.int/en/core-activities/standards-
+setting/ispms/#614.
+ Publication history
+This is not an official part of the standard
+1999-10 ICPM-2 added topic Wood packing (1999-001).               2010-09 TPFQ discussion.
+2000-06 Ad-hoc expert working group (EWG) developed draft         2011-04 SC e-decision.
+   text.                                                          2011-05 SC via e-discussion returned to TPPT.
+2001-02 EWG developed draft text.                                 2011-07 TPPT revised text based on SC comments.
+2001-05 ISC-3 revised draft text               and approved for   2011-10 TPPT reviewed treatment.
+   consultation.
+                                                                  2012-02 TPFQ discussion.
+2001-06 Sent for consultation.
+                                                                  2012-12 TPPT reviewed treatment.
+2001-11 ISC-4 revised draft text for adoption.
+                                                                  2014-06 TPPT recommended treatment to SC for approval for
+2002-03 ICPM-4 adopted standard.                                     consultation.
+ISPM 15. 2002. Guidelines for regulating wood packaging           2014-09 SC approved for consultation via e-decision.
+   material in international trade. Rome, IPPC, FAO.
+                                                                  2014-11 SC agreed to split Sulfuryl fluoride fumigation of
+2005-03 TPFQ revised Annex 1 Methyl bromide fumigation               wood packaging material (2007-101) into two separate
+   schedule (2005-011).                                              topics: Sulfuryl fluoride fumigation of insects in debarked
+                                                                     wood (2007-101A) and Sulfuryl fluoride fumigation of
+2005-05 Standards Committee (SC) revised Annex 1 and                 nematodes and insects in debarked wood (2007-101B)
+   approved for consultation.                                        and recommended to CPM to include a new topic:
+2005-06 Sent for consultation under fast-track process.              Revision of dielectric heating section (Annex 1 (Approved
+2005-11 SC revised Annex 1 for adoption.                             treatments associated with wood packaging material) to
+                                                                     ISPM 15 (Regulation of wood packaging material in
+2006-04 CPM-1 adopted revised Annex 1.                               international trade)).
+ISPM 15. 2006. Guidelines for regulating wood packaging           2014-12 TPFQ reviewed the draft treatment Sulfuryl fluoride
+   material in international trade. Rome, IPPC, FAO.                 fumigation of nematodes and insects in debarked wood
+                                                                     (2007-101B) for inclusion into ISPM 15 (2006-010A).
+2006-04 CPM-1 added topic Revision of ISPM 15 (2006-036).
+                                                                  2015-05 SC reviewed and approved draft revision to ISPM 15
+2006-05 SC approved Specification 31 Revision of ISPM 15.            in relation to topics 2006-010A and 2007-101B for
+2007-07 Technical Panel on Forest Quarantine (TPFQ)                  consultation.
+   revised standard.                                              2015-07 Consultation for draft ISPMs.
+2008-05 SC revised and approved for consultation.                 2016-01 TPFQ inputs to the draft and Steward.
+2008-06 Sent for consultation.                                    2016-05 SC-7 asked the TPPT to better assess the
+2008-11 SC revised standard for adoption.                            treatments.
+2009-03 CPM-4 adopted revised standard.                           2017-05 SC-7.
+ISPM 15. 2009. Regulation of wood packaging material in           2017-07 Second consultation.
+   international trade. Rome, IPPC, FAO.                          2017-10 Steward revised the draft based on consultation
+                                                                     comments.
+2009-06 TPFQ revised Annex 1 to ISPM 15.
+                                                                  2017-11 SC revised in meeting and approved the draft for
+2010-09 TPFQ revised Annex 1 to ISPM 15 considering                  adoption by CPM.
+   dielectric heat and sulfuryl fluoride treatments.
+                                                                  2018-04 CPM-13 adopted revised Annex 1 to ISPM 15 with
+2011-05 SC approved revision of Annex 1 to ISPM 15 to go             consequential changes to Annex 2.
+   for consultation.
+                                                                  ISPM 15. Annex 1. Approved treatments associated with
+2012-11 SC revised standard for adoption.                            wood packaging material (2018). Rome, IPPC, FAO.
+2013-03 CPM-8 adopted revised Annex 1 to ISPM 15 with             ISPM 15. Annex 2. The mark and its application (2018).
+   consequential changes to Annex 2.                                 Rome, IPPC, FAO.
+ISPM 15. Annex 1. Approved treatments associated with
+   wood packaging material (2013). Rome, IPPC, FAO.               2015-06 IPPC Secretariat incorporated ink amendments and
+                                                                     reformatted standards following revoking of standards
+2006-09 Sulfuryl fluoride fumigation of wood packaging               procedure from CPM-10 (2015).
+   material treatment (2007-101) submitted.                       2016-06 IPPC Secretariat made an editorial adjustment to
+2006-12 Technical Panel on Phytosanitary Treatments                  include the abbreviation “DH” in the first section of
+   (TPPT) reviewed treatment.                                        Annex 2.
+2007-07 Revised text considered by TPFQ.                          2017-04 CPM noted ink amendments to avoid the use of
+2007-12 Further revised text submitted to TPPT.                      “trading partner”. The IPPC Secretariat incorporated the
+                                                                     ink amendments.
+2008-12 TPFQ discussion.
+                                                                  2019-02 IPPC Secretariat fixed a mistake in Figure 4.
+2009-01 TPPT reviewed treatment.
+2009-07 Amended text considered by TPFQ.                          Publication history last updated: 2019-02.
+2010-07 Text updated and recommended to SC.
+ ISPM 15                                                                    Regulation of wood packaging material in international trade
+
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................5
+
+INTRODUCTION ....................................................................................................................................5
+Scope ........................................................................................................................................................5
+Environmental Statement .........................................................................................................................5
+References ................................................................................................................................................5
+Definitions ................................................................................................................................................5
+Outline of Requirements ..........................................................................................................................6
+
+REQUIREMENTS ...................................................................................................................................7
+1.     Basis for Regulation .........................................................................................................................7
+2.     Regulated Wood Packaging Material ...............................................................................................7
+       2.1      Exemptions........................................................................................................................7
+3.     Phytosanitary Measures for Wood Packaging Material ...................................................................7
+       3.1      Approved phytosanitary measures ....................................................................................7
+       3.2      Approval of new or revised treatments .............................................................................8
+       3.3      Alternative bilateral arrangements ....................................................................................8
+4.     Responsibilities of NPPOs................................................................................................................8
+       4.1     Regulatory considerations .................................................................................................9
+       4.2     Application and use of the mark .......................................................................................9
+       4.3     Treatment and marking requirements for wood packaging material that is reused, repaired
+                 or remanufactured ...........................................................................................................9
+       4.3.1   Reuse of wood packaging material ...................................................................................9
+       4.3.2   Repaired wood packaging material ...................................................................................9
+       4.3.3   Remanufactured wood packaging material .....................................................................10
+       4.4     Transit .............................................................................................................................10
+       4.5     Procedures upon import ..................................................................................................10
+       4.6     Phytosanitary measures for non-compliance at point of entry ........................................10
+ANNEX 1: Approved treatments associated with wood packaging material (2018) .............................12
+ANNEX 2: The mark and its application (2018)....................................................................................18
+APPENDIX 1: Examples of methods of secure disposal of non-compliant wood packaging material .21
+
+
+
+
+ISPM 15-4                                                                                       International Plant Protection Convention
+ Regulation of wood packaging material in international trade                                       ISPM 15
+
+
+
+Adoption
+This standard was first adopted by the Fourth Session of the Interim Commission on Phytosanitary
+Measures in March 2002 as Guidelines for regulating wood packaging material in international trade.
+Modifications to Annex 1 were adopted by the First Session of the Commission on Phytosanitary
+Measures in April 2006. The first revision was adopted by the Fourth Session of the Commission on
+Phytosanitary Measures in March–April 2009 as the present standard.
+
+Revisions to Annex 1, together with associated changes in Annex 2, were adopted by the Eighth Session
+of the Commission on Phytosanitary Measures in April 2013 and the Thirteenth Session of the
+Commission on Phytosanitary Measures in April 2018.
+
+INTRODUCTION
+
+Scope
+This standard describes phytosanitary measures that reduce the risk of introduction and spread of
+quarantine pests associated with the movement in international trade of wood packaging material made
+from raw wood. Wood packaging material covered by this standard includes dunnage but excludes wood
+packaging made from wood processed in such a way that it is free from pests (e.g. plywood).
+The phytosanitary measures described in this standard are not intended to provide ongoing protection
+from contaminating pests or other organisms.
+
+Environmental Statement
+Pests associated with wood packaging material are known to have negative impacts on forest health and
+biodiversity. Implementation of this standard is considered to reduce significantly the spread of pests
+and subsequently their negative impacts. In the absence of alternative treatments being available for
+certain situations or to all countries, or the availability of other appropriate packaging materials, methyl
+bromide treatment is included in this standard. Methyl bromide is known to deplete the ozone layer. An
+IPPC Recommendation on the Replacement or reduction of the use of methyl bromide as a phytosanitary
+measure (CPM, 2008) has been adopted in relation to this issue. Alternative treatments that are more
+environmentally friendly are being pursued.
+
+References
+The present standard refers to International Standards for Phytosanitary Measures (ISPMs). ISPMs are
+available on the International Phytosanitary Portal (IPP) at https://www.ippc.int/core-
+activities/standards-setting/ispms.
+CPM. 2008. Replacement or reduction of the use of methyl bromide as a phytosanitary measure. IPPC
+     Recommendation. In Report of the Third Session of the Commission on Phytosanitary Measures,
+     Rome, 7–11 April 2008, Appendix 6. Rome, IPPC, FAO.
+IPPC. 1997. International Plant Protection Convention. Rome, IPPC, FAO.
+ISO 3166-1:2006. Codes for the representation of names of countries and their subdivisions – Part 1:
+     Country codes. Geneva, International Organization for Standardization (available at
+     https://www.iso.org/standard/39719.html).
+UNEP. 2000. Montreal Protocol on Substances that Deplete the Ozone Layer. Nairobi, Ozone
+     Secretariat,    United    Nations     Environment    Programme.      ISBN:      92-807-1888-6
+     (https://unep.ch/ozone/pdf/Montreal-Protocol2000.pdf).
+
+Definitions
+Definitions of phytosanitary terms used in this standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+International Plant Protection Convention                                                        ISPM 15-5
+ ISPM 15                                          Regulation of wood packaging material in international trade
+
+
+
+Outline of Requirements
+Approved phytosanitary measures that significantly reduce the risk of pest introduction and spread via
+wood packaging material consist of the use of debarked wood (with a specified tolerance for remaining
+bark) and the application of approved treatments (as prescribed in Annex 1). The application of the
+recognized mark (as prescribed in Annex 2) ensures that wood packaging material subjected to the
+approved treatments is readily identifiable. The approved treatments, the mark and its use are described.
+The national plant protection organizations (NPPOs) of exporting and importing countries have specific
+responsibilities. Treatment and application of the mark must always be under the authority of the NPPO.
+NPPOs that authorize the use of the mark should supervise (or, as a minimum, audit or review) the
+application of the treatments, use of the mark and its application, as appropriate, by producer/treatment
+providers and should establish inspection or monitoring and auditing procedures. Specific requirements
+apply to wood packaging material that is repaired or remanufactured. NPPOs of importing countries
+should accept the approved phytosanitary measures as the basis for authorizing entry of wood packaging
+material without further wood packaging material-related phytosanitary import requirements and may
+verify on import that the requirements of the standard have been met. Where wood packaging material
+does not comply with the requirements of this standard, NPPOs are also responsible for measures
+implemented and notification of non-compliance, as appropriate.
+
+
+
+
+ISPM 15-6                                                       International Plant Protection Convention
+ Regulation of wood packaging material in international trade                                                 ISPM 15
+
+
+
+REQUIREMENTS
+
+1.     Basis for Regulation
+Wood originating from living or dead trees may be infested by pests. Wood packaging material is
+frequently made of raw wood that may not have undergone sufficient processing or treatment to remove
+or kill pests and therefore remains a pathway for the introduction and spread of quarantine pests.
+Dunnage in particular has been shown to present a high risk of introduction and spread of quarantine
+pests. Furthermore, wood packaging material is very often reused, repaired or remanufactured (as
+described in section 4.3). The true origin of any piece of wood packaging material is difficult to
+determine, and thus its phytosanitary status cannot easily be ascertained. Therefore the normal process
+of undertaking pest risk analysis to determine if measures are necessary, and the strength of such
+measures, is frequently not possible for wood packaging material. For this reason, this standard describes
+internationally accepted measures that may be applied to wood packaging material by all countries to
+reduce significantly the risk of introduction and spread of most quarantine pests that may be associated
+with that material.
+
+2.     Regulated Wood Packaging Material
+These guidelines cover all forms of wood packaging material that may serve as a pathway for pests
+posing a pest risk mainly to living trees. They cover wood packaging material such as crates, boxes,
+packing cases, dunnage1, pallets, cable drums and spools/reels, which can be present in almost any
+imported consignment, including consignments that would not normally be subject to phytosanitary
+inspection.
+
+2.1    Exemptions
+The following articles are of sufficiently low risk to be exempted from the provisions of this standard2:
+-     wood packaging material made entirely from thin wood (6 mm or less in thickness)
+-     wood packaging made wholly of processed wood material, such as plywood, particle board,
+      oriented strand board or veneer that has been created using glue, heat or pressure, or a combination
+      thereof
+-     barrels for wine and spirit that have been heated during manufacture
+-     gift boxes for wine, cigars and other commodities made from wood that has been processed and/or
+      manufactured in a way that renders it free of pests
+-     sawdust, wood shavings and wood wool
+-     wood components permanently attached to freight vehicles and containers.
+
+3.     Phytosanitary Measures for Wood Packaging Material
+This standard describes phytosanitary measures (including treatments) that have been approved for
+wood packaging material and provides for the approval of new or revised treatments.
+
+3.1    Approved phytosanitary measures
+The approved phytosanitary measures described in this standard consist of phytosanitary procedures
+including treatments and marking of the wood packaging material. The application of the mark renders
+the use of a phytosanitary certificate unnecessary as it indicates that the internationally accepted
+
+1
+  Consignments of wood (i.e. timber/lumber) may be supported by dunnage that is constructed from wood of the
+same type and quality and that meets the same phytosanitary requirements as the wood in the consignment. In such
+cases, the dunnage may be considered as part of the consignment and may not be considered as wood packaging
+material in the context of this standard.
+2
+  Not all types of gift boxes or barrels are constructed in a manner that renders them pest free, and therefore certain
+types may be considered to be within the scope of this standard. Where appropriate, specific arrangements related
+to these types of commodities may be established between importing and exporting NPPOs.
+
+International Plant Protection Convention                                                                  ISPM 15-7
+ ISPM 15                                             Regulation of wood packaging material in international trade
+
+
+
+phytosanitary measures have been applied. These phytosanitary measures should be accepted by all
+NPPOs as the basis for authorizing the entry of wood packaging material without further specific
+requirements. Required phytosanitary measures beyond an approved measure as described in this
+standard require technical justification.
+The treatments described in Annex 1 are considered to be significantly effective against most pests of
+living trees associated with wood packaging material used in international trade. These treatments are
+combined with the use of debarked wood for construction of wood packaging, which also acts to reduce
+the likelihood of reinfestation by pests of living trees. These measures have been adopted based on
+consideration of:
+-      the range of pests that may be affected
+-      the efficacy of the treatment
+-      the technical and/or commercial feasibility.
+There are three main activities involved in the production of approved wood packaging material
+(including dunnage): treating, manufacturing and marking. These activities can be done by separate
+entities, or one entity can do several or all of these activities. For ease of reference, this standard refers
+to producers (those that manufacture the wood packaging material and may apply the mark to
+appropriately treated wood packaging material) and treatment providers (those that apply the approved
+treatments and may apply the mark to appropriately treated wood packaging material).
+Wood packaging material subjected to the approved measures shall be identified by application of an
+official mark in accordance with Annex 2. This mark consists of a dedicated symbol used in conjunction
+with codes identifying the specific country, the responsible producer or treatment provider, and the
+treatment applied. Hereafter, all components of such a mark are referred to collectively as “the mark”.
+The internationally recognized, non-language-specific mark facilitates identification of treated wood
+packaging material during inspection prior to export, at the point of entry, or elsewhere. NPPOs should
+accept the mark as referred to in Annex 2 as the basis for authorizing the entry of wood packaging
+material without further specific requirements.
+Debarked wood must be used for the construction of wood packaging material, in addition to application
+of one of the adopted treatments specified in Annex 1. A tolerance for remaining bark is specified in
+Annex 1.
+
+3.2   Approval of new or revised treatments
+As new technical information becomes available, existing treatments may be reviewed and modified,
+and new alternative treatments and/or treatment schedule(s) for wood packaging material may be
+adopted by the CPM. ISPM 28 (Phytosanitary treatments for regulated pests) provides guidance on the
+IPPC’s process for approval of treatments. If a new treatment or a revised treatment schedule is adopted
+for wood packaging material and incorporated into this ISPM, material already treated under the
+previous treatment and/or schedule does not need to be re-treated or re-marked.
+
+3.3   Alternative bilateral arrangements
+NPPOs may accept measures other than those listed in Annex 1 by bilateral arrangement. In such cases,
+the mark shown in Annex 2 must not be used unless all requirements of this standard have been met.
+
+4.    Responsibilities of NPPOs
+To meet the objective of preventing the introduction and spread of pests, exporting and importing
+contracting parties and their NPPOs have responsibilities (as outlined in Articles I, IV and VII of the
+IPPC). In relation to this standard, specific responsibilities are outlined below.
+
+
+
+
+ISPM 15-8                                                          International Plant Protection Convention
+ Regulation of wood packaging material in international trade                                     ISPM 15
+
+
+
+4.1    Regulatory considerations
+Treatment and application of the mark (and/or related systems) must always be under the authority of
+the NPPO. NPPOs that authorize use of the mark have the responsibility for ensuring that all systems
+authorized and approved for implementation of this standard meet all necessary requirements described
+within the standard, and that wood packaging material (or wood that is to be made into wood packaging
+material) bearing the mark has been treated and/or manufactured in accordance with this standard.
+Responsibilities include:
+-     authorization, registration and accreditation, as appropriate
+-     monitoring treatment and marking systems implemented in order to verify compliance (further
+      information on related responsibilities is provided in ISPM 7 (Phytosanitary certification system))
+-     inspection, establishing verification procedures and auditing where appropriate (further
+      information is provided in ISPM 23 (Guidelines for inspection)).
+The NPPO should supervise (or, as a minimum, audit or review) the application of the treatments, and
+authorize use of the mark and its application as appropriate. To prevent untreated or
+insufficiently/incorrectly treated wood packaging material bearing the mark, treatment should be carried
+out prior to application of the mark.
+
+4.2    Application and use of the mark
+The specified marks applied to wood packaging material treated in accordance with this standard must
+conform to the requirements described in Annex 2.
+
+4.3    Treatment and marking requirements for wood packaging material that is reused,
+       repaired or remanufactured
+NPPOs of countries where wood packaging material that bears the mark described in Annex 2 is repaired
+or remanufactured have responsibility for ensuring and verifying that systems related to export of such
+wood packaging material comply fully with this standard.
+
+4.3.1 Reuse of wood packaging material
+A unit of wood packaging material that has been treated and marked in accordance with this standard
+and that has not been repaired, remanufactured or otherwise altered does not require re-treatment or re-
+application of the mark throughout the service life of the unit.
+
+4.3.2 Repaired wood packaging material
+Repaired wood packaging material is wood packaging material that has had up to approximately one
+third of its components removed and replaced. NPPOs must ensure that when marked wood packaging
+material is repaired, only wood treated in accordance with this standard is used for the repair, or wood
+constructed or fabricated from processed wood material (as described in section 2.1). Where treated
+wood is used for the repair, each added component must be individually marked in accordance with this
+standard.
+Wood packaging material bearing multiple marks may create problems in determining the origin of the
+wood packaging material if pests are found associated with it. It is recommended that NPPOs of
+countries where wood packaging material is repaired limit the number of different marks that may
+appear on a single unit of wood packaging material. Therefore NPPOs of countries where wood
+packaging material is repaired may require the repaired wood packaging material to have previous marks
+obliterated, the unit to be re-treated in accordance with Annex 1, and the mark then applied in accordance
+with Annex 2. If methyl bromide is used for the re-treatment, the information in the IPPC
+Recommendation on the Replacement or reduction of the use of methyl bromide as a phytosanitary
+measure (CPM, 2008) should be taken into account.
+In circumstances where there is any doubt that all components of a unit of repaired wood packaging
+material have been treated in accordance with this standard, or the origin of the unit of wood packaging
+
+International Plant Protection Convention                                                       ISPM 15-9
+ ISPM 15                                                 Regulation of wood packaging material in international trade
+
+
+
+material or its components is difficult to ascertain, the NPPOs of countries where wood packaging
+material is repaired should require the repaired wood packaging material to be re-treated, destroyed, or
+otherwise prevented from moving in international trade as wood packaging material compliant with this
+standard. In the case of re-treatment, any previous applications of the mark must be permanently
+obliterated (e.g. by covering with paint or grinding). After re-treatment, the mark must be applied anew
+in accordance with this standard.
+
+4.3.3 Remanufactured wood packaging material
+If a unit of wood packaging material has had more than approximately one third of its components
+replaced, the unit is considered to be remanufactured. In this process, various components (with
+additional reworking if necessary) may be combined and then reassembled into further wood packaging
+material. Remanufactured wood packaging material may therefore incorporate both new and previously
+used components.
+Remanufactured wood packaging material must have any previous applications of the mark permanently
+obliterated (e.g. by covering with paint or grinding). Remanufactured wood packaging material must be
+re-treated and the mark must then be applied anew in accordance with this standard.
+
+4.4      Transit
+Where consignments moving in transit have wood packaging material that does not meet the
+requirements of this standard, NPPOs of countries of transit may require measures to ensure that wood
+packaging material does not present an unacceptable risk. Further guidance on transit arrangements is
+provided in ISPM 25 (Consignments in transit).
+
+4.5      Procedures upon import
+Since wood packaging materials are associated with most shipments, including those not considered to
+be the target of phytosanitary inspections in their own right, cooperation by NPPOs with organizations
+not usually involved with verification of whether the phytosanitary import requirements have been met
+is important. For example, cooperation with Customs organizations and other stakeholders will help
+NPPOs in receiving information on the presence of wood packaging material. This is important to ensure
+effectiveness in detecting potential non-compliance of wood packaging material.
+
+4.6      Phytosanitary measures for non-compliance at point of entry
+Relevant information on non-compliance and emergency action is provided in ISPM 20 (Guidelines for
+a phytosanitary import regulatory system) and in ISPM 13 (Guidelines for the notification of non-
+compliance and emergency action). Taking into account the frequent re-use of wood packaging material,
+NPPOs should consider that the non-compliance identified may have arisen in the country of production,
+repair or remanufacture, rather than in the country of export or transit.
+Where wood packaging material does not carry the required mark, or the detection of pests provides
+evidence that the treatment may not have been effective, the NPPO should respond accordingly and, if
+necessary, an emergency action may be taken. This action may take the form of detention while the
+situation is being addressed then, as appropriate, removal of non-compliant material, treatment3,
+destruction (or other secure disposal) or reshipment. Further examples of appropriate options for actions
+are provided in Appendix 1. The principle of minimal impact should be pursued in relation to any
+emergency action taken, distinguishing between the consignment traded and the accompanying wood
+packaging material. In addition, if emergency action is necessary and methyl bromide is used by the
+NPPO, relevant aspects of the IPPC Recommendation on Replacement or reduction of the use of methyl
+bromide as a phytosanitary measure (CPM, 2008) should be followed.
+The NPPO of the importing country should notify the exporting country, or the manufacturing country
+where applicable, in cases where live pests are found. In such cases, where a unit of wood packaging
+
+3
+    This need not necessarily be a treatment approved in this standard.
+
+ISPM 15-10                                                                International Plant Protection Convention
+ Regulation of wood packaging material in international trade                                    ISPM 15
+
+
+
+material bears more than one mark NPPOs should attempt to determine the origin of the non-compliant
+component(s) prior to sending a notice of non-compliance. NPPOs are also encouraged to notify cases
+of missing marks and other cases of non-compliance. Taking into account the provisions of section 4.3.2,
+it should be noted that the presence of multiple marks on a single unit of wood packaging does not
+constitute non-compliance.
+
+
+
+
+International Plant Protection Convention                                                    ISPM 15-11
+ ISPM 15                                     Regulation of wood packaging material in international trade – Annex 1
+
+
+ This revised Annex 1 was adopted by the Thirteenth Session of the Commission on Phytosanitary Measures in April 2018.
+                                    The annex is a prescriptive part of the standard.
+
+ANNEX 1: Approved treatments associated with wood packaging material (2018)
+The approved treatments may be applied to units of wood packaging material or to pieces of wood that
+are to be made into wood packaging material.
+Use of debarked wood
+Irrespective of the type of treatment applied, wood packaging material must be made of debarked wood.
+For this standard, any number of visually separate and clearly distinct small pieces of bark may remain
+if they are:
+-      less than 3 cm in width (regardless of the length) or
+-      greater than 3 cm in width, with the total surface area of an individual piece of bark less than
+       50 square cm.
+For methyl bromide and sulphuryl fluoride treatments, the removal of bark must be carried out before
+treatment as the presence of bark on the wood may affect treatment efficacy. For heat treatment, the
+removal of bark may be carried out before or after treatment. When a dimension limitation is specified
+for a certain type of heat treatment (e.g. dielectric heating), any bark must be included in the dimension
+measurement.
+Heat treatment
+Various energy sources or processes may be suitable to achieve the required treatment parameters. For
+example, conventional steam heating, kiln-drying, heat-enabled chemical pressure impregnation and
+dielectric heating (microwave, radio frequency) may all be considered heat treatments provided they
+meet the heat treatment parameters specified in this standard.
+NPPOs should ensure that treatment providers monitor the treatment temperature at a location likely to
+be the coldest, which will be the location taking the longest time to reach the target temperature in the
+wood, to ensure that the target temperature is maintained for the duration of treatment throughout the
+batch of wood being treated. The point at which a piece of wood is the coldest may vary depending on
+the energy source or process applied, the moisture content and the initial temperature distribution in the
+wood.
+When using dielectric heating as a heat source, the coldest part of the wood during treatment is usually
+the surface. In some situations (e.g. dielectric heating of wood of large dimensions that has been frozen
+and until the wood has thawed) the core may be the coldest part of the wood.
+Heat treatment using a conventional steam or dry kiln heat chamber (treatment code for the
+mark: HT)
+When using conventional heat chamber technology, the fundamental requirement is to achieve a
+minimum temperature of 56 C for a minimum duration of 30 continuous minutes throughout the entire
+profile of the wood (including its core).
+This temperature can be measured by inserting temperature sensors in the core of the wood.
+Alternatively, when using kiln-drying heat chambers or other heat treatment chambers, treatment
+schedules may be developed based on a series of test treatments during which the core temperature of
+the wood at various locations inside the heat chamber has been measured and correlated with chamber
+air temperature, taking into account the moisture content of the wood and other substantial parameters
+(such as species and thickness of the wood, air flow rate and humidity). The test series must demonstrate
+that a minimum temperature of 56 C is maintained for a minimum duration of 30 continuous minutes
+throughout the entire profile of the wood.
+Treatment schedules should be specified or approved by the NPPO.
+
+
+ISPM 15-12                                                              International Plant Protection Convention
+ Regulation of wood packaging material in international trade – Annex 1                            ISPM 15
+
+
+
+Treatment providers should be approved by the NPPO. NPPOs should consider the following factors
+that may be required for a heat chamber to meet the treatment requirements:
+-     The heat chamber is sealed and well insulated, including insulation in the floor.
+-     The heat chamber is designed in a manner that permits uniform flow of air around and through
+      the wood stack. Wood to be treated is loaded into the chamber in a manner that ensures adequate
+      air flow around and through the wood stack.
+-     Air deflectors in the chamber area and spacers in the stack of the wood are used as required to
+      ensure adequate air flow.
+-     Fans are used to circulate air during treatment, and air flow from these fans is sufficient to ensure
+      the core temperature of the wood is maintained at the specified level for the required duration.
+-     The coldest location within the chamber is identified for each load and temperature sensors are
+      placed there, either in the wood or in the chamber.
+-     Where the treatment is monitored using temperature sensors inserted into the wood, at least two
+      temperature sensors are recommended. These temperature sensors should be suitable for
+      measuring wood core temperature. The use of multiple temperature sensors ensures that any
+      failure of a temperature sensor is detected during the treatment process. The temperature sensors
+      are inserted at least 30 cm from the end of a piece of wood and penetrate to the centre of the wood.
+      For shorter boards or pallet blocks, temperature sensors are also inserted in the piece of wood
+      with the largest dimensions in a manner that ensures the temperature at the core is measured. Any
+      holes drilled in the wood to place the temperature sensors are sealed with appropriate material to
+      prevent interference in temperature measurement by convection or conduction. Special attention
+      should be paid to external influences on the wood such as nails or metal insertions that may lead
+      to incorrect measurements.
+-     Where the treatment schedule is based on monitoring chamber air temperature and is used for
+      treatment of different wood types (e.g. specific species and sizes), the schedule takes into account
+      the species, moisture content and thickness of the wood being treated. At least two temperature
+      sensors are recommended for monitoring the air temperature in the chamber treating wood
+      packaging according to treatment schedules.
+-     If the air flow in the chamber is routinely reversed during treatment, a greater number of
+      temperature sensors may be needed to account for a possible change in the location of the coldest
+      point.
+-     Temperature sensors and data recording equipment are calibrated in accordance with the
+      manufacturer’s instructions at a frequency specified by the NPPO.
+-     Temperatures are monitored and recorded during each treatment to ensure that the prescribed
+      minimum temperature is maintained for the required period of time. If the minimum temperature
+      is not maintained, corrective action needs to be taken to ensure that all wood is treated according
+      to heat treatment requirements (30 continuous minutes at 56 C); for example, the treatment is
+      restarted or the treatment time extended and, if necessary, the temperature raised. During the
+      treatment period, the frequency of temperature readings is sufficient to ensure that treatment
+      failures can be detected.
+-     For the purpose of auditing, the treatment provider keeps records of heat treatments and
+      calibrations for a period of time specified by the NPPO.
+Heat treatment using dielectric heating (treatment code for the mark: DH)
+Where dielectric heating (microwaves or radio waves) is used, wood packaging material must be heated
+to achieve a minimum temperature of 60 C for 1 continuous minute throughout the entire profile of the
+wood (including its surface). Treatment providers using dielectric heating must verify that their
+schedules achieve specified treatment parameters (taking into account the moisture content of the wood,
+its size and density, and the frequency of microwaves or radio waves).
+Treatment schedules should be specified or approved by the NPPO.
+
+
+International Plant Protection Convention                                                      ISPM 15-13
+ ISPM 15                                    Regulation of wood packaging material in international trade – Annex 1
+
+
+
+Treatment providers should be approved by the NPPO. NPPOs should consider the following factors
+that may be required for a dielectric heating chamber to meet the treatment requirements:
+-     Irrespective of whether dielectric heating is conducted as a batch process or as a continuous
+      (conveyor) process, the treatment is monitored in the wood where the temperature is likely to be
+      the coldest (normally on the surface) to ensure the target temperature is maintained. For measuring
+      the temperature, at least two temperature sensors are recommended to ensure that any failure of a
+      temperature sensor is detected.
+-     The treatment provider has initially validated that the wood temperatures reach or exceed 60 C
+      for 1 continuous minute throughout the entire profile of the wood (including its surface).
+-     For wood exceeding 5 cm in thickness, dielectric heating at 2.45 GHz requires bidirectional
+      application or multiple waveguides for the delivery of microwave energy to ensure uniformity of
+      heating.
+-     Temperature sensors and data recording equipment are calibrated in accordance with the
+      manufacturer’s instructions at a frequency specified by the NPPO.
+-     For the purpose of auditing, the treatment provider keeps records of heat treatments and
+      calibrations for a period of time specified by the NPPO.
+Methyl bromide treatment (treatment code for the mark: MB)
+NPPOs are encouraged to promote the use of alternative treatments approved in this standard4. Use of
+methyl bromide should take into account the CPM recommendation on the replacement or reduction of
+the use of methyl bromide as a phytosanitary measure (CPM, 2008).
+Wood packaging material containing a piece of wood exceeding 20 cm in cross-section at its smallest
+dimension must not be treated with methyl bromide.
+The fumigation of wood packaging material with methyl bromide must be in accordance with a schedule
+specified or approved by the NPPO that achieves the minimum concentration–time product5 (CT) over
+24 hours at the temperature and final residual concentration specified in Table 1. This CT must be
+achieved throughout the profile of the wood, including its core, although the concentration is measured
+in the ambient atmosphere. The minimum temperature of the wood and its surrounding atmosphere must
+not be less than 10 C and the minimum exposure time must not be less than 24 hours. Monitoring of
+gas concentrations must be carried out at a minimum at 2, 4 and 24 hours from the beginning of the
+treatment. In the case of longer exposure times and weaker concentrations, additional measurement of
+the gas concentrations should be recorded at the end of fumigation.
+If the CT is not achieved over 24 hours, corrective action needs to be taken to ensure the CT is reached;
+for example, the treatment is restarted or the treatment time extended for a maximum of two hours
+without adding more methyl bromide to achieve the required CT (see the footnote to Table 1).
+
+
+
+
+4
+  Contracting parties to the IPPC may also have obligations under the Montreal Protocol on Substances that Deplete
+the Ozone Layer (UNEP, 2000).
+5
+  The CT utilized for methyl bromide and sulphuryl fluoride treatments in this standard is the sum of the products
+of the concentration (g/m3) and time (h) over the duration of the treatment.
+
+ISPM 15-14                                                           International Plant Protection Convention
+ Regulation of wood packaging material in international trade – Annex 1                                      ISPM 15
+
+
+Table 1. Minimum required CT over 24 hours for wood packaging material fumigated with methyl bromide
+
+ Temperature (C)                            Minimum required CT                Minimum final concentration
+                                              (g∙h/m3) over 24 h                     (g/m3) after 24 h#
+
+ 21.0 or above                                         650                                    24
+ 16.0 – 20.9                                           800                                    28
+ 10.0 – 15.9                                           900                                    32
+# In circumstances when the minimum final concentration is not achieved after 24 hours, a deviation in the
+concentration of ~5% is permitted provided additional treatment time is added to the end of the treatment to
+achieve the prescribed CT.
+One example of a schedule that may be used for achieving the specified requirements is shown in
+Table 2.
+Table 2. Example of a treatment schedule that achieves the minimum required CT for wood packaging material
+treated with methyl bromide (initial doses may need to be higher in conditions of high sorption or leakage)
+
+ Temperature (C)          Dosage (g/m3)                       Minimum concentration (g/m3) at:
+
+                                                         2h                   4h                     24 h
+
+ 21.0 or above                   48                      36                    31                     24
+ 16.0 – 20.9                     56                      42                    36                     28
+ 10.0 – 15.9                     64                      48                    42                     32
+
+Treatment providers should be approved by the NPPO. NPPOs should consider the following factors
+that may be required for methyl bromide fumigation to meet the treatment requirements:
+-     Fans are used as appropriate during the gas distribution phase of fumigation to ensure equilibrium
+      is reached, and they are positioned to make certain the fumigant is rapidly and effectively
+      distributed throughout the fumigation enclosure (preferably within the first hour of application).
+-     The fumigation enclosure is not loaded beyond 80% of its volume.
+-     The fumigation enclosure is well sealed and as gas tight as possible. If fumigation is to be carried
+      out under sheets, these are made of gas-proof material and sealed appropriately at the seams and
+      at floor level.
+-     The fumigation site floor is impermeable to the fumigant; if it is not, gas-proof sheets are laid on
+      the floor.
+-     The use of a vaporizer to apply methyl bromide (“hot gassing”) in order to fully volatilize the
+      fumigant prior to its entry into the fumigation enclosure is recommended.
+-     Methyl bromide treatment is not carried out on stacked wood packaging material exceeding 20 cm
+      in cross-section at its smallest dimension. Therefore, stacked wood packaging material may need
+      separators to ensure adequate methyl bromide circulation and penetration.
+-     The concentration of methyl bromide in the air space is always measured at a location furthest
+      from the insertion point of the gas as well as at other locations throughout the enclosure (e.g. at
+      front bottom, centre middle and back top) to confirm that uniform distribution of the gas is
+      reached. Treatment time is not calculated until uniform distribution has been reached.
+-     When calculating methyl bromide dosage, compensation is made for any gas mixtures
+      (e.g. 2% chloropicrin) to ensure that the total amount of methyl bromide applied meets required
+      dose rates.
+-     Initial dose rates and post-treatment product handling procedures take account of likely methyl
+      bromide sorption by the treated wood packaging material or associated product (e.g. polystyrene
+      boxes).
+-     The measured or expected temperature of the product or the ambient air immediately before or
+      during treatment (whichever is the lowest) is used to calculate the methyl bromide dose.
+
+International Plant Protection Convention                                                             ISPM 15-15
+ ISPM 15                                       Regulation of wood packaging material in international trade – Annex 1
+
+
+
+-      Wood packaging material to be fumigated is not wrapped or coated in materials impervious to the
+       fumigant.
+-      Temperature and gas concentration sensors and data recording equipment are calibrated in
+       accordance with the manufacturer’s instructions at a frequency specified by the NPPO.
+-      For the purposes of auditing, the treatment provider keeps records of methyl bromide treatments
+       and calibrations for a period of time specified by the NPPO.
+Sulphuryl fluoride treatment (treatment code for the mark: SF)
+Wood packaging material containing a piece of wood exceeding 20 cm in cross-section at its smallest
+dimension must not be treated with sulphuryl fluoride. Wood packaging material with a moisture content
+higher than 75% (dry basis) must not be treated with sulphuryl fluoride.
+The fumigation of wood packaging material with sulphuryl fluoride must be in accordance with a
+schedule specified or approved by the NPPO that achieves the minimum CT5 over 24 or 48 hours at the
+target temperature and final residual concentration specified in Table 3. This CT must be achieved
+throughout the profile of the wood, including its core, although the concentration is measured in the
+ambient atmosphere. Small increases in the treatment time (not more than two hours) may be permitted
+to achieve the required CT if the minimum final concentration is not reached. The minimum temperature
+of the wood must not be lower than 20 °C and the minimum exposure time must not be less than the
+time stated for each temperature in Table 3. Monitoring of gas concentration must be carried out at a
+minimum of 2, 4, 24 and, when appropriate, 48 hours from the beginning of the treatment. In the case
+of longer exposure times and weaker concentrations, additional measurements of the gas concentrations
+should be recorded at the end of fumigation.
+If the CT is not achieved within a single 24 or 48 hour period (even if the minimum final concentration
+is achieved), corrective action should be taken. The treatment time may be extended for a maximum of
+two hours without adding more sulphuryl fluoride, or it may be restarted.
+Table 3. Minimum required CT over 24 or 48 hours for wood packaging material fumigated with sulphuryl fluoride
+
+          Temperature (°C)                  Minimum required CT                 Minimum final concentration
+                                                  (g∙h/m3)                                (g/m3)†
+
+        30 or above for 24 h                          1 400                                     41
+        20 or above for 48 h                          3 000                                     29
+† If the minimum final concentration is not achieved after 24 or 48 hours by the end of the treatment, a deviation in
+
+the concentration of ~5% is permitted, provided additional treatment time is added at the end of the treatment to
+achieve the prescribed CT.
+
+One example of a schedule that may be used for achieving the specified requirements is shown in
+Table 4.
+Table 4. Example of a treatment schedule that achieves the minimum required CT for wood packaging material
+treated with sulphuryl fluoride (initial dosage may need to be higher in conditions of high sorption or leakage)
+
+    Temperature        Minimum        Dosage                     Minimum concentration (g/m3) at:
+       (°C)            required        (g/m3)
+                          CT                        0.5 h     2h       4h       12 h     24 h        36 h    48 h
+                       (g∙h/m3)
+
+    30 or above           1 400          82           87       78       73       58       41         n/a      n/a
+    20 or above           3 000          120         124      112      104       82       58         41       29
+n/a, not applicable.
+
+
+
+
+ISPM 15-16                                                             International Plant Protection Convention
+ Regulation of wood packaging material in international trade – Annex 1                           ISPM 15
+
+
+
+Treatment providers should be approved by the NPPO. NPPOs should consider the following factors
+that may be required for sulphuryl fluoride fumigation to meet the treatment requirements:
+-     Fans are used as appropriate during the gas distribution phase of fumigation to ensure equilibrium
+      is reached, and they are positioned to make certain that the fumigant is rapidly and effectively
+      distributed throughout the fumigation enclosure (preferably within the first hour of application).
+-     The fumigation enclosure is not loaded beyond 80% of its volume.
+-     The fumigation enclosure is well sealed and as gas tight as possible. If fumigation is to be carried
+      out under sheets, these must be made of gas-proof material and sealed appropriately at the seams
+      and at floor level.
+-     The fumigation site floor is either impermeable to the fumigant or gas-proof sheets are laid on the
+      floor.
+-     Wood stacks need separators at least every 20 cm to ensure adequate sulphuryl fluoride
+      circulation and penetration.
+-     When calculating sulphuryl fluoride dosage, compensation is made for any gas mixtures (e.g.
+      carbon dioxide) to ensure that the total amount of pure fumigant applied meets the requirements
+      prescribed in the standard.
+-     The concentration of sulphuryl fluoride in the air space is always measured at a location furthest
+      from the insertion point of the gas as well as at other locations throughout the enclosure (e.g. at
+      front bottom, centre middle and back top) to confirm that uniform distribution of the gas is
+      reached. Treatment time is not calculated until uniform distribution has been reached.
+-     Initial dosage and post-treatment product handling procedures take into account likely sulphuryl
+      fluoride sorption by the treated wood packaging material or associated product.
+-     The measured temperature of the product or the ambient air (whichever is lower) is used to
+      calculate the sulphuryl fluoride dosage, and the temperature of the product must be at least 20 °C
+      (including at the wood core) throughout the duration of the treatment.
+-     Wood packaging material to be fumigated is not wrapped or coated in materials impervious to the
+      fumigant.
+-     Temperature and gas concentration sensors and data recording equipment are calibrated in
+      accordance with the manufacturer’s instructions at a frequency specified by the NPPO.
+      Instruments used for measuring the concentration of sulphuryl fluoride may be affected by
+      altitude, water vapour, carbon dioxide or temperature. These instruments need to be calibrated
+      specifically for sulphuryl fluoride.
+-     For the purpose of auditing, the treatment provider keeps records of sulphuryl fluoride treatments
+      and calibrations for a period of time specified by the NPPO.
+-     Personnel applying fumigation treatment should follow the label requirements for use of sulphuryl
+      fluoride.
+Adoption of alternative treatments and revisions of approved treatment schedules
+As new technical information becomes available, existing treatments may be reviewed and modified,
+and alternative treatments or a new treatment schedule for wood packaging material may be adopted by
+the CPM. If a new treatment or a revised treatment schedule is adopted for wood packaging material
+and incorporated into this ISPM, material treated under the previous treatment and/or schedule does not
+need to be re-treated or re-marked.
+
+
+
+
+International Plant Protection Convention                                                     ISPM 15-17
+ Regulation of wood packaging material in international trade – Annex 2                                           ISPM 15
+
+
+    This revised Annex 2 was adopted by the Thirteenth Session of the Commission on Phytosanitary Measures in April 2018.
+                                       The annex is a prescriptive part of the standard.
+
+ANNEX 2: The mark and its application (2018)
+A mark indicating that wood packaging material has been subjected to approved phytosanitary treatment
+in accordance with this standard6 comprises the following required components:
+-     the symbol
+-     a country code
+-     a producer/treatment provider code
+-     a treatment code using the appropriate abbreviation according to Annex 1 (HT, DH, MB or SF).
+Symbol
+The design of the symbol (which may have been registered under national, regional or international
+procedures, as either a trademark or a certification/collective/guarantee mark) must resemble closely
+that shown in the examples illustrated below and must be presented to the left of the other components.
+Country code
+The country code must be the International Organization for Standards (ISO) two-letter country code
+(shown in the examples as “XX”). It must be separated by a hyphen from the producer/treatment
+provider code.
+Producer/treatment provider code
+The producer/treatment provider code is a unique code assigned by the NPPO to the producer of the
+wood packaging material or treatment provider who applies the marks or the entity otherwise responsible
+to the NPPO for ensuring that appropriately treated wood is used and properly marked (shown in the
+examples as “000”). The number and order of digits and/or letters are assigned by the NPPO.
+Treatment code
+The treatment code is an IPPC abbreviation as provided in Annex 1 for the approved measure used and
+shown in the examples as “YY”. The treatment code must appear after the combined country and
+producer/treatment provider codes. It must appear on a separate line from the country code and
+producer/treatment provider code, or be separated by a hyphen if presented on the same line as the other
+codes.
+
+     Treatment code                              Treatment type
+
+     HT                                          Heat treatment
+     DH                                          Dielectric heating
+     MB                                          Methyl bromide
+     SF                                          Sulphuryl fluoride
+
+
+Application of the mark
+The size, font types used, and position of the mark may vary, but its size must be sufficient to be both
+visible and legible to inspectors without the use of a visual aid. The mark must be rectangular or square
+in shape and contained within a border line with a vertical line separating the symbol from the code
+components. To facilitate the use of stencilling, small gaps in the border, the vertical line, and elsewhere
+among the components of the mark, may be present.
+
+
+
+6
+ At import, countries should accept previously produced wood packaging material carrying a mark consistent with
+earlier versions of this standard.
+
+International Plant Protection Convention                                                                    ISPM 15-18
+ Regulation of wood packaging material in international trade – Annex 2                            ISPM 15
+
+
+
+No other information shall be contained within the border of the mark. If additional marks (e.g.
+trademarks of the producer, logo of the authorizing body) are considered useful to protect the use of the
+mark on a national level, such information may be provided adjacent to but outside of the border of the
+mark.
+The mark must be:
+-    legible
+-    durable and not transferable
+-    placed in a location that is visible when the wood packaging is in use, preferably on at least two
+     opposite sides of the wood packaging unit.
+The mark must not be hand drawn.
+The use of red or orange should be avoided because these colours are used in the labelling of dangerous
+goods.
+Where various components are integrated into a unit of wood packaging material, the resultant
+composite unit should be considered as a single unit for marking purposes. On a composite unit of wood
+packaging material made of both treated wood and processed wood material (where the processed
+component does not require treatment), it may be appropriate for the mark to appear on the processed
+wood material components to ensure that the mark is in a visible location and is of a sufficient size. This
+approach to the application of the mark applies only to composite single units, not to temporary
+assemblies of wood packaging material.
+Special consideration of legible application of the mark to dunnage may be necessary because treated
+wood for use as dunnage may not be cut to final length until loading of a conveyance takes place. It is
+important that shippers ensure that all dunnage used to secure or support commodities is treated and
+displays the mark described in this annex, and that the marks are clear and legible. Small pieces of wood
+that do not include all the required elements of the mark should not be used for dunnage. Options for
+marking dunnage appropriately include:
+-      application of the mark to pieces of wood intended for use as dunnage along their entire length at
+       very short intervals (NB: where very small pieces are subsequently cut for use as dunnage, the
+       cuts should be made so that an entire mark is present on the dunnage used)
+-      additional application of the mark to treated dunnage in a visible location after cutting, provided
+       that the shipper is authorized in accordance with section 4.
+The examples below illustrate some acceptable variants of the required components of the mark that is
+used to certify that the wood packaging material that bears such a mark has been subjected to an
+approved treatment. No variations in the symbol should be accepted. Variations in the layout of the mark
+should be accepted provided that they meet the requirements set out in this annex.
+Example 1
+
+
+
+
+International Plant Protection Convention                                                      ISPM 15-19
+ ISPM 15                                  Regulation of wood packaging material in international trade – Annex 2
+
+
+Example 2
+
+
+
+
+Example 3 (This represents a prospective example of a mark with the border with rounded corners.)
+
+
+
+
+Example 4 (This represents a prospective example of a mark applied by stencilling; small gaps may be present in
+the border, and the vertical line, and elsewhere among the components of the mark.)
+
+
+
+
+Example 5
+
+
+
+
+Example 6
+
+
+
+
+ISPM 15-20                                                         International Plant Protection Convention
+ ISPM 15                                 Regulation of wood packaging material in international trade – Appendix 1
+
+
+              This appendix is for reference purposes only and is not a prescriptive part of the standard.
+
+APPENDIX 1: Examples of methods of secure disposal of non-compliant wood
+packaging material
+Secure disposal of non-compliant wood packaging material is a risk management option that may be
+used by the NPPO of the importing country when an emergency action is either not available or is not
+desirable. The methods listed below are recommended for the secure disposal of non-compliant wood
+packaging material:
+(1) incineration, if permitted
+(2) deep burial in sites approved by appropriate authorities (NB: the depth of burial may depend on
+      climatic conditions and the pest intercepted, but is recommended to be at least 2 metres. The
+      material should be covered immediately after burial and should remain buried. Note, also, that
+      deep burial is not a suitable disposal option for wood infested with termites or some root
+      pathogens.)
+(3) processing (NB: Chipping should be used only if combined with further processing in a manner
+      approved by the NPPO of the importing country for the elimination of pests of concern, e.g. the
+      manufacture of oriented strand board.)
+(4) other methods endorsed by the NPPO as effective for the pests of concern
+(5) return to exporting country, if appropriate.
+In order to minimize the risk of introduction or spread of pests, secure disposal methods where required
+should be carried out with the least possible delay.
+
+
+
+
+ISPM 15-21                                                                International Plant Protection Convention
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+cultivated and wild plants by preventing the introduction and
+spread of pests. International travel and trade are greater than
+ever before. As people and commodities move around the
+world, organisms that present risks to plants travel with them.
+
+Organization
+RR There are over 180 contracting parties to the IPPC.
+
+RR Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+RR Nine regional plant protection organizations (RPPOs) work
+
+   to facilitate the implementation of the IPPC in countries.
+RR IPPC liaises with relevant international organizations to
+
+   help build regional and national capacities.
+RR The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+Food and Agriculture Organization of the United Nations
+IPPC Secretariat
+Viale delle Terme di Caracalla, 00153 Rome, Italy
+Tel: +39 06 5705 4812
+Email: ippc@fao.org | Web: www.ippc.int
+

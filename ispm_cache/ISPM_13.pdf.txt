@@ -1,0 +1,451 @@
+                                                                                                                        ISPM 13
+INTERNATIONAL STANDARD FOR PHYTOSANITARY MEASURES 13
+
+
+
+
+                                                                                                                         ENG
+
+
+
+
+                                                       Guidelines for the notification
+                                                              of non-compliance and
+                                                                   emergency action
+
+
+
+
+                                                                                   Produced by the Secretariat of the
+                                                                    International Plant Protection Convention (IPPC)
+ This page is intentionally left blank
+                    INTERNATIONAL STANDARDS FOR
+                       PHYTOSANITARY MEASURES
+
+
+
+
+              ISPM 13
+
+   Guidelines for the notification of
+non-compliance and emergency action
+
+
+
+
+                               Produced by the Secretariat of the
+                        International Plant Protection Convention
+                                 Adopted 2001; published 2021
+
+
+
+
+                                                    © FAO 2001
+ FAO encourages the use, reproduction and dissemination of material in this
+information product. Except where otherwise indicated, material may be copied,
+downloaded and printed for private study, research and teaching purposes, or for
+use in non-commercial products or services, provided that appropriate
+acknowledgement of FAO as the source and copyright holder is given and that
+FAO’s endorsement of users’ views, products or services is not implied in any
+way.
+When this ISPM is reproduced, it should be mentioned that current adopted
+versions of ISPMs are available for download on www.ippc.int.
+All requests for translation and adaptation rights, and for resale and other
+commercial use rights should be made via www.fao.org/contact-us/licence-
+request or addressed to copyright@fao.org.
+FAO    information    products are              available on    the   FAO   website
+(www.fao.org/publications) and can              be purchased   through publications-
+sales@fao.org.
+The designations The designations employed and the presentation of material in
+this information product do not imply the expression of any opinion whatsoever on
+the part of the Food and Agriculture Organization of the United Nations (FAO)
+concerning the legal or development status of any country, territory, city or area or
+of its authorities, or concerning the delimitation of its frontiers or boundaries. The
+mention of specific companies or products of manufacturers, whether or not these
+have been patented, does not imply that these have been endorsed or
+recommended by FAO in preference to others of a similar nature that are not
+mentioned. The views expressed in this information product are those of the
+author(s) and do not necessarily reflect the views or policies of FAO.
+
+
+
+
+Publication history
+This is not an official part of the standard.
+1995-05 TC-RPPOs added topic Notification of Interception / Non-compliance
+   (1995-002).
+1997-09 TC-RPPOs noted high priority topic.
+1999-10 ICPM-2 added topic Notification of Interceptions / Non-compliance.
+1999-12 EWG developed draft text.
+2000-05 ISC-1 revised draft text and approved for MC.
+2000-06 Sent for MC.
+2000-11 ISC-2 revised draft text for adoption.
+2001-04 ICPM-3 adopted standard.
+ISPM 13. 2001. Guidelines for the notification of non-compliance and emergency
+   action. Rome, IPPC, FAO.
+
+2010-07 IPPC Secretariat applied ink amendments as noted by CPM-5 (2010).
+2015-06 IPPC Secretariat incorporated ink amendments and reformatted
+   standards following revoking of standards procedure from CPM-10 (2015).
+2021-04 IPPC Secretariat applied ink amendments as noted by CPM-15 (2021).
+
+Publication history last updated: 2021-05
+ Guidelines for the notification of non-compliance and emergency action                                                                            ISPM 13
+
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................4
+
+INTRODUCTION ....................................................................................................................................4
+Scope ........................................................................................................................................................4
+References ................................................................................................................................................4
+Definitions ................................................................................................................................................4
+Outline of Requirements ..........................................................................................................................4
+
+REQUIREMENTS ...................................................................................................................................5
+1.     Purpose of Notifications ...................................................................................................................5
+2.     The Use of Notification Information ................................................................................................5
+3.     Provisions of the IPPC Related to Notification ................................................................................5
+4.     Basis for Notification........................................................................................................................6
+       4.1       Significant instances of non-compliance...........................................................................6
+       4.2       Emergency action ..............................................................................................................6
+5.     Timing of Notification ......................................................................................................................6
+6.     Information Included in a Notification .............................................................................................6
+       6.1      Required information ........................................................................................................7
+       6.2      Supporting information .....................................................................................................7
+       6.3      Forms, codes, abbreviations or acronyms .........................................................................7
+       6.4      Language ...........................................................................................................................7
+7.     Documentation and Means of Communication ................................................................................8
+8.     Pest Identification .............................................................................................................................8
+9.     Investigation of Non-Compliance and Emergency Action ...............................................................8
+       9.1       Non-compliance ................................................................................................................8
+       9.2       Emergency action ..............................................................................................................8
+10. Transit ...............................................................................................................................................8
+11. Re-export ..........................................................................................................................................9
+
+
+
+
+International Plant Protection Convention                                                                                                       ISPM 13-3
+ ISPM 13                                Guidelines for the notification of non-compliance and emergency action
+
+
+
+
+Adoption
+This standard was adopted by the Third Session of the Interim Commission on Phytosanitary
+Measures in April 2001.
+
+
+INTRODUCTION
+
+Scope
+This standard describes the actions to be taken by countries regarding the notification of:
+-      a significant instance of failure of a consignment to comply with specified phytosanitary import
+       requirements, including the detection of specified regulated pests
+-      a significant instance of failure of an imported consignment to comply with documentary
+       requirements for phytosanitary certification
+-      an emergency action taken on the detection in an imported consignment of a regulated pest not
+       listed as being associated with the commodity from the exporting country
+-      an emergency action taken on the detection in an imported consignment of organisms posing a
+       potential phytosanitary threat.
+
+
+References
+The present standard refers to International Standards for Phytosanitary Measures (ISPMs). ISPMs are
+available on the International Phytosanitary Portal (IPP) at https://www.ippc.int/core-
+activities/standards-setting/ispms.
+IPPC. 1997. International Plant Protection Convention. Rome, IPPC, FAO.
+
+Definitions
+Definitions of phytosanitary terms used in the present standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+
+Outline of Requirements
+The International Plant Protection Convention (IPPC) makes provision for contracting parties to report
+significant instances of non-compliance of consignments with phytosanitary import requirements,
+including those related to documentation or to report appropriate emergency action, which is taken on
+the detection in the imported consignment of an organism posing a potential phytosanitary threat. The
+importing contracting party is required to notify the exporting contracting party as soon as possible
+regarding significant instances of non-compliance and emergency actions applied to imported
+consignments. The notification should identify the nature of non-compliance in such a way that the
+exporting contracting party may investigate and make the necessary corrections. Importing contracting
+parties may request a report of the results of such investigations.
+Required information for notification includes the reference number, the date of notification, the
+identity of the national plant protection organizations (NPPOs) of the importing and exporting
+countries, the identity of the consignment and date of first action, the reasons for the action taken,
+information regarding the nature of non-compliance or emergency action, and the phytosanitary
+measures applied. Notification should be timely and follow a consistent format.
+An importing country should investigate any new or unexpected phytosanitary situation where
+emergency action is taken in order to determine if actions are justified and if changes in phytosanitary
+
+ISPM 13-4                                                        International Plant Protection Convention
+ Guidelines for the notification of non-compliance and emergency action                            ISPM 13
+
+
+
+requirements are needed. Exporting countries should investigate significant instances of non-
+compliance to determine the possible cause. Notifications for significant instances of non-compliance
+or emergency action associated with re-export are directed to the re-exporting country. Those
+associated with transit consignments are directed to the exporting country.
+
+
+REQUIREMENTS
+
+1.     Purpose of Notifications
+Notifications are provided by the importing country to the exporting country to identify significant
+failures of consignments to comply with specified phytosanitary import requirements or to report
+emergency action that is taken on the detection of a pest posing a potential threat. The use of
+notification for other purposes is voluntary, but in all instances should only be undertaken with the aim
+of international cooperation to prevent the introduction and/or spread of regulated pests (IPPC Articles
+I and VIII). In the case of non-compliance the notification is intended to help in investigating the cause
+of the non-compliance, and to facilitate steps to avoid recurrence.
+
+
+2.     The Use of Notification Information
+Notification is normally bilateral. Notifications and information used for notification are valuable for
+official purposes but may also be easily misunderstood or misused if taken out of context or used
+imprudently. To minimize the potential for misunderstandings or abuse, countries should be careful to
+ensure that notifications and information about notifications are distributed in the first instance only to
+the exporting country. In particular, the importing country may consult with the exporting country and
+provide the opportunity for the exporting country to investigate instances of apparent non-compliance,
+and correct as necessary. This should be done before changes in the phytosanitary status of a
+commodity or area, or other failures of phytosanitary systems in the exporting country are confirmed
+or reported more widely (see also good reporting practices for interceptions in ISPM 8 (Determination
+of pest status in an area)).
+
+
+3.     Provisions of the IPPC Related to Notification
+The establishment of systems for the routine practice of notification is based on several provisions of
+the IPPC, summarized as follows:
+-     Article VII.2(f) states, “Importing contracting parties shall, as soon as possible, inform the
+      exporting contracting party concerned or, where appropriate, the re-exporting contracting party
+      concerned, of significant instances of non-compliance with phytosanitary certification. The
+      exporting contracting party or, where appropriate, the re-exporting contracting party concerned,
+      should investigate and, on request, report the result of its investigation to the importing
+      contracting party concerned.”
+-     Article VII.6 states that contracting parties may take “appropriate emergency action on the
+      detection of a pest posing a potential threat to its territories or the report of such a detection.
+      Any such action shall be evaluated as soon as possible to ensure that its continuance is justified.
+      The action taken shall be immediately reported to contracting parties concerned, the Secretary,
+      and any regional plant protection organization of which the contracting party is a member.”
+-     Article VIII.1 states, “The contracting parties shall cooperate with one another to the fullest
+      practicable extent in achieving the aims of this Convention”.
+-     Article VIII.2 states, “Each contracting party shall designate a contact point for the exchange of
+      information connected with the implementation of this Convention.”
+Countries that are not contracting parties to the IPPC are encouraged to use notification systems
+described in this standard (IPPC Article XVIII).
+
+International Plant Protection Convention                                                       ISPM 13-5
+ ISPM 13                                Guidelines for the notification of non-compliance and emergency action
+
+
+
+4.    Basis for Notification
+In most instances, notification is provided as the result of the detection of regulated pests in imported
+consignments. There are also other significant instances of non-compliance that require phytosanitary
+action and notification. In new or unexpected phytosanitary situations, emergency actions may be
+taken which should also be notified to the exporting country.
+
+4.1   Significant instances of non-compliance
+Countries may agree bilaterally on what instances of non-compliance are considered significant for
+notification purposes. In the absence of such agreements, the importing country may consider the
+following to be significant:
+-      failure to comply with phytosanitary import requirements
+-      detection of regulated pests
+-      failure to comply with documentary requirements, including:
+           absence of phytosanitary certificates
+           uncertified alterations or erasures to phytosanitary certificates
+           serious deficiencies in information on phytosanitary certificates
+           fraudulent phytosanitary certificates
+-     prohibited consignments
+-     prohibited articles in consignments (e.g. soil)
+-     evidence of failure of specified treatments
+-     repeated instances of prohibited articles in small, non-commercial quantities carried by
+      passengers or sent by mail.
+Significant instances of non-compliance of a consignment with phytosanitary import requirements
+should be notified to the exporting country whether or not the consignment requires a phytosanitary
+certificate.
+
+4.2   Emergency action
+Emergency actions are taken on the detection in an imported consignment of:
+-    regulated pests not listed as being associated with the commodity from the exporting country
+-    organisms posing a potential phytosanitary threat.
+
+
+5.    Timing of Notification
+Notifications should be provided promptly once non-compliance or the need for emergency action has
+been confirmed and phytosanitary actions taken. Where there is a significant delay in confirming the
+reason for the notification (e.g. identification of an organism), a preliminary notification may be
+provided.
+
+
+6.    Information Included in a Notification
+Notifications should use a consistent format and include certain minimum information. NPPOs are
+encouraged to provide additional information where such information is considered relevant and
+important or has been specifically requested by the exporting country.
+
+
+
+
+ISPM 13-6                                                        International Plant Protection Convention
+ Guidelines for the notification of non-compliance and emergency action                        ISPM 13
+
+
+
+6.1    Required information
+Notifications should include the following information:
+-     Reference number. The reporting country should have a means of tracing the communication
+      sent to an exporting country. This could be a unique reference number or the number of the
+      phytosanitary certificate associated with the consignment.
+-     Date. The date on which notification is sent should be noted.
+-     Identity of the NPPO of the importing country
+-     Identity of the NPPO of the exporting country
+-     Identity of consignment. Consignments should be identified by the phytosanitary certificate
+      number if appropriate or by references to other documentation and including commodity and
+      scientific name (at least plant genus) for plants or plant products.
+-     Identity of consignee and consignor
+-     Date of first action on the consignment
+-     Specific information regarding the nature of the non-compliance and emergency action
+      including:
+            identity of pest (see also section 8 below)
+            where appropriate, whether part or all of the consignment is affected
+            problems with documentation
+            phytosanitary import requirements to which the non-compliance applies
+-     Phytosanitary actions taken. The phytosanitary actions should be specifically described and the
+      parts of the consignment affected by the actions identified.
+-     Authentication marks. The importing country should have a means for authenticating valid
+      notifications (e.g. stamp, seal, letterhead, authorized signature).
+
+6.2    Supporting information
+Upon request, supporting information should be made available to the exporting country and may
+include as appropriate:
+-     copy of the phytosanitary certificate or other relevant documents
+-     diagnostic results
+-     pest association, i.e. in which part of the consignment the pest was found or how it affects the
+      consignment
+-     other information deemed to be useful for the exporting country to be able to identify and
+      correct non-compliance.
+
+6.3    Forms, codes, abbreviations or acronyms
+Where forms, codes, abbreviations or acronyms are used in notification or supporting information,
+countries should make appropriate explanatory material available on request.
+
+6.4    Language
+The language(s) used for notification and supporting information will be the language(s) preferred by
+the notifying country except where bilaterally agreed otherwise. Where information is requested
+through contact points, information should be supplied in one of the FAO languages (IPPC Article
+XIX.3(e)).
+
+
+
+
+International Plant Protection Convention                                                   ISPM 13-7
+ ISPM 13                                Guidelines for the notification of non-compliance and emergency action
+
+
+
+7.    Documentation and Means of Communication
+The importing country should keep notification documents, supporting information and associated
+records for at least one year after the date of notification. Electronic notifications should be used for
+efficiency and expediency whenever possible.
+Notification should be sent to the IPPC contact point or, where a contact point has not been identified,
+to the NPPO of the exporting country unless bilateral arrangements exist which specify to whom the
+notification should be sent. Communication from official contact points is considered to be authentic
+unless the NPPO of the importing country indicates other official sources.
+
+
+8.    Pest Identification
+The identification of organisms detected in imported consignments is required to determine if they are,
+or should be, regulated pests and to thereby justify phytosanitary or emergency action. Appropriate
+identification may not be possible where:
+-      the specimen(s) are of a life stage or condition that makes them difficult to identify
+-      appropriate taxonomic expertise is not available.
+Where identifications are not possible the reason should be stated on the notification.
+When identifying pests, importing countries should:
+-    be able to describe, on request, the procedures used for diagnosis and sampling, including the
+     identity of the diagnostician and/or laboratory, and should retain, for an appropriate period (one
+     year following the notification or until necessary investigation has been carried out), evidence
+     such as appropriate specimens or material to allow validation of potentially controversial
+     determinations
+-    indicate the life stage of the pest and its viability where appropriate
+-    provide identification to species level where possible or to a taxonomic level that justifies the
+     official actions taken.
+
+
+9.    Investigation of Non-Compliance and Emergency Action
+
+9.1   Non-compliance
+The exporting country should investigate significant instances of non-compliance to determine the
+possible cause with a view to avoid recurrence. Upon request, the results of the investigation should be
+reported to the importing country. Where the results of the investigation indicate a change of pest
+status, this information should be communicated according to the good practices noted in ISPM 8.
+
+9.2   Emergency action
+The importing country should investigate the new or unexpected phytosanitary situation to justify the
+emergency actions taken. Any such action should be evaluated as soon as possible to ensure that its
+continuance is technically justified. If continuance of actions is justified, phytosanitary measures of
+the importing country should be adjusted, published and transmitted to the exporting country.
+
+
+10.   Transit
+For a consignment in transit, any instance of non-compliance with the requirements of the transit
+country or any emergency action taken should be notified to the exporting country. Where the transit
+country has reason to believe that the non-compliance or new or unexpected phytosanitary situation
+may be a problem for the country of final destination, the transit country may provide a notification to
+
+
+ISPM 13-8                                                        International Plant Protection Convention
+ Guidelines for the notification of non-compliance and emergency action                         ISPM 13
+
+
+
+the country of final destination. The country of final destination may copy its notifications to any
+transit country involved.
+
+
+11.    Re-export
+In cases associated with a phytosanitary certificate for re-export, the obligation and other provisions
+pertaining to the exporting country apply to the re-exporting country.
+
+
+
+
+International Plant Protection Convention                                                    ISPM 13-9
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+global plant resources and facilitate safe trade.
+The IPPC vision is that all countries have the capacity to
+implement harmonized measures to prevent pest introductions
+and spread, and minimize the impacts of pests on food
+security, trade, economic growth, and the environment.
+
+Organization
+◆ There are over 180 IPPC contracting parties.
+◆ Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+◆ 10 regional plant protection organizations (RPPOs) have
+
+   been established to coordinate NPPOs in various regions
+   of the world.
+◆ IPPC liaises with relevant international organizations to
+
+   help build regional and national capacities.
+◆ The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+International Plant Production Convention Secretariat
+ippc@fao.org | www.ippc.int
+
+Food and Agriculture Organization of the United Nations
+Rome, Italy
+

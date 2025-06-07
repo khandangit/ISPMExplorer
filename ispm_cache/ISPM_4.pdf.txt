@@ -1,0 +1,519 @@
+                                                                                                                  ISPM 4
+
+
+                                                                                                                  E NG
+                                             (IRSS) 4
+                                         MEASURES
+                             SUPPORT SYSTEM
+
+
+
+
+                                                             Requirements for
+                           PHYTOSANITARY
+
+
+
+
+                                                            the establishment
+                                                             of pest free areas
+                         AND
+                       FOR
+                  REVIEW
+              STANDARD
+  IMPLEMENTATION
+INTERNATIONAL
+
+
+
+
+                                                                             Produced by the Secretariat of the
+                                                        A     International Plant Protection Convention (IPPC)
+ This page is intentionally left blank
+                    INTERNATIONAL STANDARDS FOR
+                       PHYTOSANITARY MEASURES
+
+
+
+
+               ISPM 4
+
+Requirements for the establishment of
+          pest free areas
+
+
+
+
+                                Produced by the Secretariat of the
+                         International Plant Protection Convention
+                                  Adopted 2024; published 2024
+
+                                                     © FAO 2024
+ Required citation:
+IPPC Secretariat. 2024. Requirements for the establishment of pest free areas. International Standard for Phytosanitary Measures
+No. 4. Rome. FAO on behalf of the Secretariat of the International Plant Protection Convention.
+
+
+
+The designations employed and the presentation of material in this information product do not imply the expression of any opinion
+whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) concerning the legal or development
+status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. The
+mention of specific companies or products of manufacturers, whether or not these have been patented, does not imply that these
+have been endorsed or recommended by FAO in preference to others of a similar nature that are not mentioned.
+The views expressed in this information product are those of the author(s) and do not necessarily reflect the views or policies of
+FAO.
+© FAO, 2024
+
+
+
+
+Some rights reserved. This work is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO
+licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/icenses/by-nc-sa/3.0/igo/legalcode).
+Under the terms of this licence, this work may be copied, redistributed and adapted for non-commercial purposes, provided that
+the work is appropriately cited. In any use of this work, there should be no suggestion that FAO endorses any specific organization,
+products or services. The use of the FAO logo is not permitted. If the work is adapted, then it must be licensed under the same or
+equivalent Creative Commons licence. If a translation of this work is created, it must include the following disclaimer along with
+the required citation: “This translation was not created by the Food and Agriculture Organization of the United Nations (FAO).
+FAO is not responsible for the content or accuracy of this translation. The original English edition shall be the authoritative edition.”
+Disputes arising under the licence that cannot be settled amicably will be resolved by mediation and arbitration as described in
+Article 8 of the licence except as otherwise provided herein. The applicable mediation rules will be the mediation rules of the World
+Intellectual Property Organization https://www.wipo.int/amc/en/mediation/rules and any arbitration will be conducted in
+accordance with the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL).
+Third-party materials. Users wishing to reuse material from this work that is attributed to a third party, such as tables, figures or
+images, are responsible for determining whether permission is needed for that reuse and for obtaining permission from the
+copyright holder. The risk of claims resulting from infringement of any third-party-owned component in the work rests solely with
+the user.
+Sales, rights and licensing. FAO information products are available on the FAO website (https://www.fao.org/publications) and
+can be purchased through publications-sales@fao.org. Requests for commercial use should be submitted via:
+https://www.fao.org/contact-us/licence-request. Queries regarding rights and licensing should be submitted to: copyright@fao.org.
+When this ISPM is reproduced, it should be mentioned that current adopted versions of ISPMs are available for download on
+https://www.ippc.int.
+For official reference, policy-making or dispute avoidance and settlement purposes, the only ISPMs that may be referred to are
+those published under https://www.ippc.int/en/core-activities/standards-setting/ispms/#614.
+
+
+
+
+Publication history
+This is not an official part of the standard
+1993-05 Technical Consultation among Regional Plant                      2013-11 SC approved Specification 58.
+   Protection Organizations added topic Pest free areas                  2015-10 Secretariat revised Specification 58 to incorporate
+   (1993-001).                                                              task on references to ISPM 4 as requested by the 2014-
+1993-05 Expert working group developed draft text.                          11 SC.
+1994-05 CEPM-1 revised draft text and requested that                     2020-12 / 2021-01 Expert working group met virtually and
+   sufficient details be provided.                                          drafted standard.
+1995-05 CEPM-2 revised draft text for adoption.                          2021-05 SC revised and approved for first consultation.
+1995-11 28th FAO Conference adopted the standard.                        2021-07 First consultation.
+ISPM 4. 1995. Requirements for the establishment of pest                 2022-05 SC-7 revised           and   approved     for   second
+   free areas. IPPC Secretariat. Rome, FAO.                                 consultation.
+                                                                         2022-07 Second consultation.
+2015-06 IPPC Secretariat incorporated ink amendments
+   and reformatted standards following revoking of                       2022-10 Revision of the draft by the steward.
+   standards procedure from CPM-10 (2015).                               2022-11 SC revised.
+2017-04 CPM noted ink amendments to avoid the use of                     2023-05 SC revised and recommended the draft for
+   “trade partner”. The IPPC Secretariat incorporated the                   adoption by CPM.
+   ink amendments.                                                       2024-04 CPM-18 adopted the standard.
+2010-03 CPM-5 added topic Revision to ISPM 4                             ISPM 4. 2024. Requirements for the establishment of pest
+   (Requirements for the establishment of pest free areas)                  free areas. IPPC Secretariat. Rome, FAO.
+   (2009-002) to the work programme.
+                                                                         Publication history last updated: 2024-04
+2010-11 SC deferred.
+ Requirements for the establishment of pest free areas                                                                                               ISPM 4
+
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................4
+
+INTRODUCTION ....................................................................................................................................4
+Scope ........................................................................................................................................................4
+References ................................................................................................................................................4
+Definitions ................................................................................................................................................4
+Outline of requirements ............................................................................................................................4
+
+BACKGROUND ......................................................................................................................................4
+
+IMPACTS ON BIODIVERSITY AND THE ENVIRONMENT ............................................................5
+
+REQUIREMENTS ...................................................................................................................................5
+1.     Initiation of a pest free area ..............................................................................................................6
+       1.1        Pest to be controlled ..........................................................................................................6
+       1.2        Identification of the area ...................................................................................................6
+       1.3        Suitability of environmental conditions in the area...........................................................6
+2.     Establishment of the pest free area ...................................................................................................6
+       2.1      Determination of pest status in the area ............................................................................6
+       2.2      Controls on the movement of regulated articles ................................................................6
+       2.3      Establishment of buffer zones ...........................................................................................7
+       2.4      Official declaration of pest free area .................................................................................7
+3.     Maintenance of the pest free area .....................................................................................................7
+       3.1     Regulatory framework.......................................................................................................7
+       3.2     Surveillance for the maintenance of the pest free area ......................................................7
+       3.3     Notification of detection of the pest ..................................................................................7
+       3.4     Response to an outbreak....................................................................................................8
+       3.4.1   Delimiting survey to demarcate the outbreak area ............................................................8
+       3.4.2   Implementation of control measures .................................................................................8
+       3.4.3   Increased surveillance in the outbreak area .......................................................................8
+       3.5     Provisions for suspension, reinstatement or withdrawal of the pest free area status.........8
+4.     Regular review and verification of implementation .........................................................................9
+5.     Data collection, documentation and record-keeping ........................................................................9
+6.     Communication and stakeholder engagement ..................................................................................9
+7.     Recognition of pest free areas...........................................................................................................9
+
+
+
+
+International Plant Protection Convention                                                                                                        ISPM 4-3
+ ISPM 4                                                  Requirements for the establishment of pest free areas
+
+
+
+Adoption
+This standard was first adopted by the Twenty-Eighth Session of the FAO Conference in November
+1995. This first revision was adopted by the Eighteenth Session of the Commission on Phytosanitary
+Measures in April 2024 as the present standard.
+
+INTRODUCTION
+
+Scope
+This standard describes the requirements for initiating, establishing and maintaining pest free areas
+(PFAs) as a phytosanitary measure to support the phytosanitary certification of plants, plant products
+and other regulated articles exported from the PFA or, if technically justified, as a phytosanitary measure
+required by the national plant protection organization (NPPO) of an importing country for the protection
+of an endangered area in its territory.
+This standard does not cover pest free places of production or pest free production sites, the requirements
+for which can be found in ISPM 10 (Requirements for the establishment of pest free places of production
+and pest free production sites).
+
+References
+The present standard refers to ISPMs. ISPMs are available on the International Phytosanitary Portal
+(IPP) at www.ippc.int/core-activities/standards-setting/ispms.
+
+Definitions
+Definitions of phytosanitary terms used in this standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+Outline of requirements
+A PFA is a phytosanitary measure that may be used to facilitate safe trade and protect plant resources.
+National plant protection organizations should consider a PFA to be a phytosanitary measure that, when
+used alone, is sufficient for managing the risk associated with a specified pest.
+When initiating, establishing or maintaining a PFA, NPPOs should follow the requirements outlined in
+this standard. Requirements include programmes to establish and maintain a PFA, verification that PFA
+status has been attained or maintained, appropriate corrective actions for pest detections, proper
+documentation of these activities and appropriate record-keeping, and transparency and stakeholder
+communication.
+In this standard, “pest” is used to refer to a “pest or group of pests”, except where the text explicitly
+refers to one pest species or to a group of pests. Where an area being established or maintained as a PFA
+covers all or parts of several countries, references in this standard to the NPPO that establishes or
+maintains the PFA, or to the NPPO of the country in which the PFA is situated, apply to the NPPOs of
+all the countries in which the PFA is situated.
+
+BACKGROUND
+A PFA is recognized as a pest risk management option that contracting parties may consider
+implementing as a phytosanitary measure to protect the plant resources of an area for agricultural,
+forestry or ecological conservation purposes, facilitate safe trade, or increase the market-access
+opportunities for exporting countries. Pest free areas can offer a cost-effective way for NPPOs and
+industry in both importing and exporting countries to manage pest risk.
+
+
+
+ISPM 4-4                                                         International Plant Protection Convention
+ Requirements for the establishment of pest free areas                                               ISPM 4
+
+
+
+According to Article IV.2(e) of the IPPC, the responsibility for the designation, maintenance and
+surveillance of PFAs lies with NPPOs. The operational principles outlined in ISPM 1 (Phytosanitary
+principles for the protection of plants and the application of phytosanitary measures in international
+trade) also require contracting parties to take into account the status of an area (e.g. PFA or area with a
+pest status of “absent” for the targeted pest) when determining phytosanitary measures for imports from
+that area.
+A PFA may be applied to an entire country or a part or parts of it. A PFA may also cover areas in several
+adjacent countries. Within a single country, more than one PFA may be established for the same pest,
+depending on the geography of the country, the distribution of the pest and its hosts, and the biology of
+the pest.
+When a PFA is established, it is usually for one pest species, but a PFA may also be established for a
+defined group of pests with similar biology.
+
+IMPACTS ON BIODIVERSITY AND THE ENVIRONMENT
+This standard may contribute to the protection of biodiversity and the environment by preventing the
+introduction of regulated pests into an area. When establishing and maintaining PFAs, countries are
+encouraged to consider phytosanitary procedures that minimize impact on the environment.
+
+REQUIREMENTS
+A PFA should be considered a phytosanitary measure that, when used alone, is sufficient for managing
+the pest risk associated with a specified pest. Where a PFA has been established and maintained in
+accordance with the requirements of this standard, additional phytosanitary measures in relation to the
+pest should not be imposed.
+The requirements that should be met for a PFA to be established and maintained, and used as a
+phytosanitary measure for trade, are detailed below. Depending on the pest concerned, an individual or
+a combination of measures may be used to meet these requirements.
+Requirements for the establishment and maintenance of a PFA by an NPPO include:
+-     programmes to establish a PFA;
+-     programmes to maintain PFA status;
+-     verification that a PFA has been attained and its status is maintained;
+-     corrective actions for detections of the specified pest;
+-     documentation of these activities and appropriate record-keeping; and
+-     transparency and communication with other NPPOs and stakeholders.
+The following elements should be considered when establishing and maintaining a PFA:
+-     the necessity to base measures on the biology of the pest, the relevant pathways and the
+      characteristics of the area;
+-     the availability of appropriate surveillance tools, technology and trained personnel to detect and
+      identify the pest;
+-     the existence of an appropriate regulatory framework to support the establishment and
+      maintenance of the PFA;
+-     the support from relevant stakeholders, such as domestic industries and local regulatory bodies;
+      and
+-     the importance of communicating with and raising awareness among other NPPOs, stakeholders
+      and the general public.
+
+
+
+
+International Plant Protection Convention                                                         ISPM 4-5
+ ISPM 4                                                    Requirements for the establishment of pest free areas
+
+
+
+In addition, NPPOs may wish to consider the feasibility of establishing and maintaining the PFA in
+terms of resource availability (economic, human and technical) and the cost benefit.
+
+1.    Initiation of a pest free area
+1.1   Pest to be controlled
+When initiating the establishment of a PFA, an NPPO should first specify the pest that is to be controlled
+(including its scientific name) and identify valid detection and diagnostic methods and relevant aspects
+of its biology.
+
+1.2   Identification of the area
+The area being considered for a PFA may be a part or parts of a country, the entire country, or all or part
+of several countries. Pest free areas are generally delimited by readily recognizable boundaries,
+considered to coincide acceptably with a pest’s biological limits. These may be administrative
+(e.g. country, province, commune or property boundaries) or they may be natural barriers such as bodies
+of water, mountains, deserts or other geographical features that prevent pest movement from one area
+to another.
+The area should be described specifically enough to allow it to be readily identified. This is important
+when the NPPO is providing evidence to support the claim that the area is free of the pest, but also when
+the NPPO is subsequently reporting the status of the targeted pest in the PFA and when raising public
+awareness.
+
+1.3   Suitability of environmental conditions in the area
+The NPPO of the country in which the area is situated should determine the availability of host plants
+in the area. Potential differences in host susceptibility in the area, the climatic suitability of the area, and
+the potential for entry and establishment of the pest in the area should also be considered.
+
+2.    Establishment of the pest free area
+2.1   Determination of pest status in the area
+Once the pest has been specified and the area identified, the NPPO should determine the pest status in
+the area by conducting surveillance in accordance with the requirements outlined in ISPM 8
+(Determination of pest status in an area) and ISPM 6 (Surveillance).
+If an exporting country has declared a pest to be absent in an area in accordance with ISPM 8, then
+establishing a PFA in that area should not be required, unless there is technical justification by importing
+countries.
+
+2.2   Controls on the movement of regulated articles
+To prevent the entry of the pest into the area, the pest should be regulated in relation to the area, the
+potential pathways should be identified and appropriate controls on the movement of regulated articles
+should be established. The movement controls should depend on the assessed pest risk, including the
+probability of pest establishment. Such controls should include:
+-     regulation of the pathways and articles that require control;
+-     imposition of domestic restrictions, phytosanitary import requirements, or other measures to
+      control the movement of regulated articles into or through the area; and
+-     inspection and testing of regulated articles where technically justified, examination of the relevant
+      documentation and, where necessary for cases of non-compliance, the application of appropriate
+      measures.
+
+
+
+
+ISPM 4-6                                                            International Plant Protection Convention
+ Requirements for the establishment of pest free areas                                               ISPM 4
+
+
+
+2.3   Establishment of buffer zones
+Where the geographical isolation of the area is not adequate to prevent the natural spread of the pest into
+it, the establishment of a buffer zone should be considered. The population of the pest in the buffer zone
+should be maintained at or below a specified level, which should be verified by surveillance. The extent
+of the buffer zone should be determined by the NPPO, based on the distance over which the likely
+natural spread of the pest population to the area could not occur during the season when hosts are
+available. The NPPO should describe, with the use of supporting maps, the boundaries of the buffer
+zone.
+
+2.4   Official declaration of pest free area
+When the pest status is determined as absent (in accordance with ISPM 8) or eradication of the pest from
+the area is achieved (in accordance with ISPM 9 (Guidelines for pest eradication programmes)), the
+NPPO should make an official declaration that the area is free from the pest. All internal management
+procedures and measures to maintain the PFA (see section 3) should be in place before any declaration
+is made.
+
+3.    Maintenance of the pest free area
+The NPPO of the country in which the PFA is situated should set up a programme to ensure maintenance
+of the PFA. This programme should be risk-based and should incorporate at least the following elements:
+a regulatory framework to control the movement of regulated articles; surveillance and collection of
+relevant data to inform the management of the PFA, including outbreak management; a framework for
+reporting pest detections; and a corrective action plan in case of an outbreak, with associated provisions
+for suspension and reinstatement of the PFA status.
+
+3.1   Regulatory framework
+The regulation of the pest through the controls on the movement of regulated articles (see section 2.2)
+should be sufficient to prevent its entry into the PFA. Where appropriate, buffer zones should be
+established to ensure early detection of the spread of the pest into the vicinity of the PFA. The measures
+should also allow traceability of regulated articles introduced into the PFA or moving within the PFA
+so that the appropriate corrective actions can be taken in a timely manner.
+
+3.2   Surveillance for the maintenance of the pest free area
+Surveillance should be conducted on a regular basis to verify that the absence of the pest from the PFA
+is maintained.
+The decision about whether general surveillance for the pest is sufficient or specific surveillance is
+needed should be based on the risk of the pest’s entry and establishment in the PFA and depends on the
+biology of the pest, the relevant pathways and the characteristics of the PFA.
+General surveillance may be sufficient in cases where the pest has never been introduced into the PFA,
+nor into the surrounding areas, and there have been no records of the pest’s presence in the PFA.
+Specific surveillance to detect possible outbreaks of the pest at an early stage should be the standard
+procedure in all other cases. The type and frequency of the detection surveys should be based on an
+assessment of the potential for pest entry and establishment in the PFA and should allow detection of
+the pest with an appropriate level of confidence.
+
+3.3   Notification of detection of the pest
+A reporting framework should be established to ensure that detections of the pest in the PFA are
+immediately notified to the NPPO (or other competent authority delegated by the NPPO) and officially
+confirmed. In the event of immediate or potential danger of pest spread, such as when an outbreak occurs
+or a non-compliant commodity is intercepted, the relevant NPPOs should follow the guidance in
+
+
+International Plant Protection Convention                                                         ISPM 4-7
+ ISPM 4                                                  Requirements for the establishment of pest free areas
+
+
+
+ISPM 13 (Guidelines for the notification of non-compliance and emergency action) and ISPM 17 (Pest
+reporting) and relevant bilateral arrangements.
+
+3.4   Response to an outbreak
+Preparedness for rapid intervention may be ensured by developing, in advance, a contingency plan to
+support the development and implementation of a corrective action plan in the event of an outbreak. The
+contingency plan may detail the triggers for corrective actions, plans for rapid technical assessment of
+the situation, the availability of financial and human resources, the roles and responsibilities of the
+parties concerned, and the operational activities that are likely to be needed. To assist in preparedness,
+regular simulation exercises may be used to review the effectiveness of the contingency plan.
+In the event of the pest being detected in the PFA, the NPPO should determine, based on survey results,
+the corrective actions to be taken. An eradication programme should be initiated for an outbreak of a
+pest, but not for an interception when the consignment containing the pest can be immediately destroyed,
+or where evidence indicates that there is no risk of the pest establishing or causing economic damage.
+An eradication programme should follow ISPM 9 and include the following steps.
+
+3.4.1 Delimiting survey to demarcate the outbreak area
+As soon as the detection of the pest outbreak has been officially confirmed in the PFA, a delimiting
+survey should be conducted to determine the boundary of the infested area. Based on this determination
+and an assessment of the pest biology, the relevant pathways and the characteristics of the PFA, an
+outbreak area within the PFA should be demarcated and the PFA status should be temporarily suspended
+therein. This demarcated outbreak area should consist of the infested area surrounded by a buffer zone,
+the size of which should depend on the biology of the pest, the availability of host plants and the
+ecological conditions.
+
+3.4.2 Implementation of control measures
+Control measures should be applied to prevent the pest moving out of the outbreak area by human
+activities (e.g. through the movement of infested host plants or plant products, or contaminated means
+of conveyance) or, to the extent that is reasonably achievable, by natural spread.
+Measures to eradicate the pest should be implemented in accordance with ISPM 9.
+
+3.4.3 Increased surveillance in the outbreak area
+Surveys should be used in the outbreak area to determine and record the distribution of the pest and its
+population dynamics, and to assess the effectiveness of the eradication measures. This level of survey
+should be maintained until the pest is eradicated from the outbreak area.
+
+3.5   Provisions for suspension, reinstatement or withdrawal of the pest free area status
+Criteria for successful eradication in accordance with ISPM 9 should be established in advance of the
+need to eradicate an outbreak. These criteria should include the intensity of the survey in the outbreak
+area and the minimum period that the outbreak area needs to be free from the pest before lifting the
+suspension of the PFA.
+If the criteria are fulfilled, then eradication may be officially declared successful and the temporary
+control and eradication measures may be lifted. The status of the full PFA may then be reinstated.
+If the criteria for eradication within the outbreak area cannot be fulfilled within a reasonable time frame
+(as determined by the relevant NPPO in advance), then either the PFA status should be withdrawn or
+the delimitation of the PFA should be reviewed.
+
+
+
+
+ISPM 4-8                                                         International Plant Protection Convention
+ Requirements for the establishment of pest free areas                                              ISPM 4
+
+
+
+4.    Regular review and verification of implementation
+Once the PFA is established, including the administrative activities, the performance of the PFA
+maintenance programme should be regularly reviewed by the NPPO to verify correct implementation
+of the maintenance programme. This review should allow the NPPO to find and correct deficiencies,
+incorporate any new and relevant information on the pest or associated pathways, and adjust and
+improve the maintenance programme accordingly.
+Traceability procedures for the movement of regulated articles should allow the verification of their
+origin and conformity with the phytosanitary requirements set for the PFA.
+
+5.    Data collection, documentation and record-keeping
+The data from the surveillance (e.g. time of survey, number and type of plants inspected, number of
+samples taken for inspection, number of samples taken for laboratory analysis, diagnostic protocols
+used, data analysis methods used, results of the analyses, and other relevant information as required by
+ISPM 6) should be stored and kept. To facilitate traceability and verification, this information should be
+made available for as long as the PFA is based on these data.
+The measures used to establish and maintain the PFA should be adequately documented. The
+documentation should be reviewed regularly, updated as needed, and include any amendments to the
+PFA maintenance programme. Records of the procedures to establish, implement and maintain
+corrective actions should be kept as needed or for at least 24 months, depending on the biology of the
+pest and the duration of the commodity being moved from the PFA.
+
+6.    Communication and stakeholder engagement
+Individuals, groups or organizations other than the NPPO of the country in which the PFA is situated
+can also affect, or be affected by, the actions to establish and maintain the PFA. The NPPO may establish
+partnerships with stakeholders, which may include seeking contributions of resources.
+Information about the establishment and maintenance of the PFA, including information about the
+methodology used, results of surveys and pest diagnostics, and other relevant information supporting
+the PFA claim, should be made available on request to other NPPOs and, if appropriate, to relevant
+stakeholders.
+Maps and information about the measures applied to maintain the PFA may be communicated to relevant
+stakeholders.
+To achieve the support of the community, NPPOs are encouraged to raise public awareness about PFAs
+in their territory, including the framework for reporting detections or cases of suspected presence of the
+pest in the PFAs, measures applied in the PFAs, and the importance of maintaining the PFAs.
+
+7.    Recognition of pest free areas
+Recognition of PFAs should take place in accordance with ISPM 29 (Recognition of pest free areas and
+areas of low pest prevalence).
+
+
+
+
+International Plant Protection Convention                                                        ISPM 4-9
+ IPPC
+The International Plant Protection Convention (IPPC)
+is an international plant-health agreement that aims to
+protect global plant resources and facilitate safe trade.
+The IPPC vision is that all countries have the capacity
+to implement harmonized measures to prevent pest
+introductions and spread, and minimize the impacts
+of pests on food security, trade, economic growth, and
+the environment.
+
+
+Organization
+» There are over 180 IPPC contracting parties.
+» Each contracting party has a national plant protection
+  organization (NPPO) and an official IPPC contact point.
+» Ten regional plant protection organizations (RPPOs)
+  have been established to coordinate NPPOs in various
+  regions of the world.
+» The IPPC Secretariat liaises with relevant international
+  organizations to help build regional and national
+  capacities.
+» The secretariat is provided by the Food and Agriculture
+  Organization of the United Nations (FAO).
+
+
+
+
+International Plant Protection Convention Secretariat
+ippc@fao.org | www.ippc.int
+
+Food and Agriculture Organization of the United Nations
+Rome, Italy
+

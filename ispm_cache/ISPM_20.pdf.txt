@@ -1,0 +1,1377 @@
+                                                                                                               ISPM 20
+INTERNATIONAL STANDARD FOR PHYTOSANITARY MEASURES 20
+
+
+
+
+                                                                                                                ENG
+
+
+
+
+                                                            Guidelines for a
+                                                       phytosanitary import
+                                                          regulatory system
+
+
+
+
+                                                                          Produced by the Secretariat of the
+                                                           International Plant Protection Convention (IPPC)
+ This page is intentionally left blank
+                    INTERNATIONAL STANDARDS FOR
+                       PHYTOSANITARY MEASURES
+
+
+
+
+              ISPM 20
+
+Guidelines for a phytosanitary import
+         regulatory system
+
+
+
+
+                               Produced by the Secretariat of the
+                        International Plant Protection Convention
+                                 Adopted 2023; published 2023
+
+
+
+
+                                                    © FAO 2023
+ Required citation:
+IPPC Secretariat. 2023. Guidelines for a phytosanitary import regulatory system. International Standard for Phytosanitary
+Measures No. 20. Rome. FAO on behalf of the Secretariat of the International Plant Protection Convention.
+
+
+
+The designations employed and the presentation of material in this information product do not imply the expression of any
+opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) concerning the legal
+or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers
+or boundaries. The mention of specific companies or products of manufacturers, whether or not these have been patented,
+does not imply that these have been endorsed or recommended by FAO in preference to others of a similar nature that
+are not mentioned.
+The views expressed in this information product are those of the author(s) and do not necessarily reflect the views or
+policies of FAO.
+© FAO, 2023
+
+
+
+
+Some rights reserved. This work is made available under the Creative Commons Attribution-NonCommercial-ShareAlike
+3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/icenses/by-nc-sa/3.0/igo/legalcode).
+Under the terms of this licence, this work may be copied, redistributed and adapted for non-commercial purposes, provided
+that the work is appropriately cited. In any use of this work, there should be no suggestion that FAO endorses any specific
+organization, products or services. The use of the FAO logo is not permitted. If the work is adapted, then it must be
+licensed under the same or equivalent Creative Commons licence. If a translation of this work is created, it must include
+the following disclaimer along with the required citation: “This translation was not created by the Food and Agriculture
+Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The
+original English edition shall be the authoritative edition.”
+Disputes arising under the licence that cannot be settled amicably will be resolved by mediation and arbitration as
+described in Article 8 of the licence except as otherwise provided herein. The applicable mediation rules will be the
+mediation rules of the World Intellectual Property Organization www.wipo.int/amc/en/mediation/rules and any arbitration
+will be conducted in accordance with the Arbitration Rules of the United Nations Commission on International Trade Law
+(UNCITRAL).
+Third-party materials. Users wishing to reuse material from this work that is attributed to a third party, such as tables,
+figures or images, are responsible for determining whether permission is needed for that reuse and for obtaining
+permission from the copyright holder. The risk of claims resulting from infringement of any third-party-owned component
+in the work rests solely with the user.
+Sales, rights and licensing. FAO information products are available on the FAO website (www.fao.org/publications) and
+can be purchased through publications-sales@fao.org. Requests for commercial use should be submitted via:
+www.fao.org/contact-us/licence-request. Queries regarding rights and licensing should be submitted to:
+copyright@fao.org.
+When this ISPM is reproduced, it should be mentioned that current adopted versions of ISPMs are available for download
+on www.ippc.int.
+For official reference, policy-making or dispute avoidance and settlement purposes, the only ISPMs that may be referred
+to are those published under www.ippc.int/en/core-activities/standards-setting/ispms/#614.
+ Publication history
+This is not an official part of the standard
+1995-09 Technical Consultation among Regional Plant            2015-05 SC approved draft for consultation.
+   Protection Organizations added topic Import regulations     2015-07 First consultation.
+   (1995-003).
+                                                               2016-02 Steward reviewed consultation comments and
+1996-1997 IPPC secretariat developed draft text.                  revised draft.
+1997-10 CEPM-4 requested further revision of the draft text.   2016-05 SC-7 approved draft as an annex to ISPM 20 for
+1998-05 CEPM-5 revised draft text.                                consultation.
+2000-05 Interim Standards Committee (ISC) requested re-        2016-07 Second consultation.
+   drafting.                                                   2016-11 SC revised draft and recommended to CPM-12
+2001-05 ISC-3 recommended re-drafting by expert working           (2017) for adoption.
+   group (EWG).                                                2017-04 CPM-12 adopted Annex 1 to ISPM 20.
+2002-04 EWG developed draft text.                              ISPM 20. Annex 1. 2017. Arrangements for the verification
+2002-11 Standards Committee (SC) discussed the matter             of compliance of consignments by the importing country
+   of citrus canker.                                              in the exporting country. Rome, IPPC Secretariat, FAO.
+2002-2003 Small working group revised draft text via email.
+                                                               2017-05 IPPC Secretariat made an editorial change in the
+2003-05 SC-7 revised draft text and approved for                  Adoption section.
+   consultation.
+                                                               2017-06 IPPC Secretariat corrected a formatting issue.
+2003-05 First consultation.
+                                                               2019-04 CPM-14 noted and IPPC Secretariat incorporated
+2003-11 SC revised draft text for adoption.                       ink amendments to the term “contamination” and its
+2004-04 ICPM-6 adopted the standard.                              derivatives.
+ISPM 20. 2004. Guidelines for a phytosanitary import
+   regulatory system. Rome, IPPC Secretariat, FAO.             2008-04 CPM-3 added the topic Use of specific import
+                                                                  authorization (Annex to ISPM 20: Guidelines for a
+2013-08 IPPC Secretariat applied ink amendments as                phytosanitary import regulatory system) (2008-006).
+   noted by CPM-8 (2013).                                      2016-11    Standards     Committee      (SC)     approved
+2014-05 IPPC Secretariat corrected a mistake in the table         Specification 64 (Use of specific import authorizations)
+   of contents.                                                   via e-decision (2016_eSC_May_05).
+2015-06 IPPC Secretariat incorporated ink amendments           2021-02 Expert working group met virtually and drafted the
+and reformatted standards following revoking of standards         annex.
+procedure from CPM-10 (2015).                                  2021-05 SC revised and approved for first consultation.
+                                                               2021-07 First consultation
+2005-04 CPM-7 added topic Pre-clearance for regulated
+   pests (2005-003).                                           2022-05 SC-7 revised          and   approved   for   second
+                                                                  consultation.
+2006-01 Draft specification submitted to consultation.
+                                                               2022-07 Second consultation.
+2006-11 SC approved specification.
+                                                               2022-11 SC revised and recommended the draft for
+2008-09 EWG drafted annex.                                        adoption by CPM.
+2011-05 SC reviewed draft and returned to steward.             2023-03 CPM-17 adopted the Annex 2 to ISPM 20.
+2012-04 SC reviewed draft and agreed that additional work      ISPM 20. Annex 2. 2023. Use of specific import
+   was needed.                                                    authorizations. Rome, IPPC Secretariat, FAO.
+2012-12 Steward revised draft with small SC group.
+2013-05 SC postponed consideration of draft until concepts     2023-04 IPPC Secretariat made minor punctuation and
+   related to pre-clearance had been clarified.                   capitalization amendments to align with IPPC and FAO
+                                                                  style, and corrected a spelling mistake.
+2014-05 SC discussed concepts related to pre-clearance.
+2014-11 SC discussed concepts and definitions related to       Publication history last updated: 2023-04
+   pre-clearance.
+ ISPM 20                                                                          Guidelines for a phytosanitary import regulatory system
+
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................7
+
+INTRODUCTION ....................................................................................................................................7
+Scope ........................................................................................................................................................7
+References ................................................................................................................................................7
+Definitions ................................................................................................................................................7
+Outline of requirements ............................................................................................................................7
+
+REQUIREMENTS ...................................................................................................................................8
+1.     Objective...........................................................................................................................................8
+2.     Structure............................................................................................................................................8
+3.     Rights, obligations and responsibilities ............................................................................................8
+       3.1       International agreements, principles and standards ...........................................................8
+       3.2       Regional cooperation ........................................................................................................9
+4.     Regulatory framework ......................................................................................................................9
+       4.1      Regulated articles ..............................................................................................................9
+       4.2      Phytosanitary measures for regulated articles .................................................................10
+       4.2.1    Phytosanitary measures for consignments to be imported ..............................................10
+       4.2.1.1 Provision for special imports...........................................................................................11
+       4.2.1.2 Pest free areas, pest free places of production, pest free production sites, areas of low pest
+                prevalence and official control programmes ...................................................................11
+       4.2.2    Import authorization ........................................................................................................12
+       4.2.3    Prohibitions .....................................................................................................................12
+       4.3      Consignments in transit ...................................................................................................12
+       4.4      Measures concerning non-compliance and emergency action ........................................13
+       4.5      Other elements that may require a regulatory framework ...............................................13
+       4.6      Legal authority for the NPPO..........................................................................................13
+5.     Operation of a phytosanitary import regulatory system .................................................................14
+       5.1       Management and operational responsibilities of the NPPO ............................................14
+       5.1.1     Administration.................................................................................................................14
+       5.1.2     Regulatory development and revision .............................................................................14
+       5.1.3     Surveillance .....................................................................................................................14
+       5.1.4     Pest risk analysis and pest listing ....................................................................................14
+       5.1.5     Audit and compliance procedures ...................................................................................14
+       5.1.5.1 Audit of procedures in the exporting country .................................................................14
+       5.1.5.2 Compliance procedures at import ...................................................................................15
+       5.1.5.2.1 Inspection ........................................................................................................................15
+       5.1.5.2.2 Sampling .........................................................................................................................16
+       5.1.5.2.3 Testing including laboratory testing ................................................................................16
+       5.1.6     Non-compliance and emergency action ..........................................................................16
+       5.1.6.1 Action in case of non-compliance ...................................................................................16
+       5.1.6.2 Emergency action ............................................................................................................17
+
+ISPM 20-4                                                                                       International Plant Protection Convention
+ Guidelines for a phytosanitary import regulatory system                                                                                    ISPM 20
+
+
+
+      5.1.6.3       Reporting of non-compliance and emergency action ......................................................18
+      5.1.6.4       Withdrawal or modification of phytosanitary regulation ................................................18
+      5.1.7         Systems for authorization of non-NPPO personnel ........................................................18
+      5.1.8         International liaison .........................................................................................................18
+      5.1.9         Notification and dissemination of regulatory information ..............................................18
+      5.1.9.1       New or revised phytosanitary regulations .......................................................................18
+      5.1.9.2       Dissemination of established regulations ........................................................................19
+      5.1.10        National liaison ...............................................................................................................19
+      5.1.11        Settlement of disputes .....................................................................................................19
+      5.2           Resources of the NPPO ...................................................................................................19
+      5.2.1         Staff, including training...................................................................................................19
+      5.2.2         Information......................................................................................................................19
+      5.2.3         Equipment and facilities ..................................................................................................19
+
+DOCUMENTATION, COMMUNICATION AND REVIEW ..............................................................20
+6.    Documentation................................................................................................................................20
+      6.1    Procedures .......................................................................................................................20
+      6.2    Records............................................................................................................................20
+7.    Communication ..............................................................................................................................20
+8.    Review mechanism .........................................................................................................................20
+      8.1     System review .................................................................................................................20
+      8.2     Incident review ................................................................................................................21
+ANNEX 1: Arrangements for the verification of compliance of consignments by the importing country
+   in the exporting country (2017) ......................................................................................................22
+1.    General requirements for an arrangement ......................................................................................22
+2.    Process for establishing an arrangement .........................................................................................23
+      2.1      Proposal ...........................................................................................................................23
+      2.2      Evaluation .......................................................................................................................23
+      2.3      Elements ..........................................................................................................................23
+      2.4      Technical requirements ...................................................................................................24
+3.    Implementation of an arrangement .................................................................................................24
+4.    Review of an arrangement ..............................................................................................................25
+5.    Termination of an arrangement ......................................................................................................25
+ANNEX 2: Use of specific import authorizations ..................................................................................26
+1.    Types of specific import authorizations .........................................................................................26
+2.    Elements of specific import authorizations ....................................................................................26
+      2.1      Information requirements ................................................................................................26
+      2.2      Language .........................................................................................................................27
+3.    Uses of specific import authorizations ...........................................................................................27
+4.    Responsibilities...............................................................................................................................27
+      4.1     The NPPO of the importing country ...............................................................................27
+      4.2     Importers .........................................................................................................................28
+
+International Plant Protection Convention                                                                                               ISPM 20-5
+ ISPM 20                                                              Guidelines for a phytosanitary import regulatory system
+
+
+
+    4.3     Exporters .........................................................................................................................28
+    4.4     The NPPO of the exporting country ................................................................................28
+
+
+
+
+ISPM 20-6                                                                           International Plant Protection Convention
+ Guidelines for a phytosanitary import regulatory system                                             ISPM 20
+
+
+
+Adoption
+This standard was adopted by the Sixth Session of the Interim Commission on Phytosanitary Measures
+in March–April 2004. Annex 1 was adopted by the Commission on Phytosanitary Measures in April
+2017. Annex 2 was adopted by the Commission on Phytosanitary Measures in March 2023.
+
+INTRODUCTION
+
+Scope
+This standard describes the structure and operation of a phytosanitary import regulatory system and the
+rights, obligations and responsibilities which should be considered in establishing, operating and
+revising the system.
+
+References
+The present standard refers to International Standards for Phytosanitary Measures (ISPMs). ISPMs are
+available on the International Phytosanitary Portal (IPP) at https://www.ippc.int/core-
+activities/standards-setting/ispms.
+IPPC. 1997. International Plant Protection Convention. Rome, IPPC, FAO.
+WTO. 1994. Agreement on the Application of Sanitary and Phytosanitary Measures. Geneva, World
+     Trade Organization.
+
+Definitions
+Definitions of phytosanitary terms used in the present standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+Outline of requirements
+The objective of a phytosanitary import regulatory system is to prevent the introduction of quarantine
+pests or limit the entry of regulated non-quarantine pests with imported commodities and other regulated
+articles. A phytosanitary import regulatory system should consist of two components: a regulatory
+framework of phytosanitary legislation, phytosanitary regulations and phytosanitary procedures; and an
+official service, the national plant protection organization (NPPO), responsible for operation or
+oversight of the system. The legal framework should include legal authority for the NPPO to carry out
+its duties; phytosanitary measures with which imported commodities should comply; other
+phytosanitary measures (including prohibitions) concerning imported commodities and other regulated
+articles; and phytosanitary actions that may be taken when incidents of non-compliance or incidents
+requiring emergency action are detected. It may include phytosanitary measures concerning
+consignments in transit.
+In operating a phytosanitary import regulatory system, the NPPO has a number of responsibilities. These
+include the responsibilities identified in Article IV.2 of the IPPC relating to import including
+surveillance, inspection, disinfestation or disinfection, the conduct of pest risk analysis, and training and
+development of staff. These responsibilities involve related functions in areas such as administration;
+audit and compliance checking; action taken on non-compliance; emergency action; authorization of
+personnel; and settlement of disputes. In addition, contracting parties may assign to NPPOs other
+responsibilities, such as regulatory development and modification. NPPO resources are needed to carry
+out these responsibilities and functions. There are also requirements for international and national
+liaison, documentation, communication and review.
+
+
+
+
+International Plant Protection Convention                                                         ISPM 20-7
+ ISPM 20                                                Guidelines for a phytosanitary import regulatory system
+
+
+
+REQUIREMENTS
+
+1.    Objective
+The objective of a phytosanitary import regulatory system is to prevent the introduction of quarantine
+pests or limit the entry of regulated non-quarantine pests (RNQPs) with imported commodities and other
+regulated articles.
+
+2.    Structure
+The components of a phytosanitary import regulatory system are:
+-     a regulatory framework of phytosanitary legislation, phytosanitary regulations and phytosanitary
+      procedures;
+-     an NPPO that is responsible for the operation of the system.
+Legal and administrative systems and structures differ among contracting parties. In particular, some
+legal systems require every aspect of the work of its officials to be detailed within a legal text whilst
+others provide a broad framework within which officials have the delegated authority to perform their
+functions through a largely administrative procedure. This standard accordingly provides general
+guidelines for the regulatory framework of a phytosanitary import regulatory system. This regulatory
+framework is further described in section 4.
+The NPPO is the official service responsible for the operation or oversight (organization and
+management) of the phytosanitary import regulatory system. Other government services, such as the
+Customs service, may have a role (with defined separation of responsibilities and functions) in the
+control of imported commodities and liaison should be maintained. The NPPO often utilizes its own
+officers to operate the phytosanitary import regulatory system, but may authorize other appropriate
+government services, or non-governmental organizations, or persons to act on its behalf and under its
+control for defined functions. The operation of the system is described in section 5.
+
+3.    Rights, obligations and responsibilities
+In establishing and operating its phytosanitary import regulatory system, the NPPO should take into
+account:
+-      rights, obligations and responsibilities arising from relevant international treaties, conventions or
+       agreements;
+-      rights, obligations and responsibilities arising from relevant international standards;
+-      national legislation and policies;
+-      administrative policies of the government, ministry or department, or NPPO.
+
+3.1   International agreements, principles and standards
+National governments have the sovereign right to regulate imports to achieve their appropriate level of
+protection, taking into account their international obligations. Rights, obligations and responsibilities
+associated with international agreements as well as the principles and standards resulting from
+international agreements, in particular the IPPC and the World Trade Organization Agreement on the
+Application of Sanitary and Phytosanitary Measures (WTO, 1994), affect the structure and
+implementation of phytosanitary import regulatory systems. These include effects on the drafting and
+adoption of phytosanitary import regulations, the application of phytosanitary regulations, and the
+operational activities arising from regulations.
+The drafting, adoption and application of phytosanitary regulations require recognition of certain
+principles and concepts such as in ISPM 1 (Phytosanitary principles for the protection of plants and the
+application of phytosanitary measures in international trade), including:
+-     transparency;
+
+
+ISPM 20-8                                                        International Plant Protection Convention
+ Guidelines for a phytosanitary import regulatory system                                         ISPM 20
+
+
+
+-      sovereignty;
+-      necessity;
+-      non-discrimination;
+-      minimal impact;
+-      harmonization;
+-      technical justification (such as through pest risk analysis (PRA));
+-      consistency;
+-      managed risk;
+-      modification;
+-      emergency action and provisional measures;
+-      equivalence;
+-      recognition of pest free areas and areas of low pest prevalence.
+In particular, the phytosanitary procedures and phytosanitary regulations should take into consideration
+the concept of minimal impact and issues of economic and operational feasibility in order to avoid
+unnecessary trade disruption.
+
+3.2    Regional cooperation
+Regional organizations, such as regional plant protection organizations (RPPOs) and regional
+agricultural development organizations, may encourage the harmonization of their members’
+phytosanitary import regulatory systems and may cooperate in the exchange of information for the
+benefit of members.
+A regional economic integration organization recognized by FAO may have rules that apply to its
+members and may also have the authority to enact and enforce certain phytosanitary regulations on
+behalf of members of that organization.
+
+4.     Regulatory framework
+The issuing of regulations is a government (contracting party) responsibility (Article IV.3(c) of the
+IPPC). Consistent with this responsibility, contracting parties may provide the NPPO with the authority
+for the formulation of phytosanitary import regulations and the implementation of the import regulatory
+system. Contracting parties should have a regulatory framework to provide the following:
+-      the specification of the responsibilities and functions of the NPPO in relation to the import
+       regulatory system;
+-      legal authority to enable the NPPO to carry out its responsibilities and functions with respect to
+       the import regulatory system;
+-      authority and procedures, such as through PRA, to determine import phytosanitary measures;
+-      phytosanitary measures that apply to imported commodities and other regulated articles;
+-      import prohibitions that apply to imported commodities and other regulated articles;
+-      legal authority for action with respect to non-compliance and for emergency action;
+-      the specification of interactions between the NPPO and other government bodies;
+-      transparent and defined procedures and time frames for implementation of regulations, including
+       their entry into force.
+Contracting parties have obligations to make their regulations available according to Article VII.2(b) of
+the IPPC; these procedures may require a regulatory basis.
+
+4.1    Regulated articles
+Imported commodities that may be regulated include articles that may be infested or contaminated with
+regulated pests. Regulated pests are either quarantine pests or regulated non-quarantine pests. All
+
+International Plant Protection Convention                                                      ISPM 20-9
+ ISPM 20                                                      Guidelines for a phytosanitary import regulatory system
+
+
+
+commodities can be regulated for quarantine pests. Products for consumption or processing cannot be
+regulated for regulated non-quarantine pests. Regulated non-quarantine pests can only be regulated with
+respect to plants for planting. The following are examples of regulated articles:
+-     plants and plant products used for planting, consumption, processing, or any other purpose;
+-     storage facilities;
+-     packaging materials including dunnage;
+-     conveyances and transport facilities;
+-     soil, organic fertilizers and related materials;
+-     organisms capable of harbouring or spreading pests;
+-     potentially contaminated equipment (such as used agricultural, military and earthmoving
+      equipment);
+-     research and other scientific materials;
+-     travellers’ personal effects moving internationally;
+-     international mail including international courier services;
+-     pests and biological control agents.1
+Lists of regulated articles should be made publicly available.
+
+4.2    Phytosanitary measures for regulated articles
+Contracting parties should not apply phytosanitary measures to the entry of regulated articles such as
+prohibitions, restrictions or other phytosanitary import requirements unless such measures are made
+necessary by phytosanitary considerations and are technically justified. Contracting parties should take
+into account, as appropriate, international standards and other relevant requirements and considerations
+of the IPPC when applying phytosanitary measures.
+
+4.2.1 Phytosanitary measures for consignments to be imported
+The phytosanitary regulations should specify the phytosanitary measures with which imported
+consignments of plants, plant products and other regulated articles should comply.2 These phytosanitary
+measures may be general, applying to all types of commodities, or the measures may be specific,
+applying to specified commodities from a particular origin. Phytosanitary measures may be required
+prior to entry, at entry or post entry. Systems approaches may also be used when appropriate (see
+ISPM 14 (The use of integrated measures in a systems approach for pest risk management)).
+Phytosanitary measures required in the exporting country, which the NPPO of the exporting country
+may be required to certify (ISPM 7 (Phytosanitary certification system)) include:
+-     inspection prior to export;
+-     testing prior to export;
+-     treatment prior to export;
+-     produced from plants of specified phytosanitary status (for example grown from virus-tested
+      plants or under specified conditions);
+-     inspection or testing in the growing season prior to export;
+
+
+
+1
+  Pests per se and biological control agents do not fall within the definition of “regulated articles” (Article II.1 of
+the IPPC). However, where there is technical justification, they may be subjected to phytosanitary measures (IPPC,
+Article VI with respect to regulated pests, and Article VII.1(c) and VII.1(d)) and for the purposes of this standard
+may be considered as regulated articles.
+2
+  For the purpose of this standard, import is considered to cover all consignments moving into the country (except
+in transit), including movement into free trade zones (including duty free areas and consignments in bond) and
+illegal consignments detained by other services.
+
+ISPM 20-10                                                              International Plant Protection Convention
+ Guidelines for a phytosanitary import regulatory system                                          ISPM 20
+
+
+
+-      origin of the consignment to be a pest free place of production or pest free production site, area
+       of low pest prevalence or pest free area;
+-      accreditation procedures;
+-      maintenance of consignment integrity.
+Phytosanitary measures that may be required during shipment include:
+-     treatment (for example appropriate physical or chemical treatments);
+-     maintenance of consignment integrity.
+Phytosanitary measures that may be required at the point of entry include:
+-     documentation checks;
+-     verification of consignment integrity;
+-     verification of treatment during shipment;
+-     phytosanitary inspection;
+-     testing;
+-     treatment;
+-     detention of consignments pending the results of testing or verification of the efficacy of
+      treatment.
+Phytosanitary measures that may be required after entry include:
+-     detention in quarantine (such as in a post-entry quarantine station) for inspection, testing or
+      treatment;
+-     detention at a designated place pending specified measures;
+-     restrictions on the distribution or use of the consignment (for example for specified processing).
+Other phytosanitary measures that may be required include:
+-     requirements for licences or permits;
+-     limitations on the points of entry for specified commodities;
+-     the requirement that importers notify in advance the arrival of specified consignments;
+-     audit of procedures in the exporting country;
+-     pre-clearance.
+The phytosanitary import regulatory system should make provision for the evaluation and possible
+acceptance of alternative phytosanitary measures proposed by exporting contracting parties as being
+equivalent.
+
+4.2.1.1 Provision for special imports
+Contracting parties may make special provision for the import of pests, biological control agents (see
+also ISPM 3 (Guidelines for the export, shipment, import and release of biological control agents and
+other beneficial organisms)) or other regulated articles for scientific research, education or other
+purposes. Such imports may be authorized subject to the provision of adequate safeguards.
+
+4.2.1.2 Pest free areas, pest free places of production, pest free production sites, areas of
+      low pest prevalence and official control programmes
+Importing contracting parties may designate pest free areas, areas of low pest prevalence (ISPM 4
+(Requirements for the establishment of pest free areas), ISPM 22 (Requirements for the establishment
+of areas of low pest prevalence), ISPM 29 (Recognition of pest free areas and areas of low pest
+prevalence)) and official control programmes within their country. Phytosanitary regulations may be
+required to protect or sustain such designations within the importing country. However such
+phytosanitary measures should respect the principle of non-discrimination.
+
+
+International Plant Protection Convention                                                     ISPM 20-11
+ ISPM 20                                                Guidelines for a phytosanitary import regulatory system
+
+
+
+Phytosanitary import regulations should recognize the existence of such designations and those related
+to other official procedures (such as pest free places of production and pest free production sites) within
+the countries of exporting contracting parties including the facility to recognize these phytosanitary
+measures as equivalent where appropriate. It may be necessary to make provision within phytosanitary
+regulatory systems to evaluate and accept the designations by other NPPOs and to respond accordingly.
+
+4.2.2 Import authorization
+The authority to import may be provided as a general authorization or through specific authorization on
+a case-by-case basis.
+General import authorization
+General import authorizations may be used:
+-    when there are no specific phytosanitary import requirements;
+-    where specific phytosanitary import requirements have been established permitting entry as set
+     out in the regulations for a range of commodities.
+General import authorizations should not require a licence or a permit but may be subject to checking
+at import.
+Specific import authorization
+Specific import authorizations, e.g. in the form of a licence or permit, may be required where official
+consent for import is necessary. These may be required for individual consignments or a series of
+consignments of a particular origin. Cases where this type of authorization may be required include:
+-     emergency or exceptional imports;
+-     imports with specific, individual phytosanitary import requirements such as those with post-entry
+      quarantine requirements or designated end use or research purposes;
+-     imports where the NPPO requires the ability to trace the material over a period of time after entry.
+It is noted that some countries may use permits to specify general import conditions. However, the
+development of general authorizations is encouraged wherever similar specific authorizations become
+routine.
+
+4.2.3 Prohibitions
+The prohibition of import may apply to specified commodities or other regulated articles of all origins
+or specifically to a particular commodity or other regulated article of a specified origin. The prohibition
+of import should be used when no alternatives for pest risk management exist. Prohibitions should be
+technically justified. NPPOs should make provision to assess equivalent, but less trade restrictive
+measures. Contracting parties, through their NPPOs where authorized, should modify their
+phytosanitary import regulations if such measures meet their appropriate level of protection. Prohibition
+applies to quarantine pests. Regulated non-quarantine pests should not be subject to prohibition but are
+subject to established pest tolerance levels.
+Prohibited articles may be required for research or other purpose and provision may be required for their
+import under controlled conditions including appropriate safeguards through a system of licence or
+permit.
+
+4.3   Consignments in transit
+Consignments in transit are not imported. However, the phytosanitary import regulatory system may be
+extended to cover consignments in transit and to establish technically justified phytosanitary measures
+to prevent the introduction and/or spread of pests (Article VII.4 of the IPPC, ISPM 25 (Consignments
+in transit)). Measures may be required to track consignments, to verify their integrity or to confirm that
+they leave the country of transit. Countries may establish points of entry, routes within the country,
+conditions for transportation and time spans permitted within their territories.
+
+ISPM 20-12                                                       International Plant Protection Convention
+ Guidelines for a phytosanitary import regulatory system                                        ISPM 20
+
+
+
+4.4    Measures concerning non-compliance and emergency action
+The phytosanitary import regulatory system should include provisions for phytosanitary action to be
+taken in the case of non-compliance or for emergency action (Article VII.2(f) of the IPPC; detailed
+information is contained in ISPM 13 (Guidelines for the notification of non-compliance and emergency
+action)), taking into consideration the principle of minimal impact.
+Phytosanitary actions which may be taken when an imported consignment or other regulated articles
+does not comply with phytosanitary regulations and is initially refused entry include:
+-     treatment;
+-     sorting or reconditioning;
+-     disinfection of regulated articles (including equipment, premises, storage areas, means of
+      transportation);
+-     direction to a particular end use such as processing;
+-     reshipment;
+-     destruction (such as incineration).
+Detection of a non-compliance or an incident requiring emergency action may result in a revision of the
+phytosanitary import regulations, or in revocation or suspension of authorization to import.
+
+4.5    Other elements that may require a regulatory framework
+International agreements give rise to obligations which may require a legal base or may be implemented
+through administrative procedures. Arrangements that may require such procedures include:
+-     notification of non-compliance;
+-     pest reporting;
+-     designation of an official contact point;
+-     publication and dissemination of regulatory information;
+-     international cooperation;
+-     revision of regulations and documentation;
+-     recognition of equivalence;
+-     specification of points of entry;
+-     notification of official documentation.
+
+4.6    Legal authority for the NPPO
+In order that the NPPO can discharge its responsibilities (Article IV of the IPPC), legal authority
+(powers) should be provided to enable the officers of the NPPO and other authorized persons to:
+-     enter premises, conveyances, and other places where imported commodities, regulated pests or
+      other regulated articles may be present;
+-     inspect or test imported commodities and other regulated articles;
+-     take and remove samples from imported commodities or other regulated articles, or from places
+      where regulated pests may be present (including for analysis which may result in the destruction
+      of the sample);
+-     detain imported consignments or other regulated articles;
+-     treat or require treatment of imported consignments, or other regulated articles including
+      conveyances, or places or commodities in which a regulated pest may be present;
+-     refuse entry of consignments, order their reshipment or destruction;
+-     take emergency action;
+-     set and collect fees for import-related activities or associated with penalties (optional).
+
+
+
+International Plant Protection Convention                                                   ISPM 20-13
+ ISPM 20                                                Guidelines for a phytosanitary import regulatory system
+
+
+
+5.    Operation of a phytosanitary import regulatory system
+The NPPO is responsible for the operation or oversight (organization and management) of the
+phytosanitary import regulatory system (see also section 2). This responsibility arises in particular from
+Article IV.2 of the IPPC.
+
+5.1   Management and operational responsibilities of the NPPO
+The NPPO should have a management system and resources adequate to carry out its functions.
+
+5.1.1 Administration
+The administration of the phytosanitary import regulatory system by the NPPO should ensure the
+effective and consistent application of phytosanitary legislation and regulations and compliance with
+international obligations. This may require operational coordination with other government services or
+government agencies involved with imports, e.g. Customs. Administration of the phytosanitary import
+regulatory system should be coordinated at national level but may be organized on a functional, regional
+or other structural basis.
+
+5.1.2 Regulatory development and revision
+The issuing of phytosanitary regulations is a contracting party responsibility (Article IV.3(c) of the
+IPPC). Consistent with this responsibility, contracting parties may make the development or revision of
+phytosanitary regulations the responsibility of their NPPO. This action may be under the initiative of
+the NPPO in consultation or cooperation with other authorities as appropriate. Appropriate regulations
+should be developed, maintained and reviewed as necessary and in compliance with applicable
+international agreements, through the normal legal and consultative processes of the country.
+Consultation and collaboration with relevant agencies as well as affected industries and appropriate
+private sector groups can be helpful in increasing the understanding and acceptance of regulatory
+decisions by the private sector and is often useful for the improvement of regulations.
+
+5.1.3 Surveillance
+The technical justification of phytosanitary measures is determined in part by the pest status of regulated
+pests within the regulating country. Pest status may change and this may necessitate revision of
+phytosanitary import regulations. Surveillance of cultivated and non-cultivated plants in the importing
+country is required to maintain adequate information on pest status (according to ISPM 6 (Guidelines
+for surveillance)), and may be required to support PRA and pest listing.
+
+5.1.4 Pest risk analysis and pest listing
+Technical justification such as through PRA is required to determine if pests should be regulated and
+the strength of phytosanitary measures to be taken against them (ISPM 11 (Pest risk analysis for
+quarantine pests); ISPM 21 (Pest risk analysis for regulated non-quarantine pests)). PRA may be done
+on a specific pest or on all the pests associated with a particular pathway (e.g. a commodity). A
+commodity may be classified by its level of processing or its intended use (see ISPM 32 (Categorization
+of commodities according to their pest risk)). Regulated pests should be listed (according to ISPM 19
+(Guidelines on lists of regulated pests)) and lists of regulated pests should be made available
+(Article VII.2(i) of the IPPC). If appropriate international standards are available, measures should take
+account of such standards and should not be more stringent unless technically justified.
+The administrative framework of the PRA process should be clearly documented, if possible with a time
+frame for the completion of individual PRAs and with clear guidance on prioritization.
+
+5.1.5 Audit and compliance procedures
+5.1.5.1 Audit of procedures in the exporting country
+Phytosanitary import regulations often include specific requirements that should be done in the country
+of export, such as production procedures (usually during the growing period of the crop concerned) or
+
+ISPM 20-14                                                       International Plant Protection Convention
+ Guidelines for a phytosanitary import regulatory system                                           ISPM 20
+
+
+
+specialized treatment procedures. In certain circumstances, such as in the development of a new trade,
+the requirements may include, in cooperation with the NPPO of the exporting country, an audit in the
+exporting country by the NPPO of the importing country of elements such as:
+-      production systems;
+-      treatments;
+-      inspection procedures;
+-      phytosanitary management;
+-      accreditation procedures;
+-      testing procedures;
+-      surveillance.
+An importing country should make known the scope of any audit. The arrangements for such audits are
+normally written into a bilateral agreement, arrangement or work programme associated with import
+facilitation. Such arrangements may extend to clearance of consignments within the exporting country
+for entry into the importing country which usually facilitates a minimum of procedures at entry to the
+importing country. These types of audit procedure should not be applied as a permanent measure and
+should be considered satisfied as soon as the procedures in the exporting country have been validated.
+This approach, in its limitation on the length of its application, may differ from ongoing pre-clearance
+inspections mentioned in section 5.1.5.2.1. The results of audits should be made available to the NPPO
+of the exporting country.
+
+5.1.5.2 Compliance procedures at import
+There are three basic elements to compliance checking:
+-     documentary checks;
+-     verification of consignment integrity;
+-     phytosanitary inspection, testing, etc.
+Verification of compliance for imported consignments and other regulated articles may be required:
+-     to determine their compliance with phytosanitary regulations;
+-     to check that phytosanitary measures are effective in preventing the introduction of quarantine
+      pests and limiting the entry of RNQPs;
+-     to detect potential quarantine pests or quarantine pests whose entry with that commodity was not
+      predicted.
+Phytosanitary inspections should be carried out by, or under the authority of, the NPPO.
+Compliance procedures should be undertaken promptly (Article VII.2(d) and VII.2(e) of the IPPC).
+Where possible, compliance procedures should be carried out in cooperation with other agencies
+involved with the regulation of imports, such as Customs, so as to minimize interference with the flow
+of trade and the impact on perishable products.
+5.1.5.2.1 Inspection
+Inspections may be done at the point of entry, at points of transhipment, at the point of destination or at
+other places where imported consignments can be identified, such as major markets, provided that their
+integrity is maintained and that appropriate phytosanitary procedures can be carried out. By bilateral
+agreement or arrangement, they may also be done in the country of origin as a part of a pre-clearance
+programme in cooperation with the NPPO of the exporting country.
+Phytosanitary inspections, which should be technically justified, may be applied:
+-     to all consignments as a condition of entry;
+-     as a part of an import monitoring programme where the level of monitoring (i.e. the number of
+      consignments inspected) is established on the basis of predicted risk.
+
+International Plant Protection Convention                                                      ISPM 20-15
+ ISPM 20                                               Guidelines for a phytosanitary import regulatory system
+
+
+
+Inspection and sampling procedures may be based on general procedures or on specific procedures to
+achieve predetermined objectives.
+5.1.5.2.2 Sampling
+Samples may be taken from consignments for the purposes of inspection, or for subsequent laboratory
+testing, or for reference purposes (see ISPM 31 (Methodologies for sampling of consignments)).
+5.1.5.2.3 Testing including laboratory testing
+Testing may be required for:
+-     identification of a visually detected pest;
+-     confirmation of a visually identified pest;
+-     checking of compliance with requirements concerning infestations not detectable by inspection;
+-     checking for latent infections;
+-     audit or monitoring;
+-     reference purposes particularly in cases of non-compliance;
+-     verification of the declared product.
+Testing should be performed by persons experienced in the appropriate procedures and, if possible,
+following internationally agreed protocols. Cooperation with appropriate academic and international
+experts or institutes is recommended when validation of test results is needed.
+
+5.1.6 Non-compliance and emergency action
+Detailed information about non-compliance and emergency action is contained in ISPM 13.
+
+5.1.6.1 Action in case of non-compliance
+Examples where phytosanitary action may be justified regarding non-compliance with phytosanitary
+import regulations include:
+-     the detection of a listed quarantine pest associated with consignments for which it is regulated;
+-     the detection of a listed RNQP present in an imported consignment of plants for planting at a level
+      which exceeds the required tolerance level for those plants;
+-     evidence of failure to meet prescribed requirements (including bilateral agreements or
+      arrangements, or import permit conditions) such as field inspection, laboratory tests, registration
+      of producers or facilities, lack of pest monitoring or surveillance;
+-     the interception of a consignment which does not otherwise comply with the import regulations,
+      such as because of the detected presence of undeclared commodities, soil or some other prohibited
+      article or evidence of failure of specified treatments;
+-     phytosanitary certificate or other required documentation invalid or missing;
+-     prohibited consignments or articles;
+-     failure to meet “in-transit” measures.
+The type of phytosanitary action will vary with the circumstances and should be the minimum necessary
+to counter the pest risk identified. Administrative errors such as incomplete phytosanitary certificates
+may be resolved through liaison with the NPPO of the exporting country. Other infringements may
+require action such as:
+      Detention. This may be used if further information is required, taking into account the need to
+      avoid consignment damage as far as possible.
+      Sorting and reconfiguring. The affected products may be removed by sorting and reconfiguring
+      the consignment including repackaging if appropriate.
+      Treatment. Used by the NPPO when an efficacious treatment is available.
+
+
+ISPM 20-16                                                      International Plant Protection Convention
+ Guidelines for a phytosanitary import regulatory system                                            ISPM 20
+
+
+
+       Destruction. The consignment may be destroyed in cases where the NPPO considers the
+       consignment cannot be otherwise handled.
+       Reshipment. The non-complying consignment may be removed from the country by reshipping.
+In the case of non-compliance for an RNQP, action should be consistent with domestic measures and
+limited to bringing the pest incidence in the consignment, where feasible, into compliance with the
+required tolerance level, e.g. through treatment or by downgrading or reclassification where this is
+permitted for equivalent material produced or regulated domestically.
+The NPPO is responsible for issuing the necessary instructions and for verifying their application.
+Enforcement is normally considered to be a function of the NPPO but other agencies may be authorized
+to assist.
+An NPPO may decide not to apply phytosanitary action against a regulated pest or in other instances of
+non-compliance where phytosanitary actions are not technically justified in a particular situation, such
+as if there is no risk of establishment or spread (e.g. a change of intended use such as from consumption
+to processing or when a pest is in a stage of its life cycle which will not enable establishment or spread),
+or for some other reason.
+
+5.1.6.2 Emergency action
+Emergency action may be required in a new or unexpected phytosanitary situation, such as the detection
+of quarantine pests or potential quarantine pests:
+-     in consignments for which phytosanitary measures are not specified;
+-     in consignments or other regulated articles in which their presence is not anticipated and for which
+      no phytosanitary measures have been specified;
+-     as contaminating pests of conveyances, storage places or other places involved with imported
+      commodities.
+Phytosanitary action similar to that required in cases of non-compliance may be appropriate. Such
+actions may lead to the modification of existing phytosanitary measures, or the adoption of provisional
+measures pending review and full technical justification.
+Commonly encountered situations requiring emergency action include:
+    Pests not previously assessed. Non-listed organisms may require emergency phytosanitary
+    actions because they may not have been previously assessed. At the time of interception, they
+    may be categorized as regulated pests on a preliminary basis because the NPPO has a cause to
+    believe they pose a pest risk. In such instances, it is the responsibility of the NPPO to be able to
+    provide a sound technical basis. If provisional measures are established, the NPPO should actively
+    pursue additional information, if appropriate with the participation of the NPPO of the exporting
+    country, and complete a PRA to establish in a timely manner the regulated or non-regulated status
+    of the pest.
+       Pests not regulated for a particular pathway. Emergency phytosanitary actions may be applied
+       for pests that are not regulated with respect to particular pathways. Although regulated, these pests
+       may not have been listed or otherwise specified because they were not anticipated for the origin,
+       commodity, or circumstances for which the list or measure was developed. Such pests should be
+       included on the appropriate list or within other measure if it is determined that the occurrence of
+       the pest in the same and similar circumstances may be anticipated in the future.
+       Lack of adequate identification. In some instances, a pest may justify phytosanitary action because
+       the pest cannot be adequately identified or is inadequately described taxonomically. This may be
+       because the specimen has not been described (is taxonomically unknown), is in a condition which
+       does not allow its identification, or the life stage being examined cannot be identified to the
+       required taxonomic level. Where identification is not feasible, the NPPO should have a sound
+       technical basis for the phytosanitary actions taken.
+
+International Plant Protection Convention                                                       ISPM 20-17
+ ISPM 20                                                Guidelines for a phytosanitary import regulatory system
+
+
+
+      Where pests are routinely detected in a form that does not allow for adequate identification
+      (e.g. eggs, early instar larvae, imperfect forms), every effort should be made to raise sufficient
+      specimens to allow identification. Contact with the exporting country may assist with the
+      identification or provide a presumed identification. Such pests in this state may be deemed
+      temporarily to require phytosanitary measures. Once identification is achieved and if, on the basis
+      of PRA, it is confirmed that such pests justify phytosanitary actions, NPPOs should add such pests
+      to the relevant list of regulated pests, noting the identification problem and the basis for requiring
+      phytosanitary actions. Interested contracting parties should be informed that future action will be
+      based on a presumed identification if such forms are detected. However, such future phytosanitary
+      action should only be taken with respect to origins where there is an identified pest risk and the
+      possibility of the presence of quarantine pests in imported consignments cannot be excluded.
+
+5.1.6.3 Reporting of non-compliance and emergency action
+The reporting of interceptions, instances of non-compliance and emergency action is an obligation for
+contracting parties to the IPPC so that the NPPOs of the exporting countries understand the basis for
+phytosanitary actions taken against their products on import and to facilitate corrective action in export
+systems. Systems are needed for the collection and transmission of such information.
+
+5.1.6.4 Withdrawal or modification of phytosanitary regulation
+In the case of repeated non-compliance, or where a significant non-compliance or interception
+warranting emergency action occurs, the NPPO of the importing contracting party may withdraw the
+authorization (e.g. permit) allowing import, modify the phytosanitary regulation, or institute an
+emergency or provisional measure with modified entry procedures or a prohibition. The NPPO of the
+exporting country should be notified promptly of the change and rationale for this change.
+
+5.1.7 Systems for authorization of non-NPPO personnel
+NPPOs may authorize, under their control and responsibility, other government services, non-
+governmental organizations, agencies or persons to act on their behalf for certain defined functions. In
+order to ensure that the requirements of the NPPO are met, operational procedures are required. In
+addition, procedures should be developed for the demonstration of competency and for audits, corrective
+actions, system review and withdrawal of authorization.
+
+5.1.8 International liaison
+Contracting parties have international obligations (Articles VII and VIII of the IPPC) including the:
+-     provision of an official contact point;
+-     notification of specified points of entry;
+-     publication and transmission of lists of regulated pests, phytosanitary import requirements, and
+      prohibitions;
+-     notification of non-compliance and emergency action (ISPM 13);
+-     provision of the rationale for phytosanitary measures, on request;
+-     provision of relevant information.
+Administrative arrangements are required to ensure that these obligations are discharged efficiently and
+promptly.
+
+5.1.9 Notification and dissemination of regulatory information
+5.1.9.1 New or revised phytosanitary regulations
+Proposals for new or revised phytosanitary regulations should be published and provided to interested
+parties on request, allowing reasonable time for comment and implementation.
+
+
+
+
+ISPM 20-18                                                       International Plant Protection Convention
+ Guidelines for a phytosanitary import regulatory system                                           ISPM 20
+
+
+
+5.1.9.2 Dissemination of established regulations
+Established import regulations, or relevant sections of them, should be made available to interested and
+affected contracting parties as appropriate, to the IPPC Secretariat and to the RPPO(s) of which they are
+a member. Through appropriate procedures, they may also be made available to other interested parties
+(such as import and export industry organizations and their representatives). NPPOs are encouraged to
+make import regulatory information available by publication, whenever possible using electronic means
+including internet websites and linkage to these via the IPPC International Phytosanitary Portal (IPP)
+(http://www.ippc.int).
+
+5.1.10 National liaison
+Procedures that facilitate cooperative action, information sharing and joint clearance activities within
+the country should be established with relevant government agencies or services as appropriate.
+
+5.1.11 Settlement of disputes
+The implementation of a phytosanitary import regulatory system may give rise to disputes with the
+authorities of other countries. The NPPO should establish procedures for consultation and exchange of
+information with other NPPOs, and for settlement of such disputes “shall consult among themselves as
+soon as possible” prior to considering calling on formal international dispute-settlement procedures
+(Article XIII.1 of the IPPC).
+
+5.2    Resources of the NPPO
+Contracting parties should provide to their NPPO appropriate resources to carry out its functions
+(Article IV.1 of the IPPC).
+
+5.2.1 Staff, including training
+The NPPO should:
+-    employ or authorize personnel who have appropriate qualifications and skills;
+-    ensure that adequate and sustained training is provided to all personnel to ensure competency in
+     the areas for which they have responsibility.
+
+5.2.2 Information
+The NPPO should, as far as possible, ensure that adequate information is available to personnel, in
+particular:
+-      guidance documents, procedures and work instructions as appropriate covering relevant aspects
+       of the operation of the phytosanitary import regulatory system;
+-      the phytosanitary import regulations of its country;
+-      information on its regulated pests including biology, host range, pathways, global distribution,
+       detection and identification methods, treatment methods.
+The NPPO should have access to information on the presence of pests in its country (preferably as pest
+lists), to facilitate the categorization of pests during pest risk analysis. The NPPO should also maintain
+lists of all its regulated pests. Detailed information on lists of regulated pests is contained in ISPM 19.
+Where a regulated pest is present in the country, information should be maintained on its distribution,
+pest free areas, official control and, in the case of an RNQP, official programmes for plants for planting.
+Contracting parties should distribute information within their territory regarding regulated pests and the
+means of their prevention and control, and may assign this responsibility to their NPPOs.
+
+5.2.3 Equipment and facilities
+The NPPO should ensure that adequate equipment and facilities are available for:
+-    inspection, sampling, testing, surveillance and consignment verification procedures;
+
+International Plant Protection Convention                                                      ISPM 20-19
+ ISPM 20                                               Guidelines for a phytosanitary import regulatory system
+
+
+
+-     communication and access to information (by electronic means as far as possible).
+
+DOCUMENTATION, COMMUNICATION AND REVIEW
+
+6.    Documentation
+6.1   Procedures
+The NPPO should maintain guidance documents, procedures and work instructions covering all aspects
+of the operation of the phytosanitary import regulatory system. Procedures to be documented include:
+-      preparation of pest lists;
+-      pest risk analysis;
+-      where appropriate, establishment of pest free areas, areas of low pest prevalence, pest free places
+       of production or production sites, and official control programmes;
+-      inspection, sampling and testing methodology (including methods for maintaining sample
+       integrity);
+-      action on non-compliance, including treatment;
+-      notification of non-compliance;
+-      notification of emergency action.
+
+6.2   Records
+Records should be kept of all actions, results and decisions concerning the regulation of imports,
+following the relevant sections of ISPMs where appropriate, including:
+-     documentation of pest risk analyses (in accordance with ISPM 11, and other relevant ISPMs);
+-     where established, documentation of pest free areas, areas of low pest prevalence, and official
+      control programmes (including information on the distribution of the pests and the phytosanitary
+      measures used to maintain the pest free area or area of low pest prevalence);
+-     records of inspection, sampling and testing;
+-     non-compliance and emergency action (in accordance with ISPM 13).
+If appropriate, records may be kept of imported consignments:
+-      with specified intended uses;
+-      subject to post-entry quarantine or treatment procedures;
+-      requiring follow up phytosanitary action (including trace-back), according to pest risk; or
+-      as necessary to manage the phytosanitary import regulatory system.
+
+7.    Communication
+The NPPO should ensure that it has communication procedures to contact:
+-    importers and appropriate industry representatives;
+-    NPPOs of exporting countries;
+-    the Secretariat of the IPPC;
+-    the secretariats of the RPPOs of which it is a member.
+
+8.    Review mechanism
+8.1   System review
+The contracting party should periodically review its phytosanitary import regulatory system. This may
+involve monitoring the effectiveness of phytosanitary measures, auditing the activities of the NPPO and
+authorized organizations or persons, and modifying the phytosanitary legislation, regulations and
+procedures as required.
+
+ISPM 20-20                                                      International Plant Protection Convention
+ Guidelines for a phytosanitary import regulatory system                                 ISPM 20
+
+
+
+8.2    Incident review
+The NPPO should have procedures in place to review cases of non-compliance and emergency action.
+Such a review may lead to the adoption or modification of phytosanitary measures.
+
+
+
+
+International Plant Protection Convention                                            ISPM 20-21
+ ISPM 20                                         Guidelines for a phytosanitary import regulatory system – Annex 1
+
+
+      This annex was adopted by the Twelfth Session of the Commission on Phytosanitary Measures in April 2017.
+                                   This annex is a prescriptive part of the standard.
+
+ANNEX 1: Arrangements for the verification of compliance of consignments by the
+importing country in the exporting country (2017)
+The NPPO of the importing country usually verifies compliance of consignments with phytosanitary
+import requirements on entry into the importing country. However, to facilitate trade logistics,
+contracting parties may in some cases bilaterally or multilaterally negotiate an arrangement that allows
+verification procedures to be performed by the NPPO of the importing country in the exporting country.
+Such arrangements are distinct from audits of procedures in exporting countries referred to in this
+standard (section 5.1.5.1).
+NPPOs of the importing country and the exporting country should only establish and use a bilateral or
+multilateral arrangement (hereinafter referred to as an “arrangement”) for verification procedures to be
+performed on consignments of specified commodities in the exporting country on a voluntary and case-
+by-case basis and for a time period agreed by both parties.
+Arrangements described in this annex should not be established as a phytosanitary measure or as a
+condition to allow trade.
+The establishment of an arrangement may be an option to facilitate trade logistics in the following
+situations:
+-      to expedite consignment release at the destination;
+-      when measures associated with the refusal of a consignment at the point of entry are too costly or
+       difficult to apply;
+-      when inspection at the point of entry adversely affects commercial packaging (e.g. the commodity
+       is individually wrapped and destructive sampling is required) or commodity quality (e.g. the
+       commodity is highly perishable);
+-      when additional infrastructure is necessary to address instances of non-compliance.
+The terms of the arrangement for a particular regulated article should be developed once the
+phytosanitary import requirements have been set based on a pest risk analysis.
+The arrangement should only include procedures to verify compliance of consignments with established
+and published phytosanitary import requirements for the relevant commodities in accordance with this
+standard and where appropriate with ISPM 23 (Guidelines for inspection). Consignments verified under
+the arrangement should not be subject to the same verification procedures again at the point of entry.
+The NPPO of the importing country may, however, perform other verification procedures, such as
+document and identity checks, at the point of entry.
+Irrespective of any arrangement between the NPPOs of the importing country and the exporting country,
+issuance of phytosanitary certificates remains the exclusive responsibility of the NPPO of the exporting
+country as stated in Articles I.2, IV.2(a), IV.2(b), IV.2(c), IV.2(d), IV.2(e), IV.2(g) and V.1 of the IPPC.
+Any actions undertaken by the NPPO of the importing country in the exporting country under an
+arrangement are subject to and must comply with the legislation of the exporting country.
+The following sections provide options to be considered by NPPOs in relation to arrangements for the
+verification of compliance of consignments by the NPPO of the importing country in the exporting
+country.
+
+1.    General requirements for an arrangement
+An arrangement should be developed jointly by the NPPOs of the importing country and the exporting
+country, in consultation with relevant stakeholders, when appropriate.
+
+
+
+ISPM 20-22                                                             International Plant Protection Convention
+ Guidelines for a phytosanitary import regulatory system – Annex 1                                ISPM 20
+
+
+
+The financial aspects of the arrangement should be agreed on by the NPPOs of the importing country
+and the exporting country, in consultation with relevant stakeholders.
+The arrangement should be subject to regular review and a mechanism may be put in place to deal with
+any changes that may arise. The conditions for reducing compliance verification activities and
+suspending or terminating the arrangement should be specified on a case-by-case basis.
+
+2.    Process for establishing an arrangement
+The steps to establish an arrangement are outlined below.
+
+2.1   Proposal
+The NPPO of the importing or of the exporting country may initiate the request for an arrangement. The
+proposal may be a response to a need identified by the initiating NPPO or by relevant stakeholders. The
+proposal should specify the scope and objectives of as well as the reasons for the arrangement, and be
+agreed on by both NPPOs.
+Factors that may be considered in the proposal include:
+-     timing and duration of the arrangement;
+-     proposed verification levels and, when appropriate, sampling schemes for specified commodities
+      and regulated pests;
+-     criteria that could initiate review and evaluation of the arrangement;
+-     criteria that could initiate suspension or termination of the arrangement;
+-     availability of resources;
+-     feasibility of programme implementation.
+
+2.2   Evaluation
+The NPPO receiving the proposal for an arrangement should undertake a timely review of the proposal
+and prepare a response. Evaluation of the proposal should encompass any effects of the arrangement on
+pest risk concerns, operational and economic feasibility, and regulatory aspects.
+
+2.3   Elements
+The NPPO proposing an arrangement has the primary responsibility for its development. However, on
+request of the proposing NPPO, the other NPPO is encouraged to assist in its development.
+Elements of the arrangement that may need to be agreed between the NPPO of the importing country
+and the NPPO of the exporting country include:
+-     sampling and inspection of consignments;
+-     adequacy of inspection facilities;
+-     testing procedures;
+-     verification of treatments;
+-     verification of consignment integrity;
+-     the time of and location for the different steps of the verification of compliance of consignments,
+      when appropriate;
+-     notification to the point of entry of the arrival of consignments;
+-     whether a certificate is to accompany the phytosanitary certificate;
+-     availability of qualified staff to implement provisions under the arrangement;
+-     timing of the activities for the verification of compliance;
+-     approval procedures and expense or estimated expense for growers and exporters participating in
+      the arrangement;
+
+
+International Plant Protection Convention                                                     ISPM 20-23
+ ISPM 20                                     Guidelines for a phytosanitary import regulatory system – Annex 1
+
+
+
+-     accommodation, transport, work health and safety, security and other logistical aspects for the
+      deployed officers.
+The steps of the verification of compliance will be identified by the NPPOs entering into the
+arrangement.
+
+2.4   Technical requirements
+The technical requirements for an arrangement should be determined and developed on a case-by-case
+basis and should be described in the arrangement.
+The arrangement may include specific information on:
+-     legal and regulatory authorities;
+-     phytosanitary and other relevant legislation or regulations;
+-     roles and responsibilities (including those of NPPOs, exporters, growers and other relevant
+      stakeholders);
+-     timing and duration of the activities;
+-     regulated articles;
+-     all regulated pests and the relevant phytosanitary measures for these pests required by the NPPO
+      of the importing country;
+-     phytosanitary actions such as sampling, inspection, testing, verification of treatment and
+      verification of consignment integrity;
+-     infrastructure and equipment used for the verification of compliance of consignments;
+-     documentation to be maintained and provided by the NPPO of the exporting country to the NPPO
+      of the importing country;
+-     financial aspects;
+-     notification of non-compliance;
+-     corrective actions on a consignment following non-compliance;
+-     frequency and timing of reviews of the arrangement;
+-     criteria that could result in review, evaluation, suspension or termination of the arrangement.
+
+3.    Implementation of an arrangement
+The verification of compliance described in an arrangement may be subject to implementation
+conditions; for example, verification may be for all exported consignments of a particular commodity
+or only a percentage thereof, for categories of regulated commodities or for a defined time period during
+the shipping season.
+The activities for the verification of compliance to be implemented should be limited to those under the
+arrangement.
+When an arrangement is in place, with verification of compliance being undertaken in the exporting
+country, the same verification upon import should not be required. However, other procedures
+undertaken in the importing country may be:
+-     checks of consignment documentation and identity;
+-     inspection of consignments where packaging has been compromised and the consignments’
+      phytosanitary integrity may have been compromised;
+-     inspection of consignments for contaminating pests in containers;
+-     inspection of consignments in response to an emerging pest risk that was not known at the time
+      of inspection in the exporting country;
+-     inspection of consignments where the arrangement allows for a phytosanitary measure after
+      inspection in the exporting country (e.g. cold treatment for fruit flies during transport).
+
+ISPM 20-24                                                       International Plant Protection Convention
+ Guidelines for a phytosanitary import regulatory system – Annex 1                              ISPM 20
+
+
+
+4.    Review of an arrangement
+The effectiveness of an arrangement should be reviewed regularly to identify problems and allow their
+discussion and resolution in order to improve the arrangement or to determine if it could be downscaled
+or terminated. The frequency and timing of reviews should be described in the arrangement. Some
+elements of the arrangement may need to be reviewed more frequently than others.
+Changes to the existing arrangement may be proposed by the NPPO of the importing country or the
+NPPO of the exporting country and require the agreement of both NPPOs before implementation.
+
+5.    Termination of an arrangement
+If the reasons for establishing an arrangement are no longer valid (e.g. because of changes in trade
+logistics between the two countries) or if the arrangement is no longer needed, the arrangement should
+be terminated.
+Once an arrangement has been terminated, verification procedures will be conducted in the importing
+country.
+
+
+
+
+International Plant Protection Convention                                                   ISPM 20-25
+ ISPM 20                                           Guidelines for a phytosanitary import regulatory system – Annex 2
+
+
+      This annex was adopted by the Seventeenth Session of the Commission on Phytosanitary Measures in March 2023.
+                                      This annex is a prescriptive part of the standard.
+
+ANNEX 2: Use of specific import authorizations
+The national plant protection organizations (NPPOs) of importing countries may choose to use specific
+import authorizations (SIAs) as referred to in section 4.2.2 of this standard when official consent for
+import is necessary; when import would otherwise be prohibited for phytosanitary reasons; or when
+phytosanitary import requirements for the particular purpose, articles or situations have not yet been
+established. Even when using SIAs as part of their phytosanitary import regulatory system, NPPOs are
+still required to make their phytosanitary import requirements available as described in section 5.1.9.2
+of this standard and in Article VII.2(b) of the IPPC.
+This annex describes situations where the use of SIAs may be required by an NPPO, the information
+that should be included on SIAs, and the respective responsibilities of the parties involved. Specific
+import authorizations are generally applied on a case-by-case basis and tailored to each specific import
+situation. They may be issued for individual consignments or a series of consignments of a particular
+origin. Although it is noted that some countries include non-phytosanitary requirements in their SIAs,
+this annex addresses only phytosanitary requirements. This annex does not cover information on general
+import authorizations, which can be found in section 4.2.2 of this standard, or transit authorization,
+which can be found in section 4.3 of this standard.
+
+1.      Types of specific import authorizations
+Specific import authorizations may be provided in the form of import permits, licences or other types of
+written authorization as determined by the NPPO of the importing country, and may be in either paper
+or electronic format.
+
+2.      Elements of specific import authorizations
+When SIAs are used, they should be issued by the NPPO of the importing country to importers.
+
+2.1     Information requirements
+The following information is the minimum information that should be included in SIAs:
+-     name of the issuing NPPO, contact information for verification purposes, and name of the
+      importing country;
+-     identification code or SIA number;
+-     importer’s information (e.g. name and address of importer);
+-     date of issuance;
+-     description of the consignment covered by the SIA;
+-     country of origin and country of export or re-export;
+-     intended use of the commodity or commodities that make up the consignment;
+-     phytosanitary import requirements (where these have been established); and
+-     period of validity.
+Other information may also be included in SIAs, such as:
+-     quantity of the commodity in the consignment (number of units that make up the consignment, or
+      its weight or volume);
+-     whether the authorization is for an individual consignment or a series of consignments;
+-     means of conveyance;
+-     point of entry;
+-     name and signature of the authorized issuing officer;
+-     official seal, stamp or mark identifying the issuing NPPO;
+
+ISPM 20-26                                                              International Plant Protection Convention
+ Guidelines for a phytosanitary import regulatory system – Annex 2                                ISPM 20
+
+
+
+-     exporter’s information (e.g. name and address of exporter);
+-     location to which the consignment is to be directed (e.g. post-entry quarantine facility, processing
+      facility); and
+-     treatment provider.
+
+2.2   Language
+The NPPOs of importing countries may choose the language or languages in which their SIAs are issued
+but are encouraged to also use one of the official languages of FAO, preferably English.
+
+3.    Uses of specific import authorizations
+The following are examples of purposes, articles and situations related to import where use of SIAs may
+be appropriate:
+-     research and scientific purposes;
+-     exhibition purposes;
+-     educational purposes;
+-     religious or cultural purposes (e.g. religious festivals, ancestral customs);
+-     articles for which the NPPO of the importing country requires the ability to trace and manage
+      over a period of time after entry (e.g. articles subject to post-entry quarantine or processing);
+-     emergency or exceptional situations;
+-     biological control agents and other beneficial organisms;
+-     situations where general import authorizations have not been developed or it is not possible to
+      develop them; and
+-     articles that are not routinely imported.
+The list above is not intended to be exhaustive and countries are not required to use SIAs for the
+examples provided.
+
+4.    Responsibilities
+4.1   The NPPO of the importing country
+The responsibilities of the NPPO of the importing country should include the following elements:
+-     publishing (e.g. on the NPPO website) information on the regulated articles and intended uses for
+      which an SIA is required;
+-     having a process in place for assessing and identifying the information that will be needed for
+      SIAs;
+-     having a process in place for amending, suspending or revoking SIAs, including a process to
+      communicate with relevant parties when this occurs;
+-     publishing the process by which an importer can apply for an SIA and the application form that
+      the importer needs to complete;
+-     stating the language or languages used in SIAs;
+-     communicating all requirements to the importer;
+-     clearly specifying phytosanitary import requirements in SIAs (where these have been
+      established);
+-     issuing an SIA without undue delay once the information and assurances required by the NPPO
+      have been provided by the importer;
+-     providing the NPPOs of exporting countries, on request, with information to verify the
+      authenticity of SIAs and provide clarification as needed; and
+-     monitoring trade and compliance with SIAs and considering the transfer of SIAs to general import
+      authorizations where appropriate.
+
+International Plant Protection Convention                                                     ISPM 20-27
+ ISPM 20                                   Guidelines for a phytosanitary import regulatory system – Annex 2
+
+
+
+4.2   Importers
+The responsibilities of importers, as determined by the NPPO of the importing country, should include:
+-     obtaining an SIA before import in situations where it is required;
+-     complying with the requirements of the SIA;
+-     if required, providing the SIA to the exporter;
+-     if required, notifying the NPPO of the importing country of the timing of the import or other
+      information; and
+-     when necessary, providing a translation of the SIA in a language that the NPPO of the exporting
+      country can understand.
+
+4.3   Exporters
+When required by the NPPO of the exporting country, exporters should provide:
+-    a legible SIA to the NPPO of the exporting country;
+-    a translation of the SIA in a language specified by the NPPO of the exporting country; and
+-    evidence of compliance with the requirements of the SIA that are relevant to the exporter.
+
+4.4   The NPPO of the exporting country
+The NPPO of the exporting country:
+-    may obtain an SIA directly from the NPPO of the importing country or require the exporter to
+     obtain the SIA and present it to them;
+-    may verify the SIA with the NPPO of the importing country; and
+-    should ensure that the consignment complies with the phytosanitary import requirements included
+     in the SIA.
+
+
+
+
+ISPM 20-28                                                     International Plant Protection Convention
+ This page is intentionally left blank
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+global plant resources and facilitate safe trade.
+The IPPC vision is that all countries have the capacity to
+implement harmonized measures to prevent pest introductions
+and spread, and minimize the impacts of pests on food
+security, trade, economic growth, and the environment.
+
+
+
+Organization
+◆ There are over 180 IPPC contracting parties.
+◆ Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+◆ 10 regional plant protection organizations (RPPOs) have
+
+   been established to coordinate NPPOs in various regions
+   of the world.
+◆ The IPPC Secretariat liaises with relevant international
+
+   organizations to help build regional and national
+   capacities.
+◆ The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+International Plant Protection Convention Secretariat
+ippc@fao.org | www.ippc.int
+
+Food and Agriculture Organization of the United Nations
+Rome, Italy
+

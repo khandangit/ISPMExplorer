@@ -1,0 +1,574 @@
+                                                                                ISPM 14
+International Standard for Phytosanitary Measures 14
+
+
+
+
+                                                                                 eng
+
+
+
+
+                                                        The use of integrated
+                                                       measures in a systems
+                                                       approach for pest risk
+                                                                management
+ This page is intentionally left blank
+                INTERNATIONAL STANDARDS FOR
+                   PHYTOSANITARY MEASURES
+
+
+
+
+           ISPM 14
+
+The use of integrated measures
+  in a systems approach for
+    pest risk management
+
+
+
+
+                            Produced by the Secretariat of the
+                     International Plant Protection Convention
+                              Adopted 2002; published 2019
+
+
+
+
+                                                 © FAO 2017
+ The designations employed and the presentation of material in this information
+product do not imply the expression of any opinion whatsoever on the part of the
+Food and Agriculture Organization of the United Nations (FAO) concerning the legal
+or development status of any country, territory, city or area or of its authorities, or
+concerning the delimitation of its frontiers or boundaries. The mention of specific
+companies or products of manufacturers, whether or not these have been patented,
+does not imply that these have been endorsed or recommended by FAO in
+preference to others of a similar nature that are not mentioned.
+
+The views expressed in this information product are those of the author(s) and do
+not necessarily reflect the views or policies of FAO.
+
+© FAO, 2017
+
+FAO encourages the use, reproduction and dissemination of material in this
+information product. Except where otherwise indicated, material may be copied,
+downloaded and printed for private study, research and teaching purposes, or for
+use in non-commercial products or services, provided that appropriate
+acknowledgement of FAO as the source and copyright holder is given and that
+FAO’s endorsement of users’ views, products or services is not implied in any way.
+
+All requests for translation and adaptation rights, and for resale and other
+commercial use rights should be made via www.fao.org/contact-us/licence-request
+or addressed to copyright@fao.org.
+
+FAO information products are available on the FAO website
+(www.fao.org/publications) and can be purchased through publications-
+sales@fao.org.
+
+When this ISPM is reproduced, it should be mentioned that current adopted
+versions of ISPMs are available for download on www.ippc.int.
+
+
+
+
+Publication history
+This is not an official part of the standard
+1997-09 TC-RPPOs added topic System approach for phytosanitary certification
+   (1997-001).
+1999-10 ICPM-2 added topic System approaches.
+2000-07 EWG developed draft text.
+2001-05 ISC-3 revised draft text and approved for MC.
+2001-06 Sent for MC.
+2001-11 ISC-4 revised draft text for adoption.
+2002-03 ICPM-4 adopted standard.
+ISPM 14. 2002. The use of integrated measures in a systems approach for pest
+   risk management. Rome, IPPC, FAO.
+2010-07 IPPC secretariat amended ISPM 14 by Ink amendments on CPM-5
+   (2010).
+2014-01 IPPC secretariat noted that between 2002 and 2006 the Annex 1 was
+   erroneously changed to Appendix. This error was corrected in 2011 when the
+   standard was reformatted.
+2015-06 IPPC Secretariat incorporated ink amendments and reformatted
+   standards following revoking of standards procedure from CPM-10 (2015).
+2017-04 CPM noted ink amendments to avoid the use of “trading partner”. The
+   IPPC Secretariat incorporated the ink amendments.
+2019-04 CPM-14 noted and IPPC Secretariat incorporated ink amendments to the
+   term “contamination” and its derivatives.
+
+Publication history last updated: 2019-04
+ The use of integrated measures in a systems approach for pest risk management                                                                     ISPM 14
+
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................4
+
+INTRODUCTION ....................................................................................................................................4
+Scope ........................................................................................................................................................4
+References ................................................................................................................................................4
+Definitions ................................................................................................................................................4
+Outline of Requirements ..........................................................................................................................4
+
+REQUIREMENTS ...................................................................................................................................6
+1.     Purpose of Systems Approaches.......................................................................................................6
+2.     Characteristics of Systems Approaches ............................................................................................6
+3.     Relationship with PRA and Available Pest Risk Management Options...........................................6
+4.     Independent and Dependent Measures .............................................................................................8
+5.     Circumstances for Use ......................................................................................................................8
+6.     Types of Systems Approaches ..........................................................................................................8
+7.     Efficacy of Measures ........................................................................................................................9
+8.     Developing Systems Approaches .....................................................................................................9
+9.     Evaluating Systems Approaches.....................................................................................................10
+       9.1      Possible outcomes of evaluation .....................................................................................10
+10. Responsibilities...............................................................................................................................10
+    10.1    Importing country responsibilities ..................................................................................11
+    10.2    Exporting country responsibilities ..................................................................................11
+ANNEX 1: Critical control point system ...............................................................................................12
+
+
+
+
+International Plant Protection Convention                                                                                                       ISPM 14-3
+ ISPM 14                      The use of integrated measures in a systems approach for pest risk management
+
+
+
+
+Adoption
+This standard was adopted by the Fourth Session of the Interim Commission on Phytosanitary
+Measures in March 2002.
+
+
+INTRODUCTION
+
+Scope
+This standard provides guidelines for the development and evaluation of integrated measures in a
+systems approach as an option for pest risk management under the relevant international standards for
+pest risk analysis (PRA) designed to meet phytosanitary import requirements for plants, plant products
+and other regulated articles.
+
+
+References
+The present standard refers to International Standards for Phytosanitary Measures (ISPMs). ISPMs are
+available on the International Phytosanitary Portal (IPP) at https://www.ippc.int/core-
+activities/standards-setting/ispms.
+Codex Alimentarius. 2003. Hazard analysis and critical control point (HACCP) system and
+     guidelines for its application. Annex to CAC/RCP 1-1969 (General principles of food hygiene)
+     (Rev. 4 - 2003). Rome, Codex Alimentarius, FAO.
+COSAVE. 1998. Lineamientos para un sistema integrado de medidas para mitigación del riesgo de
+     plagas (¨system approach¨) [Guidelines for an integrated system of measures to mitigate pest
+     risk (“systems approach”)]. Estandar Regional en Proteccion Fitosanitaria 3.13, v. 1.2.
+     Asunción, Paraguay, Comité de Sanidad Vegetal del Cono Sur.
+IPPC. 1997. International Plant Protection Convention. Rome, IPPC, FAO.
+WTO. 1994. Agreement on the Application of Sanitary and Phytosanitary Measures. Geneva, World
+     Trade Organization.
+
+Definitions
+Definitions of phytosanitary terms used in the present standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+
+Outline of Requirements
+ISPM 2 (Framework for pest risk analysis), ISPM 11 (Pest risk analysis for quarantine pests) and
+ISPM 21 (Pest risk analysis for regulated non-quarantine pests) provide general guidance on
+measures for pest risk management. Systems approaches, which integrate measures for pest risk
+management in a defined manner, could provide an alternative to single measures to meet the
+appropriate level of phytosanitary protection of an importing country. They can also be developed in
+situations where no single measure is available. A systems approach requires the integration of
+different measures, at least two of which act independently, with a cumulative effect.
+Systems approaches range in complexity. The application of critical control points system in a systems
+approach may be useful to identify and evaluate points in a pathway where specified pest risks can be
+reduced and monitored. The development and evaluation of a systems approach may use quantitative
+or qualitative methods. Exporting and importing countries may consult and cooperate in the
+development and implementation of a systems approach. The decision regarding the acceptability of a
+systems approach lies with the importing country, subject to consideration of technical justification,
+
+ISPM 14-4                                                      International Plant Protection Convention
+ The use of integrated measures in a systems approach for pest risk management                    ISPM 14
+
+
+
+minimal impact, transparency, non-discrimination, equivalence, and operational feasibility. A systems
+approach is usually designed as an option that is equivalent to but less restrictive than other measures.
+
+
+
+
+International Plant Protection Convention                                                      ISPM 14-5
+ ISPM 14                      The use of integrated measures in a systems approach for pest risk management
+
+
+
+
+REQUIREMENTS
+
+1.    Purpose of Systems Approaches
+Many of the elements and individual components of pest risk management are described in ISPM 2,
+ISPM 11 and ISPM 21. All phytosanitary measures must be technically justified according to
+Article VII.2(a) of the IPPC. A systems approach integrates measures to meet phytosanitary import
+requirements. Systems approaches provide, where appropriate, an equivalent alternative to procedures
+such as treatments or replace more restrictive measures like prohibition. This is achieved by
+considering the combined effect of different conditions and procedures. Systems approaches provide
+the opportunity to consider both pre- and post-harvest procedures that may contribute to the effective
+management of pest risk. It is important to consider systems approaches among pest risk management
+options because the integration of measures may be less trade restrictive than other risk management
+options (particularly where the alternative is prohibition).
+
+
+2.    Characteristics of Systems Approaches
+A systems approach requires two or more measures that are independent of each other, and may
+include any number of measures that are dependent on each other. An advantage of the systems
+approach is the ability to address variability and uncertainty by modifying the number and strength of
+measures to meet phytosanitary import requirements.
+Measures used in a systems approach may be applied pre- and/or post-harvest wherever national plant
+protection organizations (NPPOs) have the ability to oversee and ensure compliance with
+phytosanitary procedures. Thus a systems approach may include measures applied in the place of
+production, during the post-harvest period, at the packing house, or during shipment and distribution
+of the commodity.
+Cultural practices, crop treatment, post-harvest disinfestation, inspection and other procedures may be
+integrated in a systems approach. Risk management measures designed to prevent contamination or re-
+infestation are generally included in a systems approach (e.g. maintaining the integrity of lots,
+requiring pest-proof packaging, screening packing areas, etc.). Likewise, procedures such as pest
+surveillance, trapping and sampling can also be components of a systems approach.
+Measures that do not kill pests or reduce their prevalence but reduce their potential for entry or
+establishment (safeguards) can be included in a systems approach. Examples include designated
+harvest or shipping periods, restrictions on the maturity, colour, hardness, or other condition of the
+commodity, the use of resistant hosts, and limited distribution or restricted use at the destination.
+
+
+3.    Relationship with PRA and Available Pest Risk Management Options
+The conclusions from pest risk assessment (Stage 2 of PRA) are used to decide whether pest risk
+management is required and the strength of measures to be used. Pest risk management, (Stage 3 of
+PRA), is the process of identifying ways to react to a perceived risk, evaluating the efficacy of these
+procedures, and recommending the most appropriate options.
+A combination of phytosanitary measures in a systems approach is one of the options which may be
+selected as the basis for phytosanitary import requirements. As in the development of all pest risk
+management measures, these should take into account uncertainty of the risk. (see ISPM 11).
+In principle, systems approaches should be composed of the combination of phytosanitary measures
+that are possible to implement within the exporting country. However, where the exporting country
+proposes measures that should be implemented within the territory of importing country and the
+
+
+ISPM 14-6                                                      International Plant Protection Convention
+ The use of integrated measures in a systems approach for pest risk management                  ISPM 14
+
+
+
+importing country agrees, measures within the importing country may be combined in systems
+approaches.
+The following summarizes many of the options commonly used:
+Pre-planting
+-     healthy planting material
+-     resistant or less susceptible cultivars
+-     pest free areas, pest free places of production or pest free production sites
+-     producer registration and training.
+Pre-harvest
+-    field certification/management (e.g. inspection, pre-harvest treatments, pesticides, biological
+     control etc.)
+-    protected conditions (e.g. glasshouse, fruit bagging etc.)
+-    pest mating disruption
+-    cultural controls (e.g. sanitation/weed control)
+-    low pest prevalence (continuous or at specific times)
+-    testing.
+Harvest
+-    harvesting plants at a specific stage of development or time of year
+-    removal of infested products, inspection for selection
+-    stage of ripeness/maturity
+-    sanitation (e.g. removal of contamination, “trash”)
+-    harvest technique (e.g. handling).
+Post-harvest treatment and handling
+-     treatment (e.g. fumigation, irradiation, cold storage, controlled atmosphere, washing, brushing,
+      waxing, dipping, heat etc.)
+-     inspection and grading (including selection for certain maturity stages)
+-     sanitation (including removal of parts of the host plant)
+-     certification of packing facilities
+-     sampling
+-     testing
+-     method of packing
+-     screening of storage areas.
+Transportation and distribution
+-    treatment or processing during transport
+-    treatment or processing on arrival
+-    restrictions on end use, distribution and points of entry
+-    restrictions on the period of import due to difference in seasons between origin and destination
+-    method of packing
+-    post-entry quarantine
+-    inspection and/or testing
+-    speed and type of transport
+-    sanitation (freedom from contamination of conveyances).
+
+
+
+
+International Plant Protection Convention                                                    ISPM 14-7
+ ISPM 14                       The use of integrated measures in a systems approach for pest risk management
+
+
+
+4.    Independent and Dependent Measures
+A systems approach may be composed of independent and dependent measures. By definition, a
+systems approach must have at least two independent measures. An independent measure may be
+composed of several dependent measures.
+With dependent measures the probability of failure is approximately additive. All dependent measures
+are needed for the system to be effective.
+Example:
+A pest-free glasshouse where both double-door and screening of all openings is required is an example
+where dependent measures are combined to form an independent measure. If the probability that the
+screening fails is 0.1 and the probability that the double doors fail is 0.1, then the probability that the
+glasshouse will be infested is the approximate sum of the two values. Therefore the probability that at
+least one of the measures fails is the sum of both probabilities minus the probability that both fail at
+the same time. In this example the probability is 0.19 (0.1 + 0.1 − 0.01), since both the measures could
+fail at the same time.
+Where measures are independent of each other, both measures must fail for the system to fail. With
+independent measures, the probability of failure is the product of all the independent measures.
+Example:
+If the inspection of a shipment has a 0.05 probability of failure and the limiting of movement to certain
+areas has a 0.05 probability of failure, then the probability of the system failing would be 0.0025
+(0.05 × 0.05).
+
+
+5.    Circumstances for Use
+Systems approaches may be considered when one or more of the following circumstances apply:
+-     individual measures are:
+            not adequate to meet phytosanitary import requirements
+            not available (or likely to become unavailable)
+            detrimental (to commodity, human health, environment)
+            not cost effective
+            overly trade restrictive
+            not feasible
+-     the pest and pest-host relationship is well known
+-     a systems approach has been demonstrated to be effective for a similar pest/commodity situation
+-     there is the possibility to assess the effectiveness of individual measures either qualitatively or
+      quantitatively
+-     relevant growing, harvesting, packing, transportation and distribution practices are well-known
+      and standardized
+-     individual measures can be monitored and corrected
+-     prevalence of the pest(s) is known and can be monitored
+-     a systems approach is cost effective (e.g. considering the value and/or volume of commodity).
+
+
+6.    Types of Systems Approaches
+Systems approaches range in complexity and rigour from systems that simply combine independent
+measures known to be effective to more complex and precise systems such as critical control point
+systems (see Appendix 1).
+
+ISPM 14-8                                                        International Plant Protection Convention
+ The use of integrated measures in a systems approach for pest risk management                   ISPM 14
+
+
+
+Other systems based on a combination of measures that do not meet the requirements for a critical
+control point system may be considered effective. However, the application of the critical control point
+concept may be generally useful for the development of other systems approaches. For example, non-
+phytosanitary certification programmes may have elements that are also valuable for pest risk
+management and may be included in a systems approach provided the phytosanitary elements of the
+process are made mandatory and can be overseen and controlled by the NPPO.
+The minimum requirements for a measure to be considered a required component for a systems
+approach are that the measure:
+-     is clearly defined
+-     is efficacious
+-     is officially required (mandatory)
+-     can be monitored and controlled by the responsible NPPO.
+
+
+7.    Efficacy of Measures
+Systems approaches may be developed or evaluated in either a quantitative or qualitative manner or a
+combination of both. A quantitative approach may be more appropriate where suitable data are
+available, such as those usually associated with measuring the efficacy of treatments. A qualitative
+approach should be considered more appropriate where efficacy is estimated by expert judgement.
+The efficacy of independent measures that may be used to reduce pest incidence can be expressed in
+different ways (e.g. mortality, reduction in incidence, host susceptibility). The overall efficacy of a
+systems approach is based on the combination of the efficacy of required independent measures.
+Wherever possible this should be expressed in quantitative terms with a confidence interval. For
+example, efficacy for a particular situation may be determined to be no more than five infested fruit
+from a total population of one million fruit with 95% confidence. Where such calculations are not
+possible or are not done, the efficacy may be expressed in qualitative terms such as high, medium, and
+low.
+
+
+8.    Developing Systems Approaches
+The development of a systems approach may be undertaken by the importing country, or by the
+exporting country, or ideally through the cooperation of both countries. The process of developing
+systems approaches may include consultation with industry, the scientific community, and NPPOs of
+importing and exporting countries. However, the NPPO of the importing country decides the
+suitability of the systems approach in meeting its requirements, subject to consideration of technical
+justification, minimal impact, transparency, non-discrimination, equivalence and operational
+feasibility.
+A systems approach may include measures that are added or strengthened to compensate for
+uncertainty due to data gaps, variability, or lack of experience is the application of procedures. The
+level of such compensation included in a systems approach should be commensurate with the level of
+uncertainty.
+Experience and the provision of additional information may provide the basis for renewed
+consideration of the number and strength of measures with a view to modifying the systems approach
+accordingly.
+The development of a systems approach involves:
+-     obtaining from a PRA the identity of the pest risk and the description of the pathway
+-     identifying where and when management measures occur or can be applied (control points)
+-     distinguishing between measures that are essential to the system and other factors or conditions
+
+
+International Plant Protection Convention                                                     ISPM 14-9
+ ISPM 14                      The use of integrated measures in a systems approach for pest risk management
+
+
+
+-     identifying independent and dependent measures and options for the compensation for
+      uncertainty
+-     assessing the individual and integrated efficacy of measures that are essential to the system
+-     assessing feasibility and trade restrictiveness
+-     consultation
+-     implementation with documentation and reporting
+-     review and modification as necessary.
+
+
+9.    Evaluating Systems Approaches
+In the evaluation of systems approaches to meet phytosanitary import requirements, the evaluation of
+whether these are met or not should consider the following:
+-      considering the relevance of existing systems approaches for similar or the same pest(s) on
+       other commodities
+-      considering the relevance of systems approaches for other pest(s) on the same commodity
+-      evaluating information provided on:
+             efficacy of measures
+             surveillance and interception, sampling data (incidence of pest)
+             pest host relationship
+             crop management practices
+             verification procedures
+             trade impacts and costs, including the time factor
+-      considering data against desired confidence levels and taking into account options for the
+       compensation for uncertainty where appropriate.
+
+9.1   Possible outcomes of evaluation
+These may include determination that the systems approach is:
+-     acceptable
+-     unacceptable:
+           efficacious but not feasible
+           not sufficiently effective (requires an increase in the number or strength of measures)
+           unnecessarily restrictive (requires a reduction of the number or strength of measures)
+           not possible to evaluate due to insufficient data or unacceptably high uncertainty.
+Where the systems approach has been found unacceptable, the rationale for this decision should be
+described in detail and made available to NPPOs of the exporting country to facilitate the
+identification of possible improvements.
+
+
+10.   Responsibilities
+Countries share the obligation to observe the principle of equivalence by considering pest risk
+management alternatives that will facilitate safe trade. Systems approaches provide significant
+opportunities to develop new and alternative pest risk management strategies, but their development
+and implementation requires consultation and cooperation. Depending on the number and nature of
+measures included in a systems approach, a significant amount of data may be required. Both
+exporting countries and importing countries should cooperate in the provision of sufficient data and
+the timely exchange of relevant information in all aspects of the development and implementation pest
+risk management measures, including systems approaches.
+
+ISPM 14-10                                                     International Plant Protection Convention
+ The use of integrated measures in a systems approach for pest risk management                  ISPM 14
+
+
+
+10.1 Importing country responsibilities
+The importing country should provide specific information regarding its requirements. This includes
+specification of information and system requirements:
+-      identify pests of concern
+-      specify the phytosanitary import requirements
+-      describe types and level of assurance required (e.g. certification)
+-      identify points requiring verification.
+Importing countries, in consultation with the exporting country where appropriate should select least
+trade restrictive measures where there are options.
+Other responsibilities of the importing country may include to:
+-     propose improvements or alternative options
+-     audit (planned evaluation and verification of the systems approach)
+-     specify actions for non-compliance
+-     review and give feedback.
+Where importing countries agree to accept the implementation of certain measures in their territories,
+importing countries are responsible for the implementation of those measures.
+Agreed phytosanitary measures should be published (Article VII.2(b), IPPC).
+
+10.2 Exporting country responsibilities
+The exporting country should provide sufficient information to support evaluation and acceptance of
+the systems approach. This may include:
+-      commodity, place of production and expected volume and frequency of shipments
+-      relevant production, harvest, packing/handling, transport details
+-      pest-host relationship
+-      pest management measures proposed for a systems approach, and relevant efficacy data
+-      relevant references.
+Other responsibilities of the exporting country include:
+-     monitoring/auditing and reporting on system effectiveness
+-     taking appropriate corrective actions
+-     maintaining appropriate records
+-     providing phytosanitary certification in accordance with requirements of the system.
+
+
+
+
+International Plant Protection Convention                                                    ISPM 14-11
+ ISPM 14            The use of integrated measures in a systems approach for pest risk management – Annex 1
+
+
+                               This annex is a prescriptive part of the standard.
+
+
+ANNEX 1: Critical control point system
+A critical control point system would involve the following procedures:
+(1) determine the hazards and the objectives for measures within a defined system
+(2) identify independent procedures that can be monitored and controlled
+(3) establish criteria or limits for the acceptance/failure of each independent procedure
+(4) implement the system with monitoring as required for the desired level of confidence
+(5) take corrective action when monitoring results indicate that criteria are not met
+(6) review or test to validate system efficacy and confidence
+(7) maintain adequate records and documentation.
+An example of this type of system is practised in food safety and is termed a Hazard Analysis Critical
+Control Point (HACCP) system.
+The application of a critical control point system for phytosanitary purposes may be useful to identify
+and evaluate hazards as well as the points in a pathway where risks can be reduced and monitored and
+adjustments made where necessary. The use of a critical control point system for phytosanitary
+purposes does not imply or prescribe that application of controls is necessary to all control points.
+However, critical control point systems only rely on specific independent procedures known as control
+points. These are addressed by risk management procedures whose contribution to the efficacy of the
+system can be measured and controlled.
+Therefore, systems approaches for phytosanitary purposes may include components that do not need to
+be entirely consistent with critical control point concept because they are considered to be important
+elements in a systems approach for phytosanitary purposes. For example, certain measures or
+conditions exist or are included to compensate for uncertainty. These may not be monitored as
+independent procedures (e.g. packhouse sorting), or may be monitored but not controlled (e.g. host
+preference/susceptibility).
+
+
+
+
+ISPM 14-12                                                            International Plant Protection Convention
+ This page is intentionally left blank
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+cultivated and wild plants by preventing the introduction and
+spread of pests. International travel and trade are greater than
+ever before. As people and commodities move around the
+world, organisms that present risks to plants travel with them.
+
+Organization
+RR There are over 180 contracting parties to the IPPC.
+
+RR Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+RR Nine regional plant protection organizations (RPPOs) work
+
+   to facilitate the implementation of the IPPC in countries.
+RR IPPC liaises with relevant international organizations to
+
+   help build regional and national capacities.
+RR The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+Food and Agriculture Organization of the United Nations
+IPPC Secretariat
+Viale delle Terme di Caracalla, 00153 Rome, Italy
+Tel: +39 06 5705 4812
+Email: ippc@fao.org | Web: www.ippc.int
+

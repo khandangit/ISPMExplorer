@@ -1,0 +1,719 @@
+                                                                                                               ISPM 18
+INTERNATIONAL STANDARD FOR PHYTOSANITARY MEASURES 18
+
+
+
+
+                                                                                                                ENG
+
+
+
+
+                                                           Requirements for
+                                                       the use of irradiation
+                                                         as a phytosanitary
+                                                                     measure
+
+
+
+
+                                                                          Produced by the Secretariat of the
+                                                           International Plant Protection Convention (IPPC)
+ This page is intentionally left blank
+                       INTERNATIONAL STANDARDS FOR
+                          PHYTOSANITARY MEASURES
+
+
+
+
+                 ISPM 18
+
+Requirements for the use of irradiation as a
+        phytosanitary measure
+
+
+
+
+                                    Produced by the Secretariat of the
+                             International Plant Protection Convention
+                                      Adopted 2023; published 2023
+
+
+                                                         © FAO 2023
+ Required citation:
+IPPC Secretariat. 2023. Requirements for the use of irradiation as a phytosanitary measure. International Standard for
+Phytosanitary Measures No. 18. Rome. FAO on behalf of the Secretariat of the International Plant Protection Convention.
+
+
+
+The designations employed and the presentation of material in this information product do not imply the expression of any
+opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) concerning the legal
+or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers
+or boundaries. The mention of specific companies or products of manufacturers, whether or not these have been patented,
+does not imply that these have been endorsed or recommended by FAO in preference to others of a similar nature that
+are not mentioned.
+The views expressed in this information product are those of the author(s) and do not necessarily reflect the views or
+policies of FAO.
+© FAO, 2023
+
+
+
+
+Some rights reserved. This work is made available under the Creative Commons Attribution-NonCommercial-ShareAlike
+3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/icenses/by-nc-sa/3.0/igo/legalcode).
+Under the terms of this licence, this work may be copied, redistributed and adapted for non-commercial purposes, provided
+that the work is appropriately cited. In any use of this work, there should be no suggestion that FAO endorses any specific
+organization, products or services. The use of the FAO logo is not permitted. If the work is adapted, then it must be
+licensed under the same or equivalent Creative Commons licence. If a translation of this work is created, it must include
+the following disclaimer along with the required citation: “This translation was not created by the Food and Agriculture
+Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The
+original English edition shall be the authoritative edition.”
+Disputes arising under the licence that cannot be settled amicably will be resolved by mediation and arbitration as
+described in Article 8 of the licence except as otherwise provided herein. The applicable mediation rules will be the
+mediation rules of the World Intellectual Property Organization www.wipo.int/amc/en/mediation/rules and any arbitration
+will be conducted in accordance with the Arbitration Rules of the United Nations Commission on International Trade Law
+(UNCITRAL).
+Third-party materials. Users wishing to reuse material from this work that is attributed to a third party, such as tables,
+figures or images, are responsible for determining whether permission is needed for that reuse and for obtaining
+permission from the copyright holder. The risk of claims resulting from infringement of any third-party-owned component
+in the work rests solely with the user.
+Sales, rights and licensing. FAO information products are available on the FAO website (www.fao.org/publications) and
+can be purchased through publications-sales@fao.org. Requests for commercial use should be submitted via:
+www.fao.org/contact-us/licence-request. Queries regarding rights and licensing should be submitted to:
+copyright@fao.org.
+When this ISPM is reproduced, it should be mentioned that current adopted versions of ISPMs are available for download
+on www.ippc.int.
+For official reference, policy-making or dispute avoidance and settlement purposes, the only ISPMs that may be referred
+to are those published under www.ippc.int/en/core-activities/standards-setting/ispms/#614.
+ Publication history
+This is not an official part of the standard
+1996-09 Technical Consultation among Regional Plant Protection Organizations
+   added topic Irradiation as a quarantine treatment (1996-004).
+2001-04 ICPM-3 added topic Irradiation as a treatment for phytosanitary purposes.
+2001-04 Interim Standards Committee approved Specification 7 Irradiation as a
+   treatment for phytosanitary purposes.
+2001-11 Expert working group developed draft text.
+2002-05 Standards Committee (SC) revised and approved for consultation.
+2002-06 Consultation.
+2002-11 SC revised and recommended for adoption.
+2003-04 ICPM-5 adopted the standard.
+ISPM 18. 2003. Guidelines for the use of irradiation as a phytosanitary measure.
+   Rome, IPPC Secretariat, FAO.
+
+2015-06 IPPC Secretariat incorporated ink amendments and reformatted standards
+   following revoking of standards procedure from CPM-10 (2015).
+2019-04 CPM-14 noted and IPPC Secretariat incorporated ink amendments to the
+   term “contamination” and its derivatives.
+2014-03 CPM-9 added topic Requirements for the use of irradiation as a
+   phytosanitary measure (Revision to ISPM 18) (2014-007) to the work
+   programme.
+2014-05 IPPC Secretariat, supported by Technical Panel on Phytosanitary
+   Treatments (TPPT), developed generic specification (2014-008) for
+   development of five standards; SC agreed to this approach.
+2015-05 SC approved Specification 62 (Requirements for the use of phytosanitary
+   treatments as phytosanitary measures).
+2020-12 TPPT started the revision.
+2021-02 (two meetings) TPPT revised.
+2021-05 SC revised and approved for first consultation.
+2021-07 First consultation.
+2022-05 SC-7 revised and approved for second consultation.
+2022-07 Second consultation.
+2022-11 SC revised and recommended the draft for adoption by CPM.
+2023-03 CPM-17 adopted the standard.
+ISPM 18. 2023. Requirements for the use of irradiation as a phytosanitary measure.
+   Rome, IPPC Secretariat, FAO.
+
+Publication history last updated: 2023-04
+ ISPM 18                                                          Requirements for the use of irradiation as a phytosanitary measure
+
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................5
+
+INTRODUCTION ....................................................................................................................................5
+Scope ........................................................................................................................................................5
+References ................................................................................................................................................5
+Definitions ................................................................................................................................................5
+Outline of requirements ............................................................................................................................5
+
+BACKGROUND ......................................................................................................................................5
+
+IMPACTS ON BIODIVERSITY AND THE ENVIRONMENT ............................................................6
+
+REQUIREMENTS ...................................................................................................................................6
+1.     Irradiation objective ..........................................................................................................................6
+2.     Irradiation application.......................................................................................................................6
+3.     Dosimetry .........................................................................................................................................7
+       3.1     Dosimetry systems ............................................................................................................7
+       3.2     Dose mapping....................................................................................................................8
+       3.3     Routine dosimetry .............................................................................................................8
+4.     Validation .........................................................................................................................................8
+5.     Adequate systems for treatment facilities .........................................................................................9
+       5.1     Approval of treatment facilities and authorization of treatment providers .......................9
+       5.2     Prevention of infestation and contamination after treatment ............................................9
+       5.3     Labelling ...........................................................................................................................9
+       5.4     Monitoring and auditing ....................................................................................................9
+6.     Documentation................................................................................................................................10
+       6.1    Documentation of procedures .........................................................................................10
+       6.2    Record-keeping ...............................................................................................................10
+       6.3    Documentation by the NPPO ..........................................................................................11
+7.     Inspection........................................................................................................................................11
+8.     Responsibilities...............................................................................................................................11
+ANNEX 1: Checklist for irradiation facility approval or auditing .........................................................12
+APPENDIX 1: Example of a dosimeter in a reference location.............................................................14
+
+
+
+
+ISPM 18-4                                                                                       International Plant Protection Convention
+ Requirements for the use of irradiation as a phytosanitary measure                               ISPM 18
+
+
+
+Adoption
+This standard was first adopted by the Fifth Session of the Commission on Phytosanitary Measures in
+April 2003. This first revision was adopted by the Seventeenth Session of the Commission on
+Phytosanitary Measures in March 2023 as the present standard.
+
+INTRODUCTION
+
+Scope
+This standard provides technical guidance on the application of ionizing radiation as a phytosanitary
+measure. This standard does not provide details on specific irradiation treatments, such as specific
+treatment schedules for specific regulated pests on specific commodities, or treatments used for the
+production of sterile organisms for pest control.
+
+References
+The present standard refers to ISPMs. ISPMs are available on the International Phytosanitary Portal
+(IPP) at www.ippc.int/core-activities/standards-setting/ispms.
+APPPC (Asia and Pacific Plant Protection Commission). 2014. Approval of irradiation facilities.
+    Regional Standard for Phytosanitary Measures (RSPM) 9. Bangkok, APPPC, FAO Regional
+    Office for Asia and the Pacific. 20 pp.
+IAEA (International Atomic Energy Agency). 2015. Manual of good practice in food irradiation –
+     Sanitary, phytosanitary and other applications. Technical Reports Series No. 481. Vienna, IAEA.
+     85 pp.
+ISO 14470:2011. Food irradiation – Requirements for the development, validation and routine control
+     of the process of irradiation using ionizing radiation for the treatment of food. Geneva,
+     International Organization for Standardization. 20 pp.
+ISO/ASTM 51261:2013. Practice for calibration of routine dosimetry systems for radiation processing,
+     2nd edn. United States of America, International Organization for Standardization and ASTM
+     International. 18 pp.
+
+Definitions
+Definitions of phytosanitary terms used in this standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+Outline of requirements
+This standard provides guidance on irradiation and its application as a phytosanitary measure to comply
+with phytosanitary import requirements.
+The standard describes the roles and responsibilities of parties involved in the use of irradiation as a
+phytosanitary measure. It contains guidance for national plant protection organizations (NPPOs) on
+responsibilities for approving treatment facilities, and for monitoring and auditing treatment facilities
+and providers.
+
+BACKGROUND
+The purpose of this standard is to provide generic requirements for the application of ionizing radiation
+as a phytosanitary measure, specifically for those treatments adopted under ISPM 28 (Phytosanitary
+treatments for regulated pests).
+ISPM 28 was adopted to harmonize effective phytosanitary treatments over a wide range of
+circumstances and to enhance the mutual recognition of treatment efficacy by NPPOs, which may
+
+International Plant Protection Convention                                                      ISPM 18-5
+ ISPM 18                                      Requirements for the use of irradiation as a phytosanitary measure
+
+
+
+facilitate safe trade. ISPM 28 provides requirements for submission and evaluation of efficacy data and
+other relevant information on phytosanitary treatments. The annexes of ISPM 28 contain specific
+irradiation treatments that have been evaluated and adopted by the Commission on Phytosanitary
+Measures.
+Irradiation is considered to be effective when the phytosanitary treatment dose of ionizing radiation
+(hereafter referred to as the “phytosanitary treatment dose”) required by the treatment schedule is
+absorbed at the location in the process load that receives the lowest dose of radiation. Therefore, process
+control relies on identifying the minimum dose location for a specific loading configuration of a
+commodity and routinely delivering to this location a dose of ionizing radiation (a minimum dose) that
+is equal to or greater than the required phytosanitary treatment dose. The effectiveness of the treatment
+process also includes phytosanitary measures applied to prevent infestation or contamination after
+irradiation.
+
+IMPACTS ON BIODIVERSITY AND THE ENVIRONMENT
+Irradiation may be used to prevent the introduction and spread of regulated pests and hence may be
+beneficial to biodiversity. The use of irradiation as an alternative to methyl bromide fumigation provides
+an additional benefit to the environment by reducing methyl bromide emissions, which deplete the ozone
+layer.
+
+REQUIREMENTS
+
+1.    Irradiation objective
+The objective of using irradiation as a phytosanitary measure is to achieve, at a specified efficacy, certain
+pest responses such as:
+-      inability to develop successfully (e.g. non-emergence of adults);
+-      inability to reproduce (e.g. sterility);
+-      mortality (e.g. mortality of certain vectors of pests);
+-      inactivation; or
+-      devitalization of plants (e.g. seeds may germinate but seedlings do not grow; or tubers or bulbs
+       do not sprout).
+Where the required response is the inability of the pest to reproduce, a range of options may be specified.
+These may include:
+-     complete sterility in one or both sexes;
+-     oviposition or hatching without further development; or
+-     sterility of the F1 generation.
+
+2.    Irradiation application
+Ionizing radiation may be provided by radioactive isotopes (gamma rays from cobalt-60 or caesium-
+137), electrons (up to 10 MeV) or X-rays (up to 7.5 MeV) generated from machine sources. The unit of
+measurement for absorbed dose is the gray (Gy).
+The phytosanitary treatment dose is the minimum dose required to achieve the pest response at the
+specified efficacy. The treatment is dependent upon the understanding of dose distribution within the
+loading configuration and consistent presentation of the process load to the ionizing radiation. Factors
+that may alter the effectiveness of the treatment may include inconsistent loading configurations and
+variable levels of oxygen (O2).
+To ensure that the phytosanitary treatment dose has been attained throughout the process load, treatment
+procedures should ensure that the minimum absorbed dose (Dmin) is equal to or greater than the required
+
+ISPM 18-6                                                         International Plant Protection Convention
+ Requirements for the use of irradiation as a phytosanitary measure                                  ISPM 18
+
+
+
+phytosanitary treatment dose. The intended use of the commodity should be considered. For example,
+although appropriate for foods and agricultural products for processing or consumption, irradiation may
+not be appropriate for plants for planting, as it may devitalize them, and maximum absorbed doses may
+need to be considered as prescribed by food safety authorities.
+It is rare that mortality is technically justified as the required response to irradiation. It is therefore
+possible for live, non-viable target pests to be found in correctly treated commodities. This does not
+imply a failure of the treatment. It does mean, however, that it is essential for the treatment to be applied
+correctly to ensure that any target pests that are still alive are unable to complete development or
+otherwise reproduce. In addition, it is preferable that such pests are unable to escape into the
+environment unless they can be distinguished from non-irradiated pests.
+Irradiation may be applied:
+-      as an integral part of packing operations;
+-      to bulk unpackaged commodities; or
+-      to packaged commodities.
+Irradiation may take place in the country of origin. When it is operationally feasible to prevent the escape
+of any pests during transport of the untreated commodity, treatment may alternatively be conducted at:
+-      the point of entry;
+-      a designated location in a third country; or
+-      a designated location within the country of final destination.
+Treated commodities should be certified and released only after dosimetry measurements show that no
+absorbed doses were less than the required phytosanitary treatment dose and therefore that the dose
+requirement has been met throughout the process load.
+Depending on the pest risk to be managed, the tolerance of the commodity to treatment, and the
+availability of other pest risk management options, irradiation may be used either as a single
+phytosanitary measure or combined with other measures as part of a systems approach (see ISPM 14
+(The use of integrated measures in a systems approach for pest risk management)).
+
+3.     Dosimetry
+Irradiation does not deliver a uniform dose throughout a process load but a continuum of doses. The
+dose range may increase as the size or density of the treated material increases. Therefore, it is important
+that an accurate measurement of the absorbed dose in a process load can be readily determined to ensure
+that the required phytosanitary treatment dose has been reached throughout the load.
+Dosimetry provides assurance that Dmin is equal to or greater than the required phytosanitary treatment
+dose and therefore that the dose requirement has been met throughout the process load. Properly
+designed systems for treatment delivery and protection against infestation and contamination, together
+with continual checking and regular monitoring of those systems, provide assurance that treatments are
+properly conducted. Dosimetry is highly specialized; NPPOs unfamiliar with irradiation should
+therefore collaborate with technical experts from their national nuclear agencies when approving
+facilities to be used for irradiating commodities for phytosanitary purposes.
+
+3.1    Dosimetry systems
+A dosimetry system consists of dosimeters, instruments that read dosimeters, and associated procedures
+and standards. A dosimeter is a device with a reproducible response to irradiation that can be used to
+measure the absorbed dose. The dosimeter responds to the radiation and the response is measured by
+instruments to calculate the amount of ionizing radiation that the process load has absorbed (expressed
+as absorbed dose).
+
+
+
+International Plant Protection Convention                                                         ISPM 18-7
+ ISPM 18                                      Requirements for the use of irradiation as a phytosanitary measure
+
+
+
+The selection and use of specific dosimetry systems should be appropriate for both the dose range and
+the type of radiation. It should take into account the influence of factors such as dose rates, the level of
+uncertainty deemed to be acceptable and the required spatial resolution. Examples of dosimetry systems
+that can be used for gamma ray, electron beam and X-ray facilities can be found in ISO/ASTM
+51261:2013.
+
+3.2   Dose mapping
+Dose mapping is performed by placing dosimeters throughout the process load, irradiating the process
+load and reading the dosimeter values. Further information on the practices used for electron beams and
+X-rays are described in ISO 14470:2011 and ISO/ASTM 51261:2013.
+The objectives of dose mapping are:
+-     to determine the dose distribution throughout the process load and in particular where Dmin and
+      Dmax are found;
+-     to demonstrate that the required phytosanitary treatment dose can be attained for the process load
+      (i.e. Dmin can be equal to or greater than the required phytosanitary treatment dose);
+-     to establish the process parameters that will lead to doses within the required range;
+-     to assess the variability of the particular process; and
+-     to establish how routine dose measurements will be made.
+The dose distribution in a process load is specific to the irradiator, the path and speed that the commodity
+takes through the irradiator, the load configuration and the characteristics of the commodity. If any of
+these factors change, dose mapping should be repeated, as such changes affect dose distribution.
+
+3.3   Routine dosimetry
+Accurate measurements of absorbed dose in a process load are critical for determining the effectiveness
+of the treatment. They are part of the quality control of the treatment and of the validation process. The
+required number, location and frequency of these measurements should be prescribed based on the
+specific equipment, processes, commodities, relevant standards and phytosanitary requirements.
+When the position of Dmin or Dmax is inside the process load and it is not practical to place dosimeters
+there routinely, a dosimeter may be placed in a reference location on the surface of the process load or
+on the irradiation container in a location that is readily accessible and easily reproducible for the operator
+(see Appendix 1). For a given loading configuration, a given path through the irradiator or given
+machine settings, the relationship between the dose measured at the reference location (Dref) and Dmin
+and Dmax is arithmetic and constant. The coefficient representing this relationship should be established
+by dose mapping and may then be used to calculate Dmin and Dmax from Dref during routine dosimetry.
+
+4.    Validation
+Validation encompasses a series of checks designed to verify that a treatment facility meets its
+installation requirements (installation qualification), operates to its design specification (operational
+qualification) and will consistently deliver the required dose to a given process load within
+predetermined tolerances (performance qualification).
+Installation qualification and operational qualification validate the irradiator and may be performed by
+the treatment provider with the technology suppliers. National plant protection organizations are
+typically not involved with installation- or operational-qualification activities, but the treatment provider
+should inform the NPPO if major changes have been made to the facility that would require dose
+mapping to be repeated (e.g. replenishment of gamma sources or major changes to conveyor-belt
+systems or speeds).
+The way in which the commodity is loaded and irradiated is based on the results of the performance
+qualification. Therefore, the NPPO should review the performance-qualification activities that are
+
+
+ISPM 18-8                                                         International Plant Protection Convention
+ Requirements for the use of irradiation as a phytosanitary measure                                     ISPM 18
+
+
+
+undertaken with the actual commodity and loading configuration (e.g. full pallet or half pallet). The
+objective of performance qualification is to demonstrate that the equipment, as installed and properly
+operated, consistently performs as expected and that the treatment schedule can be met. Dose mapping
+of the actual process load to define the loading configuration is a key activity to ensure that the required
+phytosanitary treatment dose is achieved.
+
+5.     Adequate systems for treatment facilities
+Confidence in the adequacy of irradiation as a phytosanitary measure is primarily based on assurance
+that the treatment schedule is effective against the target pests under specific conditions and the
+treatment has been properly applied. Systems for treatment delivery in the facilities should be designed,
+used and monitored to ensure that treatments are properly conducted.
+The NPPO of the country in which the treatment facility is located is responsible for ensuring that the
+facility system requirements are met.
+
+5.1    Approval of treatment facilities and authorization of treatment providers
+Treatment facilities should be approved by the NPPO of the country in which the facility is located
+before phytosanitary treatments are applied there, with such approval thereby providing authorization
+to the treatment provider responsible for the facility to conduct treatments according to agreed
+procedures. This approval should be subsequent to authorization from competent authorities for safety
+(e.g. radiation safety authority, nuclear regulatory authority) where appropriate and be based on a set of
+criteria that include both criteria common to all irradiation facilities and those that are specific to the site
+and commodity (see Annex 1). Guidance on authorizing entities to perform phytosanitary actions can
+be found in ISPM 45 (Requirements for national plant protection organizations if authorizing entities
+to perform phytosanitary actions).
+Evaluation of irradiation facilities for re-approval should be carried out by the NPPO on a regular basis
+at appropriate intervals.
+
+5.2    Prevention of infestation and contamination after treatment
+The consignment owner is responsible for prevention of infestation and contamination after irradiation
+and may cooperate with the treatment provider on how to achieve this. At the treatment facility, the
+necessary measures should be implemented to prevent possible infestation or contamination of the
+commodity after treatment. The following measures may be required:
+-     keeping the commodity in a pest free enclosure under conditions that protect it from infestation
+      and contamination;
+-     packing the commodity immediately after irradiation;
+-     segregating and identifying irradiated commodities; and
+-     dispatching the commodity as soon as possible after irradiation.
+The use of pest-proof packaging before irradiation may help to prevent possible infestation or
+contamination after irradiation. It may also prevent the accidental escape of the target pests before
+treatment if irradiation is applied at the destination.
+
+5.3    Labelling
+The treatment provider is responsible for labelling commodities with treatment lot numbers or other
+identifying features allowing trace-back for non-compliant consignments. The labels should be easily
+identifiable and placed in visible locations.
+
+5.4    Monitoring and auditing
+The NPPO of the country in which the irradiation is conducted should monitor and audit treatment
+facilities and providers in accordance with ISPM 47 (Audit in the phytosanitary context). The NPPO
+should maintain an audit schedule and ensure that such audits are conducted by appropriately trained
+
+International Plant Protection Convention                                                            ISPM 18-9
+ ISPM 18                                    Requirements for the use of irradiation as a phytosanitary measure
+
+
+
+personnel. Continuous supervision of irradiation by the NPPO should not be necessary, provided
+treatment procedures are properly designed by the treatment provider and can be verified to ensure a
+high degree of system integrity for the facility, process and commodity in question. The monitoring and
+auditing should be sufficient to detect and correct deficiencies promptly.
+Treatment providers should meet monitoring and auditing requirements set by the NPPO. These
+requirements may include:
+-     access for the NPPO to conduct audits, including unannounced visits;
+-     a system to maintain and archive treatment records and provide the NPPO with access to these;
+      and
+-     corrective action to be taken in the event of nonconformity.
+The NPPO of the importing country may establish approval and audit procedures with the NPPO of the
+exporting country to verify conformity with requirements.
+
+6.    Documentation
+The NPPO of the country in which the irradiation is conducted is responsible for ensuring that treatment
+providers document all operational procedures and keep appropriate records, such as raw data on
+dosimetry readings recorded during treatments. Accurate record-keeping is essential to enable auditing
+and trace-back.
+
+6.1   Documentation of procedures
+Procedures should be documented by treatment providers to ensure that commodities are consistently
+treated as required. Process controls and operational parameters should be established to provide the
+details necessary for the specific approval of a treatment facility. Calibration and quality control
+procedures should be documented by the treatment provider. The documented procedures should include
+the following:
+-      commodity-handling procedures before, during and after irradiation;
+-      orientation and loading configuration of the commodity during irradiation;
+-      critical process parameters and the means for measuring and recording them;
+-      dosimetry and calibration of the dosimetry system;
+-      contingency plans and corrective actions to be taken in the event of treatment failure or problems
+       with critical treatment processes;
+-      procedures for handling rejected lots;
+-      labelling, record-keeping and documentation requirements; and
+-      training of personnel.
+
+6.2   Record-keeping
+The treatment provider should keep appropriate records for each treatment application. These records
+should be made available to the NPPO of the country in which the treatment facility is located for
+auditing and verification purposes or when a trace-back is necessary.
+Appropriate treatment records for irradiation as a phytosanitary measure should be retained by the
+treatment provider for at least one year to enable the trace-back of treated lots. Information that may be
+required to be recorded includes:
+-     identification of facility and responsible parties;
+-     commodity treated;
+-     target regulated pest;
+-     treatment objective (i.e. required response);
+-     owner, packer, grower and place of production of the commodity;
+
+ISPM 18-10                                                      International Plant Protection Convention
+ Requirements for the use of irradiation as a phytosanitary measure                                  ISPM 18
+
+
+
+-      lot size and volume, including number of articles or packages;
+-      identifying markings or characteristics;
+-      orientation and loading configuration of the commodity during irradiation;
+-      absorbed doses (required doses and measured doses), dosimetry calibration and dose mapping
+       records;
+-      date of treatment; and
+-      any observed deviation from the treatment schedule and, where appropriate, subsequent actions
+       taken.
+
+6.3    Documentation by the NPPO
+All NPPO procedures should be appropriately documented. Records, including those of monitoring
+inspections made and phytosanitary certificates issued, should be maintained for at least one year. In
+cases of non-compliance or new or unexpected phytosanitary situations, documentation should be made
+available upon request as described in ISPM 13 (Guidelines for the notification of non-compliance and
+emergency action).
+
+7.     Inspection
+Inspection should be carried out by the NPPO of the exporting country and inspection at import may be
+carried out by the NPPO of the importing country to determine compliance with phytosanitary import
+requirements.
+Live target pests may be found during inspection after irradiation, but this should not result in the refusal
+to issue a phytosanitary certificate. Where mortality is not the required response, it is likely that live
+target pests may persist in the treated consignment; in such cases, phytosanitary certification should be
+based on confirmation from the validation programme that the required minimum dose is administered
+and the required response is achieved for the specific treatment conditions concerned (see section 2).
+
+8.     Responsibilities
+The NPPO of the country in which the irradiation is conducted is responsible for the evaluation, approval
+and auditing of the application of irradiation as a phytosanitary measure.
+To the extent necessary, the NPPO should cooperate with other national regulatory agencies concerned
+with the development, approval and safety of irradiation, including the training and certification of
+personnel conducting the treatment and the approval of treatment facilities. The respective
+responsibilities of the NPPO and the other regulatory agencies should be identified to avoid requirements
+that are overlapping, conflicting, inconsistent or unjustified.
+The treatment provider is responsible for implementing the treatment in accordance with the NPPO
+requirements, for documenting procedures, for keeping the treatment records, and for making these
+documents and records available for auditing and verification purposes.
+
+
+
+
+International Plant Protection Convention                                                        ISPM 18-11
+ ISPM 18                              Requirements for the use of irradiation as a phytosanitary measure – Annex 1
+
+
+                                    This annex is a prescriptive part of the standard.
+
+ANNEX 1: Checklist for irradiation facility approval or auditing
+This checklist may be used by an NPPO as part of an approval or auditing process of an irradiation
+facility.
+
+  Criteria                                                                       Yes     No       Comments
+
+  1. Premises
+
+  The facility meets the NPPO phytosanitary requirements, and the
+  NPPO has access to the facility and appropriate records as
+  necessary to validate phytosanitary treatments.
+
+  Facility buildings are designed and built to be suitable in size,
+  materials and placement of equipment to facilitate proper
+  maintenance and operations for the lots to be treated.
+
+  Appropriate means, integral to the facility design, are available to
+  maintain non-irradiated lots separate from irradiated lots.
+
+  Buildings and equipment are maintained in a sanitary condition and
+  in repair sufficient to prevent infestation or contamination of the lots
+  being treated.
+
+  Effective measures are in place to protect against the infestation or
+  contamination of consignments or lots being stored or processed.
+
+  Adequate measures are in place to handle breakages, spills or other
+  damage to lots.
+
+  Adequate systems are in place to dispose of lots that are improperly
+  treated or unsuitable for treatment.
+
+  Adequate systems are in place to control non-compliant lots.
+
+  2. Personnel
+
+  The facility is adequately staffed with trained personnel.
+
+  Personnel are aware of requirements for the proper handling and
+  treatment of commodities for phytosanitary purposes.
+
+  3. Commodity handling, storage and segregation
+
+  Commodities are examined upon receipt to ensure that they are
+  suitable for irradiation.
+
+  Commodities are handled in an environment that does not increase
+  the risk of dangerous physical, chemical or biological contaminants.
+
+  Commodities are appropriately stored and adequately identified.
+
+  Procedures, equipment and structures are in place to ensure the
+  segregation of irradiated and non-irradiated lots, including physical
+  separation between incoming and outgoing holding areas.
+
+  4. Irradiation
+
+  The facility is suitably designed and equipped to allow required
+  treatments to be conducted in conformity with a treatment schedule.
+
+  A process control system is in place providing criteria to assess
+  irradiation effectiveness.
+
+  Proper process parameters are established for each type of
+  commodity to be treated.
+
+ISPM 18-12                                                                 International Plant Protection Convention
+ Requirements for the use of irradiation as a phytosanitary measure – Annex 1                    ISPM 18
+
+
+
+  Criteria                                                                     Yes   No   Comments
+
+  Written procedures have been submitted to the NPPO and are well
+  known to appropriate facility personnel.
+
+  The absorbed dose delivered to each type of commodity is verified
+  by proper dosimetric-measurement practices using calibrated
+  dosimetry, and dosimetry records are kept and made available to the
+  NPPO as needed.
+
+  5. Packaging and labelling
+
+  Each commodity is packaged using materials suitable for the
+  commodity and process.
+
+  Irradiated lots are adequately identified or labelled and adequately
+  documented.
+
+  6. Documentation
+
+  All records about each lot irradiated are retained at the facility for the
+  period of time specified by relevant authorities (at least one year)
+  and are available for inspection by the NPPO as needed.
+
+
+
+
+International Plant Protection Convention                                                     ISPM 18-13
+ ISPM 18                            Requirements for the use of irradiation as a phytosanitary measure – Appendix 1
+
+
+                This appendix is for reference purposes only and is not a prescriptive part of the standard.
+
+APPENDIX 1: Example of a dosimeter in a reference location
+In Figure 1, the coefficients (Rmin and Rmax) representing the relationship between the minimum (Dmin)
+and maximum (Dmax) absorbed doses and the absorbed dose in the reference location (Dref) have been
+calculated as 0.8 and 1.4, respectively. The calculations are as follows:
+      Measured values:
+      Dmax = 4.2 kGy
+      Dmin = 2.4 kGy
+      Dref = 3.0 kGy
+
+      Therefore:
+      Rmin = Dmin/Dref = 2.4 kGy/3.0 kGy = 0.8
+      Rmax = Dmax/Dref = 4.2 kGy/3.0 kGy = 1.4
+
+
+Thus, if the target dose range is Dmin = 2.0 kGy and Dmax = 5.0 kGy, one can estimate the routine values
+for Dref to be:
+       Dref = Dmin/Rmin = 2.0 kGy/0.8 = 2.5 kGy at a minimum
+       Dref = Dmax/Rmax = 5.0 kGy/1.4 = 3.57 kGy at a maximum.
+For further examples, please refer to IAEA (2015).
+
+
+
+
+Figure 1. Example of relationship between minimum and maximum absorbed doses and the absorbed dose in the
+reference position. Blue box, position of minimum absorbed dose (Dmin); red box, position of maximum absorbed
+dose (Dmax); yellow box, position of dosimeter in the reference location (absorbed dose measured is Dref).
+Source: IAEA (International Atomic Energy Agency). 2015. Manual of good practice in food irradiation – Sanitary,
+phytosanitary and other applications. Technical Reports Series No. 481. Vienna, IAEA. 85 pp. Reproduced with
+permission from the IAEA.
+
+
+ISPM 18-14                                                                  International Plant Protection Convention
+ This page is intentionally left blank
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+global plant resources and facilitate safe trade.
+The IPPC vision is that all countries have the capacity to
+implement harmonized measures to prevent pest introductions
+and spread, and minimize the impacts of pests on food
+security, trade, economic growth, and the environment.
+
+
+
+Organization
+◆ There are over 180 IPPC contracting parties.
+◆ Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+◆ 10 regional plant protection organizations (RPPOs) have
+
+   been established to coordinate NPPOs in various regions
+   of the world.
+◆ The IPPC Secretariat liaises with relevant international
+
+   organizations to help build regional and national
+   capacities.
+◆ The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+International Plant Protection Convention Secretariat
+ippc@fao.org | www.ippc.int
+
+Food and Agriculture Organization of the United Nations
+Rome, Italy
+

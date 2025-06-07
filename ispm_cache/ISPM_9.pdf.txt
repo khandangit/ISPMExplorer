@@ -1,0 +1,531 @@
+                                                                                ISPM 9
+9
+International Standard for Phytosanitary Measures
+
+
+
+
+                                                                                eng
+
+
+
+
+                                                          Guidelines for pest
+                                                    eradication programmes
+ This page is intentionally left blank
+                      INTERNATIONAL STANDARDS FOR
+                         PHYTOSANITARY MEASURES
+
+
+
+
+                 ISPM 9
+
+Guidelines for pest eradication programmes
+
+
+
+
+                                  Produced by the Secretariat of the
+                           International Plant Protection Convention
+                                    Adopted 1998; published 2017
+
+
+
+
+                                                       © FAO 1998
+ The designations employed and the presentation of material in this information
+product do not imply the expression of any opinion whatsoever on the part of the
+Food and Agriculture Organization of the United Nations (FAO) concerning the legal
+or development status of any country, territory, city or area or of its authorities, or
+concerning the delimitation of its frontiers or boundaries. The mention of specific
+companies or products of manufacturers, whether or not these have been patented,
+does not imply that these have been endorsed or recommended by FAO in
+preference to others of a similar nature that are not mentioned.
+
+The views expressed in this information product are those of the author(s) and do
+not necessarily reflect the views or policies of FAO.
+
+© FAO, 2017
+
+FAO encourages the use, reproduction and dissemination of material in this
+information product. Except where otherwise indicated, material may be copied,
+downloaded and printed for private study, research and teaching purposes, or for use
+in non-commercial products or services, provided that appropriate acknowledgement
+of FAO as the source and copyright holder is given and that FAO’s endorsement of
+users’ views, products or services is not implied in any way.
+
+All requests for translation and adaptation rights, and for resale and other commercial
+use rights should be made via www.fao.org/contact-us/licence-request or addressed
+to copyright@fao.org.
+
+FAO information products are available on the FAO website
+(www.fao.org/publications) and can be purchased through publications-
+sales@fao.org.
+
+When this ISPM is reproduced, it should be mentioned that current adopted versions
+of ISPMs are available for download on www.ippc.int.
+
+
+
+
+Publication history
+This is not an official part of the standard
+1995-09 TC-RPPOs added topic Eradication (1995-001).
+1996-05 CEPM-3 added Guidelines for Eradication Programmes.
+1996-12 EWG developed draft text.
+1997-10 CEPM-4 revised draft text and approved for MC.
+1998 Sent for MC.
+1998-05 CEPM-5 revised draft text for adoption.
+1998-11 ICPM-1 adopted standard.
+ISPM 9. 1998. Guidelines for pest eradication programmes. Rome, IPPC, FAO.
+2013-08 IPPC Secretariat applied ink amendments as noted by CPM-8 (2013).
+2015-06 IPPC Secretariat incorporated ink amendments and reformatted
+   standards following revoking of standards procedure from CPM-10 (2015).
+2017-04 CPM noted ink amendments to avoid the use of “trading partner”. The
+   IPPC Secretariat incorporated the ink amendments.
+Publication history last modified: 2017-04.
+ Guidelines for pest eradication programmes                                                                                                          ISPM 9
+
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................4
+
+INTRODUCTION ....................................................................................................................................4
+Scope ........................................................................................................................................................4
+References ................................................................................................................................................4
+Definitions ................................................................................................................................................4
+Outline of Requirements ..........................................................................................................................4
+
+GENERAL REQUIREMENTS ...............................................................................................................5
+1.     General Information and Planning Processes ...................................................................................5
+       1.1      Evaluation of pest reports..................................................................................................5
+       1.2      Contingency plans .............................................................................................................5
+       1.3      Reporting requirements and information sharing..............................................................5
+2.     Decision to Undertake an Eradication Programme...........................................................................5
+       2.1      Initiation ............................................................................................................................6
+       2.2      Identification .....................................................................................................................6
+       2.3      Estimating present and potential pest distribution ............................................................6
+       2.3.1    Initial investigation............................................................................................................6
+       2.3.1.1 Data gathered at the site of detection or occurrence .........................................................6
+       2.3.1.2 Geographical origin ...........................................................................................................7
+       2.3.1.3 Pathways of the pest ..........................................................................................................7
+       2.3.2    Survey for distribution ......................................................................................................7
+       2.3.3    Predicting spread ...............................................................................................................7
+       2.4      Feasibility of undertaking an eradication programme .......................................................7
+       2.4.1    Biological and economic information ...............................................................................7
+       2.4.2    Conducting cost-benefit analysis for eradication programmes .........................................8
+3.     Eradication Process...........................................................................................................................8
+       3.1      Establishment of a management team ...............................................................................8
+       3.2       Conducting the eradication programme ............................................................................9
+       3.2.1     Surveillance .......................................................................................................................9
+       3.2.2     Containment ......................................................................................................................9
+       3.2.3     Treatment and/or control measures ...................................................................................9
+       3.3       Verification of pest eradication .........................................................................................9
+       3.4       Documentation ................................................................................................................10
+       3.5       Declaration of eradication ...............................................................................................10
+4.     Programme Review ........................................................................................................................10
+
+
+
+
+International Plant Protection Convention                                                                                                        ISPM 9-3
+ ISPM 9                                                           Guidelines for pest eradication programmes
+
+
+
+Adoption
+This standard was adopted by the First Session of the Interim Commission on Phytosanitary Measures
+in November 1998.
+
+INTRODUCTION
+
+Scope
+This standard describes the components of a pest eradication programme which can lead to the
+establishment or re-establishment of pest absence in an area.
+
+References
+The present standard refers to International Standards for Phytosanitary Measures (ISPMs). ISPMs are
+available on the International Phytosanitary Portal (IPP) at https://www.ippc.int/core-
+activities/standards-setting/ispms.
+IPPC. 1997. International Plant Protection Convention. Rome, IPPC, FAO.
+
+Definitions
+Definitions of phytosanitary terms used in the present standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+Outline of Requirements
+A programme for pest eradication may be developed by a national plant protection organization (NPPO)
+as:
+-     an emergency measure to prevent establishment or spread of a pest following its recent entry (re-
+      establish a pest free area), or
+-     a measure to eliminate an established pest (establish a pest free area).
+After a preliminary investigation that includes the consideration of data collected at the site(s) of
+detection or occurrence, the extent of the infestation, information on the biology and potential economic
+impact of the pest, current technology and available resources for eradication, a cost-benefit analysis of
+the pest eradication programme should be undertaken. Whenever possible, it is also useful to gather
+information concerning the geographical origin of the pest, and pathways for its reintroduction. Pest risk
+analysis (PRA) provides a scientific basis for informed decision-making (see ISPM 2 (Framework for
+pest risk analysis)). From these studies, one or more options should be made available to decision-
+makers. However, in an emergency situation, the benefits of speed of action in preventing spread may
+outweigh the benefits normally achieved through a more structured approach.
+The eradication process involves three main activities: surveillance, containment, and treatment and/or
+control measures.
+When an eradication programme is completed, the absence of the pest must be verified. The verification
+procedure should use criteria established at the beginning of the programme and should be supported by
+adequate documentation of programme activities and results. The verification stage is integral to the
+programme, and should involve independent analysis if NPPOs of importing countries require this
+reassurance. Successful programmes result in a declaration of eradication by the NPPO. When
+unsuccessful, all aspects of the programme should be reviewed, including the biology of the pest to
+determine if new information is available, and the cost-benefit of the programme.
+
+
+
+
+ISPM 9-4                                                        International Plant Protection Convention
+ Guidelines for pest eradication programmes                                                             ISPM 9
+
+
+
+GENERAL REQUIREMENTS
+This standard provides guidance on the development of a pest eradication programme and for reviewing
+the procedures of an existing eradication programme. In most instances, the pests considered for these
+programmes have newly entered the area where eradication is undertaken, and emergency eradication
+measures may be needed. However, eradication programmes may also be directed toward established
+pests or indigenous pests in defined areas.
+
+1.    General Information and Planning Processes
+1.1   Evaluation of pest reports
+NPPOs should systematically evaluate pest reports and the impact of these pests to determine if
+eradication is required. This evaluation will involve reporting to an official contact point and assessment
+by experts capable of considering the importance of the pest report and of recommending a course of
+action.
+
+1.2   Contingency plans
+It is desirable to have contingency plans to address specific pests or pest groups that have a high potential
+for introduction, and for which an eradication plan is deemed to be both feasible and necessary, before
+the pest is found in an area. The development of such plans is advantageous because it provides
+additional time for deliberation, evaluation and research necessary to ensure that an eradication
+programme is well designed and can be executed quickly and effectively. Such plans are particularly
+important where cooperative programmes are anticipated, as they allow for the actions of cooperating
+parties to be specified and agreed upon prior to implementing the programme. Knowledge gained from
+previous successful eradication programmes can be extremely useful for developing contingency plans
+or judging the feasibility of eradication programmes under consideration. A general contingency plan is
+also particularly useful for ensuring rapid action in the case of emergency eradication measures.
+It should be recognized that the biology of pests varies considerably as do the technologies available for
+eradication. Therefore, not all the factors listed in this standard for consideration will be of value in
+planning every eradication programme.
+
+1.3   Reporting requirements and information sharing
+Verification of the occurrence of a new pest of immediate or potential danger initiates the process that
+leads to reporting requirements for the NPPO under the International Plant Protection Convention (see
+Article VII.2(j) and Article VIII.1(a) and VIII.1(c)) and is described in ISPM 8 (Determination of pest
+status in an area).
+Prior to the implementation of a pest eradication programme, public information programmes or other
+means for sharing information with broader audiences such as growers, residents, and local
+governments, should be considered for raising the level of awareness and understanding of the
+programme.
+
+2.    Decision to Undertake an Eradication Programme
+The decision to undertake an eradication programme results from an evaluation of the circumstances of
+detection of a pest, its identification, the risk identified by a pest-initiated PRA, estimation of the present
+and potential distribution of the pest, and assessment of the feasibility of conducting an eradication
+programme. It is normally good practice to give due consideration to all the elements recommended.
+However, this approach may be limited in practice by the availability of data and resources. Particularly
+in cases where emergency eradication measures seem necessary (e.g. recent entry of a pest capable of
+rapid spread), the need to take action rapidly should be carefully balanced and may outweigh the benefits
+of more detailed analyses and planning.
+
+
+
+
+International Plant Protection Convention                                                            ISPM 9-5
+ ISPM 9                                                           Guidelines for pest eradication programmes
+
+
+
+2.1   Initiation
+The eradication programme may be initiated by detection of a pest new to an area arising from general
+surveillance or specific surveys (see ISPM 6 (Guidelines for surveillance)). In the case of established
+pests, the eradication programme will be initiated by policy considerations (e.g. a decision taken to
+establish a pest free area).
+
+2.2   Identification
+Accurate identification of the pest is essential so that the appropriate means of eradication can be
+selected. NPPOs should proceed with the identification process recognizing that it may have to
+withstand scientific or legal challenge. Therefore, it may be appropriate to have the identification
+confirmed by acknowledged independent experts.
+Identification may be immediate when the pest is easily and confidently recognized by the NPPO.
+Identification methods may range from recognition based only on morphological characteristics to more
+sophisticated bioassay, chemical or genetic analyses. The method ultimately adopted by the NPPO will
+depend on the organism in question and the most widely accepted and practical means to confirm
+identification.
+In cases where a conclusive identification is not immediately possible, the actions to be taken may be
+justified by other factors such as the extent of damage to host plants. In these circumstances it is
+important to conserve specimens for possible future analysis.
+
+2.3   Estimating present and potential pest distribution
+An estimate of the present distribution of the pest is necessary for both pests new to an area and
+established pests. The potential distribution is usually of greater importance for new pests, but may have
+relevance as well in evaluating established pests. The data elements identified for initial investigation
+include a level of detail not necessarily required for a programme directed toward established pests.
+
+2.3.1 Initial investigation
+Data associated with the detection of a pest new to an area, the geographical origin of the pest, and the
+pathway, should be compiled and reviewed. This information is not only useful for decision-making
+related to eradication, but is also helpful for identifying and correcting weaknesses of phytosanitary
+measures that may have contributed to the entry of the pest.
+
+2.3.1.1 Data gathered at the site of detection or occurrence
+Information should be gathered concerning the pest and conditions at the site of detection or occurrence,
+including:
+-     geographical location
+-     hosts infested at the site
+-     extent and impact of damage and level of pest incidence
+-     how the pest was detected and identified
+-     recent imports of plants or plant products
+-     history of the pest at the place of production or in the area
+-     movement of people, products, equipment, conveyances
+-     mechanism of spread within the area
+-     climatic and soil conditions
+-     condition of infested plants
+-     cultivation practices.
+
+
+
+ISPM 9-6                                                        International Plant Protection Convention
+ Guidelines for pest eradication programmes                                                         ISPM 9
+
+
+
+2.3.1.2 Geographical origin
+To the extent possible, information should be obtained on the country or area most likely to be the origin
+of the pest. Information concerning countries of re-export or transit may also be considered when
+attempting to determine the source and pathway.
+
+2.3.1.3 Pathways of the pest
+To the extent possible, the NPPO should determine the pathways by which the pest may have entered
+or spread, to ensure that eradication programmes are not jeopardized by new pest entries, and to help
+identify potential exclusion options. Pathway information includes identifying the commodities or items
+that may have carried the pest as well as the possible mode of movement. Where there is a possible
+association with newly imported plants or plant products, similar material should be located and
+examined.
+
+2.3.2 Survey for distribution
+The preliminary processes should provide sufficient information to determine if a survey is required.
+Surveys may be of various types:
+-    delimiting survey
+-    survey based on pathway studies
+-    other targeted surveys.
+These surveys should be designed and executed to provide the level of statistical confidence necessary
+for the results to be meaningful for regulatory purposes.
+In cases where survey data are to provide the basis for establishing a pest free area for export purposes,
+it may be desirable to consult NPPOs of importing countries in advance to determine the quantity and
+quality of data necessary to meet their phytosanitary import requirements.
+
+2.3.3 Predicting spread
+Data collected during a preliminary investigation should be used to estimate the potential for spread and
+the anticipated rate of spread, and to identify endangered areas.
+
+2.4   Feasibility of undertaking an eradication programme
+An estimate of the impact of the pest, the extent of the infested area, the potential for spread, and the
+anticipated rate of spread is necessary to judge the feasibility of an eradication programme. PRA
+provides a scientific basis for this estimate (see ISPM 2 and ISPM 11 (Pest risk analysis for quarantine
+pests)). Possible eradication options and cost-benefit factors should also be considered.
+
+2.4.1 Biological and economic information
+Information needs to be obtained on:
+-     pest biology
+-     potential hosts
+-     potential spread and anticipated rate of spread
+-     possible eradication strategies:
+      ⋅      financial and resource costs
+      ⋅      availability of the technology
+      ⋅      logistical and operational limitations
+-     impact on industry and the environment:
+      ⋅      without eradication
+      ⋅      with each eradication option identified.
+
+International Plant Protection Convention                                                        ISPM 9-7
+ ISPM 9                                                             Guidelines for pest eradication programmes
+
+
+
+2.4.2 Conducting cost-benefit analysis for eradication programmes
+One of the first actions to be taken is the preparation of a list of the most feasible eradication techniques.
+The total cost and the cost-benefit ratio for each strategy should be estimated over the short and long
+term. The option to take no action, or to take a pest management approach, should be considered as well
+as eradication options.
+All feasible options should be described or discussed with decision-makers. Anticipated advantages and
+disadvantages, including cost-benefit should be outlined to the extent possible. One or more options
+should be recommended, recognizing that the ultimate decision requires consideration of the technical
+options, cost-benefit, the availability of resources, and political and socio-economic factors.
+
+3.    Eradication Process
+The eradication process involves the establishment of a management team followed by the conduct of
+the eradication programme, which should, where possible, follow an established plan. Three main
+activities are included in the programme:
+-      surveillance: to fully investigate the distribution of the pest
+-      containment: to prevent the spread of the pest
+-      treatment: to eradicate the pest when it is found.
+Direction and coordination should be provided by an official management authority, ensuring that
+criteria are established to determine when eradication has been achieved and that appropriate
+documentation and process controls exist to provide sufficient confidence in the results. It may be
+necessary to consult with NPPOs of importing countries over some aspects of the eradication process.
+
+3.1   Establishment of a management team
+A management team should be established to provide direction and coordination to eradication activities
+once it has been decided to undertake an eradication programme. The size of the management team may
+vary depending on the scope of the programme and the resources available to the NPPO. Large
+programmes may require a steering committee or an advisory group including the various interest groups
+that may be affected. Where a programme includes several countries, a regional steering committee
+should be considered.
+The management team should have responsibility for:
+-    ensuring that the eradication programme meets the agreed criteria for successful eradication
+-    formulating, implementing, and modifying as necessary an eradication plan
+-    ensuring programme operators have appropriate authority and training to undertake their duties
+-    financial and resource management
+-    appointing and defining duties of operators, ensuring operators understand their responsibilities,
+     and documenting their activities
+-    managing communication, including a public relations programme
+-    communicating with affected parties, e.g. growers, traders, other government departments and
+     non-governmental organizations
+-    implementing an information management system, including programme documentation and
+     appropriate record-keeping
+-    daily management of the programme
+-    continuous monitoring and evaluation of critical elements
+-    periodic overall programme review.
+
+
+
+
+ISPM 9-8                                                          International Plant Protection Convention
+ Guidelines for pest eradication programmes                                                         ISPM 9
+
+
+
+3.2   Conducting the eradication programme
+3.2.1 Surveillance
+A delimiting survey should be completed either initially or to confirm earlier surveys. Monitoring
+surveys should then continue in accordance with the eradication plan to check the distribution of the
+pest and assess the effectiveness of the eradication programme (see ISPM 6). Surveillance may include
+a pathway analysis to identify the source of the pest and its possible spread, the inspection of clonally
+or contact-linked material, inspection, trapping, and aerial observation. This may also include targeted
+inquiries to growers, those responsible for storage and handling facilities, and the public.
+
+3.2.2 Containment
+The NPPO should define a quarantine area using surveillance information. The initial investigations will
+provide information that is used to identify plants, plant products, or other articles whose movement out
+of the quarantine area needs to be regulated to prevent the spread of the pest. Owners of affected plants,
+plant products and other regulated articles should be notified of the regulations. Others interested or
+affected by regulations should also be provided with adequate information. It may be appropriate to
+verify compliance using methods described in the eradication plan.
+Arrangements should be made for the release of plants, plant products or other regulated articles from
+the quarantine area, by clearance following verification of compliance with phytosanitary measures such
+as inspection, treatment or destruction. Provision should be made for the withdrawal of regulations when
+an eradication programme has been declared to be successful.
+
+3.2.3 Treatment and/or control measures
+Measures to eradicate pests may include:
+-    host destruction
+-    disinfestation of equipment and facilities
+-    chemical or biopesticide treatment
+-    soil sterilants
+-    leaving land fallow
+-    host-free periods
+-    the use of cultivars that suppress or eliminate pest populations
+-    restriction of subsequent cropping
+-    trapping, lures or other physical control methods
+-    inundative release of biological control agents
+-    use of sterile insect technique
+-    processing or consumption of infested crop.
+In most cases, eradication will involve the use of more than one treatment option. The selection of
+treatment and/or control options may be limited by legislative restrictions or other factors. In such
+situations, exceptions for emergency or limited use may be available to the NPPO.
+
+3.3   Verification of pest eradication
+The official management authority should verify that the criteria for successful pest eradication
+established at the beginning of the programme have been achieved. The criteria may specify the intensity
+of the detection method and how long the survey must continue to verify the absence of the pest. The
+minimum period of time of pest freedom to verify eradication will vary according to the biology of the
+pest, but should take into consideration factors such as:
+-      sensitivity of detection technology
+-      ease of detection
+
+
+International Plant Protection Convention                                                        ISPM 9-9
+ ISPM 9                                                          Guidelines for pest eradication programmes
+
+
+
+-     life cycle of the pest
+-     climatic effects
+-     efficacy of treatment.
+The eradication plan should specify the criteria for a declaration of eradication and steps for the
+withdrawal of regulations.
+
+3.4   Documentation
+NPPOs should ensure that records are kept of information supporting all stages of the eradication
+process. It is essential that NPPOs maintain such documentation in case NPPOs of importing countries
+request information to support claims of pest freedom.
+
+3.5   Declaration of eradication
+A declaration of eradication by the NPPO follows the completion of a successful eradication
+programme. The status of the pest in the area is then “absent: pest eradicated” (see ISPM 8). It involves
+communication with affected and interested parties, as well as appropriate authorities concerning the
+fulfilment of programme objectives. Programme documentation and other relevant evidence supporting
+the declaration should be made available to other NPPOs upon request.
+
+4.    Programme Review
+Throughout the eradication, the programme should be subject to periodic review to analyse and assess
+information gathered, to check that objectives are being achieved, or to determine if changes are
+required. Reviews should take place at:
+-     any time when unforeseen circumstances are encountered that could affect the programme
+-     pre-set intervals
+-     the termination of the programme.
+Where the criteria for eradication are not met, the eradication plan should be reviewed. This review
+should take into account any newly gained knowledge that might have contributed to that result. Cost-
+benefit factors and operational details should be reviewed to identify inconsistencies with initial
+predictions. Depending on the outcome, a new eradication plan may be developed or altered to become
+a pest suppression or pest management programme.
+
+
+
+
+ISPM 9-10                                                      International Plant Protection Convention
+ This page is intentionally left blank
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+cultivated and wild plants by preventing the introduction and
+spread of pests. International travel and trade are greater than
+ever before. As people and commodities move around the
+world, organisms that present risks to plants travel with them.
+
+Organization
+RR There are over 180 contracting parties to the IPPC.
+
+RR Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+RR Nine regional plant protection organizations (RPPOs) work
+
+   to facilitate the implementation of the IPPC in countries.
+RR IPPC liaises with relevant international organizations to
+
+   help build regional and national capacities.
+RR The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+Food and Agriculture Organization of the United Nations
+IPPC Secretariat
+Viale delle Terme di Caracalla, 00153 Rome, Italy
+Tel: +39 06 5705 4812
+Email: ippc@fao.org | Web: www.ippc.int
+

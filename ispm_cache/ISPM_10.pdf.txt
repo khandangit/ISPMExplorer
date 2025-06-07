@@ -1,0 +1,479 @@
+                                                                                                                    ISPM 10
+INTERNATIONAL STANDARD FOR PHYTOSANITARY MEASURES 10
+
+
+
+
+                                                                                                                     ENG
+
+
+
+
+                                                             Requirements for the
+                                                       establishment of pest free
+                                                         places of production and
+                                                        pest free production sites
+
+
+
+
+                                                                               Produced by the Secretariat of the
+                                                                International Plant Protection Convention (IPPC)
+ This page is intentionally left blank
+                    INTERNATIONAL STANDARDS FOR
+                       PHYTOSANITARY MEASURES
+
+
+
+
+              ISPM 10
+
+Requirements for the establishment of
+ pest free places of production and
+      pest free production sites
+
+
+
+
+                               Produced by the Secretariat of the
+                        International Plant Protection Convention
+                                 Adopted 1999; published 2016
+
+
+
+
+                                                    © FAO 1999
+ FAO encourages the use, reproduction and dissemination of material in this
+information product. Except where otherwise indicated, material may be copied,
+downloaded and printed for private study, research and teaching purposes, or for
+use in non-commercial products or services, provided that appropriate
+acknowledgement of FAO as the source and copyright holder is given and that
+FAO’s endorsement of users’ views, products or services is not implied in any
+way.
+When this ISPM is reproduced, it should be mentioned that current adopted
+versions of ISPMs are available for download on www.ippc.int.
+All requests for translation and adaptation rights, and for resale and other
+commercial use rights should be made via www.fao.org/contact-us/licence-
+request or addressed to copyright@fao.org.
+FAO    information    products are             available on    the   FAO   website
+(www.fao.org/publications) and can             be purchased   through publications-
+sales@fao.org.
+The designations The designations employed and the presentation of material in
+this information product do not imply the expression of any opinion whatsoever on
+the part of the Food and Agriculture Organization of the United Nations (FAO)
+concerning the legal or development status of any country, territory, city or area or
+of its authorities, or concerning the delimitation of its frontiers or boundaries. The
+mention of specific companies or products of manufacturers, whether or not these
+have been patented, does not imply that these have been endorsed or
+recommended by FAO in preference to others of a similar nature that are not
+mentioned. The views expressed in this information product are those of the
+author(s) and do not necessarily reflect the views or policies of FAO.
+
+
+
+
+Publication history
+This is not an official part of the standard
+1995-10 EWG developed draft text
+1996-05 CEPM-3 added topic Pest free production sites and reviewed draft text
+   (1996-001)
+1997-10 CEPM-4 revised draft text and approved for MC
+1998 Sent for MC
+1999-05 CEPM-6 revised draft text for adoption
+1999-10 ICPM-2 adopted standard
+ISPM 10. 1999. Requirements for the establishment of pest free places of
+   production and pest free production sites. Rome, IPPC, FAO.
+
+
+2010-07 IPPC Secretariat applied ink amendments as noted by CPM-5 (2010).
+2015-06 IPPC Secretariat incorporated ink amendments and reformatted
+   standards following revoking of standards procedure from CPM-10 (2015).
+Publication history last modified: 2015-12.
+ Requirements for the establishment of pest free places of production and pest free production sites                                               ISPM 10
+
+
+
+CONTENTS
+
+Adoption ...................................................................................................................................................4
+
+INTRODUCTION ....................................................................................................................................4
+Scope ........................................................................................................................................................4
+References ................................................................................................................................................4
+Definitions ................................................................................................................................................4
+Outline of Requirements ..........................................................................................................................4
+1.     Concept of a pest free place of production or pest free production site ...........................................5
+       1.1      Application of a Pest Free Place of Production and Pest Free Production Site ................5
+       1.2      Distinction between a Pest Free Place of Production or a Pest Free Production Site
+                and a Pest Free Area ..........................................................................................................5
+2.     General requirements ........................................................................................................................6
+       2.1      Critical Factors for Pest Free Places of Production or Pest Free Production Sites ...........6
+       2.1.1    Characteristics of the pest .................................................................................................6
+       2.1.2    Characteristics of the place of production or production site ............................................6
+       2.1.3    Operational capabilities of the producer ...........................................................................7
+       2.1.4    Requirements and responsibilities of the NPPO ...............................................................7
+       2.2      Establishment and Maintenance of Pest Free Places of Production or Pest Free
+                Production Sites ................................................................................................................7
+       2.2.1    Systems to establish pest freedom.....................................................................................7
+       2.2.2    Systems to maintain pest freedom .....................................................................................7
+       2.2.3    Verification of establishment and maintenance of pest freedom ......................................8
+       2.2.4    Product identity and phytosanitary security of the consignment.......................................8
+       2.3      Buffer Zone Requirements ................................................................................................8
+3.     Documentation and review .............................................................................................................9
+       3.1    General Records ................................................................................................................9
+       3.2    Additional Declaration on Phytosanitary Certificates .......................................................9
+       3.3    Provision of Information ...................................................................................................9
+
+
+
+
+International Plant Protection Convention                                                                                                       ISPM 10-3
+ ISPM 10       Requirements for the establishment of pest free places of production and pest free production sites
+
+
+
+
+Adoption
+This standard was adopted by the Second Session of the Interim Commission on Phytosanitary
+Measures in October 1999.
+
+
+INTRODUCTION
+
+Scope
+This standard describes the requirements for the establishment and use of pest free places of
+production and pest free production sites as pest risk management options for meeting phytosanitary
+import requirements for plants, plant products and other regulated articles.
+
+
+References
+The present standard refers to International Standards for Phytosanitary Measures (ISPMs). ISPMs are
+available on the International Phytosanitary Portal (IPP) at https://www.ippc.int/core-
+activities/standards-setting/ispms.
+IPPC. 1997. International Plant Protection Convention. Rome, IPPC, FAO.
+
+Definitions
+Definitions of phytosanitary terms used in the present standard can be found in ISPM 5 (Glossary of
+phytosanitary terms).
+
+
+Outline of Requirements
+This standard uses the concept of “pest freedom” to allow exporting countries to provide assurance to
+importing countries that plants, plant products and other regulated articles are free from a specific pest
+or pests and meet the phytosanitary import requirements when imported from a pest free place of
+production. In circumstances where a defined portion of a place of production is managed as a
+separate unit and can be maintained free from a specific pest or pests, it may be regarded as a pest free
+production site. The use of pest free places of production or pest free production sites is dependent on
+the use of criteria concerning the biology of the pest, the characteristics of the place of production, the
+operational capabilities of the producer, and the requirements and responsibilities of the national plant
+protection organization (NPPO).
+Requirements for the establishment and maintenance of a pest free place of production or a pest free
+production site as a phytosanitary measure by the NPPO, include:
+-     systems to establish pest freedom
+-     systems to maintain pest freedom
+-     verification that pest freedom has been attained or maintained
+-     product identity and phytosanitary security of the consignment.
+Where necessary, a pest free place of production or a pest free production site also includes the
+establishment and maintenance of an appropriate buffer zone.
+Administrative activities required to support a pest free place of production or pest free production site
+involve documentation of the system and the maintenance of adequate records concerning the
+measures taken. Review and audit procedures undertaken by the NPPO are essential to support
+assurance of pest freedom and for system appraisal. Bilateral agreements or arrangements may also be
+needed.
+
+ISPM 1-4                                                             International Plant Protection Convention
+ Requirements for the establishment of pest free places of production and pest free production sites    ISPM 10
+
+
+
+
+1.     Concept of a pest free place of production or pest free production site
+
+1.1    Application of a Pest Free Place of Production and Pest Free Production Site
+A “pest free place of production” is a: “place of production in which a specific pest does not occur as
+demonstrated by scientific evidence and in which, where appropriate, this condition is being officially
+maintained for a defined period”. It provides a means for an exporting country, if so required by an
+importing country, to ensure that consignments of plants, plant products or other regulated articles
+produced on, and/or moved from, the place of production are free from the pest concerned, because it
+has been shown to be absent from that place over a relevant period of time. Pest freedom is established
+by surveys and/or growing-season inspections and maintained as necessary by other systems to
+prevent the entry of the pest into the place of production. The operations are supported by appropriate
+documentation.
+Depending on the pest concerned, local circumstances and the acceptable level of risk for the
+importing country, an adequate level of security may be achieved by different intensities of measures,
+ranging from a simple growing-season inspection in the year of export to a complex system of surveys
+and supporting procedures maintained over several years.
+The concept of a pest free place of production can be applied to any premises or collection of fields
+operated as a single production unit. The producer applies the required measures to the entire place of
+production.
+Where a defined portion of a place of production can be managed as a separate unit within a place of
+production, it may be possible to maintain that site pest free. In such circumstances, the place of
+production is considered to contain a pest free production site.
+Where the biology of the pest is such that it is likely to enter the place of production or production site
+from adjacent areas, it is necessary to define a buffer zone around the place of production or
+production site within which appropriate phytosanitary measures are applied. The extent of the buffer
+zone and the nature of the phytosanitary measures will depend on the biology of the pest and the
+intrinsic characteristics of the place of production or production site.
+
+1.2    Distinction between a Pest Free Place of Production or a Pest Free Production Site
+       and a Pest Free Area
+The concept of the pest free place of production is distinct from that of the pest free area (see ISPM 4
+(Requirements for the establishment of pest free areas)). The pest free area has the same objective as
+the pest free place of production but is implemented in a different way. Every distinction between a
+pest free place of production and a pest free area applies equally to a pest free production site.
+A pest free area is much larger than a place of production, includes many places of production and
+may extend to a whole country or parts of several countries. A pest free area may be isolated by a
+natural barrier or an appropriate usually large buffer zone. A pest free place of production may be
+situated in an area where the pest concerned is prevalent and is isolated, if at all, by creating a buffer
+zone in its immediate vicinity. A pest free area is generally maintained over many years without
+interruption, whereas the status of a pest free place of production may be maintained for only one or a
+few growing seasons. A pest free area is managed as a whole, by the NPPO of the exporting country.
+A pest free place of production is managed individually by the producer, under the supervision and
+responsibility of the NPPO. If the pest is found in a pest free area, the status of the whole area is called
+into question. If it is found in a pest free place of production, that place loses its status but other places
+of production in the area operating the same system are not directly affected. These distinctions may
+not always apply in particular cases. A place of production lying in a pest free area may satisfy, by that
+fact, the requirements for a pest free place of production, although the importing country may require
+verification.
+
+
+International Plant Protection Convention                                                             ISPM 10-5
+ ISPM 10       Requirements for the establishment of pest free places of production and pest free production sites
+
+
+
+The choice of a pest free place of production or pest free area as a management option will depend on
+the actual distribution of the pest concerned in the exporting country, on the characteristics of the pest
+and on administrative considerations. Both systems can offer the required assurance of pest freedom:
+the pest free area mainly assures this by the common application of measures to an area covering
+many places of production; the pest free place of production mainly assures this by the fact that
+management procedures, surveys and inspections are applied specifically and intensively to it.
+
+
+2.    General requirements
+
+2.1   Critical Factors for Pest Free Places of Production or Pest Free Production Sites
+The possibility of ensuring that a place of production or a production site is pest free depends on:
+-     characteristics of the pest
+-     characteristics of the place of production and production site
+-     operational capabilities of the producer
+-     requirements and responsibilities of the NPPO.
+
+2.1.1 Characteristics of the pest
+A place of production or a production site can be declared free from a given pest with the required
+assurance of pest freedom if the characteristics of the pest are suitable for this. Suitable characteristics
+may include the following:
+-     the natural spread of the pest (or its vectors, if appropriate) is slow and over short distances
+-     the possibilities for artificial spread of the pest are limited
+-     the pest has a limited host range
+-     the pest has a relatively low probability of survival from previous seasons
+-     the pest has a moderate or low rate of reproduction
+-     sufficiently sensitive methods for detection of the pest are available, either by visual inspection
+      or by tests applied in the field or in the laboratory, at the appropriate season
+-     as far as possible, factors in the biology of the pest (e.g. latency) and in the management of the
+      place of production do not interfere with detection.
+The availability of effective and practical measures for control and management of the pest is also an
+advantage in establishing and maintaining a pest free place of production or pest free production site.
+
+2.1.2 Characteristics of the place of production or production site
+The basic definition of a “place of production” should be satisfied (i.e. operated as a single production
+or farming unit). Depending on the pest concerned and local circumstances, a place of production and
+production site as well as the buffer zone, as appropriate, may also require some of the following
+additional characteristics:
+-      location at a sufficient distance from possible sources of pest infestation, with appropriate
+       isolation (advantage being taken of physical features that can act as barriers to pest movement)
+-      clear delimitation, with officially recognized boundaries
+-      access to the buffer zone (if appropriate)
+-      absence, in the place of production or production site of hosts of the pest other than those
+       meeting the conditions for export
+-      absence in the buffer zone (if appropriate) of hosts of the pest or adequate control of the pest on
+       these hosts.
+
+
+
+ISPM 10-6                                                           International Plant Protection Convention
+ Requirements for the establishment of pest free places of production and pest free production sites    ISPM 10
+
+
+
+2.1.3 Operational capabilities of the producer
+The producer should have defined management, technical and operational capabilities which are
+considered by the NPPO to be adequate to prevent the pest from entering the place of production or
+production site, and to maintain pest freedom by the application of appropriate phytosanitary
+measures. The producer or NPPO should also have the ability to apply appropriate phytosanitary
+measures in the buffer zone if necessary.
+
+2.1.4 Requirements and responsibilities of the NPPO
+The NPPO should define the particular requirements which a producer must meet in order that its
+declaration of a pest free place of production or pest free production site gives the required assurance
+of pest freedom. The NPPO is responsible for the surveys, inspections and other systems that verify
+pest freedom. For any given pest and host, the management systems required are generally widely
+known and can be used in any country. Where appropriate, the NPPO may provide training in these
+management systems. The NPPO should check the phytosanitary import requirements and/or
+bilaterally establish conditions to ensure that compliance can be achieved.
+
+2.2    Establishment and Maintenance of Pest Free Places of Production or Pest Free
+       Production Sites
+There are four main components the NPPO should consider in establishing and maintaining pest free
+places of production or pest free production sites. These are:
+-     systems to establish pest freedom
+-     systems to maintain pest freedom
+-     verification that pest freedom has been attained or maintained
+-     product identity and phytosanitary security of the consignment.
+
+2.2.1 Systems to establish pest freedom
+The NPPO should normally specify a set of conditions to be met by the producer, enabling the place of
+production or production site to be subsequently declared pest free. These requirements will concern
+the characteristics of the place of production or production site (and the buffer zone, if appropriate)
+and the operational capabilities of the producer. Formal agreements may be required between the
+producers (or their organizations) and the NPPO to ensure that specific measures are taken.
+In some cases, the NPPO may require that pest freedom should be verified by official surveys for one
+or more years before the year in which consignments are certified for export. The methods used to
+verify freedom in this way may be the same as, or different from, those used for verifying freedom in
+the year of export (see section 2.2.3). In other cases, the NPPO may only require that pest freedom be
+verified in the year of production. In any case, the objective of the NPPO and the producers will
+generally be to maintain the pest free status of a place of production or production site continuously
+over a period of years. Specific provisions should be made for the withdrawal of pest free status if the
+pest is detected in the pest free place of production or pest free production site or a buffer zone meant
+to be pest free, and for the eventual re-establishment and verification of pest free status, including
+investigation into the cause and consideration of the measures to prevent future failure.
+In the case where pest free production sites are established, delimiting surveys may be used to
+determine their extent.
+
+2.2.2 Systems to maintain pest freedom
+The NPPO should generally require that specific measures be applied to the place of production or
+production site (and buffer zone, if appropriate) before and/or during the growing season, and is
+responsible for general supervision of the place of production or production site to ensure that these
+
+International Plant Protection Convention                                                             ISPM 10-7
+ ISPM 10      Requirements for the establishment of pest free places of production and pest free production sites
+
+
+
+requirements are met. Their aim is to prevent the entry of the pest into the place of production or
+production site, or to destroy previously undetected occurrences. These measures may include:
+-     preventive measures (e.g. pest free propagating material, elimination of other hosts)
+-     exclusion measures (e.g. physical barriers, screens, controls on equipment, machinery, plants,
+      soil and growing media)
+-     pest control measures (e.g. cultural methods, treatments, and resistant cultivars).
+The producer should be required to:
+-     notify the NPPO of any suspected or actual occurrences of the pest
+-     maintain relevant records of cultural and pest control procedures for the time period designated
+      by the NPPO.
+
+2.2.3 Verification of establishment and maintenance of pest freedom
+The verification of pest free status is done by NPPO personnel or by persons duly authorized by the
+NPPO, who undertake the specific surveys to assess the pest free status of the place of production or
+production site (and the buffer zone, if required). These most often take the form of growing-season
+inspections, but may also include other detection methods (sampling followed by laboratory testing,
+trapping, soil tests, etc.).
+Pest free status may be verified by a stated number or frequency of inspections or tests (e.g. three
+inspections at monthly intervals). The inspections or other procedures may concern a single growing
+season, or may be required over several seasons. Inspection or testing of the harvested commodity
+may be required at the place of production or production site. Pest freedom over a number of years
+may also be required and the growing of host plants on the site in previous years may be prohibited.
+Verification procedures should be based on a design, which should relate to the division of the place of
+production into individual plots, and may, according to the pest and its symptoms, be conducted by
+overall estimation or by taking samples. The incidence of the pest in the area surrounding the pest free
+place of production or pest free production site may influence the intensity of the survey required.
+
+2.2.4 Product identity and phytosanitary security of the consignment
+Verification measures may be needed to maintain the identity of the product (labelling to ensure
+traceability to the pest free place of production) and the integrity of the consignment. The pest
+freedom of the product should be maintained after harvest.
+
+2.3   Buffer Zone Requirements
+In appropriate cases, the establishment and maintenance of a pest free place of production or pest free
+production site include procedures related to the buffer zone associated with the place of production or
+production site.
+The extent of the buffer zone should be determined by the NPPO, on the basis of the distance over
+which the pest is likely to spread naturally during the course of the growing season. Monitoring
+surveys should be conducted at adequate frequency over one or more growing seasons. The action to
+be taken, if the pest is detected in the buffer zone, will depend on the requirements of the NPPO. The
+pest free status of the place of production or production site may be withdrawn or appropriate control
+measures may be required in the buffer zone. In any case, access for surveys or control measures
+should be verified in advance. If appropriate, adequate procedures may be established to support the
+assurance that pest freedom is maintained (local reporting/notification and publicity, local regulation,
+control/elimination of detected pests).
+
+
+
+
+ISPM 10-8                                                          International Plant Protection Convention
+ Requirements for the establishment of pest free places of production and pest free production sites    ISPM 10
+
+
+
+3.     Documentation and review
+The measures taken in establishing and maintaining a pest free place of production or pest free
+production site, including those taken in the buffer zone, if appropriate, should be adequately
+documented and periodically reviewed. The NPPO should institute procedures for on-site audit,
+review and systems' appraisal.
+
+3.1    General Records
+Documentation should be available, as appropriate, on the administrative system applied by the NPPO
+for the establishment of pest free places of production or pest free production sites in general, and in
+relation to the particular pest(s) concerned. This includes details of the surveillance systems used
+(including inspection, survey and monitoring), of the procedures for reaction to pest presence
+(corrective action plans), and of the procedures to ensure product identity and phytosanitary security
+of the consignment.
+Documentation should also be available, as appropriate, on the specific actions taken at a place of
+production or a production site and any associated buffer zone in relation to the approval of pest free
+status for a particular growing season, including the results of surveys and the pest management
+records (e.g. types and dates of treatments, use of resistant cultivars).
+The procedures for withdrawal and reinstatement of pest free status should be documented.
+When complex measures are needed to establish and maintain a pest free place of production or pest
+free production site, because a high assurance of pest freedom is required, an operational plan may be
+needed. Where appropriate, such a plan would be based on bilateral agreements or arrangements
+listing specific details required in the operation of the system including the role and responsibilities of
+the producer and trader(s) involved.
+
+3.2    Additional Declaration on Phytosanitary Certificates
+The issuance of a phytosanitary certificate for a consignment by the NPPO confirms that the
+requirements for a pest free place of production or a pest free production site have been fulfilled. The
+importing country may require an appropriate additional declaration on the phytosanitary certificate to
+this effect.
+
+3.3    Provision of Information
+The NPPO of the exporting country should, on request, make available to the NPPO of the importing
+country the rationale for establishment and maintenance of pest free places of production or pest free
+production sites. Where bilateral arrangements or agreements so provide, the NPPO of the exporting
+country should expeditiously provide information concerning establishment or withdrawal of pest free
+places of production or pest free production sites to the NPPO of the importing country.
+
+
+
+
+International Plant Protection Convention                                                             ISPM 10-9
+ IPPC
+The International Plant Protection Convention (IPPC) is an
+international plant health agreement that aims to protect
+cultivated and wild plants by preventing the introduction and
+spread of pests. International travel and trade are greater than
+ever before. As people and commodities move around the
+world, organisms that present risks to plants travel with them.
+
+Organization
+++ There are over 180 contracting parties to the IPPC.
+
+++ Each contracting party has a national plant protection
+
+   organization (NPPO) and an Official IPPC contact point.
+++ Nine regional plant protection organizations (RPPOs) work
+
+   to facilitate the implementation of the IPPC in countries.
+++ IPPC liaises with relevant international organizations to
+
+   help build regional and national capacities.
+++ The Secretariat is provided by the Food and Agriculture
+
+   Organization of the United Nations (FAO).
+
+
+
+
+International Plant Protection Convention (IPPC)
+Viale delle Terme di Caracalla, 00153 Rome, Italy
+Tel: +39 06 5705 4812 - Fax: +39 06 5705 4819
+Email: ippc@fao.org - Web: www.ippc.int
+
